@@ -1,0 +1,1926 @@
+TY  - CONF
+AU  - Reniers, M.A.
+AU  - Mortel-Fronczak, J.M.V.D.
+TI  - An Engineering Perspective on Model-Based Design of Supervisors
+PY  - 2018
+VL  - 51
+IS  - 7
+SP  - 257
+EP  - 264
+DO  - 10.1016/j.ifacol.2018.06.310
+UR  - https://www.scopus.com/pages/publications/85050076025?origin=resultslist
+AB  - Several tools exist providing support for model-based design of supervisors in high-tech and cyber-physical systems. On the one hand, specifically tools based on finite automata are of interest as they allow to synthesize correct supervisors from which implementations can be generated. To cope with synthesis complexity, various decentralized synthesis techniques have been proposed. In recent years, extensions were defined to deal with automata and requirements in which variables may be used. On the other hand, as the synthesis result depends on the validity of the models used as its input, other model-based techniques such as simulation, testing, and verification provide complementary support in the design process. This is especially meaningful when dealing with synthesis of supervisors for large systems. In this paper, the design process is discussed with a focus on modeling, simulation, and synthesis. Additionally, the functionalities of the available synthesis tools are presented in relation to this process. To explain models relevant in this context, a container terminal scale system is used as a case study. This system consists of 35 components (mostly sensors and actuators) and 35 requirements. The design process is evaluated and missing functionality is identified. © 2018
+KW  - continuous-time systems
+KW  - discrete-event
+KW  - formal methods
+KW  - Model-based systems engineering
+KW  - supervisory control
+KW  - Continuous time systems
+KW  - Discrete event simulation
+KW  - Discrete time control systems
+KW  - Embedded systems
+KW  - Formal methods
+KW  - Robots
+KW  - Supervisory personnel
+KW  - Discrete events
+KW  - Engineering perspective
+KW  - Model based techniques
+KW  - Model- based designs
+KW  - Model-based systems engineering
+KW  - Sensors and actuators
+KW  - Supervisory control
+KW  - Synthesis techniques
+KW  - Design
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 9
+ER  -
+
+TY  - CONF
+AU  - De Luca, S.
+AU  - Di Pace, R.
+AU  - Carteni, A.
+TI  - Simulating container terminal performances: Microscopic vs. macroscopic modelling approaches
+PY  - 2015
+T2  - Proceedings - 8th EUROSIM Congress on Modelling and Simulation, EUROSIM 2013
+C7  - 7004990
+SP  - 478
+EP  - 483
+DO  - 10.1109/EUROSIM.2013.86
+UR  - https://www.scopus.com/pages/publications/84929600570?origin=resultslist
+AB  - Most of the existing contributions for container terminal analysis follow approaches based on optimization models, that are mainly useful to support strategic decisions about terminal container configuration. Many others contributions follow the simulation approach, which allows a detailed analysis but may lead to computational problems and is rather computer demanding, especially when resulting models are used to support optimization. This paper investigated the prediction reliability of two different approaches to container terminal simulation: microscopic and macroscopic. The former simulating single container movement, the latter simulating container flows movement. The microscopic model was a discrete event simulation model, the macroscopic model was a dynamic discrete time based (space-time) network assignment model. Both modelling approaches were implemented and compared taking advantage of some significant investment made by the Salerno Container Terminal (Italy) between 2005 and 2011. In particular, disaggregate (microscopic) and an aggregate (macroscopic) simulation models implemented in 2005 were validated with a large set of data acquired in 2011 after some structural and functional terminal modifications. Through this analysis it was possible to analyze the prediction reliability of both simulation approaches and to draw some operational guidelines. © 2013 IEEE.
+KW  - Container terminal
+KW  - discrete event
+KW  - Network models
+KW  - simulation
+KW  - time discrete
+KW  - Containers
+KW  - Optimization
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Reliability analysis
+KW  - Traffic control
+KW  - Container terminal
+KW  - Discrete events
+KW  - Network models
+KW  - simulation
+KW  - Time discrete
+KW  - Discrete event simulation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Li, X.
+AU  - Peng, Y.
+AU  - Guo, Y.
+AU  - Wang, W.
+AU  - Song, X.
+TI  - An integrated simulation and AHP-entropy-based NR-TOPSIS method for automated container terminal layout planning
+PY  - 2023
+T2  - Expert Systems with Applications
+VL  - 225
+C7  - 120197
+DO  - 10.1016/j.eswa.2023.120197
+UR  - https://www.scopus.com/pages/publications/85153199440?origin=resultslist
+AB  - Due to more and more awareness of environmental conservancy and sustainable development, automated container terminals (ACTs) have gained increasing attention and become popular worldwide. However, there is a crucial challenge in implementing ACTs, i.e., how to develop terminal layout planning (including terminal layout and facility selection) to realize performance goals. Focusing on this challenge, the aim of this paper is to resolve how to appropriately select terminal layout and facilities in ACTs with respect to various performance criteria. Several research limitations can be gathered from the existing literature: (i) Most of the existing works mainly develop optimization technologies to tackle layout optimization and facility comparison issues within a few types of terminal layout and facilities, yet few researchers have proposed evaluation methods for making selection decisions on terminal planning. (ii) Only a few types of criteria are considered, and requirements and preferences of different participants are ignored, not to say realizing an optimal compromise by employing comprehensive criteria weights in evaluation processes. (iii) New technological improvement in ACTs has not received much attention, and there still lacks a method to precisely quantify the concerned criteria. Accordingly, this paper introduces a criteria system comprising economic, environment, social, resource and performance groups and develops an agent-based simulation method considering different terminal layout and facilities to determine criteria values. A multi-criteria decision making (MCDM) framework is proposed for making the most reasonable and appropriate selection decisions, which employs a variation coefficient weighted method to calculate comprehensive criteria weights, which integrate subjective and objective weights obtained from AHP (analytic hierarchy process) method and entropy weight method. To overcome rank reversal problems in the TOPSIS (technique for order preference by similarity to an ideal solution) method, a new improved rank reversal robust TOPSIS method, called NR-TOPSIS, is utilized to rank and select alternatives, which is ranking stable in the experiments performed. An illustrative application on a container terminal in China demonstrates the effectiveness of the proposed MCDM method and sensitivity and comparative analysis verifies the robustness and stability of the method. © 2023 Elsevier Ltd
+KW  - Agent-based simulation
+KW  - Automated container terminal
+KW  - Facility selection
+KW  - Layout planning
+KW  - Multi-criteria decision making
+KW  - Automation
+KW  - Containers
+KW  - Decision making
+KW  - Entropy
+KW  - Hierarchical systems
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Sustainable development
+KW  - Agent based simulation
+KW  - Automated container terminals
+KW  - Criteria weights
+KW  - Facility selection
+KW  - Layout planning
+KW  - Multi criteria decision-making
+KW  - Multicriteria decision-making
+KW  - Multicriterion decision makings
+KW  - Selection decisions
+KW  - TOPSIS method
+KW  - Analytic hierarchy process
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 34
+ER  -
+
+TY  - JOUR
+AU  - Wang, W.
+AU  - Peng, Y.
+AU  - Tian, Q.
+AU  - Song, X.
+TI  - Key influencing factors on improving the waterway through capacity of coastal ports
+PY  - 2017
+T2  - Ocean Engineering
+VL  - 137
+SP  - 382
+EP  - 393
+DO  - 10.1016/j.oceaneng.2017.04.013
+UR  - https://www.scopus.com/pages/publications/85018471254?origin=resultslist
+AB  - This paper aims at solving the problems of how to improve the waterway through capacity and how much each influencing factor can improve the capacity quantitatively. The problems are figured out by building a simulation model of the ships’ navigation operation system. First of all, the definition of waterway through capacity and the elements of the ships’ navigation operation system are discussed comprehensively. Then, a complicated simulation model, which considers the influencing factors, such as rules of ships entering and leaving port, navigation rules and inner anchorage scales, is constructed. After that, the simulation model is verified to ensure its reliability and effectiveness. Finally, various simulation experiments are designed according to a real bulk cargo port area in China and how much each influencing factor can improve the waterway through capacity is obtained, which provides a theoretical foundation for waterway construction and port management. © 2017 Elsevier Ltd
+KW  - Port management
+KW  - Simulation model
+KW  - Waterway
+KW  - Waterway through capacity
+KW  - China
+KW  - Navigation
+KW  - Ships
+KW  - Bulk Cargo
+KW  - Key influencing factors
+KW  - Operation system
+KW  - Port management
+KW  - Simulation model
+KW  - Theoretical foundations
+KW  - Waterway
+KW  - Waterway through capacity
+KW  - bulk cargo
+KW  - navigation
+KW  - port operation
+KW  - simulation
+KW  - transportation development
+KW  - transportation planning
+KW  - waterway transport
+KW  - Navigation systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 43
+ER  -
+
+TY  - JOUR
+AU  - Wang, R.
+AU  - Li, J.
+AU  - Bai, R.
+TI  - Prediction and Analysis of Container Terminal Logistics Arrival Time Based on Simulation Interactive Modeling: A Case Study of Ningbo Port
+PY  - 2023
+T2  - Mathematics
+VL  - 11
+IS  - 15
+C7  - 3271
+DO  - 10.3390/math11153271
+UR  - https://www.scopus.com/pages/publications/85167607702?origin=resultslist
+AB  - This study is a driving analysis of the transfer data of container terminals based on simulation interactive modeling technology. In the context of a container yard, a model was established to analyze and predict the arrival time and influencing factors of container transportation through the data from the control center of the yard. The economic benefit index in the index system was determined through expert consultation, the automatic terminal can be obtained by acquiring the actual operating parameters of the terminal, and the terminal to be built can be acquired mainly through simulation modeling. Therefore, when determining the design scheme before constructing the automated container terminal, a terminal simulation model needs to be established that meets the requirements of loading and unloading operations and terminal production operations. In addition, an automated container terminal simulation model needs to be implemented to verify the feasibility of the evaluation model. The results reveal that the accuracy of the current prediction model is still limited—the highest accuracy is only 72%, whether there are continuous or discrete variables, traffic or weather variables. Moreover, the study denotes that the relationship between weather and specific time factors and the arrival time of containers is weak, even negligible. This study provides guidance and decision-making support for the construction of automated terminals. © 2023 by the authors.
+KW  - container terminal transshipment data
+KW  - driving analysis
+KW  - simulation interactive modeling
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Maione, G.
+AU  - Mangini, A.M.
+AU  - Ottomanelli, M.
+TI  - A Generalized Stochastic Petri Net Approach for Modeling Activities of Human Operators in Intermodal Container Terminals
+PY  - 2016
+T2  - IEEE Transactions on Automation Science and Engineering
+VL  - 13
+IS  - 4
+C7  - 7467519
+SP  - 1504
+EP  - 1516
+DO  - 10.1109/TASE.2016.2553439
+UR  - https://www.scopus.com/pages/publications/84992080164?origin=resultslist
+AB  - This paper proposes a Petri net (PN) representation of the activities performed by the key human operators for unloading/loading containers in an intermodal maritime container terminal (CT) with a low level of automation. These processes are the core of the export, import, and transshipment cycles executed in the terminal. The aim of this paper is to consider both the human component and the material handling resources, e.g., cranes and transporters, by defining an accurate model, which describes how to coordinate humans and use the system resources necessary for serving mother or feeder ships. The developed generalized stochastic PN-based model is of limited complexity and represents a complete, unambiguous, and readable model of the target process before coding it in the target simulation tool. The modular integrated model is tested and validated by the simulation of typical and perturbed scenarios of the Taranto CT, a real terminal that is taken as a case study for its complexity and similarity to CTs with multiple transport modes. © 2016 IEEE.
+KW  - Discrete-event systems (DESs)
+KW  - generalized stochastic Petri nets (GSPNs)
+KW  - intermodal container terminal (CT)
+KW  - modeling
+KW  - performance evaluation
+KW  - simulation
+KW  - Containers
+KW  - Materials handling
+KW  - Models
+KW  - Petri nets
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Random access storage
+KW  - Stochastic models
+KW  - Stochastic systems
+KW  - Unloading
+KW  - Accurate modeling
+KW  - Generalized Stochastic Petri nets
+KW  - Integrated modeling
+KW  - Intermodal container terminals
+KW  - Level of automations
+KW  - Maritime container terminal
+KW  - performance evaluation
+KW  - simulation
+KW  - Discrete event simulation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 24
+ER  -
+
+TY  - JOUR
+AU  - Do, D.-T.
+AU  - Tran, V.-T.
+TI  - NetLogo for transport and logistics: agent-based modeling of flows, control, and operations
+PY  - 2025
+T2  - Acta Logistica
+VL  - 12
+IS  - 4
+SP  - 643
+EP  - 655
+DO  - 10.22306/al.v12i4.699
+UR  - https://www.scopus.com/pages/publications/105026625248?origin=resultslist
+AB  - NetLogo is widely used for agent-based simulation of transport and logistics because it is open, flexible, and fast to prototype. This review synthesizes peer-reviewed studies on NetLogo across four application streams: (a) Intelligent Transport Systems (ITS) and flow optimisation; (b) Public-transport operations and evacuation management; (c) Traffic-control, energy use, emissions analysis; and (d) Driver/vehicle behaviors and connected/autonomous vehicle modelling. We map how agent rules, interaction topologies, and calibration choices shape material, information, and human flows across networks and terminals, and how they inform transport operations, distribution logistics, and supply chain decisions. A thematic synthesis highlights five recurring gaps: (1) Oversimplified agent size/geometry; (2) Limited behavioral realism for drivers, passengers, and controllers; (3) Weak mesoscopic linking between macro demand and micro operations; (4) Short time horizons for dynamics of congestion and energy; and (5) Incomplete calibrationverification-validation. We propose a logistics-oriented research agenda: multi-scale coupling (macro–meso–micro), behavior learning with ML, real-time digital-twin use cases, standardized CV&V protocols, and energy-emissions cometrics. The review clarifies where NetLogo adds value to transport logistics-rapid what-if testing of control policies, routing, and terminal operations-while outlining steps needed for rigorous, decision-grade models. © Acta Logistica, www.actalogistica.eu.
+KW  - agent-based modelling (ABM)
+KW  - multi-scale and behavioural modelling
+KW  - NetLogo simulation
+KW  - traffic-flow optimisation
+KW  - transport and logistics systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Wang, W.
+AU  - Jiang, Y.
+AU  - Peng, Y.
+AU  - Zhou, Y.
+AU  - Tian, Q.
+TI  - A Simheuristic Method for the Reversible Lanes Allocation and Scheduling Problem at Smart Container Terminal Gate
+PY  - 2018
+T2  - Journal of Advanced Transportation
+VL  - 2018
+C7  - 1768536
+DO  - 10.1155/2018/1768536
+UR  - https://www.scopus.com/pages/publications/85078345682?origin=resultslist
+AB  - Under the constraints of limited spaces and imbalanced traffic volumes (for both in and out directions) of container gates, reversible lane layouts become an economical and practical way to improve the service level of container terminal systems and make the maximum use of the current terminal resources. Together with a consideration of minimized total costs (both construction and operating) of terminal gate system, this paper first developed an optimization model to decide the number and scheduling rules of the reversible lanes at a terminal gate. A metaheuristic algorithm was built to solve the optimal model. Meanwhile, to reflect the randomness and dynamics property of the terminal gate system in practice, parameters that cannot be calculated from conventional analytic methods are obtained through a simulation model. Finally, a hub container terminal in the northeast of China was employed to verify the effectiveness of the proposed method and provide a theoretical foundation for the construction and management of terminal gate systems.  © 2018 Wenyuan Wang et al.
+KW  - Containers
+KW  - Optimization
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - 'current
+KW  - Allocation and scheduling
+KW  - Allocation problems
+KW  - Container terminal
+KW  - Limited space
+KW  - Scheduling problem
+KW  - Service levels
+KW  - Terminal gate systems
+KW  - Terminal systems
+KW  - Traffic volumes
+KW  - Reversible lanes
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Kingsley, S.W.
+AU  - Rhodes, C.M.
+AU  - Kulick, B.
+AU  - Ligotti, E.
+TI  - Improvement of the North Lead Rail Corridor
+PY  - 2016
+T2  - Ports 2016: Port Planning and Development - Papers from Sessions of the 14th Triennial International Conference
+SP  - 942
+EP  - 951
+DO  - 10.1061/9780784479919.097
+UR  - https://www.scopus.com/pages/publications/84983740961?origin=resultslist
+AB  - To accommodate growth in intermodal and bulk cargo demand, the Port of Tacoma initiated the North Lead project to construct new rail infrastructure within an approximately 1.5 mile long corridor within the Port, with an objective of optimizing intermodal fluidity and capacity in the Port and enhancing the efficiency of rail service to Port terminals. The project corridor is a nexus of rail infrastructure serving the Port, nearby industrial facilities, Class 1 interchange, and freight classification. Tacoma Rail, a city owned utility, provides rail service to the Port of Tacoma terminals and private industrial facilities nearby. Project planning was performed collaboratively by the Port of Tacoma, Tacoma Rail and the consultant team. Using detailed timing records for each train movement within the tideflats over a one month period, a simulation model was developed for the existing rail network and validated to match the actual performance. Alternatives for infrastructure development and operational strategies were modeled using current rail traffic and projected future rail traffic to identify the best short term and long term options to match capacity to demand, and maximize the efficiency of service to the Port's terminals. Options for infrastructure improvements were evaluated based on their ability to support multiple concurrent movements and flexible routings within the constrained rail corridor. Key elements of project design included phasing of construction while maintaining rail operations in the corridor and accommodating future expansion and extension of the corridor to match future growth in demand and increased train lengths. The complexity of rail movements within the constrained corridor were a particularly challenging aspect of project planning and design. A collaborative approach incorporating the unique perspectives of marine terminal operations, rail operations, track design, and construction was used to optimize the design. This paper will describe the approach that was used to identify and analyze alternatives for railway infrastructure, and select and design infrastructure improvements and operating strategies within the corridor to provide maximum improvement of capacity and efficiency in the rail network. © ASCE.
+KW  - Efficiency
+KW  - Port terminals
+KW  - Ports and harbors
+KW  - Railroad plant and structures
+KW  - Rails
+KW  - Collaborative approach
+KW  - Design infrastructures
+KW  - Industrial facilities
+KW  - Infrastructure development
+KW  - Infrastructure improvements
+KW  - Operational strategies
+KW  - Rail infrastructure
+KW  - Railway infrastructure
+KW  - Railroad transportation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Carvalho, C.C.
+AU  - Pinho De Sousa, J.
+AU  - Santos, R.
+AU  - Marques, C.M.
+TI  - A simulation tool for container operations management at seaport terminals
+PY  - 2025
+T2  - Transportation Research Procedia
+VL  - 86
+SP  - 604
+EP  - 611
+DO  - 10.1016/j.trpro.2025.04.076
+UR  - https://www.scopus.com/pages/publications/105007095372?origin=resultslist
+AB  - By connecting maritime and land transport, container terminals play a critical role in global logistics systems, as part of broader intermodal networks. The evolution of containerisation and technological advances, along with increased demand and volumes, led to significant adaptations in these terminals, as a way to improve productivity, reduce costs and increase competitiveness, while coping with spatial and operational constraints. For strategic decision-making, managing these complex systems can be enhanced by simulation models allowing the analysis of different scenarios in dynamic, uncertain environments. This work, presents a simulation-based decision support tool developed in the FlexSim software, to analyse different container terminal configurations, with a particular focus on automation and on sustainable practices to reduce the energy consumption of terminals. A discrete event simulation model was developed to study multiple scenarios impacting productivity, resource utilisation, and waiting times. The proposed approach allows the test and evaluation of management strategies for port operations, with preliminary results showing that sizing and planning of the fleets of automated guided vehicles (AGV) can significantly affect the total operating time, the energy consumed, and the costs associated with battery charging operations. Future research should explore additional factors affecting container terminal operations, such as the reorganisation of the storage area, while incorporating optimisation elements for work planning and resource allocation. Moreover, the simulation model will be tested and validated in a real case study, designed for the Port of Sines in Portugal.  © 2024 The Authors.
+KW  - Container terminals
+KW  - Decision support systems
+KW  - Port operations
+KW  - Simulation
+KW  - Sustainability
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Chase, J.
+AU  - Vermeer, B.
+AU  - Zhang, Y.A.
+AU  - Humphreys, T.
+TI  - Discrete Event Simulation Case Studies in Planning Advanced Container Terminals
+PY  - 2019
+T2  - Ports 2019: Port Planning and Development - Papers from Sessions of the 15th Triennial International Conference
+SP  - 268
+EP  - 278
+DO  - 10.1061/9780784482629.026
+UR  - https://www.scopus.com/pages/publications/85072940681?origin=resultslist
+AB  - This paper summarizes recent experience in the application of discrete event simulation emulation software, and 3D visualization to evaluate and validate the performance of several highly advanced and automated container terminals. The combination of densified container stacking and advanced robotized container operations has created greater operational complexity, while at the same time creating opportunities to optimize processes and improve efficiencies. Using advanced discrete simulation during the planning of greenfield terminals or simulation for the optimization of existing terminals provides an agile approach that can be used to evaluate alternatives faster, in greater depth, and with higher confidence, compared to conventional methodologies. The simulations described in this paper were performed using an agile project approach, where multiple iterations were executed during the planning phase and eventually used in the holistic terminal evaluation and optimization and sensitivity simulation analyses to test and evaluate the robustness of the preferred terminal solution. © 2019 American Society of Civil Engineers.
+KW  - Application programs
+KW  - Containers
+KW  - Port terminals
+KW  - Ports and harbors
+KW  - Railroad yards and terminals
+KW  - Sensitivity analysis
+KW  - Three dimensional computer graphics
+KW  - 3D Visualization
+KW  - Automated container terminals
+KW  - Container terminal
+KW  - Discrete simulations
+KW  - Existing terminal
+KW  - Multiple iterations
+KW  - Operational complexity
+KW  - Sensitivity Simulation
+KW  - Discrete event simulation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Y.
+AU  - Yang, C.
+AU  - Tang, K.
+AU  - Dai, J.
+TI  - Study on Distributed Consistent Cooperative Control of Multi-ART in Automated Container Terminals
+PY  - 2022
+T2  - IEEE Access
+VL  - 10
+SP  - 122965
+EP  - 122980
+DO  - 10.1109/ACCESS.2022.3223360
+UR  - https://www.scopus.com/pages/publications/85142818446?origin=resultslist
+AB  - In order to address the congestion problem of vehicles in quay of automated container terminal with parallel layout and side-loading operations, the study regards the terminal operation system as a multi-agent system (MAS). Then, A dynamic cooperative speed regulation strategy for a group intelligence-oriented multi-ART (Artificial Intelligence Robot of Transportation) is proposed to realize the smart and distributed traffic control of container terminals. Via the real-time data interchange and message passing with ART group, the individual ART implements the collaborative speed regulation with the combination of the dynamic speed regulation strategy. Through the above-mentioned method, the sequence of ARTs arriving at the quay can be adjusted, which can decrease the waiting time of ARTs at the quay. Considering the consistency problem of individual and group agent among the dynamic speed regulation of ARTs, a novel distributed consensus protocol is established to assure that the individual status of ART will tend to converge basically during the collaborative speed regulation process, and the convergence of system can be guaranteed. Based on the case of automated container terminal of Tianjin Port, the paper establishes a multi-agent based simulation model, and simulates the decision-making process, and validates the effectiveness of mentioned model and strategy. The results demonstrate that the strategy can decrease the waiting time of ARTs under uncertainty environment of terminal and improve the operation efficiency of system.  © 2013 IEEE.
+KW  - Agent-based simulation
+KW  - automated container terminals
+KW  - dynamic speed regulation
+KW  - multiagent systems
+KW  - transport operations
+KW  - Containers
+KW  - Decision making
+KW  - Intelligent agents
+KW  - Intelligent robots
+KW  - Intelligent systems
+KW  - Intelligent vehicle highway systems
+KW  - Message passing
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Speed
+KW  - Traffic congestion
+KW  - Agent based simulation
+KW  - Automated container terminals
+KW  - Co-operative control
+KW  - Congestion problem
+KW  - Dynamic speed
+KW  - Dynamic speed regulation
+KW  - Parallel layout
+KW  - Speed regulation
+KW  - Transport operations
+KW  - Waiting time
+KW  - Multi agent systems
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Zhao, N.
+AU  - Xia, M.
+AU  - Mi, C.
+AU  - Bian, Z.
+AU  - Jin, J.
+TI  - Simulation-based optimization for storage allocation problem of outbound containers in automated container terminals
+PY  - 2015
+T2  - Mathematical Problems in Engineering
+VL  - 2015
+C7  - 548762
+DO  - 10.1155/2015/548762
+UR  - https://www.scopus.com/pages/publications/84947460044?origin=resultslist
+AB  - Storage allocation of outbound containers is a key factor of the performance of container handling system in automated container terminals. Improper storage plans of outbound containers make QC waiting inevitable; hence, the vessel handling time will be lengthened. A simulation-based optimization method is proposed in this paper for the storage allocation problem of outbound containers in automated container terminals (SAPOBA). A simulation model is built up by Timed-Colored-Petri-Net (TCPN), used to evaluate the QC waiting time of storage plans. Two optimization approaches, based on Particle Swarm Optimization (PSO) and Genetic Algorithm (GA), are proposed to form the complete simulation-based optimization method. Effectiveness of this method is verified by experiment, as the comparison of the two optimization approaches. © 2015 Ning Zhao et al.
+KW  - Automation
+KW  - Containers
+KW  - Genetic algorithms
+KW  - Optimization
+KW  - Petri nets
+KW  - Port terminals
+KW  - Queueing networks
+KW  - Railroad yards and terminals
+KW  - Automated container terminals
+KW  - Container handling system
+KW  - Handling time
+KW  - Optimization approach
+KW  - Simulation model
+KW  - Simulation-based optimizations
+KW  - Timed colored Petri net
+KW  - Waiting-time
+KW  - Particle swarm optimization (PSO)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Azab, A.
+AU  - Karam, A.
+AU  - Eltawil, A.
+TI  - A simulation-based optimization approach for external trucks appointment scheduling in container terminals
+PY  - 2020
+T2  - International Journal of Modelling and Simulation
+VL  - 40
+IS  - 5
+SP  - 321
+EP  - 338
+DO  - 10.1080/02286203.2019.1615261
+UR  - https://www.scopus.com/pages/publications/85066073597?origin=resultslist
+AB  - In Container Terminals (CTs), many containers are daily delivered by a large number of External Trucks (ETs) which lead to several issues such as long waiting times at gates and yards, harmful emissions, and low productivity of the CTs. To resolve these issues, truck appointment systems are used to schedule appointments of ETs and achieve more balance in CTs’ workload. Most of the studies have focused on deterministic modelling of the ETs’ arrival process with considering yard operations or gate operations. Also, a little effort has been devoted to collaboration between trucking companies and CTs when scheduling ETs’ appointments. Unlike previous studies, this paper presents a simulation-based optimization approach to collaboratively schedule ETs’ appointments with considering yard and gate operations as well as their stochastic natures. The proposed approach integrates a simulation model with an MIP model with objective of minimizing turnaround times of ETs and inconveniences resulting from shifting the arrivals of ETs away from their preferred arrival times. The proposed approach is validated against an approach from literature. In addition, its performance is investigated by solving artificial instances inspired by real data. A framework for implementing the proposed system in the IoT-based container terminals is also developed. © 2019 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - collaborative
+KW  - Container terminal
+KW  - dynamic
+KW  - Internet of Things (IoT)
+KW  - simulation-based optimization
+KW  - truck appointment system
+KW  - Automobiles
+KW  - Containers
+KW  - Dynamics
+KW  - Internet of things
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Scheduling
+KW  - Stochastic systems
+KW  - Trucks
+KW  - Turnaround time
+KW  - Appointment scheduling
+KW  - collaborative
+KW  - Container terminal
+KW  - Deterministic modelling
+KW  - Harmful emissions
+KW  - Internet of Things (IOT)
+KW  - Simulation-based optimizations
+KW  - Trucking companies
+KW  - Optimization
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 64
+ER  -
+
+TY  - JOUR
+AU  - Fedorko, G.
+AU  - Molnár, V.
+AU  - Mikušová, N.
+AU  - Strohmandl, J.
+AU  - Kižik, T.
+TI  - Simulation of Handling Operations in Marine Container Terminals for the Purposes of a Profession Simulator
+PY  - 2023
+T2  - Journal of Marine Science and Engineering
+VL  - 11
+IS  - 12
+C7  - 2264
+DO  - 10.3390/jmse11122264
+UR  - https://www.scopus.com/pages/publications/85180693878?origin=resultslist
+AB  - Marine container terminals play an irreplaceable role in modern logistics. They ensure the functioning of material flows and supply chains. Optimal and efficient operations of terminals are increasingly based on full or partial automation. As a result, the expertise and skill prerequisites for service personnel and managers are increasing. This paper presents an original idea of creating a “profession simulator”. Its principle is based on the application of a dynamic computer simulation method. The results represent a generally valid concept for a “profession simulator” that can be calibrated for any container terminal. Within this concept, the inputs, outputs, and processes that take place in the profession simulator are defined. The simulation model is created with the Tecnomatix Plant Simulation program. Mathematical models are implemented for all individual processes in the simulation model. A programming method using the SimTalk 2.0 language is used for their implementation. The obtained results point to the possibility of using the profession simulator to analyze and monitor selected indicators regarding handling techniques, the utilization of maritime terminals, information about the number of transported containers, or the implementation of handling activities. © 2023 by the authors.
+KW  - analysis
+KW  - handling
+KW  - marine container
+KW  - profession simulator
+KW  - training
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Xin, X.
+AU  - Liu, K.
+AU  - Yang, X.
+AU  - Yuan, Z.
+AU  - Zhang, J.
+TI  - A simulation model for ship navigation in the “Xiazhimen” waterway based on statistical analysis of AIS data
+PY  - 2019
+T2  - Ocean Engineering
+VL  - 180
+SP  - 279
+EP  - 289
+DO  - 10.1016/j.oceaneng.2019.03.052
+UR  - https://www.scopus.com/pages/publications/85064496897?origin=resultslist
+AB  - The “Xiazhimen” waterway is regarded as the bottleneck of the shipping routes, linking the ship traffic between the hub areas in Ningbo-Zhoushan Port and the outside waters. In this paper, a microcosmic simulation model for ship traffic in the waterway is developed to investigate the motion behaviours of ships to various navigational scenarios. The simulation model is derived from the statistical analysis of AIS data and takes the ships' acceleration and deceleration into account by the extraction of ship traffic characteristics. An empirical ship domain model is formulated to determine the safe distance between ships. The update rules incorporating the ships’ interactions, the empirical domain model as well as transit rules are designed to simulate the speed fluctuations of ships. By comparing the real case with the simulation results in terms of the average passage time and the average speed along the waterway, the performance of the model are further validated. The model also facilitates the prediction of navigation risk and channel capacity with increased traffic volume and increased proportion of large-size ships. © 2019 Elsevier Ltd
+KW  - AIS data analysis
+KW  - Ship domain
+KW  - Traffic simulation
+KW  - Xiazhimen waterway
+KW  - China
+KW  - Ningbo
+KW  - Zhejiang
+KW  - Zhoushan
+KW  - Zhoushan Island
+KW  - Zhoushan Islands
+KW  - Navigation
+KW  - Statistical methods
+KW  - Traffic control
+KW  - Waterway transportation
+KW  - Acceleration and deceleration
+KW  - Ship navigation
+KW  - Shipping routes
+KW  - Simulation model
+KW  - Speed fluctuations
+KW  - Traffic simulations
+KW  - Traffic volumes
+KW  - Xiazhimen waterway
+KW  - computer simulation
+KW  - geostatistics
+KW  - model validation
+KW  - navigation
+KW  - performance assessment
+KW  - port operation
+KW  - risk assessment
+KW  - ship motion
+KW  - shipping
+KW  - waterway transport
+KW  - Ships
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 64
+ER  -
+
+TY  - JOUR
+AU  - Kumawat, G.L.
+AU  - Roy, D.
+TI  - AGV or Lift-AGV? Performance trade-offs and design insights for container terminals with robotized transport vehicle technology
+PY  - 2021
+T2  - IISE Transactions
+VL  - 53
+IS  - 7
+SP  - 751
+EP  - 769
+DO  - 10.1080/24725854.2020.1785648
+UR  - https://www.scopus.com/pages/publications/85089460821?origin=resultslist
+AB  - New container terminals are embracing robotized transport vehicles such as lift-automated guided vehicles (LAGVs) and automated guided vehicles (AGVs) to enhance the terminal throughput capacity. Although LAGVs have a high container handling time, they require less coordination with other terminal equipment in comparison with AGVs. In contrast, AGVs are hard-coupled resources, require less container handling times, but operate with high coordination delays in comparison with LAGVs. The effect of such operational trade-offs on terminal performance under various design parameter settings, such as yard block layout and a number of resources, is not well understood and needs to be evaluated at the terminal design phase. To analyze these trade-offs, we develop stylized semi-open queuing network models, which consist of two-phase servers and finite capacity queues. We develop a novel network decomposition method for solving the proposed queuing models. The accuracy of the solution method is validated using detailed simulation models. Using the analytical models, we study the performance trade-offs between the transport vehicle choices: LAGVs and AGVs. Our results show that the throughput capacity of the terminal in the container unloading process increases by up to 16% if LAGVs are chosen as transport vehicles instead of AGVs. However, at certain parameter settings, specifically, when the arrival rate of containers is low, the throughput time performance of the terminal is higher (up to 8%) with AGVs than with LAGVs. We also derive insights on the yard block layout and the technology choice for quay cranes. © Copyright © 2020 “IISE”.
+KW  - blocking
+KW  - container terminal
+KW  - Logistics
+KW  - semi-open queues
+KW  - transport vehicles
+KW  - two-phase servers
+KW  - Commerce
+KW  - Containers
+KW  - Economic and social effects
+KW  - Mobile robots
+KW  - Port terminals
+KW  - Queueing networks
+KW  - Queueing theory
+KW  - Railroad yards and terminals
+KW  - Unloading
+KW  - Vehicle performance
+KW  - Automated guided vehicles
+KW  - Container terminal
+KW  - Finite capacity queues
+KW  - Network decomposition
+KW  - Performance trade-off
+KW  - Queuing network model
+KW  - Throughput capacities
+KW  - Transport vehicles
+KW  - Automatic guided vehicles
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 21
+ER  -
+
+TY  - CONF
+AU  - Zhang, Y.
+AU  - Zhou, H.
+AU  - Simpson, K.
+TI  - Evaluating Automated Transport with Simulation
+PY  - 2016
+T2  - Ports 2016: Port Engineering - Papers from Sessions of the 14th Triennial International Conference
+SP  - 774
+EP  - 783
+DO  - 10.1061/9780784479902.078
+UR  - https://www.scopus.com/pages/publications/84984596903?origin=resultslist
+AB  - This paper presents recent experience in applying discrete event simulation software to evaluate and validate the performance of automated horizontal transport (AHT) systems for automated container terminals. By simulating and comparing various types of AHTs with multiple layout configurations, equipment performance was quantified, and insights of the systems were gained. Critical questions were answered to guide terminal operators and equipment vendors who must make important decisions that will affect the long-term viability of valuable infrastructure and the efficiency of terminal operations. Discrete event simulation proved to be a valuable tool for terminal planners and operations staff alike to evaluate AHT system performance, quantify equipment requirements, and optimize the terminal layout. © 2016 ASCE.
+KW  - Automation
+KW  - Discrete event simulation
+KW  - Equipment
+KW  - Automated container terminals
+KW  - Automated transport
+KW  - Discrete event simulation software
+KW  - Equipment performance
+KW  - Equipment requirements
+KW  - Horizontal transport
+KW  - Long-term viability
+KW  - Terminal operation
+KW  - Computer software
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Nikdast, M.
+AU  - Awasthi, A.
+TI  - Utilizing Autonomous Vehicles to Reduce Truck Turn Time in Ports with Application for Port of Montréal
+PY  - 2025
+T2  - Systems
+VL  - 13
+IS  - 11
+C7  - 1031
+DO  - 10.3390/systems13111031
+UR  - https://www.scopus.com/pages/publications/105023092408?origin=resultslist
+AB  - Port congestion, particularly excessive truck turn time (TTT), disrupts supply chains, increases costs, and contributes to environmental impacts. This study evaluates the potential of integrating autonomous vehicles (AVs) into port operations to reduce TTT, using the Port of Montreal’s Viau Terminal as a case study. A discrete event simulation (DES) with agent-based logic was developed to model landside processes, including gate, yard, and staging operations, while differentiating between human-driven vehicles (HDVs) and AVs. Four scenarios were tested: Baseline indicating current operations, Truck Appointment System (TAS), partial AV integration (35% AVs) with shared resources, and AVs with dedicated staging areas and cranes. Model inputs were informed by port publicly available data and validated against observed TTT metrics. Results show that TAS reduced average TTT from 88.2 to 78.37 min; partial AV integration lowered it further to 55.91 min, with AVs averaging 45.33 min; dedicated AV infrastructure yielded the lowest AV TTT (32.86 min) but slightly increased overall TTT due to HDV delays. Findings suggest that combining AV adoption with demand management and targeted infrastructure investments can substantially improve efficiency. The study offers quantitative evidence and strategic recommendations to support port authorities in planning for automation while ensuring balanced resource allocation. © 2025 by the authors.
+KW  - autonomous vehicles
+KW  - discrete event simulation
+KW  - port congestion
+KW  - Port of Montreal
+KW  - truck turn time
+KW  - Autonomous agents
+KW  - Autonomous vehicles
+KW  - Environmental impact
+KW  - Investments
+KW  - Supply chains
+KW  - Traffic congestion
+KW  - Trucks
+KW  - 'current
+KW  - Agent based
+KW  - Autonomous Vehicles
+KW  - Case-studies
+KW  - Discrete-event simulations
+KW  - Port congestion
+KW  - Port of montreal
+KW  - Port operations
+KW  - Truck turn time
+KW  - Vehicle integration
+KW  - Discrete event simulation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Zhang, W.
+AU  - Gu, W.
+AU  - Bai, H.
+AU  - Gao, D.
+TI  - Research on ADRC strategy of permanent magnet synchronous motor for automated terminal AGV
+PY  - 2022
+T2  - 2022 International Symposium on Sensing and Instrumentation in 5G and IoT Era, ISSI 2022
+SP  - 7
+EP  - 11
+DO  - 10.1109/ISSI55442.2022.9963152
+UR  - https://www.scopus.com/pages/publications/85143969206?origin=resultslist
+AB  - To overcome the large noise and harmonics in the current waveform of BLDC (Brushless Direct Current, BLDC) motor used in traditional automated guided vehicle (AGV), the permanent magnet synchronous motor(PMSM) is selected as drive motor to be introduced in the AGV. And an improved active disturbance rejection control (ADRC) algorithm are presented in the PMSM vector control. And three parts of ADRC, Tracking Differentiator (TD), Extended State Observer (ESO) and Nonlinear State Error Feedback (NLSEF), are designed in the controller to analyze and process the speed, voltage signal and state estimation values and control and compensate parameter errors. To show the control superiority of ADRC, the PI-based and ADRC-based simulation models are both built and simulated with the specific high and low speed, torque and speed suddenly change. Simulation results show that when the motor suddenly decelerates, PI is stable at 0.1s and ADRC was stable at 0.03s, and the overshoot of PI is higher than ADRC, which verifies that the response speed, anti-disturbance performance and robustness of the improved ADRC are significantly better than PI, which would be helpful to introduce the PMSM and ADRC based algorithm to the AGV and the automated container terminals.  © 2022 IEEE.
+KW  - ADRC
+KW  - AGV
+KW  - permanent magnet synchronous motor
+KW  - PI
+KW  - Automatic guided vehicles
+KW  - Automation
+KW  - Disturbance rejection
+KW  - Errors
+KW  - Permanent magnets
+KW  - Synchronous motors
+KW  - 'current
+KW  - Active disturbances rejection controls
+KW  - Automated guided vehicles
+KW  - Brushless direct current motor
+KW  - Brushless direct currents
+KW  - Control strategies
+KW  - Drive motors
+KW  - Permanent Magnet Synchronous Motor
+KW  - Tracking differentiators
+KW  - Waveforms
+KW  - State estimation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Liu, W.
+AU  - Zhu, X.
+AU  - Wang, L.
+AU  - Zhang, Q.
+AU  - Tan, K.C.
+TI  - Integrated Scheduling of Yard and Rail Container Handling Equipment and Internal Trucks in a Multimodal Port
+PY  - 2024
+T2  - IEEE Transactions on Intelligent Transportation Systems
+VL  - 25
+IS  - 3
+SP  - 2987
+EP  - 3008
+DO  - 10.1109/TITS.2023.3295812
+UR  - https://www.scopus.com/pages/publications/85165885118?origin=resultslist
+AB  - This paper presents a multi-objective optimization model to integrate the scheduling of three types of equipment - railway container operation gantry cranes, yard stacking cranes, and internal trucks - in a multimodal container terminal involving mixed operations of four types of container flows in a partial joint storage yard. The four flows include import/export railway containers and import/export highway containers. The model incorporates realistic constraints such as train operation time windows and container precedence relationships. An adaptive large neighborhood search (ALNS) algorithm, coupled with discrete-event simulation (DES), was designed to solve the problem. Computational experiments were conducted to evaluate various multiple objectives and verified the effectiveness of the proposed solution algorithm through different scale data, as well as provided a sensitivity analysis of the quantitative relationship between the three types of equipment in terms of operation efficiency and equipment utilization in the system. Finally, this paper discusses the impact of the partial joint storage yard strategy on the railway operation area and yard operations. To implement the solution to meet the requirements of efficient equipment utilization and seamless container transshipment operations in a multimodal port, it is imperative to have fast and accurate data sharing among the railway, highway, and port systems. We envisioned that 6G communication would enable that.  © 2000-2011 IEEE.
+KW  - adaptive large neighborhood search algorithm
+KW  - Container terminal
+KW  - handling equipment
+KW  - integrated scheduling
+KW  - multimodal transport system
+KW  - simulation technique
+KW  - Cranes
+KW  - Digital storage
+KW  - Discrete event simulation
+KW  - Multiobjective optimization
+KW  - Port terminals
+KW  - Railroad transportation
+KW  - Railroad yards and terminals
+KW  - Railroads
+KW  - Sensitivity analysis
+KW  - Trucks
+KW  - Adaptive large neighborhood search algorithm
+KW  - Adaptive large neighborhood searches
+KW  - Container terminal
+KW  - Handling equipments
+KW  - Integrated scheduling
+KW  - Multimodal transport
+KW  - Multimodal transport system
+KW  - Neighborhood search algorithms
+KW  - Optimisations
+KW  - Rail transportation
+KW  - Road transportation
+KW  - Seaport
+KW  - Simulation technique
+KW  - Task analysis
+KW  - Transport systems
+KW  - Containers
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 22
+ER  -
+
+TY  - JOUR
+AU  - Liang, Y.
+AU  - Jin, J.
+AU  - Guo, Z.
+AU  - Chen, Y.
+AU  - Bao, J.
+TI  - Simulation Study on P-Shaped Process Layout for Automated Container Terminals
+PY  - 2025
+T2  - Electronics (Switzerland)
+VL  - 14
+IS  - 17
+C7  - 3356
+DO  - 10.3390/electronics14173356
+UR  - https://www.scopus.com/pages/publications/105015971480?origin=resultslist
+AB  - Automated container terminals can achieve precise matching of equipment and space, thus forming the foundation for the terminals’ efficient operation. However, the increase in container volume requires the construction of more ACTs. Existing studies lack dynamic assessment of the deep coupling between the P-shaped layout and the terminal’s system performance verification under peak operating conditions. To solve these problems, this paper aims to evaluate the system performance of the process layout in the application of ACTs through simulation methods. We have identified the differences in indicators among various schemes, thereby providing decision support for the construction of the port. In this paper, a simulation method for the configuration based on a P-shaped process layout is proposed at ACTs. The port system is constructed as a discrete event simulation model consisting of five core modules. Then two P-shaped process layout schemes and one mixed process layout scheme are proposed and the terminal models are established, respectively. Finally, by conducting numerous simulation experiments under different layout schemes, the influence of traffic organization on the efficiency of the terminal system was analyzed. The results demonstrate that on the premise of the maturity of the mixed-traffic technology at the terminal, when the proportion of cross-berth operations is low, the system efficiency of the mixed layout scheme is the highest. This article takes a new type of P-shaped process layout as the research object, reveals the correlation between its traffic organization characteristics and system performance through a customized simulation method. It provides a new theoretical perspective and quantitative tool for the optimization of automated terminal layouts. © 2025 by the authors.
+KW  - ACT
+KW  - P-shaped process layout
+KW  - simulation model
+KW  - system performance
+KW  - traffic organization
+KW  - Automation
+KW  - Decision support systems
+KW  - Discrete event simulation
+KW  - Efficiency
+KW  - Optimization
+KW  - Railroad yards and terminals
+KW  - Transfer cases (vehicles)
+KW  - ACT
+KW  - Automated container terminals
+KW  - Layout schemes
+KW  - Matchings
+KW  - P-shaped process layout
+KW  - Process layout
+KW  - Simulation model
+KW  - Simulation studies
+KW  - Systems performance
+KW  - Traffic organization
+KW  - Port terminals
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Saini, S.
+AU  - Roy, D.
+AU  - de Koster, R.
+TI  - A stochastic model for the throughput analysis of passing dual yard cranes
+PY  - 2017
+T2  - Computers and Operations Research
+VL  - 87
+SP  - 40
+EP  - 51
+DO  - 10.1016/j.cor.2017.05.012
+UR  - https://www.scopus.com/pages/publications/85019694667?origin=resultslist
+AB  - New container terminal technologies such as passing dual yard cranes per stack promise increase in stacking throughput capacity. However, dual yard cranes can interfere, which reduces the cranes’ throughput capacity. Using crane operational protocols, we develop a stochastic model for two passing dual yard cranes and obtain closed-form expressions for the crane throughput capacity with interference delays. We then develop an approximate model to estimate the expected throughput times for both balanced and unbalanced stack configuration. A detailed discrete-event simulation is built to validate the analytical model. We show that interference effects between the cranes can reduce the crane throughput capacity by an average of 35% and interference delays increase with an increase in the number of bays in the stack. We use the model to develop operational insights. © 2017 Elsevier Ltd
+KW  - Free and busy period analysis
+KW  - Interference delays
+KW  - Passing dual yard cranes
+KW  - Stochastic model
+KW  - Cranes
+KW  - Discrete event simulation
+KW  - Ship cranes
+KW  - Stochastic systems
+KW  - Throughput
+KW  - Busy period analysis
+KW  - Closed-form expression
+KW  - Expected throughput
+KW  - Interference effects
+KW  - Stack configurations
+KW  - Throughput analysis
+KW  - Throughput capacities
+KW  - Yard cranes
+KW  - Stochastic models
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 20
+ER  -
+
+TY  - JOUR
+AU  - Kumawat, G.L.
+AU  - Tripathi, D.
+AU  - Bansal, V.
+TI  - Stochastic modeling and analysis of two-phase operations in container terminal with automated lifting vehicles: A novel queuing approach
+PY  - 2025
+T2  - International Journal of Production Economics
+VL  - 286
+C7  - 109646
+DO  - 10.1016/j.ijpe.2025.109646
+UR  - https://www.scopus.com/pages/publications/105003977610?origin=resultslist
+AB  - Container terminals worldwide are embracing automation to improve their efficiency and throughput performance for dynamic business requirements. However, to achieve the desired cost and operational efficiency of an automated container terminal, a thorough analysis of its performance under various design parameters is necessary at the design stage. In this paper, we propose a novel queuing model for the performance analysis of a container terminal that uses automated lifting vehicles for container transport. A special type of two-phase server is used to capture complex two-phase operations of quay cranes, automated lifting vehicles, and stack cranes, which were ignored in previous studies. Since existing methods cannot solve our resulting queuing model, we develop a new network decomposition-based approach to solve it. First, we validate the proposed analytical framework by developing a simulation model and find that it is quite accurate with a less than 5% average absolute percentage error in the average throughput time. Next, we quantify the value of accurately modeling the two-phase operations of resources in a container terminal. In our numerical analysis, we find that ignoring two-phase operations can lead to an overestimation of the average throughput time from 25% to 65%. Thus, our new modeling approach assists terminal designers in accurately estimating the performance measures. Furthermore, we illustrate an application of our model in resource planning and provide important design insights. © 2025 Elsevier B.V.
+KW  - Automated lifting vehicle
+KW  - Container terminal
+KW  - Queuing model
+KW  - Two-phase server
+KW  - Convergence of numerical methods
+KW  - Queueing networks
+KW  - Queueing theory
+KW  - Automated lifting vehicle
+KW  - Average throughput
+KW  - Container terminal
+KW  - Lifting vehicles
+KW  - Queuing models
+KW  - Stochastic modeling and analysis
+KW  - Throughput time
+KW  - Two phase
+KW  - Two phase operation
+KW  - Two-phase server
+KW  - Stochastic models
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, Z.
+AU  - Long, W.
+AU  - Tian, H.
+TI  - Research on Energy Management Optimization for Hybrid-Powered Port Tugboat Systems Based on a Dual-Delay Deep Deterministic Policy Gradient Algorithm
+PY  - 2026
+T2  - Energies
+VL  - 19
+IS  - 4
+C7  - 905
+DO  - 10.3390/en19040905
+UR  - https://www.scopus.com/pages/publications/105031115856?origin=resultslist
+AB  - To address the energy management challenge for methanol range-extended series hybrid systems in port tugboats, characterized by highly transient and intermittent operations, this study proposes a real-time energy management strategy based on the Twin Delayed Deep Deterministic Policy Gradient (TD3) algorithm. A high-fidelity forward simulation model was constructed and validated to train the TD3 agent. In simulations of typical port operation cycles, TD3 reduced methanol consumption by approximately 18.5%, 10.2%, and 7.3% compared to rule-based (RB), equivalent consumption minimization strategy (ECMS), and deep deterministic policy gradient (DDPG) approaches, respectively. Emissions such as NOx and carbon dioxide (CO2) were also significantly reduced, while maintaining superior battery state of charge (SOC). Its overall performance approximates global optimal (DP) performance with a gap of less than 2.5%, while retaining real-time online decision-making capability. Hardware-in-the-loop (HIL) testing further demonstrates that TD3 exhibits less than 1.8% performance degradation under actual communication and execution conditions, validating its engineering feasibility and deployment potential. This study provides methodological and experimental foundations for developing high-performance, low-emission, real-time energy management algorithms for port tugboats. © 2026 by the authors.
+KW  - energy management algorithm
+KW  - HIL
+KW  - hybrid power system
+KW  - methanol range extension
+KW  - port tugboat
+KW  - TD3
+KW  - Battery management systems
+KW  - Decision making
+KW  - Energy management systems
+KW  - Global optimization
+KW  - Hybrid integrated circuits
+KW  - Hybrid power
+KW  - Hybrid systems
+KW  - Nitrogen oxides
+KW  - Real time systems
+KW  - Uncertainty analysis
+KW  - Deterministics
+KW  - Energy management algorithms
+KW  - Hardware in the loops
+KW  - Hybrid power
+KW  - Hybrid power system
+KW  - Methanol range extension
+KW  - Policy gradient
+KW  - Port tugboat
+KW  - Range extensions
+KW  - TD3
+KW  - Methanol
+KW  - Tugboats
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Chen, X.
+AU  - He, S.
+AU  - Li, T.
+AU  - Li, Y.
+TI  - A Simulation Platform for Combined Rail/Road Transport in Multiyards Intermodal Terminals
+PY  - 2018
+T2  - Journal of Advanced Transportation
+VL  - 2018
+C7  - 5812939
+DO  - 10.1155/2018/5812939
+UR  - https://www.scopus.com/pages/publications/85044082134?origin=resultslist
+AB  - With the rapid development of multiyards railway intermodal terminal (MYRIT) construction in China, performance evaluation has become an important issue for terminal design and management departments. Due to the complexity of the multiyards terminal and the associated rail network, the train moving process and related terminal operations have become more complicated compared with the traditional intermodal container terminal. However, in general simulation platforms, the train moving process is simplified and train route scheduling rules are not considered in existing simulation models. In order to provide an accurate and comprehensive quantitative evaluation tool for MYRIT, a simulation platform based on the Timed Petri Net model has been developed, which can offer decision support for terminal design and management departments. In this platform, a yards and facilities layout module has been created to give simulation users access to designing the railway network on this platform. And a train route dispatching simulation method has been integrated to provide an accurate simulation of the train moving process. Based on a real case of Qianchang railway intermodal terminal that is located in Fujian Province, China, the platform is thoroughly validated against historical data. And the test scenarios show that train routes arrangement and handling equipment configuration both have a significant influence on overall terminal performance, which need to be carefully considered during terminal design and management. © 2018 Xuchao Chen et al.
+KW  - Decision support systems
+KW  - Industrial management
+KW  - Petri nets
+KW  - Port terminals
+KW  - Railroads
+KW  - Rails
+KW  - Decision supports
+KW  - Handling equipments
+KW  - Intermodal container terminals
+KW  - Intermodal terminals
+KW  - Performance evaluations
+KW  - Quantitative evaluation
+KW  - Simulation platform
+KW  - Terminal operation
+KW  - Railroad transportation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Cimpeanu, R.
+AU  - Devine, M.T.
+AU  - Tocher, D.
+AU  - Clune, L.
+TI  - Development and analysis of a port terminal loader model at RUSAL Aughinish
+PY  - 2015
+T2  - Simulation Modelling Practice and Theory
+VL  - 51
+SP  - 14
+EP  - 30
+DO  - 10.1016/j.simpat.2014.11.001
+UR  - https://www.scopus.com/pages/publications/84912095280?origin=resultslist
+AB  - The present study addresses the analysis of bulk carrier loading and discharge at the RUSAL Aughinish Alumina refinery, located on the west coast of the Republic of Ireland. We design a realistic simulation model taking into account not only deterministic features, but also elements of uncertainty. Following a statistical analysis of the results, we are able to indicate how the most important variables affect large scale performance descriptors such as berth occupancy, queueing hours and costs. The model is thoroughly validated against historical data and is subsequently applied to determine the impact of changes in key parameters on overall port operation and to suggest possible improvements of the modelled system. © 2014 Elsevier B.V. All rights reserved.
+KW  - Berth activity
+KW  - Discrete event simulation model
+KW  - Marine terminal operation
+KW  - Alumina
+KW  - Loading
+KW  - Port terminals
+KW  - Aughinish aluminas
+KW  - Discrete-event simulation model
+KW  - Historical data
+KW  - Impact of changes
+KW  - Port operations
+KW  - Realistic simulation
+KW  - Republic of Ireland
+KW  - Terminal operation
+KW  - Discrete event simulation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Liu, B.
+AU  - Wang, Y.
+TI  - Simulation-based emission calculation method for container terminal production operation system
+PY  - 2021
+T2  - IOP Conference Series: Earth and Environmental Science
+VL  - 638
+IS  - 1
+C7  - 012028
+DO  - 10.1088/1755-1315/638/1/012028
+UR  - https://www.scopus.com/pages/publications/85101661497?origin=resultslist
+AB  - The emission calculation method based on actual energy data and mathematical analytical models have the disadvantages of time-consuming and high cost, and therefore it is necessary to study a system simulation-based method for calculating the emissions of container terminal production operation systems. This paper develops a simulation model of container terminal production operation systems based on the Arena simulation platform. Emission calculation formulas are embedded into the simulation model, which can calculate and output the energy consumption and emissions of ships and handling equipment. To validate the system simulation-based emission calculation method, a container terminal is taken as the research object and a series of simulation experiments are conducted. The main results show that (1) NOx is the main air pollutant and the CO2 and NOx emissions mainly come from ships, which are 90.7% and 80.4%, respectively, and (2) CO2 and NOx emissions during navigation of ships in the waterway are the main part of ship emissions and account for 60.7% and 53.9%, respectively.  © Published under licence by IOP Publishing Ltd.
+KW  - Air navigation
+KW  - Carbon dioxide
+KW  - Energy utilization
+KW  - Nitrogen oxides
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Ships
+KW  - Water pollution
+KW  - Container terminal
+KW  - Emission calculation
+KW  - Handling equipments
+KW  - Production operations
+KW  - Research object
+KW  - Ship emissions
+KW  - Simulation model
+KW  - System simulations
+KW  - Containers
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Bett, D.K.
+AU  - Ali, I.
+AU  - Gheith, M.
+AU  - Eltawil, A.
+TI  - Simulation-Based Optimization of Truck Appointment Systems in Container Terminals: A Dual Transactions Approach with Improved Congestion Factor Representation
+PY  - 2024
+T2  - Logistics
+VL  - 8
+IS  - 3
+C7  - 80
+DO  - 10.3390/logistics8030080
+UR  - https://www.scopus.com/pages/publications/85205125470?origin=resultslist
+AB  - Background: Container terminals (CTs) have constantly administered truck appointment systems (TASs) to effectively accomplish the planning and scheduling of drayage operations. However, since the operations in the gate and yard area of a CT are stochastic, there is a need to incorporate uncertainty during the development and execution of appointment schedules. Further, the situation is complicated by disruptions in the arrival of external trucks (ETs) during transport, which results in congestion at the port due to unbalanced arrivals. In the wake of Industry 4.0, simulation can be used to test and investigate the present CT configurations for possible improvements. Methods: This paper presents a simulation optimization (SO) and simulation-based optimization (SBO) iteration framework which adopts a dual transactions approach to minimize the gate operation costs and establish the relationship between productivity and service time while considering congestion in the yard area. It integrates the use of both the developed discrete event simulation (DES) and a mixed integer programming (MIP) model from the literature to iteratively generate an improved schedule. The key performance indicators considered include the truck turnaround time (TTT) and the average time the trucks spend at each yard block (YB). The proposed approach was verified using input parameters from the literature. Results: The findings from the SO experiments indicate that, at most, two gates were required to be opened at each time window (TW), yielding an average minimum operating cost of USD 335.31. Meanwhile, results from the SBO iteration experiment indicate an inverse relationship between productivity factor (PF) values and yard crane (YC) service time. Conclusions: Overall, the findings provided an informed understanding of the need for dynamic scheduling of available resources in the yard to cut down on the gate operating costs. Further, the presented two methodologies can be incorporated with Industry 4.0 technologies to design digital twins for use in conventional CT by planners at an operational level as a decision-support tool. © 2024 by the authors.
+KW  - appointment scheduling
+KW  - congestion
+KW  - discrete event simulation
+KW  - dual transactions
+KW  - external trucks
+KW  - simulation-based optimization iteration
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Yang, C.
+AU  - Zhang, Y.
+AU  - Wang, J.
+AU  - He, L.
+AU  - Wu, H.
+TI  - A deep reinforcement learning based multi-agent simulation optimization approach for IGV bidirectional task allocation and charging joint scheduling in automated container terminals
+PY  - 2025
+T2  - Computers and Operations Research
+VL  - 183
+C7  - 107189
+DO  - 10.1016/j.cor.2025.107189
+UR  - https://www.scopus.com/pages/publications/105008770381?origin=resultslist
+AB  - Intelligent guided vehicle (IGV) task allocation and charging scheduling at automated container terminal (ACT) are two important operational links that interact with each other. The joint scheduling problem of IGV task allocation and charging aims to improve the operational coherence and efficiency of the transportation system. In the parallelly arranged ACT, since IGV needs to enter the yard for side loading operations, the task allocation will greatly affect the empty travel distance and power consumption of IGV. In addition, the dual-cycling mode and the changes in power consumption rate under different IGV operation states make the above joint scheduling problem more complicated. In order to solve this problem, this paper uses the Markov decision process to characterize the IGV bidirectional task allocation and charging joint scheduling problem, and designs a multi-agent simulation optimization method based on deep reinforcement learning to generate a real-time adaptive scheduling solution. Considering the comprehensive impact of the agent's long-term and short-term goals, a reward function is designed, and the deep neural network training is used to guide the IGV agent to choose the action with the largest expected cumulative reward. In addition, an adaptive double threshold charging strategy is designed, under which IGV can flexibly select the minimum charging threshold according to the system status. Finally, a multi-agent fine-grained simulation model is constructed to verify the effectiveness of the proposed method. Through comparative experiments with three single heuristic scheduling rules, different reinforcement learning algorithms and a fixed single-threshold charging strategy, it is proved that the new method can improve the operating efficiency of the system and the battery utilization of the IGV, and reduce the empty travel time of the IGV. Simulation experiments show that flexible task allocation and charging strategies can better adapt to the complex and dynamic operating environment of the ACT. © 2025 Elsevier Ltd
+KW  - Agent-based simulation
+KW  - Automated container terminals
+KW  - Deep reinforcement learning
+KW  - Intelligent guided vehicle
+KW  - Task allocation
+KW  - Automatic guided vehicles
+KW  - Automation
+KW  - Behavioral research
+KW  - Charging time
+KW  - Deep learning
+KW  - Deep reinforcement learning
+KW  - Electric power utilization
+KW  - Heuristic algorithms
+KW  - Heuristic methods
+KW  - Intelligent agents
+KW  - Intelligent vehicle highway systems
+KW  - Learning algorithms
+KW  - Markov processes
+KW  - Multi agent systems
+KW  - Optimization
+KW  - Scheduling algorithms
+KW  - Travel time
+KW  - Agent based simulation
+KW  - Automated container terminals
+KW  - Charging strategies
+KW  - Intelligent guided vehicle
+KW  - Joint scheduling
+KW  - Multi-agents simulations
+KW  - Reinforcement learnings
+KW  - Scheduling problem
+KW  - Simulation optimization
+KW  - Task allocation
+KW  - Reinforcement learning
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Tang, G.
+AU  - Guo, L.
+AU  - Zhao, Z.
+AU  - Zhou, P.
+AU  - Zhang, D.
+AU  - Xu, H.
+TI  - A Multi-Agent-based Simulation Model for Operations in the Automated Container Terminal with a U-Shaped Layout
+PY  - 2022
+T2  - ACM International Conference Proceeding Series
+SP  - 54
+EP  - 61
+DO  - 10.1145/3547578.3547587
+UR  - https://www.scopus.com/pages/publications/85139095483?origin=resultslist
+AB  - With the development of automated container terminals (ACTs), various layouts of terminals are emerging. In this study, we take the operation in ACT with U-shaped layout as the research object, analyze the characteristics of the ACT layout and the operation process. Based on that, we construct a multi-agent-based simulation model for operations in ACT with a U-shaped layout, considering the coupling operation of double trolley quayside crane (DTQC), intelligent guide vehicle (IGV) and double cantilever automatic rail mounted gantry crane (DCARMG). Finally, we take an actual ACT as an example to verify the validity of the simulation model and analyze the impact of different DCARMG operation strategies and the number of IGVs on the efficiency of terminal operations. © 2022 ACM.
+KW  - Automated container terminal
+KW  - Intelligent guide vehicle configuration
+KW  - multi-agent-based simulation
+KW  - U-shaped layout
+KW  - Automation
+KW  - Containers
+KW  - Gantry cranes
+KW  - Intelligent agents
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Agent-based simulation models
+KW  - Automated container terminals
+KW  - Double cantilevers
+KW  - Intelligent guide vehicle configuration
+KW  - Multi agent based simulations
+KW  - Multi agent-based simulations
+KW  - Research object
+KW  - U-shaped
+KW  - U-shaped layout
+KW  - Vehicle configuration
+KW  - Multi agent systems
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Cahyono, R.T.
+AU  - Flonk, E.J.
+AU  - Jayawardhana, B.
+TI  - Discrete-event systems modeling and the model predictive allocation algorithm for integrated berth and quay crane allocation
+PY  - 2020
+T2  - IEEE Transactions on Intelligent Transportation Systems
+VL  - 21
+IS  - 3
+C7  - 8700602
+SP  - 1321
+EP  - 1331
+DO  - 10.1109/TITS.2019.2910283
+UR  - https://www.scopus.com/pages/publications/85081132695?origin=resultslist
+AB  - In this paper, we study the problem of integrated berth and quay crane allocation (I-BCAP) in general seaport container terminals and propose the model predictive allocation (MPA) algorithm and preconditioning methods for solving the I-BCAP. First, we propose a dynamical modeling framework based on discrete-event systems (DESs), which describes the operation of a berthing process with multiple discrete berthing positions and multiple quay cranes. Second, based on the discrete-event model, we propose the MPA algorithm for solving the I-BCAP using the model predictive control (MPC) principle with a rolling event horizon. The validation and performance evaluation of the proposed modeling framework and allocation method are done using: 1) extensive Monte Carlo simulations with realistically generated datasets; 2) real dataset from a container terminal in Tanjung Priuk port, located in Jakarta, Indonesia; and 3) real life field experiment at the aforementioned container terminal. The numerical simulation results show that our proposed MPA algorithm can improve the efficiency of the process where the total handling and waiting cost is reduced by approximately 6%-9% in comparison with the commonly adapted method of first-come first-served (FCFS) (for the berthing process) combined with the density-based quay cranes allocation (DBQA) strategy. Moreover, the proposed method outperforms the state-of-the-art hybrid particle swarm optimization (HPSO)-based and genetic algorithm (GA)-based method proposed in the recent literature. The real life field experiment shows an improvement of about 6% in comparison with the existing allocation method used in the terminal. © 2000-2011 IEEE.
+KW  - discrete-event systems
+KW  - dynamic scheduling
+KW  - marine transportation
+KW  - Predictive control
+KW  - Containers
+KW  - Cranes
+KW  - Genetic algorithms
+KW  - Intelligent systems
+KW  - Model predictive control
+KW  - Monte Carlo methods
+KW  - Numerical methods
+KW  - Particle swarm optimization (PSO)
+KW  - Port terminals
+KW  - Ports and harbors
+KW  - Predictive control systems
+KW  - Railroad yards and terminals
+KW  - Algorithm for solving
+KW  - Discrete event models
+KW  - Dynamic scheduling
+KW  - First come first served
+KW  - Hybrid Particle Swarm Optimization
+KW  - Marine transportation
+KW  - Preconditioning method
+KW  - Predictive control
+KW  - Discrete event simulation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 49
+ER  -
+
+TY  - CONF
+AU  - Ruiz-Aguilar, J.J.
+AU  - Turias, I.J.
+AU  - Cerbán, M.
+AU  - Jiménez-Come, M.J.
+AU  - González, M.J.
+AU  - Pulido, A.
+TI  - Time Analysis of the Containerized Cargo Flow in the Logistic Chain Using Simulation Tools: The Case of the Port of Seville (Spain)
+PY  - 2016
+T2  - Transportation Research Procedia
+VL  - 18
+SP  - 19
+EP  - 26
+DO  - 10.1016/j.trpro.2016.12.003
+UR  - https://www.scopus.com/pages/publications/85019053861?origin=resultslist
+AB  - The logistic chain that connects the capital of Spain (Madrid) with the Canary Islands has the Port of Seville as the port node. This port node makes possible to switch from one transport mode (railway) to another (maritime) at the container terminal of the port. Some constraints, such as the operational time window that restricts the freight train access into the port in a certain time-slot or the need of the reversal of the train before entering into port, lead to generate important time delays in the intermodal chain. A time analysis of the process is necessary in order to check the critical points. A simulation of the whole process from the goods departing the origin station by train until they leave the port of Seville by ship to the Canary Islands is performed. To this aim, a queuing model network was developed in order to simulate the travel time of the cargo. The database is composed of daily departures of goods train and daily departures of vessels (including times of docking, berthing or load/unload cargo). The final objective of this work is twofold: firstly, to provide a validated model of the containerized cargo flow and secondly, to demonstrate that this kind of queuing models can become a powerful supporting tool in making decisions about future investments. © 2016 The Authors. Published by Elsevier B.V.
+KW  - container
+KW  - Discrete-event simulation
+KW  - logistic chain
+KW  - port investment
+KW  - queues
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Mathias, N.A.S.
+AU  - Santos, T.A.
+AU  - Guedes Soares, C.
+TI  - Analysis of a new container terminal using a simulation approach
+PY  - 2018
+T2  - Progress in Maritime Technology and Engineering - Proceedings of the 4th International Conference on Maritime Technology and Engineering, MARTECH 2018
+SP  - 43
+EP  - 52
+DO  - 10.1201/9780429505294-6
+UR  - https://www.scopus.com/pages/publications/85061397145?origin=resultslist
+AB  - The aim of this paper is to carry out the pre-dimensioning of a new container terminal with an empiric method and, subsequently, develop a simulation model of the same terminal using a discrete event simulation software and perform the simulation of its operations. The comprehensive model includes the appropriate accesses by road and rail as well as a container freight station. The model is used to study the flows of cargo and equipment along the container terminal, identifying bottlenecks in specific areas and is applied to the study of a new container terminal in the Port of Leixoes. This terminal has a design capacity for 600.000 TEU and the land area available is scarce, so the aim of the study is to validate the method used for the pre-dimensioning, as well as determining by simulation any possible bottlenecks in layout and equipment. The application of simulation has indicated that this terminal, with some conditions, may be able to move the required number of TEUs while keeping within reasonable levels of utilization. © 2018 Taylor & Francis Group, London, UK
+KW  - Containers
+KW  - Discrete event simulation
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Comprehensive model
+KW  - Container terminal
+KW  - Design capacity
+KW  - Discrete event simulation software
+KW  - Freight stations
+KW  - Simulation approach
+KW  - Simulation model
+KW  - Specific areas
+KW  - Computer software
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Fiori, C.
+AU  - Cisternas, L.J.
+AU  - de Luca, S.
+TI  - A discrete-event multi-agent simulation framework supporting well-to-wheel analysis for greening commercial maritime ports
+PY  - 2025
+T2  - Simulation Modelling Practice and Theory
+VL  - 140
+C7  - 103061
+DO  - 10.1016/j.simpat.2024.103061
+UR  - https://www.scopus.com/pages/publications/85214495992?origin=resultslist
+AB  - This paper develops a discrete-event multi-agent simulation model that may support robust and realistic well-to-wheel analysis to assess energy consumption and greenhouse gas emissions of greener technologies applied to container terminal activities. To this end, a discrete-event simulation multi-agent model was specifically developed and validated with real data for the port of Salerno (southern Italy), and a well-to-wheel analysis was carried out by comparing different scenarios with an increasing level of port electrification solutions. A comparison is proposed in terms of consumption and emissions between conventionally fueled and “green” vehicles, including cold ironing technology. The proposed modeling framework makes it possible to simulate highly complex logistics systems in which the environmental and energetic performance of the handling equipment may significantly differ and be significantly affected by human factors and external factors. Our results show that the greener scenario allows higher emissions reduction based on the energy sources used to produce electricity. © 2024
+KW  - Container terminal simulation
+KW  - Discrete event simulation
+KW  - Electrification
+KW  - Emissions
+KW  - Energy consumption
+KW  - Multi-agent simulation
+KW  - Well-to-wheel analysis
+KW  - Low emission
+KW  - Container terminal
+KW  - Container terminal simulation
+KW  - Discrete events
+KW  - Discrete-event simulations
+KW  - Emission
+KW  - Energy-consumption
+KW  - Multi-agents simulations
+KW  - Simulation framework
+KW  - Terminal simulations
+KW  - Well-to-wheel analysis
+KW  - Wheels
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Kotachi, M.
+AU  - Rabadi, G.
+AU  - Msakni, M.K.
+AU  - Al-Salem, M.
+AU  - Diabat, A.
+TI  - A discrete event simulation for the logistics of Hamad's container terminal of Qatar
+PY  - 2016
+T2  - Proceedings - Winter Simulation Conference
+VL  - 0
+C7  - 7822267
+SP  - 2262
+EP  - 2271
+DO  - 10.1109/WSC.2016.7822267
+UR  - https://www.scopus.com/pages/publications/85014288800?origin=resultslist
+AB  - A discrete even simulation is developed for the first container terminal of Hamad's new port of Qatar which is anticipated to start its operations by the end of 2016. The model is based on the operational knowledge of experts from the current port of Doha and Qatar's port authority (Mwani). The challenge in this paper is validating a simulation for a system that has not started its operation. Nonetheless, data and configuration of the current port has been utilized to partially validate the output of the simulation. The preliminary analysis shows promising results and indicate the validity of the model. © 2016 IEEE.
+KW  - Containers
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Container terminal
+KW  - Operational knowledge
+KW  - Port authorities
+KW  - Preliminary analysis
+KW  - Discrete event simulation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Torrisi, V.
+AU  - Cocuzza, E.
+AU  - Ignaccolo, M.
+TI  - Simulation model to assess freight flow effects in the urban-port road interface: A practical use-case for the commercial port in Catania (Italy)
+PY  - 2025
+T2  - Transportation Research Procedia
+VL  - 83
+SP  - 236
+EP  - 243
+DO  - 10.1016/j.trpro.2025.02.032
+UR  - https://www.scopus.com/pages/publications/105001124922?origin=resultslist
+AB  - The proximity of cities to ports has historically played a key role in shaping urban development, facilitating trade, promoting industrial growth and improving transport networks. Considering commercial ports, the operations produce significant impacts on vehicular circulation within port-city areas, generating congestion and pollution issues. To foster sustainability in these areas characterized by port commercial activities, the quantification of generated impacts and the identification of targeted mitigation measures is required. In this regard, traffic simulation models provide effective tools for assessing the performance of the transport system and the related performances that port operations may produce on urban mobility. These tools can be used to evaluate different scenarios by operating variations in terms of transport supply (e.g., transport infrastructure) and mobility demand (e.g., vehicular traffic flows). The paper presents a methodological framework to simulate and evaluate the interactions between urban traffic flow and one resulting from port activities with related externalities. A real-case study has been analyzed, implementing and calibrating the transport model of the access area of the commercial port of Catania (Italy). Different simulations have been performed to reproduce the state of affairs analysis, considering traffic flows related to (i) Pick-off hour, (ii) Pick-hour and (iii) Port Pick-hour. Additionally, having highlighted the critical issues through performance indicators related to light and heavy vehicular traffic (e.g. level of service, queue length; delays; emissions and fuel consuption), alternative scenarios of transport supply and mobility demand variation have been analyzed. Results show that infrastructural changes could be a viable approach for enhancing better mobility patterns at the port-city interface. Future research developments intend to integrate the simulation model with Automatic Identification System (AIS) data to perform a more in-depth analysis focused on the reorganization of the processes of entry and exit of heavy vehicles from the commercial port.  © 2024 The Authors.
+KW  - Commercial Ports
+KW  - Level of service
+KW  - Sustainable Mobility
+KW  - Traffic microsimulation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Neyra, J.
+AU  - Silva, L.
+AU  - Netto, J.
+AU  - Medina, A.
+TI  - Optimization of Operations in Solid Bulk Port Terminals Using Digital Twin
+PY  - 2025
+T2  - Proceedings - Winter Simulation Conference
+SP  - 3046
+EP  - 3057
+DO  - 10.1109/WSC68292.2025.11339094
+UR  - https://www.scopus.com/pages/publications/105033155736?origin=resultslist
+AB  - This article presents the development of a Digital Twin (DT)-based tool for optimizing scheduling in solid bulk export port terminals. The approach integrates agent-based simulation with the Ant Colony System (ACS) metaheuristic to efficiently plan railway unloading, stockyard storage, and maritime shipping. The model interacts with operational data, anticipating issues and aiding decision-making. Validation was performed using real data from a port terminal in Brazil, yielding compatible results and reducing port stay duration. Tests were based on a Baseline Scenario, aligned with a mineral export terminal, for ACS parameter calibration, along with three additional scenarios: direct shipment, preventive maintenance, and a simultaneous route from stockyard to ships. This study highlights DT's potential to modernize port operations, offering practical support in large-scale logistics environments. © 2025 IEEE.
+KW  - Agents
+KW  - Ant colony optimization
+KW  - Artificial intelligence
+KW  - Decision making
+KW  - Digital storage
+KW  - Digital twin
+KW  - Ports and harbors
+KW  - Preventive maintenance
+KW  - Railroad transportation
+KW  - Ships
+KW  - Unloading
+KW  - Agent based simulation
+KW  - Ant's colony system
+KW  - Decisions makings
+KW  - Maritime shipping
+KW  - Metaheuristic
+KW  - Mineral exports
+KW  - Operational data
+KW  - Optimisations
+KW  - Parameters calibrations
+KW  - Systems parameters
+KW  - Port terminals
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Xiang, X.
+AU  - Liu, C.
+TI  - Modeling and analysis for an automated container terminal considering battery management
+PY  - 2021
+T2  - Computers and Industrial Engineering
+VL  - 156
+C7  - 107258
+DO  - 10.1016/j.cie.2021.107258
+UR  - https://www.scopus.com/pages/publications/85104788298?origin=resultslist
+AB  - With the development of information technology, automation and intelligence techniques have gradually taken place of the manpower in container terminals. The automation of container terminals can improve the operation efficiency and decrease the labor cost, while the construction of this kind of container terminals always requires a large investment. Thus, it is very important to analyze the performance of the container terminal in the planning stage. In such a system, battery management can seriously affect system performance. This paper develops a nested semi-open queueing network model for estimating the performance of an automated container terminal with consideration of battery management. Since the model is difficult to solve, we employ an approximation approach. We first reduce the network into a semi-open queueing network with two load-dependent service nodes. The matrix-geometric method is applied to solve the reduced semi-open queuing networks and evaluate system performance. Based on the approximation solution, we further optimize resource allocation and layout design of the system, specifically, the optimal number of AGVs, the length-to-width ratio of the yard, optimal task assignment strategy, and battery recovery strategy. Extensive numerical experiments are conducted: (i) we validate the performance of models by comparing them with simulation models and the results show that the proposed analytical models perform very well; (ii) we also conduct numerical experiments for system design optimization and some design insights are concluded; (iii) we investigate which strategy is better by comparing annual cost and the results show that the battery swapping strategy performs better than the plug-in charging strategy unless the price of a spare battery is very high. © 2021 Elsevier Ltd
+KW  - Automated container terminal
+KW  - Battery management
+KW  - Design optimization
+KW  - Semi-open queuing network
+KW  - Containers
+KW  - Investments
+KW  - Port terminals
+KW  - Queueing networks
+KW  - Queueing theory
+KW  - Railroad yards and terminals
+KW  - Wages
+KW  - Automated container terminals
+KW  - Battery Management
+KW  - Container terminal
+KW  - Design optimization
+KW  - Model and analysis
+KW  - Numerical experiments
+KW  - Open queueing networks
+KW  - Performance
+KW  - Semi-open queuing network
+KW  - Systems performance
+KW  - Automation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 53
+ER  -
+
+TY  - CONF
+TI  - Simulation-based digital twin for next generation ports
+PY  - 2019
+T2  - IISE Annual Conference and Expo 2019
+C7  - 967079
+UR  - https://www.scopus.com/pages/publications/85095454333?origin=resultslist
+AB  - The objectives of this research are to explore the foundation of simulation-based digital twin and develop industrial applications of digital twins for next generation ports. Many studies have shown that discrete event simulation (DES) is useful to simulate complex systems. DES can be utilized as a digital twin which not only replays the history, but also tests “what-if” scenarios. For complex systems such as the container terminal, digital twin is the only way to explore various ideas and strategies on design, planning and operation levels, and even optimization methods to further improve the operation efficiency. However, most of commercial software for DES are closed software which users can only play within build-in functions and are difficult to extend for other purposes. To address these limitations, an object-oriented DES modeling framework – O2DES.Net – is employed to develop terminal digital twin and traffic digital twin. The scalability, modularity and open structure features of O2DES.Net ensure that the digital twins can focus on not only equipment mechanism but also system performance for various terminal concepts. © 2019 IISE Annual Conference and Expo 2019. All rights reserved.
+KW  - Container terminal
+KW  - Digital twin
+KW  - Maritime industry
+KW  - Simulation
+KW  - Discrete event simulation
+KW  - Industrial research
+KW  - Object oriented programming
+KW  - Commercial software
+KW  - Container terminal
+KW  - Model framework
+KW  - Object oriented
+KW  - Operation efficiencies
+KW  - Operation levels
+KW  - Optimization method
+KW  - Terminal concept
+KW  - Digital twin
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Benghalia, A.
+AU  - Ferdjallah, A.
+AU  - Oudani, M.
+AU  - Boukachour, J.
+TI  - Machine Learning and Simulation for Efficiency and Sustainability in Container Terminals
+PY  - 2025
+T2  - Sustainability (Switzerland)
+VL  - 17
+IS  - 7
+C7  - 2927
+DO  - 10.3390/su17072927
+UR  - https://www.scopus.com/pages/publications/105002284978?origin=resultslist
+AB  - This paper examines the impact of reducing ship turnaround time on the performance of container terminals, with a focus on leveraging artificial intelligence (AI) to enhance operational efficiency. It presents a novel framework combining machine learning algorithms with discrete-event simulation to predict ship turnaround times using historical data. The proposed approach is empirically validated with data from the Algiers Port Container Terminal, achieving an exceptionally high predictive precision of 0.9991. Simulating terminal operations with both real and predicted data offers valuable insights into improving performance. The results demonstrate that minimizing empty trips and reducing the waiting times for handling equipment significantly enhance turnaround time. Additionally, optimizing terminal operations reduces carbon emissions, aligning with sustainable development objectives in port logistics. This study proposes a novel integration of machine learning and simulation, demonstrating its effectiveness in optimizing ship turnaround times and reducing carbon emissions. By integrating machine learning and discrete-event simulation, this research offers new perspectives on port logistics, contributing to the advancement of sustainable and efficient terminal operations. © 2025 by the authors.
+KW  - carbon emissions
+KW  - container terminal
+KW  - machine learning
+KW  - port logistics
+KW  - simulation
+KW  - sustainability
+KW  - Alger [Algeria]
+KW  - Algeria
+KW  - Algiers
+KW  - carbon emission
+KW  - computer simulation
+KW  - container terminal
+KW  - logistics
+KW  - machine learning
+KW  - port operation
+KW  - sustainability
+KW  - sustainable development
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Cao, P.
+AU  - Jiang, G.
+AU  - Huang, S.
+AU  - Ma, L.
+TI  - Integrated simulation and optimisation of scheduling yard crane and yard truck in loading operation
+PY  - 2020
+T2  - International Journal of Shipping and Transport Logistics
+VL  - 12
+IS  - 3
+SP  - 230
+EP  - 250
+DO  - 10.1504/IJSTL.2020.107234
+UR  - https://www.scopus.com/pages/publications/85085115249?origin=resultslist
+AB  - To further decrease turnaround time of container vessels, synchronous scheduling of yard crane (YC) and yard truck (YT) with the impact of quay crane (QC) is mainly considered. On this basis, the interference between YCs, YT pool strategy and other practical constraints, are also taken into consideration. Firstly, this problem formulated as a mixed integer programming model to minimise the makespan of loading operation. Due to the computational intractability, the multi-layers genetic algorithm is introduced to solve the problem with a simulation model, then an improved algorithm and an algorithm accelerating strategy are also designed to further improve the optimising efficiency. Finally, two sets of experiments with over 300 tests are conducted by eight elastic compute services on Alibaba Cloud to validate necessity of considering the impact of QC and the solution quality and effectiveness of the proposed methods. Copyright © 2020 Inderscience Enterprises Ltd.
+KW  - AAS
+KW  - Algorithm accelerating strategy
+KW  - Container terminal
+KW  - Integrated scheduling
+KW  - Multi-layers genetic algorithm
+KW  - Simulation optimisation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Wang, J.
+AU  - Zhang, Y.
+AU  - Tang, K.
+AU  - Zhou, W.
+AU  - Yang, C.
+TI  - Dynamic charging strategies for battery-powered IGV based on multi-agent simulation in automated container terminals
+PY  - 2025
+T2  - Flexible Services and Manufacturing Journal
+DO  - 10.1007/s10696-025-09595-9
+UR  - https://www.scopus.com/pages/publications/85218687800?origin=resultslist
+AB  - To enhance the charging efficiency of a battery-powered intelligent guide vehicle (B-IGV) at an automated container terminal (ACT), a dynamic charging scheduling strategy based on vehicle scheduling and rotation, push charging, and pull charging is studied. The objective is to minimize the task completion times while reducing the total number of charging events and improving the overall battery level of the fleet. A simulation model for B-IGV dynamic charging scheduling is developed using a multi-agent system (MAS). Causal analysis experiments are conducted to adjust the charging threshold parameters to find the optimal combination of minimum charging and sufficient battery threshold values. Comparative experiments are designed to validate the effectiveness and robustness of the dynamic charging scheduling strategy. Simulation tests on a 1500 container transport task show that the proposed charging scheduling strategy performs significantly better in effectiveness and feasibility than the traditional "charge-and-leave" strategy. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025.
+KW  - Automated container terminal
+KW  - Dynamic charging scheduling
+KW  - Horizontal transport equipment
+KW  - Multi-agent simulation model
+KW  - Charging time
+KW  - Fleet operations
+KW  - State of charge
+KW  - Agent simulation model
+KW  - Automated container terminals
+KW  - Battery powered
+KW  - Dynamic charging scheduling
+KW  - Horizontal transport
+KW  - Horizontal transport equipment
+KW  - Multi-agent simulation model
+KW  - Multi-agents simulations
+KW  - Scheduling strategies
+KW  - Transport equipment
+KW  - Charging stations
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Yu, X.
+AU  - Tang, G.
+AU  - Guo, Z.
+AU  - Song, X.
+AU  - Yu, J.
+TI  - Performance Comparison of Real-Time Yard Crane Dispatching Strategies at Nontransshipment Container Terminals
+PY  - 2018
+T2  - Mathematical Problems in Engineering
+VL  - 2018
+C7  - 5401710
+DO  - 10.1155/2018/5401710
+UR  - https://www.scopus.com/pages/publications/85048603424?origin=resultslist
+AB  - Yard crane operations are often a bottleneck at a container terminal. This paper aims to investigate the effects of various real-time yard crane dispatching strategies on operational cost and gross crane rate (GCR) for nontransshipment container terminals. A general cost estimation model is introduced to incorporate the detailed costs incurred during container handling process within terminal area. The formulas of container handling related parameters are mathematically derived to validate the simulation model. Results reveal that the common nearest truck first served strategy yields the lowest operational cost but the lowest GCR. On the other hand, earliest YT strategy achieves the highest GCR at the expense of higher operational cost with more vessel calls, while nearest YT strategy produces the highest GCR and is the second economical with fewer vessel calls. Under any of the proposed yard crane dispatching strategies, the strategy that separately stacks import and export containers into different blocks outperforms the scattered stacking strategy in terms of GCR, although no distinct cost advantage is obtained. The results provide fundamental insights into the connection between real-time yard crane dispatching strategies and operational performance at manually controlled nontransshipment container terminals. © 2018 Xuhui Yu et al.
+KW  - Cost estimating
+KW  - Cranes
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Ship cranes
+KW  - Container handling
+KW  - Container terminal
+KW  - Cost estimation models
+KW  - Import and exports
+KW  - Operational performance
+KW  - Performance comparison
+KW  - Simulation model
+KW  - Yard crane dispatching
+KW  - Containers
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - ElMesmary, H.-T.
+AU  - Song, D.
+AU  - Dinwoodie, J.
+TI  - Pipe flow modelling of container terminal logistics processes: a case study in Alexandria
+PY  - 2015
+T2  - International Journal of Logistics Research and Applications
+VL  - 18
+IS  - 2
+SP  - 168
+EP  - 187
+DO  - 10.1080/13675567.2014.986443
+UR  - https://www.scopus.com/pages/publications/84928600716?origin=resultslist
+AB  - Potentially powerful pipe flow models of container terminal logistics processes have been neglected to date. Despite phenomenal recent growth in container traffic in Egypt, modelling of terminals handling this traffic has remained rare. A case application in Alexandria, Egypt, collated empirical container and information flows using interviews and company records to develop a dynamic operational perspective. Using these data, operational-level model simulation of the entire logistical processes of both import and export flows was undertaken. Following successful validation of a base simulation model, scenario testing has empowered the case company to proactively design and test the impact of operational changes on the entire logistics process. © 2014, © 2014 Taylor & Francis.
+KW  - container terminals
+KW  - logistics processes
+KW  - modelling
+KW  - scenario testing
+KW  - simulation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Wang, J.
+AU  - Huang, H.
+AU  - Zhang, C.
+AU  - Zhang, Y.
+TI  - Simulation Analysis of Dynamic Scheduling for Uncertain Task in Automated Container Terminal
+PY  - 2023
+T2  - IET Conference Proceedings
+VL  - 2023
+IS  - 49
+SP  - 67
+EP  - 72
+DO  - 10.1049/icp.2024.3640
+UR  - https://www.scopus.com/pages/publications/85216796752?origin=resultslist
+AB  - Aiming at the problem of charging scheduling in automated container terminals, a dynamic charging scheduling strategy is proposed based on the traditional AGV leave when fully charged strategy combined with a new type of horizontal transport vehicle named Unmanned Truck. The strategy is divided into three parts: vehicle rotation, push charging and pull charging. The vehicle rotation strategy divides the vehicles into working vehicles and non-working vehicles for partition management. When the power of the charging vehicle reaches the threshold, the Pull charging strategy will be activated to improve the robustness of the port to deal with unexpected tasks. Finally, the simulation software Anylogic is used to simulate and model the port transportation tasks under different charging scheduling strategies to verify the actual performance of the dynamic charging scheduling strategy. © The Institution of Engineering & Technology 2023.
+KW  - AGV
+KW  - AUTOMATIC TERMINAL
+KW  - CHARGING SCHEDULING STRATEGY
+KW  - SIMULATION MODEL
+KW  - UNMANNED TRUCK
+KW  - Truck transportation
+KW  - AGV
+KW  - Automated container terminals
+KW  - AUTOMATIC TERMINAL
+KW  - CHARGING SCHEDULING STRATEGY
+KW  - Dynamic scheduling
+KW  - Horizontal transport
+KW  - Scheduling strategies
+KW  - Simulation analysis
+KW  - Simulation model
+KW  - UNMANNED TRUCK
+KW  - Trucks
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ahmed, E.
+AU  - El-Abbasy, M.S.
+AU  - Zayed, T.
+AU  - Alfalah, G.
+AU  - Alkass, S.
+TI  - Synchronized scheduling model for container terminals using simulated double-cycling strategy
+PY  - 2021
+T2  - Computers and Industrial Engineering
+VL  - 154
+C7  - 107118
+DO  - 10.1016/j.cie.2021.107118
+UR  - https://www.scopus.com/pages/publications/85100153975?origin=resultslist
+AB  - Global ocean-based trade has been increasing significantly. To keep pace with this growth, a new generation of large vessels has been introduced to maximize shipping productivity. The primary goal of container terminals is to accelerate vessel turnaround time through effective coordination of the main handling components. This study proposes an efficient strategy to handle containers by employing double-cycling to minimize the number of empty travel trips of yard trucks. To verify the efficiency of the proposed strategy, two simulation models were developed and implemented based on a real-life case study considering uncertainties in the work task duration. The integrated single-cycling model predicted productivity with an accuracy rate of over 97%, compared with the actual site productivity. When compared to the standard single-cycling model, the double-cycling model enhanced productivity and reduced vessel turnaround time by up to 62% and 38%, respectively, and achieved cost savings of up to 27%. © 2021 Elsevier Ltd
+KW  - Container Terminal Handling
+KW  - Double-Cycling
+KW  - Integrated Operations
+KW  - Productivity
+KW  - Simulation
+KW  - Port terminals
+KW  - Productivity
+KW  - Railroad yards and terminals
+KW  - Accuracy rate
+KW  - Container terminal
+KW  - Cost saving
+KW  - Efficient strategy
+KW  - Global ocean
+KW  - Site productivity
+KW  - Synchronized scheduling
+KW  - Vessel turnaround time
+KW  - Containers
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 32
+ER  -
+
+TY  - JOUR
+AU  - Abourraja, M.N.
+AU  - Kringos, N.
+AU  - Meijer, S.
+TI  - Proposal of a module-driven architecture for building simulation models devoted to container terminals: dilemmas in applying generic, flexible, and modular principles
+PY  - 2023
+T2  - Simulation
+VL  - 99
+IS  - 7
+SP  - 703
+EP  - 727
+DO  - 10.1177/00375497221144646
+UR  - https://www.scopus.com/pages/publications/85146338740?origin=resultslist
+AB  - Container terminals are complex systems where containerized cargo undergoes a set of processing and handling operations to be delivered to their outgoing modes. A pool of decision support methods and simulation models has been developed to assist planners and managers in making decisions about daily operations. Nevertheless, most are designed for a particular terminal and not generic types. Indeed, a generic model serves as a conceptual factory to create specific models which greatly reduces the time and efforts of development; however, building such a model is no mean feat. To this aim, the paper on hand discusses the complexity of applying genericity, flexibility, and modularity in system modeling and proposes a generic architecture to build modular and flexible simulation models for container terminals. This architecture is split into a set of smaller, manageable, well-connected, and generic modules that facilitate the creation of highly parametrized specific models. An illustrative example of the architecture usage is presented in a case study, the new container terminal of Stockholm, and the resulting models were validated by subject matter experts. Finally, to prove its efficiency, a numerical study fed with real data is conducted to investigate the handling capacity of the studied system under different handling and flow scenarios. The obtained results show that the terminal handling capacity can be increased by around 50% if three to four more straddle carriers are added to the existing fleet. © The Author(s) 2023.
+KW  - modeling approach
+KW  - Modeling principles
+KW  - scalable architecture
+KW  - simulation modeling
+KW  - system engineering
+KW  - Computer architecture
+KW  - Containers
+KW  - Decision support systems
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Building simulation model
+KW  - Container terminal
+KW  - Containerized cargo
+KW  - Handling capacity
+KW  - Modeling approach
+KW  - Modeling principles
+KW  - Modulars
+KW  - Scalable architectures
+KW  - Simulation model
+KW  - Simulation-modelling
+KW  - Architecture
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Li, B.
+AU  - Tan, K.W.
+AU  - Tran, K.T.
+TI  - Traffic simulation model for port planning and congestion prevention
+PY  - 2016
+T2  - Proceedings - Winter Simulation Conference
+VL  - 0
+C7  - 7822278
+SP  - 2382
+EP  - 2393
+DO  - 10.1109/WSC.2016.7822278
+UR  - https://www.scopus.com/pages/publications/85014246331?origin=resultslist
+AB  - Effective management of land-side transportation provides the competitive advantage to port terminal operators in improving services and efficient use of limited space in an urban port. We present a hybrid simulation model that combines traffic-flow modeling and discrete-event simulation for land-side port planning and evaluation of traffic conditions for a number of what-if scenarios. We design our model based on a real-world case of a bulk cargo port. The problem is interesting due to complexity of heterogeneous closed-looped internal vehicles and external vehicles traveling in spaces with very limited traffic regulation (no traffic lights, no traffic wardens) and the traffic interactions with port operations such as loading and unloading cargos. Our simulation results show interesting decision-support scenarios for decision makers to evaluate future port planning possibilities and to derive regulation policies governing the port traffic. © 2016 IEEE.
+KW  - Competition
+KW  - Decision making
+KW  - Decision support systems
+KW  - Discrete event simulation
+KW  - Port terminals
+KW  - Ports and harbors
+KW  - Street traffic control
+KW  - Traffic surveys
+KW  - Unloading
+KW  - Urban transportation
+KW  - Competitive advantage
+KW  - Effective management
+KW  - Loading and unloading
+KW  - Terminal operators
+KW  - Traffic flow modeling
+KW  - Traffic interactions
+KW  - Traffic regulations
+KW  - Traffic simulation model
+KW  - Traffic congestion
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Zhang, L.
+TI  - Research on Simulation Modeling of Container Terminal Logistics System Based on WITNESS
+PY  - 2022
+T2  - Proceedings - 2022 International Conference on Industrial IoT, Big Data and Supply Chain, IIoTBDSC 2022
+SP  - 173
+EP  - 178
+DO  - 10.1109/IIoTBDSC57192.2022.00041
+UR  - https://www.scopus.com/pages/publications/85152089240?origin=resultslist
+AB  - With the rapid development of China's container terminals, how to make full use of the resources of container terminals through vaious management and technical means to increase the revenue of container terminals has become a subject that needs to be studied in the scale expansion and production management of container terminals. The location of distribution center plays an important strategic role in the planning and design of distribution center. To some extent, the location of distribution center affects the success or failure of distribution center operation. Container terminal is a complex dynamic system of discrete events, which has the characteristics of dynamics, randomness and asynchrony. According to the characteristics of terminal operation, the discrete event simulation theory is adopted, the simulation model is established based on the logistics operation process of container terminal, and the event-oriented simulation method is adopted to simulate the road traffic system of Tianjin Port container terminal based on simulation software. On the basis of the formal description of discrete event system (DEVS), the DEVS model of the container terminal handling system is constructed, and its simulation model is established in the eM Plant software. Taking a port as the application background, the correctness and effectiveness of the simulation model are verified. © 2022 IEEE.
+KW  - Container terminal
+KW  - Logistics system
+KW  - Optimized simulation
+KW  - WITNESS
+KW  - Computer software
+KW  - Containers
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Warehouses
+KW  - Container terminal
+KW  - Container terminal logistics systems
+KW  - Discrete events systems
+KW  - Distribution centres
+KW  - Logistics system
+KW  - Optimized simulation
+KW  - Production management
+KW  - Simulation model
+KW  - Simulation-modelling
+KW  - WITNESS
+KW  - Discrete event simulation
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Wang, R.
+AU  - Li, J.
+AU  - Bai, R.
+TI  - Prediction and Analysis of Container Terminal Logistics Transportation Time Based on Simulation Interactive Modeling: A Case Study of Ningbo Port: Simulation Modeling of Container Terminal Logistics Time: Ningbo Port Case
+PY  - 2023
+T2  - ACM International Conference Proceeding Series
+SP  - 161
+EP  - 171
+DO  - 10.1145/3608251.3608254
+UR  - https://www.scopus.com/pages/publications/85169844459?origin=resultslist
+AB  - This study aims to analyze and predict the arrival time and influencing factors of container transportation in container yards using simulation interactive modeling technology. The data from the control center of the yard is used to establish a model and perform the driving analysis of the transfer data of container terminals. The economic benefit index is determined by expert consultation and the actual operating parameters of the automated terminal. The feasibility of the evaluation model is verified by an automated container terminal simulation model. The study fills the gaps in the literature on container arrival time and provides a useful tool for improving the efficiency of container transportation.  © 2023 ACM.
+KW  - Container Terminal Transshipment Data
+KW  - Driving Analysis
+KW  - Simulation Interactive Modeling
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Arrival time
+KW  - Container terminal
+KW  - Container terminal transshipment data
+KW  - Container transportation
+KW  - Driving analyse
+KW  - Interactive models
+KW  - Logistics transportations
+KW  - Prediction and analysis
+KW  - Simulation interactive modeling
+KW  - Transportation time
+KW  - Containers
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Gracia, M.D.
+AU  - Mar-Ortiz, J.
+AU  - González-Ramírez, R.G.
+TI  - The impact of operational strategies on vessel handling times: A simulation approach
+PY  - 2019
+T2  - International Journal of Shipping and Transport Logistics
+VL  - 11
+IS  - 4
+SP  - 287
+EP  - 315
+DO  - 10.1504/IJSTL.2019.100488
+UR  - https://www.scopus.com/pages/publications/85068263467?origin=resultslist
+AB  - This paper reports a study of the ship loading and discharging process at a container terminal. Our objective was to analyse the impact of different operational strategies on vessel handling times in order to derive managerial insights that can be used by terminal operators to manage this key performance indicator. As a basis for our study, a simulation model was implemented, validated, and verified to gain insight into the containers loading and discharging process. Four scenarios were constructed to resemble possible instances under which a vessel would operate at a Mexican container terminal, with the different operational strategies that were designed and evaluated for each scenario. An experimental framework was proposed, based on comparisons of scenarios and search experimentation, and employing a fractional factorial design to evaluate the impact of several factors on the vessel handling times. Our results emphasise that with an adequate design of the operation parameters, combined with the implementation of efficient stacking policies; it is possible to keep VHT under control. Conclusions and recommendations for further research are also discussed. Copyright © 2019 Inderscience Enterprises Ltd.
+KW  - Container terminals
+KW  - Operational strategies
+KW  - Port logistics
+KW  - Simulation analysis
+KW  - Vessel handling times
+KW  - VHT
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Grubisic, N.
+AU  - Krljan, T.
+AU  - Maglić, L.
+AU  - Vilke, S.
+TI  - The microsimulation model for assessing the impact of inbound traffic flows for container terminals located near city centers
+PY  - 2020
+T2  - Sustainability (Switzerland)
+VL  - 12
+IS  - 22
+C7  - 9478
+SP  - 1
+EP  - 19
+DO  - 10.3390/su12229478
+UR  - https://www.scopus.com/pages/publications/85096386305?origin=resultslist
+AB  - The growth of container transport places increasing demand on traffic, especially in situations where container terminals are located near the city centers. The main problem is traffic congestion on networks caused by the integration of Heavy-Duty Vehicles and urban traffic flows. The main objective is to identify the critical traffic parameters which cause negative organizational and environmental impacts on the existing and future traffic demand. A micro-level traffic simulation model was implemented for the testing of the proposed framework-based supply, demand, and control layers. The model was generated and calibrated based on the example of a mid-size Container Terminal “Brajdica” and the City of Rijeka, Croatia. The results indicate that the critical parameters are Queue Length on the approach road to the Container Terminal and the Stop Delay on the main city corridor. High values of these parameters cause negative effects on the environment because of increased fuel consumption and the generation of extra pollution. Due to this problem, a sensitivity analysis of the traffic system performance has been conducted, with a decrement of Terminal Gate Time distribution by 10%. After re-running simulations, the results indicate the impact of subsequent variation in Terminal Gate Time on the decrease of critical parameters, fuel consumption, and vehicle pollution. © 2020 by the authors. Licensee MDPI, Basel, Switzerland.
+KW  - Container terminal traffic flow
+KW  - Stop delay
+KW  - Sustainable urban transportation
+KW  - Traffic micro simulation
+KW  - Traffic monitoring
+KW  - Croatia
+KW  - Rijeka
+KW  - assessment method
+KW  - fuel consumption
+KW  - integrated approach
+KW  - model
+KW  - sensitivity analysis
+KW  - traffic congestion
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 18
+ER  -
+
+TY  - JOUR
+AU  - Bruzzone, A.
+AU  - Giulianetti, A.
+AU  - Gotelli, M.
+AU  - Sciomachen, A.
+TI  - The impact of import container flow characteristics on port operational efficiency
+PY  - 2026
+T2  - Simulation Modelling Practice and Theory
+VL  - 146
+C7  - 103228
+DO  - 10.1016/j.simpat.2025.103228
+UR  - https://www.scopus.com/pages/publications/105023990409?origin=resultslist
+AB  - In this paper, we analyze different scenarios for container flows arriving at marine terminals to different destinations in the hinterland. The aim of the study is to verify how the type of import containers — standard, hazardous, and refrigerated — and their size affect the operational efficiency of the terminal. Relevant performance indicators, such as container dwell time, average and maximum number of waiting containers, and equipment utilization rate, are evaluated. To this end, we present a discrete-event simulation study that, although generalizable to any port, refers to a terminal in the port network of Genoa (Italy). The number of considered scenarios, illustrated in this paper, are taken from a synthetic data generator for logistics flows and used in Witness Horizon v.24 simulation software environment to execute independent runs at a steady state condition. To the authors’ knowledge, this is the first time that a sensitivity analysis based on the variation in the types of containers is presented. The performed simulation experiments can be of great interest to various port stakeholders. Indeed, the results show that the percentage composition of the type of import container over the annual time horizon considered has an impact on the indicators under analysis, favoring a more balanced distribution. However, again in relation to the same indicators, the variation in container size appears to be negligible. The study highlights how advance knowledge of the type of import containers can support port terminal management in terms of efficient management and optimization of resources, providing specific advice on the operational decisions concerning equipment and block yard allocation. © 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license. http://creativecommons.org/licenses/by/4.0/
+KW  - Discrete event simulation
+KW  - Import flow
+KW  - Marine container terminal
+KW  - Performance indices
+KW  - Scenario generation
+KW  - Synthetic data
+KW  - Benchmarking
+KW  - Computer software
+KW  - Efficiency
+KW  - Port terminals
+KW  - Ports and harbors
+KW  - Refrigerated containers
+KW  - Sensitivity analysis
+KW  - Container flow
+KW  - Discrete-event simulations
+KW  - Flow characteristic
+KW  - Import flow
+KW  - Marine container terminals
+KW  - Operational efficiencies
+KW  - Performance indicators
+KW  - Performance indices
+KW  - Scenarios generation
+KW  - Synthetic data
+KW  - Discrete event simulation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+

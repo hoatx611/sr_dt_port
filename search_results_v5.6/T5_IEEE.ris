@@ -1,0 +1,1794 @@
+TY  - CONF
+TI  - Real-time locating system and digital twin in Lean 4.0
+T2  - 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 000369
+EP  - 000374
+AU  - T. -a. Tran
+AU  - T. Ruppert
+AU  - G. Eigner
+AU  - J. Abonyi
+PY  - 2021
+KW  - Job shop scheduling
+KW  - Processor scheduling
+KW  - Digital twin
+KW  - Production
+KW  - Predictive models
+KW  - Data models
+KW  - Real-time systems
+KW  - digital twin
+KW  - Industry 4.0
+KW  - real-time locating system
+KW  - indoor position system
+KW  - Lean manufacturing
+KW  - Lean 4.0
+DO  - 10.1109/SACI51354.2021.9465544
+JO  - 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 19-21 May 2021
+AB  - Digital twin plays a key role in the current development of smart manufacturing systems. Through simulation in the cyber world, real phenomena in the physical world can be predicted and optimized before the final implementation. The usage of the digital twin is enhanced along with the uprising of Industry 4.0, in which data availability supports the further insight of system status, helping the operation managers understand their system and perform resources adjustment more easily. Based on this digitization mature, Lean 4.0, a new concept elaborated from Lean manufacturing, has been interested recently. There are several technologies constituted digital twin that provide a favourable condition for Lean 4.0, such as augmented reality, cloud computing. In this paper, the integration of the Real-time Locating System (RTLS) into digital twin is proposed, which facilitates the performance of Lean 4.0 in manufacturing operation. Not only gain effective control over the facility's assets, but this integration also enhances the resources utilization, cut down operational wastes, thus brings a better turnover for industrial systems. A case study of successful implementation is shown, which proved the possible advantages of this approach.
+ER  - 
+
+TY  - CONF
+TI  - Designing an Intelligent Environmental Monitoring System for Vietnam Green Seaports
+T2  - 2024 International Russian Automation Conference (RusAutoCon)
+SP  - 462
+EP  - 467
+AU  - H. N. Van
+AU  - T. D. Anh
+PY  - 2024
+KW  - Fuzzy logic
+KW  - Training
+KW  - Adaptive systems
+KW  - Atmospheric measurements
+KW  - Software packages
+KW  - Green products
+KW  - Seaports
+KW  - Real-time systems
+KW  - Mathematical models
+KW  - Pollution measurement
+KW  - ANFIS model
+KW  - air quality forecasting
+KW  - air quality index
+KW  - LoRaWAN
+KW  - smart green ports
+KW  - ACO-ANFIS algorithm
+DO  - 10.1109/RusAutoCon61949.2024.10694425
+JO  - 2024 International Russian Automation Conference (RusAutoCon)
+IS  - 
+SN  - 2836-614X
+VO  - 
+VL  - 
+JA  - 2024 International Russian Automation Conference (RusAutoCon)
+Y1  - 8-14 Sept. 2024
+AB  - Air pollution is a complex problem for the world, particularly Vietnam. With the excessive number of ships operating and transporting goods, the air quality in these areas has become polluted and dangerous to human health. This paper presents the design and real-time application of an efficient adaptive neuro-fuzzy (ANFIS) inference system to monitor air quality at Vietnamese Ports. The system collects parameters such as PM2.5, CO, S02, and N02 in real time, and then the system calculates the AQIx index to warn the operator about the pollution level. In addition, applying the ant colony optimization (ACO) algorithm helps increase the ability to transmit and receive data between stations. The training datasets of the adaptive N euro- Fuzzy inference system were extracted from the fuzzy logic controller model developed in MATLAB Simulink, and its robustness was verified experimentally. The research results increase the ability to monitor the quality of clean, green port environments today in Vietnam.
+ER  - 
+
+TY  - CONF
+TI  - Applying Real-Time Whale Optimization Algorithm for Environmental Quality Monitoring System in Hai Phong Port, Vietnam
+T2  - 2024 International Russian Smart Industry Conference (SmartIndustryCon)
+SP  - 500
+EP  - 505
+AU  - H. Nguyen van
+AU  - A. P. Hoang
+AU  - D. Vu van
+PY  - 2024
+KW  - Temperature sensors
+KW  - Temperature measurement
+KW  - Seaports
+KW  - Air pollution
+KW  - Sensor systems
+KW  - Real-time systems
+KW  - Sensors
+KW  - Air quality monitoring
+KW  - environmental monitoring system
+KW  - RT_DTWOA algorithm
+KW  - Monitoring and control
+DO  - 10.1109/SmartIndustryCon61328.2024.10516032
+JO  - 2024 International Russian Smart Industry Conference (SmartIndustryCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Russian Smart Industry Conference (SmartIndustryCon)
+Y1  - 25-29 March 2024
+AB  - Air pollution is a top concern in major cities of developing countries. Air Quality Monitoring systems with impressive operational procedures in domestic premises are key to the creation of a sustainable pollution free green port In this article, the authors propose to build an air environment monitoring system at seaports in Vietnam based on LoRaWAnwireless communication technology. The system includes sensors that collect parameters such as CO, SO2, NO2, and PM2.5 at each intermediate station. Use the Real-time Data Transfer algorithms (RT_DTWOA) to optimize the transmission and reception process and calculate the AQI index. Experimental results of the system are stable, cost-effective and accurate on maps at the monitoring center.
+ER  - 
+
+TY  - JOUR
+TI  - Retrofitting-Based Development of Brownfield Industry 4.0 and Industry 5.0 Solutions
+T2  - IEEE Access
+SP  - 64348
+EP  - 64374
+AU  - T. -A. Tran
+AU  - T. Ruppert
+AU  - G. Eigner
+AU  - J. Abonyi
+PY  - 2022
+KW  - Industries
+KW  - Fourth Industrial Revolution
+KW  - Production
+KW  - Systematics
+KW  - Machinery
+KW  - Investment
+KW  - Aging
+KW  - Brownfield development
+KW  - legacy system
+KW  - Industry 4.0
+KW  - Industry 5.0
+KW  - retrofitting
+KW  - automation
+DO  - 10.1109/ACCESS.2022.3182491
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - The ongoing Industry 4.0 is characterized by the connectivity between components in the manufacturing system. For modern machines, the Internet of Things is a built-in function. In contrast, there are legacy machines in deployment functioning without digital communication. The need to connect them became popular to improve overall production efficiency. As building a new smart factory as a greenfield investment is a capital-intensive choice, retrofitting the existing infrastructure with IoT capability is more reasonable than replacing them. However, this so-called brownfield development, or retrofitting, requires specific prerequisites, e.g., digitization status assessment, technical and connectivity development, management requirement, and operational need, representing a significant disadvantage: lack of scalability. In the meantime, Industry 5.0 is under human-centric priority, which poses new challenges to the retrofitted system. Aware of the challenge, this paper provides a systematic overview of brownfield development regarding technical difficulties, supporting technologies, and possible applications for the legacy system. The research scope focuses on available Industry 4.0 advancements but considers preparing for the forthcoming Industry 5.0. The proposed retrofitting project approach can be a guideline for manufacturers to transform their factories into intelligent spaces with minimal cost and effort but still gain the most applicable solution for management needs. The future direction for other research in brownfield development for Industry 5.0 is also discussed.
+ER  - 
+
+TY  - CONF
+TI  - Active control of an offshore container crane
+T2  - 2015 15th International Conference on Control, Automation and Systems (ICCAS)
+SP  - 773
+EP  - 778
+AU  - N. P. Nguyen
+AU  - Q. H. Ngo
+AU  - Q. P. Ha
+PY  - 2015
+KW  - Containers
+KW  - Niobium
+KW  - Motion measurement
+KW  - Cranes
+KW  - fuzzy sliding mode control
+KW  - offshore container crane
+KW  - trajectory tracking
+KW  - sway suppression
+DO  - 10.1109/ICCAS.2015.7364725
+JO  - 2015 15th International Conference on Control, Automation and Systems (ICCAS)
+IS  - 
+SN  - 2093-7121
+VO  - 
+VL  - 
+JA  - 2015 15th International Conference on Control, Automation and Systems (ICCAS)
+Y1  - 13-16 Oct. 2015
+AB  - Open sea loading/unloading cargos provides a potential solution to tack the problem related with port construction, expansion and congestion. This process involves a crane attached to a mobile harbor (MH) which can dynamically handle container from a large container anchored in deep water. The control objective during the operation is to maintain the payload in the desired position in the presence of ocean waves. This paper presents a robust control strategy for trajectory tracking and sway suppression of an offshore container crane. A fuzzy sliding mode control law is proposed for that. Experimental results are provided to indicate the efficiency of the proposed control strategy.
+ER  - 
+
+TY  - JOUR
+TI  - Quantum Deep Reinforcement Learning for URLLC Satellite-Air-Ground Integrated Networks With Digital Twin Applications
+T2  - IEEE Internet of Things Journal
+SP  - 4230
+EP  - 4246
+AU  - S. C. Prabhashana
+AU  - D. V. Huynh
+AU  - H. Jung
+AU  - B. Canberk
+AU  - S. L. Cotton
+AU  - T. Q. Duong
+PY  - 2026
+KW  - Satellites
+KW  - Resource management
+KW  - Real-time systems
+KW  - Optimization
+KW  - Maritime communications
+KW  - 6G mobile communication
+KW  - Vehicle dynamics
+KW  - Reliability
+KW  - Reconfigurable intelligent surfaces
+KW  - Quantum computing
+KW  - 6G networks
+KW  - digital twins (DTs)
+KW  - maritime communications
+KW  - mobile edge computing (MEC)
+KW  - quantum deep reinforcement learning (DRL)
+KW  - satellite communications
+KW  - space–air–ground integrated networks
+KW  - ultrareliable and low-latency communications (URLLCs)
+DO  - 10.1109/JIOT.2025.3632060
+JO  - IEEE Internet of Things Journal
+IS  - 3
+SN  - 2327-4662
+VO  - 13
+VL  - 13
+JA  - IEEE Internet of Things Journal
+Y1  - 1 Feb.1, 2026
+AB  - In this article, we explore a maritime 6G-enhanced satellite-air-ground integrated network (SAGIN) that incorporates a unmanned aerial vehicle (UAV)-carried reconfigurable intelligent surface (UCR) relay, and low-Earth orbit (LEO) satellites equipped with mobile edge computing (MEC) facilities. The system captures dynamic maritime conditions, including ultrareliable and low-latency communication (URLLC) user mobility and UCR movements across harbor environments. The primary objective is to minimize the total system cost by jointly optimizing task offloading decisions, bandwidth allocation, local computational resource distribution, transmission power control, and caching management, while satisfying strict latency and resource constraints. To address this, we formulate a mixed-integer nonlinear programming (MINLP) problem that captures the complexity of resource optimization in the maritime 6G-enhanced SAGIN. Two quantum-enhanced deep reinforcement learning (DRL) algorithms, namely quantum-enhanced deep deterministic policy gradient (QEDDPG) and quantum-enhanced proximal policy optimization (QEPPO), are proposed to solve the formulated MINLP problem. Moreover, higher order quantum feature encoding and quantum neural networks (QNNs) are utilized to accelerate learning and enhance decision-making. Simulation results demonstrate that QEDDPG and QEPPO significantly outperform conventional DRL methods by achieving lower system costs and more efficient resource allocation. These findings show the potential of quantum-driven reinforcement learning for enabling scalable, efficient, and intelligent resource management in future 6G-enhanced SAGINs.
+ER  - 
+
+TY  - JOUR
+TI  - Building an Automatic Irrigation Fertilization System for Smart Farm in Greenhouse
+T2  - IEEE Transactions on Consumer Electronics
+SP  - 4685
+EP  - 4698
+AU  - D. Thanh Tran
+AU  - H. Su Le
+AU  - J. -H. Huh
+PY  - 2024
+KW  - Irrigation
+KW  - Protocols
+KW  - Edge computing
+KW  - Sensors
+KW  - Production
+KW  - Smart agriculture
+KW  - Crops
+KW  - Climate change
+KW  - Smart farm
+KW  - smart irrigation
+KW  - smart fertilization
+KW  - smart agriculture
+KW  - greenhouse
+KW  - IoT
+KW  - edge computing
+KW  - MQTT
+DO  - 10.1109/TCE.2023.3304554
+JO  - IEEE Transactions on Consumer Electronics
+IS  - 2
+SN  - 1558-4127
+VO  - 70
+VL  - 70
+JA  - IEEE Transactions on Consumer Electronics
+Y1  - May 2024
+AB  - Vietnam is one of the developing countries and people’s lives depend on agricultural production for 80% of the economy. Global climate change has been seriously affecting agricultural production in Vietnam and agricultural countries around the world. Farmers work agriculture manually and lack a scientific basis, so irrigation and fertilization often waste resources, increasing unnecessary costs. Meanwhile, water resources are increasingly depleted and degraded due to climate change, and the quality of agricultural production is affected. Therefore, agricultural production needs to be improved, the authors research and combine technologies in agricultural production such as IoT, smart sensors, MQTT, intelligent pumping systems, using edge computing to design automatic or semi-automatic irrigation systems to support farmers in crop care, saving costs and increasing labor productivity. In this article, we experimented with the system on cantaloupe, with a timer program for drip irrigation and fertilizer application for plants through formula settings. Mobile, desktop, and nutrient control charting software were designed for easy monitoring, manipulation, control, and administration functions are integrated into the system. We designed the Anomaly detector model with Google Firebase cloud messaging technology to detect environmental anomalies such as PH, EC, and sprinkler pressure to automatically send alerts and reports to smart devices.
+ER  - 
+
+TY  - CONF
+TI  - Implementation Of Particle Swarm Optimization To Optimize Parameters Of VSC- HVDC In The Aim Of Improving The Frequency Stability
+T2  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+SP  - 1
+EP  - 5
+AU  - N. H. Cuong
+AU  - T. Q. Tuan
+AU  - Y. Besanger
+PY  - 2024
+KW  - HVDC transmission
+KW  - Simulation
+KW  - Systems operation
+KW  - Europe
+KW  - Voltage
+KW  - Power system stability
+KW  - Stability analysis
+KW  - Circuit stability
+KW  - Particle swarm optimization
+KW  - Voltage-source converters
+KW  - Frequency stability
+KW  - VSC-HVDC
+KW  - VSC-HVDC Optimization
+KW  - Renewable energy sources
+KW  - Particle Swarm Optimization
+DO  - 10.1109/ISGTEUROPE62998.2024.10863140
+JO  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+Y1  - 14-17 Oct. 2024
+AB  - The use of Renewable Energy Sources (RES) and High Voltage Direct Current (HVDC) technology is becoming increasingly common due to their advantages. However, RES have inherent characteristics such as low inertia and intermittency, which can negatively impact the stability of grids. In contrast, HVDC technology has been shown to improve grid stability. This paper demonstrates this improvement using simulation results from the 39-bus New England grid under different scenarios. Additionally, to enhance system reliability, the Particle Swarm Optimization (PSO) technique has been proven effective in determining parameters of the Voltage Source Converter (VSC) of an HVDC system. By comparing simulation results of the grid under various circumstances, the authors gained a comprehensive and accurate understanding of the system's operation. The PSO algorithm was implemented using Python and the DigSilent PowerFactory simulation software, making it easily applicable in practical settings.
+ER  - 
+
+TY  - CONF
+TI  - Smart Supply Chains in Morocco: Sectoral Insights, Structural Barriers and Strategic Pathways for Inclusive Digital Transformation
+T2  - 2025 IEEE International Conference on Advanced Technologies in Supply Chain Management (ATSCM)
+SP  - 1
+EP  - 6
+AU  - H. O. Erradouani
+PY  - 2025
+KW  - Internet of Things
+KW  - Interoperability
+KW  - Communication systems
+KW  - Protocols
+KW  - Internet
+KW  - Internetworking
+KW  - HTTP
+KW  - Broadband communication
+KW  - Routing
+KW  - Artificial intelligence
+KW  - Industry 4.0
+KW  - smart supply chains
+KW  - digital transformation
+KW  - Morocco
+KW  - Internet of Things
+KW  - blockchain
+DO  - 10.1109/ATSCM67505.2025.11473905
+JO  - 2025 IEEE International Conference on Advanced Technologies in Supply Chain Management (ATSCM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Advanced Technologies in Supply Chain Management (ATSCM)
+Y1  - 21-22 Nov. 2025
+AB  - The integration of Industry 4.0 technologies— including the Internet of Things, artificial intelligence, blockchain, and digital twins—is transforming supply chain structures worldwide. While these technologies offer potential improvements in visibility, traceability, and operational efficiency, their adoption in emerging economies is often uneven and context-specific. This paper examines Morocco’s development toward smart supply chains in three strategic sectors: agri-food, automotive manufacturing, and port logistics.Using a sectoral analytical approach, the study combines institutional reports, official statistics, and peer-reviewed literature from 2018 to 2025. The analysis focuses on three research questions: (i) the specific methods of digital technology adoption in Morocco’s priority supply chain sectors, (ii) organizational and structural barriers affecting adoption and inclusiveness, and (iii) the requirements for creating integrated, end-to-end digital supply networks.Findings indicate contrasts between highly digitalized initiatives, such as Tanger Med and certain automotive projects, and broader structural challenges, including skill shortages, limited SME access to finance, interoperability issues, and sectoral disparities in technology uptake. The paper concludes that Morocco’s transition toward smart supply chains cannot rely on organic market developments alone and proposes a multi-level, pragmatic policy roadmap to foster inclusive digitalization.
+ER  - 
+
+TY  - CONF
+TI  - Research on Intelligent Early Fire Warning System Using Adaptive Neuro-Fuzzy Inference System in Green Seaport
+T2  - 2025 3rd International Conference on Smart Systems for applications in Electrical Sciences (ICSSES)
+SP  - 1
+EP  - 5
+AU  - T. N. Dinh
+AU  - H. N. Van
+AU  - T. D. Anh
+PY  - 2025
+KW  - Adaptive systems
+KW  - Prevention and mitigation
+KW  - Interference
+KW  - Alarm systems
+KW  - Seaports
+KW  - Smart systems
+KW  - Real-time systems
+KW  - Sensor systems
+KW  - Artificial intelligence
+KW  - Monitoring
+KW  - fire detection and warning system
+KW  - Adaptive Neuro-Fuzzy Interference System (ANFIS)
+KW  - intelligent fire alarm
+KW  - smart port
+DO  - 10.1109/ICSSES64899.2025.11009617
+JO  - 2025 3rd International Conference on Smart Systems for applications in Electrical Sciences (ICSSES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 3rd International Conference on Smart Systems for applications in Electrical Sciences (ICSSES)
+Y1  - 21-22 March 2025
+AB  - Transportation and storage in warehouses and seaports are increasingly popular and have increased sharply in recent years. Strict fire and explosion prevention requirements must be met with the diversity of goods, incredibly flammable and explosive goods during transportation. Therefore, fire and explosion monitoring and early warning systems in these areas are increasingly developed with innovative technology and artificial intelligence applied in general alarm systems. This paper proposes and tests an early warning system for fire and explosion at seaports based on advanced fire alarm technology. Traditional addressable fire alarm systems integrating stations for collecting real-time gas concentration quality are being studied. At the same time, an early warning system for fire and explosion is built based on the Adaptive Neuro-Fuzzy Interference System (ANFIS) model and data processing algorithms from fire alarm cabinets. The system results were tested in the laboratory and deployed in practice, reaching 92%, and they strongly supported fire prevention and fighting at smart seaports in Vietnam.
+ER  - 
+
+TY  - CONF
+TI  - An Intelligent Fire Detection System for Ships Using YOLOv8 Deep Learning Architecture
+T2  - 2025 International Ural Conference on Electrical Power Engineering (UralCon)
+SP  - 269
+EP  - 274
+AU  - V. N. Thanh
+AU  - H. D. N. Duc
+PY  - 2025
+KW  - Deep learning
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Accuracy
+KW  - Training data
+KW  - Reliability engineering
+KW  - Real-time systems
+KW  - Safety
+KW  - Security
+KW  - Marine vehicles
+KW  - fire detection
+KW  - YOLOv8
+KW  - real-time monitoring
+KW  - Unity 3D simulation
+KW  - ship safety
+KW  - smart ships
+DO  - 10.1109/UralCon67204.2025.11206673
+JO  - 2025 International Ural Conference on Electrical Power Engineering (UralCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Ural Conference on Electrical Power Engineering (UralCon)
+Y1  - 25-28 Sept. 2025
+AB  - Fire and explosion incidents on ships are becoming increasingly serious and pose substantial threats to maritime safety and security. The consequences cause in extensive damage to property, loss of life, and harm to the marine environment. Meanwhile, traditional methods focus on handling when the fire has formed and spread in the area without the ability to detect and warn early. This study proposes a YOLOv8 deep learning model to detect fire risks at the initial stage in real time, helping to increase accuracy and the ability to analyze impacts quickly. In addition, the Unity 3D environment helps simulate ships with many diverse fire incident scenarios, rich in situations and levels of complexity, enhancing the learning ability of the model that is difficult to test in practice. The diverse training data for the model is optimized for a wide range of modern ship types. The research findings indicate that this approach achieves an accuracy of up to 90% when compared to other methods, significantly reducing the rate of false alarms in challenging conditions. Ultimately, the ship-mountable model improves the reliability and efficiency of future smart ship applications.
+ER  - 
+
+TY  - CONF
+TI  - Autonomous offshore container crane system using a Fuzzy-PD logic controller
+T2  - 2016 16th International Conference on Control, Automation and Systems (ICCAS)
+SP  - 1093
+EP  - 1098
+AU  - N. P. Nguyen
+AU  - T. N. Phan
+AU  - Q. H. Ngo
+PY  - 2016
+KW  - Niobium
+KW  - Cranes
+KW  - Containers
+KW  - Payloads
+KW  - Marine vehicles
+KW  - Mobile communication
+KW  - Fuzzy sets
+KW  - Fuzzy-PD control
+KW  - mobile harbor
+KW  - offshore container crane
+KW  - trajectory tracking
+KW  - sway suppression
+DO  - 10.1109/ICCAS.2016.7832447
+JO  - 2016 16th International Conference on Control, Automation and Systems (ICCAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 16th International Conference on Control, Automation and Systems (ICCAS)
+Y1  - 16-19 Oct. 2016
+AB  - A Fuzzy-PD control strategy for an offshore container crane is investigated in this study. The offshore crane is used to handle containers between a mega container ship (called the "mother ship") and a smaller ship (called the "mobile harbor"), which is equipped with container crane. The concept of the mobile harbor is a floating form that has the capability of transferring cargo to the local harbor from a large ship that is anchored in a nearby sea, thereby minimizing the port congestion and also eliminating the need of expanding outwards. The control objective during the loading and unloading process is to keep the payload in the desired region in the presence of ship motions. A new control strategy which is a combination of a Fuzzy controller, PD controller and compensation mechanism, is proposed as well. A Fuzzy controller plays a main role in creating the appropriate voltage, based on the dynamics and knowledge of an experienced designer, for guarantees not only prompt suppression of load swing but also accurate control of container crane position. In addition, a classical PD controller is used to tune the value of state variables into suitable range before becoming the inputs of the fuzzification process. This control scheme guarantees the stability of the closed-loop system. Simulation and experimental results are provided to verify the effectiveness of the proposed control system for offshore container cranes.
+ER  - 
+
+TY  - CONF
+TI  - Collision Classification for Unmanned Surface Vehicle using Inertial Measurement Unit Data
+T2  - 2024 2nd International Conference on Mechatronics, Control and Robotics (ICMCR)
+SP  - 11
+EP  - 15
+AU  - Q. Nguyen
+AU  - T. Luu
+AU  - T. Tran
+AU  - C. Nguyen
+AU  - M. Tran
+AU  - H. Nguyen
+PY  - 2024
+KW  - Wavelet transforms
+KW  - Measurement units
+KW  - Surface waves
+KW  - Inertial navigation
+KW  - Real-time systems
+KW  - Data models
+KW  - Digital twins
+KW  - Digital twin
+KW  - unmanned surface vehicle
+KW  - collision classification
+KW  - deep learning
+DO  - 10.1109/ICMCR60777.2024.10481927
+JO  - 2024 2nd International Conference on Mechatronics, Control and Robotics (ICMCR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 2nd International Conference on Mechatronics, Control and Robotics (ICMCR)
+Y1  - 27-29 Feb. 2024
+AB  - In the development of digital twin systems for unmanned surface vehicles (USVs), collision classification is a fundamental feature to implement. Integrating collision position information into remote control systems significantly enhances operator situational awareness and facilitates effective motion control strategies even when camera visitor is compromised by challenging environmental conditions. This paper presents a three-step approach for collision classification employing onboard inertial measurement unit (IMU) data. In the first step, the sensor measures proprioceptive data during the emulated collision between the remote-controlled model scale ship and a stationary obstacle. Secondly, this time-series data is processed via wavelet transform followed prior to being fed into a deep neural network in the third step to classify collision into three types: bow-side (front), port-side (left), and starboard-side (right) collisions. The achieved classification accuracy of 96.66% shows the promising potential for integrating this approach into real-time digital twin systems.
+ER  - 
+
+TY  - CONF
+TI  - Optimizing Island Grid Stability Using Particle Swarm Optimization to Determine the Optimal Parameters
+T2  - 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+SP  - 1
+EP  - 5
+AU  - H. C. Nguyen
+AU  - Q. T. Tran
+PY  - 2025
+KW  - Dynamic response
+KW  - Simulation
+KW  - Europe
+KW  - Power system stability
+KW  - Stability analysis
+KW  - Wind turbines
+KW  - Smart grids
+KW  - Particle swarm optimization
+KW  - Tuning
+KW  - Resilience
+KW  - Frequency stability
+KW  - Micro gird stability
+KW  - Particle Swarm Optimization
+KW  - Renewable energy
+KW  - Voltage stability
+DO  - 10.1109/ISGTEurope64741.2025.11305629
+JO  - 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+Y1  - 20-23 Oct. 2025
+AB  - The integration of renewable energy sources (RES) into power systems can adversely affect system stability, particularly in cases of high RES penetration. However, system stability can be significantly improved by optimizing the parameters of key system components. This study aims to demonstrate this by analysing the dynamic response of a microgrid composed 100% RES under a three-phase short-circuit disturbance. Three scenarios are considered: (i) using default parameters for all components, (ii) optimizing only the control parameters of the battery energy storage system (BESS), and (iii) optimizing the control parameters of the BESS, photovoltaic (PV) units, and wind turbines (WTs). The particle swarm optimization (PSO) algorithm is employed to determine the optimal settings for each case. Simulation results provide a comprehensive insight into system behaviour, confirming that PSO-based parameter tuning effectively dampen power system oscillations and enhances overall system stability.
+ER  - 
+
+TY  - CONF
+TI  - Jitter mitigation in radio direction finding system
+T2  - 2016 IEEE Sixth International Conference on Communications and Electronics (ICCE)
+SP  - 253
+EP  - 257
+AU  - H. T. Thanh
+AU  - T. H. Son
+AU  - P. T. Minh
+AU  - D. T. Tuan
+AU  - V. Van Yem
+PY  - 2016
+KW  - Jitter
+KW  - Direction-of-arrival estimation
+KW  - Estimation
+KW  - Linear antenna arrays
+KW  - Receiving antennas
+KW  - Simulation
+KW  - Jitter
+KW  - High-pass Sampling
+KW  - Direction Of Arrival (DOA)
+KW  - Direction Finding (DF)
+KW  - Software Defined Radio (SDR)
+DO  - 10.1109/CCE.2016.7562645
+JO  - 2016 IEEE Sixth International Conference on Communications and Electronics (ICCE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE Sixth International Conference on Communications and Electronics (ICCE)
+Y1  - 27-29 July 2016
+AB  - The performance of all digital Radio Direction Finding systems in which the RF signal is digitalized with highpass sampling is seriously impaired by the Jitter effect. In this paper, the novel approach to mitigate the Jitter effect in Direction Of Arrival (DOA) estimation is proposed. The DOA of incoming signals received by an M-element Uniform Linear Antenna array is estimated by using MUSIC (Multiple Signal Classification). The simulation results for DOA estimation of RF signals with the proposed method will be shown and analyzed to verify its performance.
+ER  - 
+
+TY  - CONF
+TI  - Image Data Acquisition and Preprocessing for CNN-Based Ocean Wave Level Prediction on Ships
+T2  - 2025 2nd International Conference on Integration of Computational Intelligent System (ICICIS)
+SP  - 1
+EP  - 6
+AU  - T. N. Dinh
+AU  - H. N. Van
+AU  - T. D. Anh
+PY  - 2025
+KW  - Training
+KW  - Computational modeling
+KW  - Noise reduction
+KW  - Noise
+KW  - Ocean waves
+KW  - Predictive models
+KW  - Real-time systems
+KW  - Data models
+KW  - Convolutional neural networks
+KW  - Marine vehicles
+KW  - ocean wave prediction
+KW  - image preprocessing
+KW  - deep learning
+KW  - maritime artificial intelligence
+KW  - smart navigation
+DO  - 10.1109/ICICIS65613.2025.11371228
+JO  - 2025 2nd International Conference on Integration of Computational Intelligent System (ICICIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd International Conference on Integration of Computational Intelligent System (ICICIS)
+Y1  - 9-12 Sept. 2025
+AB  - Ocean wave prediction is vital in navigation, shipping planning, and marine engineering. Current wave prediction methods rely on real-time sensor data and apply artificial intelligence in wave level and energy forecasting. This paper presents a method to collect and preprocess wave image data on sea surface conditions to train a Convolutional Neural Network (CNN) for real-time wave-level classification. In particular, a noise denoising technique based on Gaussian filtering, Contrast Limited Adaptive Histogram Equalization (CLAHE), and input data augmentation ensures high-quality labeled image datasets to support deep learning models for marine navigation. The model is evaluated in a maritime simulation environment and on an actual ship controller, achieving over 90 % prediction accuracy with the proposed noise reduction techniques. The results are intended to be recommended to ship operators for implementation in both autopilot and hand control modes, enabling them to make more informed and timely decisions regarding vessel navigation. By integrating the prediction outputs with the control systems, ships can dynamically adjust their steering behavior based on real-time sea conditions, enhancing operational efficiency and safety.
+ER  - 
+
+TY  - CONF
+TI  - Digital Twin Real-Time FPGA Implementation for Light Electric Vehicle Propulsion System Using EMR Organization
+T2  - 2019 IEEE Vehicle Power and Propulsion Conference (VPPC)
+SP  - 1
+EP  - 6
+AU  - M. Ruba
+AU  - R. O. Nemes
+AU  - S. M. Ciornei
+AU  - C. Martis
+AU  - A. Bouscayrol
+AU  - H. Hedesiu
+PY  - 2019
+KW  - Field programmable gate arrays
+KW  - Digital twin
+KW  - Torque
+KW  - Testing
+KW  - Inverters
+KW  - Voltage control
+KW  - Real-time systems
+DO  - 10.1109/VPPC46532.2019.8952428
+JO  - 2019 IEEE Vehicle Power and Propulsion Conference (VPPC)
+IS  - 
+SN  - 1938-8756
+VO  - 
+VL  - 
+JA  - 2019 IEEE Vehicle Power and Propulsion Conference (VPPC)
+Y1  - 14-17 Oct. 2019
+AB  - The paper focuses on implementation of several different concepts of wise analysis of light electric vehicle propulsion unit testing facility. Firstly, the concept of “digital twin” that represents a simulated replica of a complete testing facility is presented. More, instead of using an off-line simulation environment, the digital twin (DT) is programmed to run using two field programmable gate arrays (FPGA), hence it becomes an online real-time simulation. The second concept is the distribution of the digital twin. The actual unit controller is programed into one FPGA and the machine under test, its load and the power inverter are implemented into a second FPGA. The communication between the two is handled using analog and digital lines, just like the controller would be connected to the real test-bench. The third concept involves the organization of each of the two FPGA programs, based on Energetic Macroscopic Representation (EMR) that facilitates transparency, ease of implementation and minimizes the error in coding the actual test-bench replica and then its controller. Combining all the above mentioned concept into one single lucrative tool, experimentally validated by actual measurements, proves that the concept of using a DT implemented in real-time, without doubt can be used for testing prototypes and their controls regardless of the actual test-bench. Hence, on one hand it is eco-friendly, precise and save testing method and on the other hand, the same DT can be used by researchers and testers in facilities that do not have a test-bench at their disposal.
+ER  - 
+
+TY  - CONF
+TI  - Implementation Of Particle Swarm Optimization (PSO) To Optimize Parameters Of An Island Grid In The Aim Of Improving The Frequency Stability
+T2  - 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+SP  - 1
+EP  - 5
+AU  - N. H. Cuong
+AU  - T. Q. Tuan
+AU  - Y. Besanger
+PY  - 2023
+KW  - Systems operation
+KW  - Europe
+KW  - Power system stability
+KW  - Stability analysis
+KW  - Circuit stability
+KW  - Particle swarm optimization
+KW  - Time-domain analysis
+KW  - Frequency stability
+KW  - Micro grid stability
+KW  - Renewable energy
+KW  - Particle Swarm Optimization
+DO  - 10.1109/ISGTEUROPE56780.2023.10407810
+JO  - 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+Y1  - 23-26 Oct. 2023
+AB  - In order to enhance system reliability, the Particle Swarm Optimization (PSO) technique has proven to be an efficient method to fine-tune Power System Stabilizers (PSS), Battery Energy Storage Systems (BESS), and other system parameters. This research employed the PSO algorithm to determine the optimal parameters of an island microgrid in two different situations: optimizing only the PSS and simultaneously optimizing both the PSS and BESS. By evaluating the efficacy of these two scenarios in various circumstances, the authors obtained a comprehensive and accurate understanding of the system's operation. The PSO algorithm was implemented using Python and the DigSilent PowerFactory simulation software, which can be easily applied in practical settings. The time-domain simulation demonstrated the capability of the PSO-based PSS and BESS test system to dampen power system oscillations effectively.
+ER  - 
+
+TY  - CONF
+TI  - FEM simulation of SAW H2 gas sensor based on Pd/AlN/Si multilayer structure
+T2  - 2023 12th International Conference on Control, Automation and Information Sciences (ICCAIS)
+SP  - 145
+EP  - 150
+AU  - H. H. Nguyen
+AU  - H. V. Nguyen
+AU  - M. H. Nguyen
+AU  - N. H. Dong
+AU  - S. H. Hoang
+PY  - 2023
+KW  - Temperature sensors
+KW  - Sensitivity
+KW  - Simulation
+KW  - Surface acoustic waves
+KW  - Nonhomogeneous media
+KW  - Acoustic measurements
+KW  - Finite element analysis
+KW  - Surface Acoustic Wave
+KW  - FEM simulation
+KW  - frequency response
+KW  - piezoelectric materials
+KW  - hydrogen gas
+KW  - temperature
+DO  - 10.1109/ICCAIS59597.2023.10382243
+JO  - 2023 12th International Conference on Control, Automation and Information Sciences (ICCAIS)
+IS  - 
+SN  - 2475-7896
+VO  - 
+VL  - 
+JA  - 2023 12th International Conference on Control, Automation and Information Sciences (ICCAIS)
+Y1  - 27-29 Nov. 2023
+AB  - The SAW (Surface Acoustic Wave) sensor for measuring H2 gas is a type of sensor based on the phenomenon of changing surface acoustic wave velocity. In this study, we propose a Finite Element Method (FEM) simulation model of multilayer structure for SAW to measure H2 gas based on a two-port delay line sensor. AlN/Si substrate was chosen due to its high surface velocity thus potentially increasing sensitivity. In addition, Pd was selected to combine with AlN/Si because of its high absorption of H2. The FEM simulation results show that the center frequency decreases from 127.41 MHz to 127.36 MHz, while the hydrogen ratio in palladium increases from 0.0 to 0.3. In the process of changing the temperature from $27^{\circ}\mathrm{C}$ to $107^{\circ}\mathrm{C}$, the center frequency of the H2 SAW sensor decreases from 128.67 MHz to 128.54 MHz.
+ER  - 
+
+TY  - CONF
+TI  - Sustainable tourism, Technology and Internet 4.0: Opportunities and Challenges for Small Island Developing States
+T2  - 2021 IoT Vertical and Topical Summit for Tourism
+SP  - 1
+EP  - 4
+AU  - T. Makoondlall-Chadee
+AU  - N. P. Goolamally
+AU  - P. V. Ramasamy Coolen
+AU  - C. Bokhoree
+PY  - 2021
+KW  - Technological innovation
+KW  - Tourism industry
+KW  - Green products
+KW  - Developing countries
+KW  - Tools
+KW  - Information and communication technology
+KW  - Internet of Things
+KW  - Sustainable Tourism
+KW  - Internet of Things (IoT)
+KW  - Environmental sustainability
+KW  - Small Island Developing States (SIDS)
+DO  - 10.1109/IEEECONF49204.2021.9604866
+JO  - 2021 IoT Vertical and Topical Summit for Tourism
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IoT Vertical and Topical Summit for Tourism
+Y1  - 20-24 Sept. 2021
+AB  - The Tourism and the hospitality industries are among the most thrived industries worldwide. With several innovative practices including advancements in Information and Communication Technologies (ICT), businesses have witnessed changes both in their strategic approaches and their methods in doing business. Small Island Developing States (SIDS) known to be reputed tourism destinations, have encountered extraordinary accomplishment in promoting their tourism industry, with a global record of 44 million tourists visiting island states in 2019 to experience their rich biodiversity and magnificent ecosystems. From the advent of Industry 4.0 countries, developing countries, may develop strategies to leapfrog their underdeveloped industrial development and speed up the process of economic modernization while maintaining socio-environmental sustainability. Experts agree the long-term viability of operations management is a must and island states surely need to adopt sustainable and durable tourism practices. The introduction of Industry 4.0 emerging technologies can lead to sustainable growth of such circular economy. Many of the ongoing vulnerabilities of SIDS such as natural resource protection, managing pollution and biodiversity loss, over-exploitation of resources has seen a proper management thanks to the attributes and contributions of Internet 4.0. The motive of this work is to attempt to analyze the integration of IoT in SIDS and investigate on the hurdles that businesses have faced when adopting new technological options. Objectively through a critical review of available literature, this work attempts to highlight the contributions of Internet 4.0 towards achieving socio-environmental sustainability of small island developing countries to ensure their longevity.
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Monitoring and Voltage Prediction of Contaminated High-Voltage Insulators Via Cnn-Ann Hybrid Architecture
+T2  - 2025 International Ural Conference on Electrical Power Engineering (UralCon)
+SP  - 543
+EP  - 548
+AU  - H. Nguyen Van
+AU  - T. Le Van
+AU  - T. Van Nguyen
+PY  - 2025
+KW  - Training
+KW  - Filtering
+KW  - Surface discharges
+KW  - High-voltage techniques
+KW  - Predictive models
+KW  - Insulators
+KW  - Discharges (electric)
+KW  - Real-time systems
+KW  - Data models
+KW  - Convolutional neural networks
+KW  - discharge voltage prediction
+KW  - high-voltage insulator
+KW  - Convolutional Neural Network
+KW  - predictive maintenance
+KW  - kalman filtering
+KW  - smart grid infrastructures
+DO  - 10.1109/UralCon67204.2025.11206637
+JO  - 2025 International Ural Conference on Electrical Power Engineering (UralCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Ural Conference on Electrical Power Engineering (UralCon)
+Y1  - 25-28 Sept. 2025
+AB  - This paper presents the research and development of a predictive model for discharge voltage on high-voltage insulator surfaces, utilizing a hybrid architecture combining Convolutional Neural Networks (CNN) and Artificial Neural Networks (ANN). Partial Discharge (PD) is identified as a critical factor in modern power systems that require extensive monitoring and automation, as it contributes to insulation degradation and compromises system reliability and operational safety. The research focuses on developing a deep learning model capable of extracting nonlinear features from both image-based inputs of surface contamination distribution and temperature and operating parameters such as voltage with the goal of accurately predicting the discharge voltage in real-time. The proposed model is trained on experimental data collected from a high-voltage discharge simulation platform under laboratory-controlled conditions, incorporating advanced signal processing techniques such as Gaussian noise filtering and Kalman Filtering. Experimental results demonstrate that the model achieves high performance in early detection and risk warning of partial discharge events, thereby enhancing grid reliability, reducing the likelihood of equipment failure, and optimizing predictive maintenance strategies within smart grid infrastructures.
+ER  - 
+
+TY  - CONF
+TI  - Research on High Voltage Safety Risk Prediction Model on Ships Using Artificial Neural Networks and Virtual Reality Technology
+T2  - 2025 International Russian Smart Industry Conference (SmartIndustryCon)
+SP  - 816
+EP  - 821
+AU  - H. N. Van
+AU  - T. D. Khac
+PY  - 2025
+KW  - Training
+KW  - Solid modeling
+KW  - Electrical safety
+KW  - High-voltage techniques
+KW  - Voltage
+KW  - Artificial neural networks
+KW  - Virtual reality
+KW  - Flashover
+KW  - Discharges (electric)
+KW  - Marine vehicles
+KW  - critical flashover voltage
+KW  - Artificial Neural Networks (ANN)
+KW  - high voltage simulation
+KW  - virtual reality electric ship
+KW  - electrical safety for ships
+DO  - 10.1109/SmartIndustryCon65166.2025.10986114
+JO  - 2025 International Russian Smart Industry Conference (SmartIndustryCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Russian Smart Industry Conference (SmartIndustryCon)
+Y1  - 24-28 March 2025
+AB  - Currently, high-voltage electrical systems are used on ships to increase the ability to transport goods and reduce environmental emissions. High-voltage electrical equipment can cause danger when crew members work and come into contact. Therefore, training and coaching crew members with essential knowledge and skills is necessary to work with this voltage level. This paper presents a model of testing actual flashover voltage under the environment on ships based on the TERCO test kit. A neural network (ANN) model was also developed for flashover voltage. Finally, a high-voltage electrical safety simulation system is built using virtual reality technology and the Unity 3D platform. The research results show that it meets the essential electrical safety training criteria for modern maritime crew members.
+ER  - 
+
+TY  - CONF
+TI  - Bussgang Based-Belief Propagation Detection for Large-Scale MIMO Systems with One-bit ADCs
+T2  - 2023 International Conference on Advanced Technologies for Communications (ATC)
+SP  - 1
+EP  - 5
+AU  - D. A. Hoang
+AU  - T. L. Nhat
+AU  - H. Dang
+AU  - H. T. Nguyen
+PY  - 2023
+KW  - Computational modeling
+KW  - Computer simulation
+KW  - Detectors
+KW  - Receivers
+KW  - Mathematical models
+KW  - Binary phase shift keying
+KW  - Channel models
+DO  - 10.1109/ATC58710.2023.10318934
+JO  - 2023 International Conference on Advanced Technologies for Communications (ATC)
+IS  - 
+SN  - 2162-1039
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Advanced Technologies for Communications (ATC)
+Y1  - 19-21 Oct. 2023
+AB  - This paper presents Bussgang-based belief propagation (BP) detection for a large-scale multiple-input multiple-out (MIMO) communication system with one-bit analog-to-digital converters (ADCs). A closed-form presentation of the proposed receiver is derived using the Bussgang decomposition to model the non-linear effect of the one-bit ADC. The computer simulation results show that the Bussgang-based belief propagation detector outperforms the previous one, which was based on the additive noise model (AQNM).
+ER  - 
+
+TY  - CONF
+TI  - A proposed Power Converter for an AC Battery
+T2  - 2024 Tenth International Conference on Communications and Electronics (ICCE)
+SP  - 297
+EP  - 302
+AU  - T. A. Do
+AU  - P. Q. Nguyen
+AU  - T. D. Vu
+AU  - T. N. Le
+AU  - V. A. Le
+AU  - T. T. L. Luu
+AU  - X. T. Bui
+AU  - D. P. Pham
+AU  - B. M. Nguyen
+AU  - Q. D. Nguyen
+AU  - V. P. Pham
+AU  - P. V. Hoang
+PY  - 2024
+KW  - Simulation
+KW  - Batteries
+KW  - Topology
+KW  - Standards
+KW  - Matlab
+KW  - Load modeling
+KW  - AC Battery
+KW  - Second-life batteries (SLBs)
+KW  - Three-port DC/DC Converter ( TPC)
+KW  - Four-Leg Converter ( FLC)
+DO  - 10.1109/ICCE62051.2024.10634614
+JO  - 2024 Tenth International Conference on Communications and Electronics (ICCE)
+IS  - 
+SN  - 2836-4392
+VO  - 
+VL  - 
+JA  - 2024 Tenth International Conference on Communications and Electronics (ICCE)
+Y1  - 31 July-2 Aug. 2024
+AB  - The paper proposes a novel structure of an AC Battery with a two-stage topology. The Three-port converter (TPC) is proposed for the DC/DC stage to connect with multiple voltage standards of the second-lifetime batteries. The Four-Leg converter is proposed for the DC/AC stage to flexibly operate both with the single-phase and three-phase grid or load. Additionally, a control structure for the proposed AC Battery is presented. Finally, the operating principle of a three-phase AC Battery is validated through Matlab/Simulink simulations. The simulation results show the effectiveness and feasibility of the proposed AC Battery
+ER  - 
+
+TY  - CONF
+TI  - Robust Fast-Terminal Back-Stepping Control for Three-Omni-Wheel Robot
+T2  - 2024 International Conference on Control, Robotics and Informatics (ICCRI)
+SP  - 27
+EP  - 31
+AU  - Q. -D. Hoang
+AU  - N. T. Gam
+AU  - L. A. Tuan
+AU  - P. D. An
+AU  - V. T. Anh
+PY  - 2024
+KW  - Service robots
+KW  - Robot kinematics
+KW  - Heuristic algorithms
+KW  - Stability criteria
+KW  - Numerical simulation
+KW  - Mathematical models
+KW  - Mobile robots
+KW  - Robots
+KW  - Numerical stability
+KW  - Lyapunov methods
+KW  - Omni wheel robot
+KW  - nonsingular sliding mode
+KW  - fastterminal sliding mode
+KW  - finite-time convergence
+DO  - 10.1109/ICCRI64298.2024.00011
+JO  - 2024 International Conference on Control, Robotics and Informatics (ICCRI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Control, Robotics and Informatics (ICCRI)
+Y1  - 26-28 July 2024
+AB  - This paper presents a robust fast-terminal back-stepping control approach applied to a three-omni-wheel robot. For highly maneuverable and flexible robotic systems as three-omni-wheel robots, achieving effective control and precision tracking is a significant challenge. Through analyzing the kinematic and dynamic features of the system, mathematical models are thoughtfully proposed. Based on the Lyapunov stability and finite-time stability criterion and back-stepping scheme, we developed a control algorithm that allows the robot to track to the desired velocity trajectory, thereby ensuring the robot follows the expected shape on the global coordinate despite the disturbance impacts. The numerical simulations compared with classical sliding mode control are then implemented to validate the effectiveness of the whole work.
+ER  - 
+
+TY  - CONF
+TI  - Fractional-order terminal sliding mode control for a class of underactuated nonlinear systems
+T2  - 2020 IEEE 18th International Conference on Industrial Informatics (INDIN)
+SP  - 703
+EP  - 706
+AU  - H. M. Cuong
+AU  - N. T. Lam
+AU  - H. Q. Dong
+AU  - P. Van Trieu
+AU  - N. H. Tuan
+AU  - L. A. Tuan
+PY  - 2020
+KW  - Cranes
+KW  - Conferences
+KW  - Stability criteria
+KW  - Containers
+KW  - Mechanical systems
+KW  - Indexes
+KW  - Nonlinear systems
+KW  - cranes
+KW  - fractional calculus
+KW  - sliding mode control
+KW  - underactuated systems
+DO  - 10.1109/INDIN45582.2020.9442124
+JO  - 2020 IEEE 18th International Conference on Industrial Informatics (INDIN)
+IS  - 
+SN  - 2378-363X
+VO  - 1
+VL  - 1
+JA  - 2020 IEEE 18th International Conference on Industrial Informatics (INDIN)
+Y1  - 20-23 July 2020
+AB  - We integrate fractional derivative into sliding mode approach to synthesize a robust controller for a class of underactuated mechanical systems. Two levels of sliding surface are defined in which first level involves fractional derivative of tracking errors while second level contains noninteger power index for making finite-time convergence. A simulation example is applied for a shipboard container crane to clarify the effectiveness of proposed control approach.
+ER  - 
+
+TY  - CONF
+TI  - Kinematic-Based Nonlinear Control for an Omni-Directional Robot
+T2  - 2023 International Conference on Control, Robotics and Informatics (ICCRI)
+SP  - 30
+EP  - 33
+AU  - Q. -D. Hoang
+AU  - L. A. Tuan
+AU  - T. M. Thong
+AU  - N. T. Gam
+AU  - L. D. Nghiem
+AU  - N. C. Cuong
+PY  - 2023
+KW  - Simultaneous localization and mapping
+KW  - Wheels
+KW  - Kinematics
+KW  - Mathematical models
+KW  - Trajectory
+KW  - Mobile robots
+KW  - Sliding mode control
+KW  - Omni wheel
+KW  - omni directional robot
+KW  - kinematic model
+KW  - integral sliding mode control
+DO  - 10.1109/ICCRI58865.2023.00013
+JO  - 2023 International Conference on Control, Robotics and Informatics (ICCRI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Control, Robotics and Informatics (ICCRI)
+Y1  - 26-28 May 2023
+AB  - In this study, we propose a new control strategy for a robot that utilizes a three Omni wheels for moving. With the construction of the kinematic characteristic equations of the system, it is possible to understand and calculate the correlation between the motions of the motors, the wheels, and the robot. Based on this background, a control strategy for the system is proposed, in which the state variables of the robot corresponding to the desired behavior are calculated and converted to the desired angular velocities of the electric motors. By using the traditional integral sliding controller, the motors are precisely controlled simultaneously with the achievement of the expected displacement of the robot. All simulation results are then given to verify the efficiency of the construction algorithm.
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Cloud-Fog Automation for Autonomous Collision Detection and Classification in Intelligent Unmanned Surface Vehicles
+T2  - 2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)
+SP  - 1
+EP  - 6
+AU  - T. Tran
+AU  - Q. Nguyen
+AU  - J. Kua
+AU  - M. Tran
+AU  - T. Luu
+AU  - T. Hoang
+AU  - J. Jin
+PY  - 2025
+KW  - Cloud computing
+KW  - Automation
+KW  - Scalability
+KW  - Computational modeling
+KW  - Decision making
+KW  - Computer architecture
+KW  - Cyber-physical systems
+KW  - Data models
+KW  - Low latency communication
+KW  - Autonomous vehicles
+KW  - Maritime Industrial Cyber-Physical Systems
+KW  - Cloud-Fog Automation
+KW  - Intelligent Unmanned Surface Vehicles
+DO  - 10.1109/INDIN64977.2025.11279683
+JO  - 2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)
+IS  - 
+SN  - 2378-363X
+VO  - 
+VL  - 
+JA  - 2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)
+Y1  - 12-15 July 2025
+AB  - Industrial Cyber-Physical Systems (ICPS) technologies are foundational in driving maritime autonomy, particularly for Unmanned Surface Vehicles (USVs). However, onboard computational constraints and communication latency significantly restrict real-time data processing, analysis, and predictive modeling, hence limiting the scalability and responsiveness of maritime ICPS. To overcome these challenges, we propose a distributed Cloud-Edge-IoT architecture tailored for maritime ICPS by leveraging design principles from the recently proposed Cloud-Fog Automation paradigm. Our proposed architecture comprises three hierarchical layers: a Cloud Layer for centralized and decentralized data aggregation, advanced analytics, and future model refinement; an Edge Layer that executes localized AI-driven processing and decision-making; and an IoT Layer responsible for low-latency sensor data acquisition. Our experimental results demonstrated improvements in computational efficiency, responsiveness, and scalability. When compared with our conventional approaches, we achieved a classification accuracy of 86%, with an improved latency performance. By adopting Cloud-Fog Automation, we address the low-latency processing constraints and scalability challenges in maritime ICPS applications. Our work offers a practical, modular, and scalable framework to advance robust autonomy and AI-driven decision-making and autonomy for intelligent USVs in future maritime ICPS.
+ER  - 
+
+TY  - CONF
+TI  - Large-Scale Low-Resolution ADC MIMO Detection with Bandwidth-Efficient Superposition ASK Modulation Scheme
+T2  - 2023 RIVF International Conference on Computing and Communication Technologies (RIVF)
+SP  - 470
+EP  - 475
+AU  - H. N. Dang
+AU  - D. A. Hoang
+AU  - T. L. Nhat
+AU  - H. T. Nguyen
+PY  - 2023
+KW  - Amplitude shift keying
+KW  - Modulation
+KW  - Detectors
+KW  - Transforms
+KW  - Complexity theory
+KW  - Channel models
+KW  - MIMO communication
+DO  - 10.1109/RIVF60135.2023.10471802
+JO  - 2023 RIVF International Conference on Computing and Communication Technologies (RIVF)
+IS  - 
+SN  - 2473-0130
+VO  - 
+VL  - 
+JA  - 2023 RIVF International Conference on Computing and Communication Technologies (RIVF)
+Y1  - 23-25 Dec. 2023
+AB  - We investigate Tanner-graph-based signal detection of the large-scale multiple-input multiple-output (LS-MIMO)communication systems with low-resolution analog-to-digital converters (ADC) when higher-order modulation schemes such as amplitude shift keying (ASK) constellation is employed to attain high-bandwidth efficiency. The high-order modulation scheme combined with a large number of antennas imposes the complexity issue for the signal detector at the receiver end. This paper also performs the mathematical derivation to transform such a high-order superposition modulation channel model into the equivalent binary modulation channel model to exploit the advantages of the graph-based signal detection algorithm previously designed for the binary modulated scheme. Once the equivalent channel model is established, a framework to optimize 2L-ASK constellations for various MIMO configurations and resolution levels of the ADCs is developed. Our simulation results show that the constellations optimized for a specific resolution level of the ADCs outperform the conventional and equal-weight superposition constellations.
+ER  - 
+
+TY  - CONF
+TI  - Applying Multi-Functional Energy Meters to Build a Ship Main Switchboard Simulator for Training
+T2  - 2024 International Russian Automation Conference (RusAutoCon)
+SP  - 931
+EP  - 936
+AU  - K. D. Huu
+PY  - 2024
+KW  - Training
+KW  - Meters
+KW  - Automation
+KW  - Transducers
+KW  - Switches
+KW  - Touch sensitive screens
+KW  - Generators
+KW  - Reliability
+KW  - Marine vehicles
+KW  - Testing
+KW  - Main switchboard simulator
+KW  - multi-functional energy meters
+KW  - PMS
+KW  - SCADA
+DO  - 10.1109/RusAutoCon61949.2024.10694327
+JO  - 2024 International Russian Automation Conference (RusAutoCon)
+IS  - 
+SN  - 2836-614X
+VO  - 
+VL  - 
+JA  - 2024 International Russian Automation Conference (RusAutoCon)
+Y1  - 8-14 Sept. 2024
+AB  - This paper presents the research and construction of a main switchboard simulator for training purposes. The simulator is built with two generators driven by two asynchronous motors. Instead of using multiple transducers to collect and convert data and analog input modules for the central controller like most structures of actual main switchboard systems and main switchboard simulators, the proposed simulator uses multi-functional energy meters to replace those devices. Each meter will collect all necessary parameters for the power management system (PMS) and the supervisory control and data acquisition (SCADA). Testing results show that the proposed simulator and algorithms operate stably and reliably. This simulator can be used for training in universities and colleges for students majoring in electricity in general and ship automation in particular.
+ER  - 
+
+TY  - JOUR
+TI  - Design and Implementation of Improved Three Port Converter and B4-Inverter Fed Brushless Direct Current Motor Drive System for Industrial Applications
+T2  - IEEE Access
+SP  - 149093
+EP  - 149112
+AU  - S. K. Shanmugam
+AU  - S. Ramachandran
+AU  - S. Arumugam
+AU  - S. Pandiyan
+AU  - A. Nayyar
+AU  - E. Hossain
+PY  - 2020
+KW  - Batteries
+KW  - Voltage control
+KW  - Inverters
+KW  - Motor drives
+KW  - Inductors
+KW  - Renewable energy sources
+KW  - Maximum power point trackers
+KW  - ITPC
+KW  - BLDC
+KW  - simulation
+KW  - battery domains
+KW  - B4-inverter
+KW  - energy storage systems
+KW  - three port converter
+KW  - PV~systems
+KW  - microcontroller
+KW  - maximum power point tracking
+DO  - 10.1109/ACCESS.2020.3016011
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - With the proliferation of renewables and energy storage, inverters and converters are being updated to outperform their antecedents in every possible aspect for numerous applications in fields and industries. The proposed research involves the design and implementation of improved three interface converter, and B4-Inverter fed brushless direct electric current motor drive for industrial uses. The proposed integrated Three Port Converter (ITPC) and B4-Inverter fed Brushless Direct Current Motor (BLDC) drive is proposed targeting low or medium applications. The ITPC has been operated in unidirectional and going in both directions for accomplishing a built-in dual electric potential and power rate of flow control. besides, efficiency and the losses of the proposed converter are analyzed using three different domains, i.e., battery charging, discharging, and photovoltaic (PV) effectively. The results are validated by performing simulations of the proposed systems in MATLAB/Simulink. The validation results reveal that the proposed converter works under all three domains and that the losses in the PV domain are reduced compared to the other converters. Also, the average efficiency achieved is 80.95%. These results authenticate the application of the proposed converter to numerous applications pertaining to renewable energy resources and energy systems.
+ER  - 
+
+TY  - CONF
+TI  - Stability Analysis of Grid with High Renewable Energy Sources Under Uncertainty Conditions
+T2  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+SP  - 1
+EP  - 5
+AU  - N. H. Cuong
+AU  - T. Q. Tuan
+AU  - Y. Besanger
+PY  - 2024
+KW  - Renewable energy sources
+KW  - Uncertainty
+KW  - Europe
+KW  - Power system stability
+KW  - Stability analysis
+KW  - Safety
+KW  - Power system reliability
+KW  - Smart grids
+KW  - Reliability
+KW  - Forecasting
+KW  - Uncertainties of RES and load demand
+KW  - Stability
+KW  - Stochastic simulation
+DO  - 10.1109/ISGTEUROPE62998.2024.10863750
+JO  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+Y1  - 14-17 Oct. 2024
+AB  - Renewable Energy Resources (RES) have been become an inevitable choice for the future. However, RES can decrease the inertia of grids to which they are connected. Moreover, their power generation depends on weather conditions, making it intermittent and uncertain. These two inherent characteristics of RES negatively impact the stability of connected power systems. Forecasting RES power output and loads demand is one of the most effective solutions to improve stability of grids integrated with high penetration. However, predictive methods have not yet achieved perfect accuracy. To address the gap, this paper presents a novel stochastic simulation based on forecasting, form which operators can identify extreme scenarios and prepare solutions to ensure the safety and reliability of grid operations in these situations. This paper introduces stochastic simulation techniques, demonstrating their application in identifying severe scenarios based on global stability of a grid. Furthermore, the study proposes solutions to enhance overall stability of the grid after identifying these extreme conditions.
+ER  - 
+
+TY  - CONF
+TI  - Using Unity3D to simulate VHF sailor 3520
+T2  - 2017 3rd IEEE International Conference on Computer and Communications (ICCC)
+SP  - 2920
+EP  - 2924
+AU  - V. -C. Do
+AU  - H. -X. Ren
+AU  - V. -S. Nguyen
+PY  - 2017
+KW  - Handheld computers
+KW  - Navigation
+KW  - Electronic mail
+KW  - Conferences
+KW  - Computational modeling
+KW  - Erbium
+KW  - Unity3D
+KW  - geometric transformation
+KW  - simulation
+KW  - VHF Sailor 3520
+DO  - 10.1109/CompComm.2017.8323066
+JO  - 2017 3rd IEEE International Conference on Computer and Communications (ICCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 3rd IEEE International Conference on Computer and Communications (ICCC)
+Y1  - 13-16 Dec. 2017
+AB  - At present, due to the rapid development of information technology, the application of technology for simulation of equipment in the navigation has had many changes. In previous studies of simulations which have only been performed on two-dimensional (2D) system's, as a result there is a lack of realism and interactivity. In this article, the authors used relatively common software for designing the game currently, named Unity3D. The VHF Sailor 3520 is uses 3ds Max to conduct model object into three-dimension (3D) models and then used Unity3D to realize the interaction. We used User Interface (UI) to design VHF's screen and used RGB to draw the screen's color, which controls the VHF in the three-dimension space by geometric transformation: rotation, translation and scaling. The simulation equipment can be published on multiple-platforms, such as windows, iOS, Web player and other smart devices. The result of this article will allow a new way of three-dimensional (3D) simulation for training crews and students majoring in navigation.
+ER  - 
+
+TY  - JOUR
+TI  - Solving the Problem of Stacking Goods: Mathematical Model, Heuristics and a Case Study in Container Stacking in Ports
+T2  - IEEE Access
+SP  - 25330
+EP  - 25343
+AU  - C. Lersteau
+AU  - T. T. Nguyen
+AU  - T. Thanh Le
+AU  - H. N. Nguyen
+AU  - W. Shen
+PY  - 2021
+KW  - Stacking
+KW  - Loading
+KW  - Containers
+KW  - Mathematical model
+KW  - Linear programming
+KW  - Indexes
+KW  - Uncertainty
+KW  - Combinatorial optimization
+KW  - containers
+KW  - heuristic algorithms
+KW  - linear programming
+KW  - logistics
+KW  - optimization methods
+KW  - stacking
+DO  - 10.1109/ACCESS.2021.3052945
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Stacking goods or items is one of the most common operations in everyday life. It happens abundantly in not only transportation applications such as container ports, container ships, warehouses, factories, sorting centers, freight terminals, etc., but also computing systems, supermarkets, and so on. We investigate the problem of stacking a sequence of items into a set of capacitated stacks, subject to stacking constraints. In every stack, items are accessed in the last-in-first-out order. So at retrieval time, getting any lower item requires reshuffling all upper items that are blocking the way (called blocking items). These reshuffles are redundant and expensive. The challenge is to prevent reshuffles from happening. For this purpose, we aim at assigning items to stacks to minimize the number of blocking items with respect to the retrieval order. We provide some mathematical analyses on the feasibility of this problem and lower bounds. Besides, we provide a mathematical model and a two-step heuristic framework. We illustrate the applications of these models and heuristic framework in the real cargo handling process in an Asian port. Experimental results on real scenarios show that the proposed model can eliminate almost all reshuffles, and thus decrease the number of stacking violations from 62.6 % to 0.9 %. We also provide an empirical analysis of variants of the heuristic framework.
+ER  - 
+
+TY  - CONF
+TI  - New Directional Coupler with Reduced Dimensions and a Wide Frequency Band in Modern Maritime Communications
+T2  - 2021 3rd International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency (SUMMA)
+SP  - 1225
+EP  - 1228
+AU  - L. Q. Hung
+PY  - 2021
+KW  - Performance evaluation
+KW  - Strips
+KW  - Simulation
+KW  - Microwave devices
+KW  - Bandwidth
+KW  - Microwave communication
+KW  - Packaging
+KW  - compact
+KW  - artificial line
+KW  - quarter-wave length
+KW  - coupler
+DO  - 10.1109/SUMMA53307.2021.9632210
+JO  - 2021 3rd International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency (SUMMA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 3rd International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency (SUMMA)
+Y1  - 10-12 Nov. 2021
+AB  - In microwave technology, the actual problem of reducing the overall dimensions of the device. To increase the bandwidth of the directional coupler, the number of connected loops increases, which entails an increase in area. Therefore, the dimensions of such devices must be miniaturized. Artificial transmission lines have been proposed that made it possible to reduce the area of the coupler on the microwave substrate by 3.8 times. The negative fact of the use of artificial lines is the deterioration of the characteristics of the device in marine communication at sea.
+ER  - 
+
+TY  - CONF
+TI  - Combined controls of floating container cranes
+T2  - 2015 International Conference on Control, Automation and Information Sciences (ICCAIS)
+SP  - 442
+EP  - 447
+AU  - Pham Van Trieu
+AU  - Le Anh Tuan
+PY  - 2015
+KW  - Containers
+KW  - Cranes
+KW  - Marine vehicles
+KW  - Force
+KW  - Oscillators
+KW  - Yttrium
+KW  - Harmonic analysis
+KW  - sliding mode control
+KW  - feedback linearization
+KW  - PD control
+KW  - floating container cranes
+DO  - 10.1109/ICCAIS.2015.7338709
+JO  - 2015 International Conference on Control, Automation and Information Sciences (ICCAIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Control, Automation and Information Sciences (ICCAIS)
+Y1  - 29-31 Oct. 2015
+AB  - We construct two controllers for floating container cranes based on the combination of feedback linearization, sliding mode, and proportional-derivative controls. The disturbances composed of viscoelasticity of sea water, elasticity of suspended wire rope, and sea-excited motions of ship are fully considered. The controllers simultaneously conduct four duties: tracking the trolley to reference, lifting the container to desired cable length, reducing the axial container oscillation and container swing. The simulation results reveal that the controllers work well and stabilize all the system responses.
+ER  - 
+
+TY  - CONF
+TI  - Miniaturization of a Circular Directional Coupler of Marine Simulation System Using Artificial Lines
+T2  - 2021 3rd International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency (SUMMA)
+SP  - 1217
+EP  - 1220
+AU  - N. K. Khiem
+AU  - L. Q. Hung
+PY  - 2021
+KW  - Structural rings
+KW  - Industries
+KW  - Power transmission lines
+KW  - Mathematical models
+KW  - Topology
+KW  - Microstrip
+KW  - Directional couplers
+KW  - compact
+KW  - artificial line
+KW  - quarter-wave length
+KW  - coupler
+DO  - 10.1109/SUMMA53307.2021.9632115
+JO  - 2021 3rd International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency (SUMMA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 3rd International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency (SUMMA)
+Y1  - 10-12 Nov. 2021
+AB  - The possibility of using artificial lines for miniaturization of a circular directional coupler in modern maritime communications has been studied. A variant of constructing artificial lines and their calculation to reduce the size of the coupler is considered. Thanks to the optimization of all structural elements, it was possible to maintain the characteristics at a similar level to the standard device. The area of the miniaturized coupler is 77.5% smaller than that of a conventional coupler. The considered artificial lines can be applied to other couplers and microstrip devices.
+ER  - 
+
+TY  - CONF
+TI  - A Neural Network-Based Model to Predict Fuel Consumption and Sailing Time for Cargo Ships
+T2  - 2023 International Russian Automation Conference (RusAutoCon)
+SP  - 386
+EP  - 391
+AU  - K. D. Huu
+AU  - T. D. Anh
+AU  - T. H. Duc
+PY  - 2023
+KW  - Decision support systems
+KW  - Wind speed
+KW  - Simulation
+KW  - Input variables
+KW  - Predictive models
+KW  - Feedforward neural networks
+KW  - Fuels
+KW  - A neural network-based model
+KW  - fuel consumption
+KW  - sailing time
+KW  - hardware-in-the-loop simulator
+KW  - optimal route
+DO  - 10.1109/RusAutoCon58002.2023.10272784
+JO  - 2023 International Russian Automation Conference (RusAutoCon)
+IS  - 
+SN  - 2836-614X
+VO  - 
+VL  - 
+JA  - 2023 International Russian Automation Conference (RusAutoCon)
+Y1  - 10-16 Sept. 2023
+AB  - This paper presents the construction of a neural network-based model to predict fuel consumption and sailing time using a feedforward neural network trained by the backpropagation method. Instead of using in-service data collected from real ships like most previous studies, it often does not have all the necessary data and takes a long time to get a large enough dataset. We use a hardware-in-the-loop (HIL) simulator to create a dataset with many scenarios covering the most common ship operations at sea. Experimental results show that the proposed model gives high-accuracy results, which can be applied to find optimal routes and minimum main engine speeds for cargo ships before each voyage in the future.
+ER  - 
+
+TY  - CONF
+TI  - Smart Bag: Monitoring Food Transportation in Developing Countries
+T2  - 2022 IEEE International Humanitarian Technology Conference (IHTC)
+SP  - 93
+EP  - 100
+AU  - A. Udugama
+AU  - J. Dede
+AU  - E. Chavan
+AU  - A. Förster
+AU  - V. Tsapi
+AU  - H. -D. Haasis
+PY  - 2022
+KW  - Industries
+KW  - Dairy products
+KW  - Transportation
+KW  - Production
+KW  - Packaging
+KW  - Developing countries
+KW  - Internet of Things
+KW  - developing countries
+KW  - food safety
+KW  - food monitoring
+KW  - supply chain
+DO  - 10.1109/IHTC56573.2022.9998391
+JO  - 2022 IEEE International Humanitarian Technology Conference (IHTC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Humanitarian Technology Conference (IHTC)
+Y1  - 2-4 Dec. 2022
+AB  - There are a variety of models, processes and technologies developed for use in transportation of food. Most of these assume the availability of good infrastructure, well established workflows, optimized or at least professional packaging, and trained workers. However, these are sometime not wanted or even possible. An example is the milk and meat production in Cameroon. A field study shows that these are mostly cottage industries and the logistics of transportation employed are very ad hoc in nature. Therefore, there is no central control of the transport and as a result, the farmer is unaware of the state of the goods when they arrive at the destination. Taking these specific issues into consideration, we have developed a monitoring solution to use in transportation to determine the state of the goods after the transport is completed. This solution, called the Smart Bag, is an Internet of Things (IoT) based simple, reliable and cost-effective device to be used in transporting milk and meat. In this paper, we present the design and evaluation of the Smart Bag which we plan to deploy in Cameroon.
+ER  - 
+
+TY  - CONF
+TI  - Human-Centred Interfaces on Engineering Teleoperation: A Case Study of Utilising Virtual Reality (VR) with Robotic Systems
+T2  - 2024 7th International Conference on Information and Communications Technology (ICOIACT)
+SP  - 142
+EP  - 147
+AU  - Q. Nguyen
+AU  - T. Tran
+AU  - T. Luu
+AU  - M. Tran
+AU  - G. R. Emad
+AU  - T. Hoang
+PY  - 2024
+KW  - Remotely guided vehicles
+KW  - Service robots
+KW  - Human-machine systems
+KW  - Human-robot interaction
+KW  - Virtual reality
+KW  - Manipulators
+KW  - Industrial robots
+KW  - User experience
+KW  - Information and communication technology
+KW  - Robots
+KW  - Cognitive Human Factor
+KW  - Virtual Reality (VR)
+KW  - User Interface (UI)
+KW  - Human-Machine Interface (HMI)
+KW  - Human-Centred Design (HCD)
+KW  - Robotic Teleoperation
+DO  - 10.1109/ICOIACT64819.2024.10912837
+JO  - 2024 7th International Conference on Information and Communications Technology (ICOIACT)
+IS  - 
+SN  - 2770-4661
+VO  - 
+VL  - 
+JA  - 2024 7th International Conference on Information and Communications Technology (ICOIACT)
+Y1  - 20-21 Nov. 2024
+AB  - Human-machine interface (HMI) focuses on developing user interfaces (UI) where humans interact with digital systems. As the prevalence of robots in industrial settings increases, the complexity of human-robot interaction becomes increasingly critical. Designing intuitive and effective interfaces is essential to ensure robotic systems' safe and efficient operation. This paper explores the use of virtual reality (VR) as a human-centred interface for engineering teleoperation, focusing on the core functions of industrial robot teach pendants. We aim to develop a general VR-based robotic manipulator interface by analysing existing HMI and identifying potential VR enhancements. Our results suggest that VR-based interfaces have the potential to improve user experience (UX), efficiency, accuracy, and UI/UX design flexibility. This work intends to contribute to the VR teleoperation concept for other robotic systems like drones/unmanned aerial vehicles, autonomous underwater vehicles, and automated guided vehicles.
+ER  - 
+
+TY  - CONF
+TI  - Cruise Tourism Product Developing Model Optimization Based on Demand Forecasting
+T2  - 2015 International Conference on Intelligent Transportation, Big Data and Smart City
+SP  - 240
+EP  - 243
+AU  - O. Yangwei
+PY  - 2015
+KW  - Industries
+KW  - Predictive models
+KW  - Encoding
+KW  - Optimization
+KW  - Forecasting
+KW  - Mathematical model
+KW  - Ports (Computers)
+KW  - cruise
+KW  - model optimization
+KW  - demand forecasting
+KW  - MAD
+KW  - GA
+DO  - 10.1109/ICITBS.2015.66
+JO  - 2015 International Conference on Intelligent Transportation, Big Data and Smart City
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Intelligent Transportation, Big Data and Smart City
+Y1  - 19-20 Dec. 2015
+AB  - This paper analyzes the developing process of cruise tourism product at home and abroad and propose further analysis on existing problems on domestic market, to put forward a novel idea for cruise tourism product. By analysis we take the demand feature including navigation time, port of call, etc. Into account to establish cruise route optimization model. Aiming at the largest tourist volume and the minimum operating costs and routing time and tourist quantity are taken as the constraint, we simulate the interactive relationship between the route structure and the number of visitors. The design is based on the improved algorithm and solution model based on matrix coding, to compute the route scheme and routine income under balance status. At last the model is solved by programming and the computation results of model are verified to be matched with the demand of consumers, which also meets the actual case of our country.
+ER  - 
+
+TY  - CONF
+TI  - A Scheme of Autonomous Victim Search at Sea Based on Deep Learning Technique Using Cooperative Networked UAVs
+T2  - 2023 12th International Conference on Control, Automation and Information Sciences (ICCAIS)
+SP  - 206
+EP  - 211
+AU  - T. D. Trong
+AU  - V. D. Khai
+AU  - T. B. Duy
+AU  - M. V. Van
+PY  - 2023
+KW  - Deep learning
+KW  - Simulation
+KW  - Software algorithms
+KW  - Autonomous aerial vehicles
+KW  - Software
+KW  - Environmental factors
+KW  - Trajectory
+KW  - UAV Networking
+KW  - SITL
+KW  - Deep Learning
+KW  - Search and Rescue
+KW  - Light Intensity
+DO  - 10.1109/ICCAIS59597.2023.10382366
+JO  - 2023 12th International Conference on Control, Automation and Information Sciences (ICCAIS)
+IS  - 
+SN  - 2475-7896
+VO  - 
+VL  - 
+JA  - 2023 12th International Conference on Control, Automation and Information Sciences (ICCAIS)
+Y1  - 27-29 Nov. 2023
+AB  - In this research paper, we propose the utilization of Multiple Vertical Take-off and Landing Unmanned Aerial Vehicles (VTOL UAVs) suited for maritime operations, combined with Deep Learning algorithms for automatic victim detection and coming up the solution rescue. This work addresses detecting victims with low light intensity - the challenge of Computer Vision algorithms combined with brute-force search flight systems. A cooperative architecture between two UAVs on a local communication network is devised to monitor the drone’s trajectory in the search progress. The modern flight system is based on Software in the Loop (SITL) simulation consisting of X-Plane 11, Ardupilot Firmware, and the autonomous flight algorithm to detect and rescue victims at sea. The simulation results demonstrate the enhancement of mitigating the effect of light intensity for images captured by UAVs to be used by deep learning technique for ameliorating the number of detected victims at sea with up to 62.6% compared with original data.
+ER  - 
+
+TY  - CONF
+TI  - Kinematic Modeling of Spherical Rolling Robots with a Three-Omnidirectional-Wheel Drive Mechanism
+T2  - 2020 20th International Conference on Control, Automation and Systems (ICCAS)
+SP  - 463
+EP  - 466
+AU  - P. D. Ba
+AU  - Q. Dong Hoang
+AU  - S. -G. Lee
+AU  - T. H. Nguyen
+AU  - X. Quang Duong
+AU  - B. C. Tham
+PY  - 2020
+KW  - Robots
+KW  - Wheels
+KW  - Mobile robots
+KW  - Kinematics
+KW  - Robot kinematics
+KW  - Trajectory
+KW  - Mathematical model
+KW  - Spherical rolling robot
+KW  - underactuated system
+KW  - nonholonomic constraints
+KW  - omnidirectional motion
+KW  - kinematics
+DO  - 10.23919/ICCAS50221.2020.9268200
+JO  - 2020 20th International Conference on Control, Automation and Systems (ICCAS)
+IS  - 
+SN  - 2642-3901
+VO  - 
+VL  - 
+JA  - 2020 20th International Conference on Control, Automation and Systems (ICCAS)
+Y1  - 13-16 Oct. 2020
+AB  - The spherical rolling robot (SRR) is an underactuated system with nonholonomic constraints. The proposed drive mechanism for the mobile robot is comprised of three omnidirectional wheels to make the omnidirectional movement of the robot on the floor. The kinematic model of the SRR is derived via nonholonomic constraints. Numerical simulation is analyzed. Results indicate that the robot can track the desired trajectory and maintain its balance stably at the same time.
+ER  - 
+
+TY  - CONF
+TI  - Hierarchical Sliding Mode Control for a 3D Ballbot that is a Class of Second-order Under-actuated System
+T2  - 2019 19th International Conference on Control, Automation and Systems (ICCAS)
+SP  - 641
+EP  - 645
+AU  - P. D. Ba
+AU  - H. Q. Dong
+AU  - N. L. Huong
+AU  - S. -G. Lee
+PY  - 2019
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Automation
+KW  - Wheels
+KW  - Motors
+KW  - Robustness
+KW  - Trajectory
+KW  - Sliding mode control
+KW  - Floors
+KW  - Lyapunov methods
+KW  - Ballbot
+KW  - sliding mode control
+KW  - 3D dynamic model
+KW  - under-actuated system
+KW  - Lyapunov method
+DO  - 10.23919/ICCAS47443.2019.8971547
+JO  - 2019 19th International Conference on Control, Automation and Systems (ICCAS)
+IS  - 
+SN  - 2642-3901
+VO  - 
+VL  - 
+JA  - 2019 19th International Conference on Control, Automation and Systems (ICCAS)
+Y1  - 15-18 Oct. 2019
+AB  - This paper proposes a hierarchical sliding mode controller for a three-dimensional ballbot in an extremely complicated operation of three omni-directional wheels, a ball, and body. Three ball motors simultaneously drive four outputs comprising ball motion and two tilt angles of the body. Simulation tests are performed to investigate the controller qualities. The proposed controller asymptotically stabilizes and consistently maintains system response.
+ER  - 
+
+TY  - CONF
+TI  - An LQG Optimal Linear Controller for Fin Stabilizer System of Marine Vessels
+T2  - 2020 International Conference on System Science and Engineering (ICSSE)
+SP  - 1
+EP  - 6
+AU  - Q. Nguyen
+AU  - T. Li
+AU  - R. Yu
+AU  - Q. Shan
+AU  - Y. Wu
+AU  - J. Ning
+PY  - 2020
+KW  - Regulators
+KW  - Optimal control
+KW  - Filtering algorithms
+KW  - Stability analysis
+KW  - Safety
+KW  - Kalman filters
+KW  - Marine vehicles
+KW  - Fin stabilizer
+KW  - linear quadratic gaussian
+KW  - optimal control
+KW  - linear quadratic regulator
+KW  - kalman filter
+DO  - 10.1109/ICSSE50014.2020.9219324
+JO  - 2020 International Conference on System Science and Engineering (ICSSE)
+IS  - 
+SN  - 2325-0925
+VO  - 
+VL  - 
+JA  - 2020 International Conference on System Science and Engineering (ICSSE)
+Y1  - 31 Aug.-3 Sept. 2020
+AB  - When sailing at sea, the ship’s rolling motion will greatly affect the safety of the ship and the cargo, as well as the health of the crew. As a common means for roll reduction, active fins are usually installed on ships, and the roll reduction efficiency of these fins depends primarily on the controller. In our work, a Linear Quadratic Gaussian (LQG) optimal controller is proposed for the ship linear fin stabilizer system. Specifically, this LQG control method is combined by the linear quadratic regulator (LQR) method and the linear quadratic estimator (LQE) method, the latter of which is also known as the Kalman filter. Therefore, the separation principle is used in this paper to solve the roll reduction problem of ships, namely the LQG controller is derived by solving the predestined optimal control problem and the optimal state estimation problem. Finally, the stability and efficiency of the proposed LQG controller is validated by conducting contrast simulation with the LQR controller, and the result of which shows better performance of the designed LQG strategy.
+ER  - 
+
+TY  - CONF
+TI  - Keynote Speech IV: Towards Building the Egyptian Artificial Intelligence Ecosystem
+T2  - 2019 29th International Conference on Computer Theory and Applications (ICCTA)
+SP  - 5
+EP  - 5
+AU  - M. Aborizka
+PY  - 2019
+KW  - Artificial intelligence
+KW  - Fourth Industrial Revolution
+KW  - Buildings
+KW  - Internet of Things
+KW  - Information technology
+KW  - Communications technology
+KW  - Technological innovation
+DO  - 10.1109/ICCTA48790.2019.9478795
+JO  - 2019 29th International Conference on Computer Theory and Applications (ICCTA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 29th International Conference on Computer Theory and Applications (ICCTA)
+Y1  - 29-31 Oct. 2019
+AB  - Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings.. In 2015, the United Nations announced a new set of Sustainable Development Goals (SDGs). Information & Communication Technologies (ICTs) are recognized as one of the main pillars to achieve the SDGs and building the global economy through innovations and jobs creation. In fact, the knowledge economy has a great potential to promote the economic growth especially for the developing countries.The fast implementation of Information & Communication Technologies such as Digitization, Robotics, Internet of Things (IoT), Artificial Intelligence (AI), and Nano & Bio Technologies has led to the fourth industrial revolution. Industry 4.0 is the blending of those technologies which affects the global political, social, and economic systems. In this talk, we will provide the main guidelines for building a holistic Egyptian strategy to join the industry 4.0 era, especially in the field of Artificial Intelligence.This strategy can support Egypt to gain a competitive advantage in the global knowledge economy as one of the contributors in the AI field. As well as, helps Egypt to generate investments and to be considered as a hub for the AI systems, and highly compete in the areas of research and development in the region.
+ER  - 
+
+TY  - CONF
+TI  - Multi-User Physical Network Coding Scheme with Low-Resolution ADCs at the Base Station
+T2  - 2024 International Conference on Advanced Technologies for Communications (ATC)
+SP  - 102
+EP  - 106
+AU  - H. Dang
+AU  - H. T. Nguyen
+PY  - 2024
+KW  - Base stations
+KW  - Quantization (signal)
+KW  - Computational modeling
+KW  - Simulation
+KW  - Symbols
+KW  - Transforms
+KW  - Network coding
+KW  - Physical layer
+KW  - Signal resolution
+KW  - Signal detection
+DO  - 10.1109/ATC63255.2024.10908167
+JO  - 2024 International Conference on Advanced Technologies for Communications (ATC)
+IS  - 
+SN  - 2162-1039
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Advanced Technologies for Communications (ATC)
+Y1  - 17-19 Oct. 2024
+AB  - In this paper, we investigate the application of Physical Layer Network Coding (PNC) in Multi-user Massive MIMO systems that use low-resolution analog-to-digital (ADC) converters on the receiving side to reduce hardware costs and power consumption. We explore the performance gains from combining massive multiple-input multiple-output (MIMO) and PNC techniques. PNC helps reduce the number of timeslots needed for end-to-end communication, thereby boosting the capacity of the wireless system. We utilize a method that transforms the chan-nel between a massive-antenna relay and multiple multi-antenna user terminals using a Sum-Difference (SD) matrix before applying a linear signal detection algorithm. By using an approximation model to establish the relationship between the input and output of a low-resolution ADC, we derive an expression that accounts for the finite number of quantization levels to compute the Log-Likelihood Ratio (LLR) of the network-coded bit. We evaluate the error performance of the proposed scheme through extensive simulations across different resolution levels and multi-user configurations. The results demonstrate that the PNC technique significantly outperforms conventional network coding, as the PNC processing algorithm leverages the benefits of signal superposition in wireless MIMO channels.
+ER  - 
+
+TY  - JOUR
+TI  - Intelligent Robust Disturbance Rejection Control of a Ballbot Drive Micromobility Vehicle
+T2  - IEEE Transactions on Intelligent Vehicles
+SP  - 3617
+EP  - 3629
+AU  - N. Xuan-Mung
+AU  - D. B. Pham
+AU  - X. Q. Duong
+AU  - M. Van
+AU  - S. Sareh
+AU  - K. Shojaei
+AU  - E. Asadi
+AU  - S. -G. Lee
+AU  - H. Khayyam
+PY  - 2024
+KW  - Mathematical models
+KW  - Wheels
+KW  - Robots
+KW  - Control systems
+KW  - Uncertainty
+KW  - Drives
+KW  - Vehicle dynamics
+KW  - Micromobility
+KW  - road disturbances
+KW  - disturbance rejection
+KW  - self-balancing vehicle
+KW  - hybrid control
+KW  - stability
+KW  - adaptive disturbance observer
+DO  - 10.1109/TIV.2023.3345832
+JO  - IEEE Transactions on Intelligent Vehicles
+IS  - 2
+SN  - 2379-8904
+VO  - 9
+VL  - 9
+JA  - IEEE Transactions on Intelligent Vehicles
+Y1  - Feb. 2024
+AB  - We propose a hybrid adaptive control method with robust disturbance rejection for a novel personal micromobility vehicle that uses ballbot drive mechanics with a single spherical wheel. Intelligent control of such a micromobility vehicle is significantly sensitive to discrete events of short duration and high-intensity road disturbances and shocks. Sudden bumps, potholes, pavement or kicks typically cause these events. Our approach combines adaptive disturbance observer (DOB) with two other techniques to achieve better and more robust nonlinear control of a ballbot drive vehicle (BDV) against small to large external disturbances. The proposed hybrid DOB-Based combined control system (DOB-CCS) stabilizes the body position via a DOB-based partial feedback linearization (PFL) strategy while enabling ball movement on the floor by introducing a DOB-based sliding mode control (SMC). The control scheme consists of linearly combined components responsible for maintaining an upright posture about unstable equilibrium points and tracking the motion under disturbances. Simulations, real-platform experiments and respective comparative studies show the efficacy of the proposed method for a BDV to reject external disturbances. The practical performance of the proposed DOB-CCS strategy is experimentally validated and compared with a CCS method. The experimental results indicate less than 0.7 and 1.5 degrees of ballbot's orientation error and robust rejection of disturbances under kicks during balancing and transferring modes, respectively.
+ER  - 
+
+TY  - CONF
+TI  - Online optimal control for nonlinear fin stabilizer system of marine vessels via time-based ADP algorithm
+T2  - 2020 15th IEEE Conference on Industrial Electronics and Applications (ICIEA)
+SP  - 264
+EP  - 271
+AU  - Q. Nguyen
+AU  - T. Li
+AU  - J. Ning
+AU  - Y. Wu
+PY  - 2020
+KW  - System dynamics
+KW  - Simulation
+KW  - Optimal control
+KW  - Process control
+KW  - Artificial neural networks
+KW  - Cost function
+KW  - Data models
+KW  - Fin stabilizer
+KW  - adaptive dynamic programming
+KW  - optimal control
+KW  - unknown nonlinear system
+DO  - 10.1109/ICIEA48937.2020.9248167
+JO  - 2020 15th IEEE Conference on Industrial Electronics and Applications (ICIEA)
+IS  - 
+SN  - 2158-2297
+VO  - 
+VL  - 
+JA  - 2020 15th IEEE Conference on Industrial Electronics and Applications (ICIEA)
+Y1  - 9-13 Nov. 2020
+AB  - An online optimal control for fin stabilizer system of vessels based on adaptive dynamic programming (ADP) with an unknown system dynamic is developed in this paper. A model network is firstly used to identify the unknown fin stabilizer system dynamic and the optimal control can be obtained by using recorded and current data without knowledge of system dynamic. Then, two neural networks (NN) which are action and critic network are used to approximate the optimal control policy and optimal cost function respectively, two NNs are trained by using current and recorded data of the system and update processing is given for them once at sampling time. The proposed optimal control law can reduce roll motion of vessels at desired value and guarantee all states of the system, control signals and cost function are uniformly ultimately bounded (UUB) with desired bounded errors. Simulation results are given to validate the effectiveness and performance of the proposed optimal control policy.
+ER  - 
+
+TY  - CONF
+TI  - A Plug&Play Scheme of GPIO Sensors/Actuators in Linux Platforms
+T2  - 2024 International Conference on Information Networking (ICOIN)
+SP  - 705
+EP  - 707
+AU  - C. -H. Song
+AU  - J. -H. Kyung
+AU  - S. Eun
+PY  - 2024
+KW  - Actuators
+KW  - Linux
+KW  - Sensors
+KW  - Device drivers
+KW  - Internet of Things
+KW  - Plug&Play
+KW  - Raspberry-Pi
+KW  - Linux
+KW  - Sensor/Actuator
+KW  - GPIO Port
+DO  - 10.1109/ICOIN59985.2024.10572032
+JO  - 2024 International Conference on Information Networking (ICOIN)
+IS  - 
+SN  - 1976-7684
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Information Networking (ICOIN)
+Y1  - 17-19 Jan. 2024
+AB  - Linux platforms such as Raspberry-Pi are widely used as development platforms for high-performance sensors/actuators in IoT application development. Application developers connect sensors or actuators to the GPIO port of Raspberry-Pi and write applications that access them. If the Plug&Play technique of GPIO sensors and actuators is provided, the difficulty of application development will be reduced. Existing Plug&Play techniques do not support Linux platforms, especially GPIO sensors/actuators. This paper proposes a method in which the device driver is automatically installed and played on Linux when the sensor/actuator is plugged into the GPIO port. By comparing and analyzing the method of this paper with the existing method by exemplifying the structure and device driver of the GPIO sensor, the method of this paper was shown to be more cost-effective.
+ER  - 
+
+TY  - JOUR
+TI  - Joint Detection and Decoding of Mixed-ADC Large-Scale MIMO Communication Systems With Protograph LDPC Codes
+T2  - IEEE Access
+SP  - 101013
+EP  - 101029
+AU  - H. N. Dang
+AU  - H. T. Nguyen
+AU  - T. V. Nguyen
+PY  - 2021
+KW  - MIMO communication
+KW  - Communication systems
+KW  - Receiving antennas
+KW  - Parity check codes
+KW  - Detectors
+KW  - Antennas
+KW  - Maximum likelihood decoding
+KW  - Large-scale MIMO
+KW  - protograph LDPC
+KW  - low-resolution ADCs
+KW  - ternary-ADCs
+KW  - uniform scalar quantizer
+KW  - truncation limit
+KW  - mixed-ADCs
+DO  - 10.1109/ACCESS.2021.3097444
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Nowadays, large-scale multiple-input multiple-output (LS-MIMO) with low-resolution analog-to-digital converters (ADCs) is a favorable transmission scheme for 5G and beyond wireless networks to reduce the power consumption of the radio frequency chains and to increase the network capacity. This paper derives the joint message-passing detection and decoding algorithm based on the double-layer graph for LS-MIMO communication systems with mixed-ADCs. The new protograph extrinsic information chart (PEXIT) algorithm is developed to analytically evaluate the performance of protograph low-density parity-check code under various mixed-ADC combinations and LS-MIMO configuration scenarios. The simulation results validate the accuracy of the proposed algorithm. Furthermore, our experiments show that the mixed-ADC system can achieve a significant power gain even when only one received antenna is equipped with high-resolution ADCs. It is observed that 4-bit or 5-bit resolution is an optimal choice for the high-resolution receive antennas. Interestingly, mixed-ADC systems with Ternay-ADCs generally provide significant gains at the cost of the increase in the average resolution by a fraction of a bit. There are specific scenarios where the Ternary-ADC-based system outperforms the 1-bit-ADC based system at the same or lower average resolution. In the particular case of 16 ×16 MIMO configuration where the number of low-resolution antennas is NL = 12 and the number of high-resolution antennas is NH = 4, the Ternary-ADC based system can obtain a power gain of about 2 dB at the frame error rate (FER) or bit error rate (BER) level of 10-5.
+ER  - 
+
+TY  - JOUR
+TI  - Time-Optimal Motion Planning and Anti-Sloshing Control for a Container Under Disturbances
+T2  - IEEE Access
+SP  - 26707
+EP  - 26726
+AU  - K. Nguyen Viet
+AU  - H. Luu Thi
+AU  - T. Cao Duc
+AU  - H. Nguyen Danh
+AU  - M. N. Vu
+AU  - T. Lam Nguyen
+PY  - 2025
+KW  - Liquids
+KW  - Containers
+KW  - Mathematical models
+KW  - Trajectory
+KW  - Uncertainty
+KW  - Safety
+KW  - Numerical stability
+KW  - Computational modeling
+KW  - State estimation
+KW  - Oscillators
+KW  - Anti-sloshing control
+KW  - control barrier function
+KW  - flatness-based trajectory planning
+KW  - terminal sliding mode control base LESO
+DO  - 10.1109/ACCESS.2025.3533541
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - Sloshing is the term for the liquid’s internal movement, which is often undesirable in technological processes. This paper aims to provide a solution for suppressing sloshing liquid in a moving cylindrical container. To prevent the negative impact of the sloshing problem, our approach is a combination of generating a desired path, robust control, and output constraints. To begin with, this research introduces a discrete model derived from a nonlinear equivalent mass-spring-damper system. Subsequently, after establishing the flatness of the approximate nonlinear model, we introduce rest-to-rest and time-optimal trajectory planning. We overcome the unmeasurable state variable and disturbance with the Linear Extended State Observer (LESO) algorithm. In addition, to address the challenge of tracking the orbital path, we suggest a control technique Terminal Sliding Mode Control (TSMC), which is well-known for its fast convergence while ensuring global stability. Moreover, to meet the constraints of a practical system, the control barrier function is applied. Lastly, the effectiveness of this control methodology is validated by comprehensive numerical simulations.
+ER  - 
+
+TY  - CONF
+TI  - DC Energy Router Design for the Energy Internet
+T2  - 2025 7th International Conference on Renewable Energy for Developing Countries (REDEC)
+SP  - 1
+EP  - 7
+AU  - A. Fawaz
+AU  - I. Mougharbel
+AU  - K. Al-Haddad
+AU  - H. Y. Kanaan
+PY  - 2025
+KW  - Energy Internet
+KW  - DC-DC power converters
+KW  - Distribution networks
+KW  - Supercapacitors
+KW  - Propagation losses
+KW  - Routing
+KW  - Stability analysis
+KW  - Regulation
+KW  - Topology
+KW  - Voltage control
+KW  - Smart Grid
+KW  - Power Packet Distribution
+KW  - Energy Internet
+KW  - Energy Routers
+DO  - 10.1109/REDEC65313.2025.11190136
+JO  - 2025 7th International Conference on Renewable Energy for Developing Countries (REDEC)
+IS  - 
+SN  - 2644-1837
+VO  - 
+VL  - 
+JA  - 2025 7th International Conference on Renewable Energy for Developing Countries (REDEC)
+Y1  - 24-26 Sept. 2025
+AB  - This paper presents the design of a novel DC Energy Router (ER) for the Energy Internet. Compared to other existing ERs, the suggested one integrates uniform ports, internal supercapacitors, and bidirectional DC-DC converters to facilitate power routing within a power packet distribution network composed of multiple ERs. The system architecture supports multi-port connections and asynchronous power flow regulation through an internal slack element. Each port is controlled by a dedicated converter operating under specific control modes. Transmission losses are compensated by the source, while the supercapacitor actively regulates the DC bus voltage. Simulation results validate several functions of the proposed system under varying load conditions, demonstrating its effectiveness in maintaining voltage stability and ensuring current regulation.
+ER  - 
+
+TY  - CONF
+TI  - An implementation of ultra-low-stand by power SRAMs using 65 nm Silicon-on-Thin-Box (SOTB) for Smart IoT
+T2  - 2017 7th International Conference on Integrated Circuits, Design, and Verification (ICDV)
+SP  - 9
+EP  - 9
+AU  - K. Nii
+PY  - 2017
+DO  - 10.1109/ICDV.2017.8188627
+JO  - 2017 7th International Conference on Integrated Circuits, Design, and Verification (ICDV)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 7th International Conference on Integrated Circuits, Design, and Verification (ICDV)
+Y1  - 5-6 Oct. 2017
+AB  - In 65-nm Silicon-on-Thin-Box (SOTB) technology [1, 2], we demonstrate fully functional embedded single-port (SP) SRAM and dual-port (DP) SRAM for Smart IoT applications [3, 4]. By using back-bias (BB) control in the sleep mode, 13.72 nW/Mbit ultra-low standby power for SP SRAM is observed, which is reduced to 1/1000 compared to the normal standby mode. The measured read access time of SP SRAM with forward BB is less than 2.0 ns at 1.0 V overdrive and 25°C, which is over 2.5∗ faster than that of normal mode at 0.75 V with zero-BB, achieving over 380 MHz operation. Besides, we propose the localized adoptive wordline width control in SP SRAM, reducing up to 20% active read power. Read/write disturbance issues in DP SRAM are also evaluated by test chips, confirmed there are no issues.
+ER  - 
+
+

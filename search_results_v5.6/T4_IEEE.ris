@@ -1,0 +1,330 @@
+TY  - CONF
+TI  - An agent-based simulation model for autonomous trailer docking
+T2  - 2017 Winter Simulation Conference (WSC)
+SP  - 1324
+EP  - 1335
+AU  - B. Gerrits
+AU  - M. Mes
+AU  - P. Schuur
+PY  - 2017
+KW  - Planning
+KW  - Logistics
+KW  - Transportation
+KW  - Control systems
+KW  - Loading
+KW  - Layout
+KW  - Analytical models
+DO  - 10.1109/WSC.2017.8247877
+JO  - 2017 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2017 Winter Simulation Conference (WSC)
+Y1  - 3-6 Dec. 2017
+AB  - This paper presents a simulation model of a generic automated planning and control system for the pick-up and docking of semi-trailers by means of autonomous Yard Tractors (YTs) in a collision- and conflict free environment. To support the planning and control of the YTs, we propose a Multi-Agent System (MAS). We illustrate our approach using a case study at a Dutch logistics service provider. To evaluate the proposed system, we design an agent-based simulation model, which is set up in a similar way as the MAS. We conclude with the verification and validation of the simulation model.
+ER  - 
+
+TY  - CONF
+TI  - A discrete event simulation for the logistics of Hamad's container terminal of Qatar
+T2  - 2016 Winter Simulation Conference (WSC)
+SP  - 2262
+EP  - 2271
+AU  - M. Kotachi
+AU  - G. Rabadi
+AU  - M. K. Msakni
+AU  - M. Al-Salem
+AU  - A. Diabat
+PY  - 2016
+KW  - Containers
+KW  - Cranes
+KW  - Ports (Computers)
+KW  - Analytical models
+KW  - Object oriented modeling
+KW  - Resource management
+KW  - Context modeling
+DO  - 10.1109/WSC.2016.7822267
+JO  - 2016 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2016 Winter Simulation Conference (WSC)
+Y1  - 11-14 Dec. 2016
+AB  - A discrete even simulation is developed for the first container terminal of Hamad's new port of Qatar which is anticipated to start its operations by the end of 2016. The model is based on the operational knowledge of experts from the current port of Doha and Qatar's port authority (Mwani). The challenge in this paper is validating a simulation for a system that has not started its operation. Nonetheless, data and configuration of the current port has been utilized to partially validate the output of the simulation. The preliminary analysis shows promising results and indicate the validity of the model.
+ER  - 
+
+TY  - JOUR
+TI  - A Multi-Agent Based Simulation Model for Rail–Rail Transshipment: An Engineering Approach for Gantry Crane Scheduling
+T2  - IEEE Access
+SP  - 13142
+EP  - 13156
+AU  - M. N. Abourraja
+AU  - M. Oudani
+AU  - M. Y. Samiri
+AU  - D. Boudebous
+AU  - A. El Fazziki
+AU  - M. Najib
+AU  - A. Bouain
+AU  - N. Rouky
+PY  - 2017
+KW  - Containers
+KW  - Object oriented modeling
+KW  - Cranes
+KW  - Rails
+KW  - Transportation
+KW  - Electronic mail
+KW  - Interference
+KW  - Le Havre seaport
+KW  - container terminal
+KW  - multi-agent system
+KW  - engineering strategy
+KW  - crane interference
+KW  - modeling and simulation
+DO  - 10.1109/ACCESS.2017.2713246
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 5
+VL  - 5
+JA  - IEEE Access
+Y1  - 2017
+AB  - Le Havre Port Authority is putting into service a multimodal hub terminal with massified hinterland links (trains and barges) in order to restrict the intensive use of roads, to achieve a more attractive massification share of hinterland transportation and to provide a river connection to its maritime terminals that do not currently have one. This paper focuses on the rail-rail transshipment yard of this new terminal. In the current organizational policy, this yard is divided into two equal operating areas, and, in each one, a crane is placed, and it is equipped with reach stackers to enable container moves across both operating areas. However, this policy causes poor scheduling of crane moves, because it gives rise to many crane interference situations. For the sake of minimizing the occurrence of these undesirable situations, this paper proposes a multi-agent simulation model including an improved strategy for crane scheduling. This strategy is inspired by the ant colony approach and it is governed by a new configuration for the rail yard's working area that eliminates the use of reach stackers. The proposed simulation model is based on two planner agents, to each of which a time-horizon planning is assigned. The simulation results show that the model developed here is very successful in significantly reducing unproductive times and moves (undesirable situations), and it outperforms other existing simulation models based on the current organizational policy.
+ER  - 
+
+TY  - CONF
+TI  - Traffic simulation model for port planning and congestion prevention
+T2  - 2016 Winter Simulation Conference (WSC)
+SP  - 2382
+EP  - 2393
+AU  - B. Li
+AU  - K. W. Tan
+AU  - K. T. Tran
+PY  - 2016
+KW  - Ports (Computers)
+KW  - Vehicles
+KW  - Data models
+KW  - Roads
+KW  - Analytical models
+KW  - Planning
+KW  - Load modeling
+DO  - 10.1109/WSC.2016.7822278
+JO  - 2016 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2016 Winter Simulation Conference (WSC)
+Y1  - 11-14 Dec. 2016
+AB  - Effective management of land-side transportation provides the competitive advantage to port terminal operators in improving services and efficient use of limited space in an urban port. We present a hybrid simulation model that combines traffic-flow modeling and discrete-event simulation for land-side port planning and evaluation of traffic conditions for a number of what-if scenarios. We design our model based on a real-world case of a bulk cargo port. The problem is interesting due to complexity of heterogeneous closed-looped internal vehicles and external vehicles traveling in spaces with very limited traffic regulation (no traffic lights, no traffic wardens) and the traffic interactions with port operations such as loading and unloading cargos. Our simulation results show interesting decision-support scenarios for decision makers to evaluate future port planning possibilities and to derive regulation policies governing the port traffic.
+ER  - 
+
+TY  - CONF
+TI  - CYBER-PHYSICAL SIMULATION AND OPTIMAL MITIGATION FOR SHIPPING PORT OPERATIONS
+T2  - 2018 Winter Simulation Conference (WSC)
+SP  - 2747
+EP  - 2758
+AU  - G. A. Weaver
+AU  - L. Marla
+PY  - 2018
+KW  - Solid modeling
+KW  - Transportation
+KW  - Optimization
+KW  - Security
+KW  - Schedules
+KW  - Computational modeling
+KW  - Weaving
+DO  - 10.1109/WSC.2018.8632551
+JO  - 2018 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2018 Winter Simulation Conference (WSC)
+Y1  - 9-12 Dec. 2018
+AB  - Modern shipping ports require computer systems to accommodate an increasing number of port calls, larger vessel sizes, and tighter supply chains. Disruptions to assets on these networks have the potential to propagate to other critical infrastructures at great economic cost. Such disruptions may be introduced intentionally by adversaries that include nation states, organized crime, hacktivists, and insiders. Area Maritime Security Committees (AMSCs) must develop security plans to minimize disruptions' impact. This paper explores one way to couple a simulation of the flow of commodities through a shipping port with an optimization that minimizes the cost of disruptions to the port transportation system. Our intent is to enable stakeholders to run what-if scenarios, to understand the impact and effect of cyber-physical disruptions, and to optimally mitigate their effect. This research, based on ongoing fieldwork with Port Everglades and the USCG, hopes to improve security policies that integrate cyber and physical effects.
+ER  - 
+
+TY  - JOUR
+TI  - A Simulation Study on the Design of a Novel Automated Container Terminal
+T2  - IEEE Transactions on Intelligent Transportation Systems
+SP  - 2889
+EP  - 2899
+AU  - X. Yang
+AU  - W. Mi
+AU  - X. Li
+AU  - G. An
+AU  - N. Zhao
+AU  - C. Mi
+PY  - 2015
+KW  - Containers
+KW  - Object oriented modeling
+KW  - Vehicles
+KW  - Loading
+KW  - Rails
+KW  - Layout
+KW  - Load modeling
+KW  - Automated container terminal (ACT)
+KW  - design
+KW  - simulation
+KW  - evaluation
+KW  - configuration
+KW  - port
+KW  - Automated container terminal (ACT)
+KW  - design
+KW  - simulation
+KW  - evaluation
+KW  - configuration
+KW  - port
+DO  - 10.1109/TITS.2015.2425547
+JO  - IEEE Transactions on Intelligent Transportation Systems
+IS  - 5
+SN  - 1558-0016
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Intelligent Transportation Systems
+Y1  - Oct. 2015
+AB  - In this paper, we design, analyze, and evaluate a novel automated container terminal (ACT), namely, the rail-shuttle-based ACT. To analyze the performance, one detailed simulation system is built based on parametric design ideas. Two different microscopic rail-shuttle-based ACT simulation models, in which either straddle carriers (SCs) or automated guided vehicles with lifting devices (lift-AGVs) are employed, are formulated. Simulation experiments are carried out to obtain a reasonable equipment configuration for the proposed ACT. The results indicate that the performance of conventional ACTs can be improved if equipped with rail shuttles, and the performance of the rail-shuttle-based ACT with SCs exceeds that with lift-AGVs.
+ER  - 
+
+TY  - JOUR
+TI  - Modeling and Simulation of the Rail Port Cycle
+T2  - IEEE Systems Journal
+SP  - 273
+EP  - 282
+AU  - C. Caballini
+AU  - S. Sacone
+PY  - 2015
+KW  - Rails
+KW  - Containers
+KW  - Ports (Computers)
+KW  - Complexity theory
+KW  - Systems engineering and theory
+KW  - Rail transportation
+KW  - Rail port cycle
+KW  - simulation
+KW  - System Dynamics (SD)
+KW  - systems of systems
+KW  - what-if scenario
+KW  - Rail port cycle
+KW  - simulation
+KW  - System Dynamics (SD)
+KW  - systems of systems
+KW  - what-if scenario
+DO  - 10.1109/JSYST.2014.2298073
+JO  - IEEE Systems Journal
+IS  - 1
+SN  - 1937-9234
+VO  - 9
+VL  - 9
+JA  - IEEE Systems Journal
+Y1  - March 2015
+AB  - For the undisputed degree of complexity that characterizes the port system, it certainly belongs to the category of systems of systems. In fact, the functioning of a port is made possible due to the interaction of a certain number of subsystems, which in turn depend on other subsystems. The goal of this paper is to model and simulate, by adopting the System Dynamics methodology, a subsystem of the port context: the rail port cycle. The model has been applied to some important container terminals located in Italy. “What-if” scenarios have been tested with the objective of underlining system bottlenecks.
+ER  - 
+
+TY  - CONF
+TI  - Mimo-Inspired Real-Time Scheduling of Port Transport Equipment: a Simulation-Optimization Approach Incorporating Reinforcement Learning
+T2  - 2025 International Conference on Networking, Sensing and Control (ICNSC)
+SP  - 1
+EP  - 6
+AU  - S. Zhu
+AU  - W. Li
+AU  - L. Cai
+AU  - L. He
+AU  - W. Guo
+AU  - H. Fan
+PY  - 2025
+KW  - Uncertainty
+KW  - Processor scheduling
+KW  - Heuristic algorithms
+KW  - Computational modeling
+KW  - Transportation
+KW  - Reinforcement learning
+KW  - Dynamic scheduling
+KW  - Real-time systems
+KW  - Optimization
+KW  - Logistics
+KW  - MIMO
+KW  - Real-time Scheduling
+KW  - Horizontal Transportation Equipment
+KW  - Simulation
+KW  - Reinforcement Learning
+DO  - 10.1109/ICNSC66229.2025.00036
+JO  - 2025 International Conference on Networking, Sensing and Control (ICNSC)
+IS  - 
+SN  - 2766-8665
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Networking, Sensing and Control (ICNSC)
+Y1  - 1-3 Oct. 2025
+AB  - The dynamic scheduling of automated container terminals has emerged as a critical challenge in port operations optimization. This study addresses two persistent issues in port transport equipment scheduling: operational uncertainties and chronic congestion at cargo interfaces. We propose a novel reinforcement learning framework that innovatively integrates Multi-Input Multi-Output (MIMO) communication theory into port logistics optimization. The methodology comprises three key components: 1) Development of an isomorphic mapping model that establishes precise correspondence between port logistics elements and communication system components, 2) Implementation of an enhanced $Q$-learning algorithm with multi-dimensional state-action space configuration, and 3) Deployment of a digital twin platform for virtual-real interaction verification of scheduling policies. Through extensive simulations on a validated terminal model, the proposed framework demonstrates superior performance metrics: achieving a 16 % reduction in average task completion time while decreasing quay crane waiting time variability by 31 % compared to conventional heuristic approaches. Notably, the MIMO-inspired real-time scheduling mechanism reduces peakperiod congestion occurrences by 47 % through intelligent resource multiplexing. These empirical results substantiate the framework's capability to enhance horizontal transportation efficiency while maintaining operational stability under stochastic disturbances.
+ER  - 
+
+TY  - CONF
+TI  - A Multi-Agent Deep Reinforcement Learning Approach for Multiple AGVs Scheduling in Automated Container Terminals
+T2  - 2024 China Automation Congress (CAC)
+SP  - 3564
+EP  - 3569
+AU  - F. Wang
+AU  - P. Ding
+AU  - Y. Bi
+AU  - J. Qiu
+PY  - 2024
+KW  - Training
+KW  - Couplings
+KW  - Automation
+KW  - Processor scheduling
+KW  - Shape
+KW  - Optimal scheduling
+KW  - Games
+KW  - Containers
+KW  - Deep reinforcement learning
+KW  - Scheduling
+KW  - Intelligent equipment scheduling
+KW  - Automated guided vehicle (AGV)
+KW  - Coupling Deep Q-network (C-DQN)
+KW  - Multi-agent deep reinforcement learning (MADRL)
+KW  - Sparse rewards
+DO  - 10.1109/CAC63892.2024.10865584
+JO  - 2024 China Automation Congress (CAC)
+IS  - 
+SN  - 2688-0938
+VO  - 
+VL  - 
+JA  - 2024 China Automation Congress (CAC)
+Y1  - 1-3 Nov. 2024
+AB  - The equipment scheduling method of automated container terminals is gradually evolving towards intelligence and automation. In this paper, a novel multi-agent deep reinforcement learning algorithm called Coupling Deep Q-network (C-DQN) is proposed to address the automated guided vehicles (AGV) scheduling problem. Specifically, the sparse reward problem of the proposed algorithm model is solved by a mask. The convergence of the model is accelerated by changing the greedy rate with a fixed step size. The shape of samples in the experience replay buffer is also improved through the methods of the centralized training and decentralized execution. Furthermore, the scheduling conflict problem caused by the cooperative game is reduced, and the overall efficiency of the scheduling task is also improved. Finally, the scenario of multi-AGV scheduling is designed to verify the effectiveness and efficiency of the proposed C-DQN algorithm.
+ER  - 
+
+TY  - CONF
+TI  - Optimization of Operations in Solid Bulk Port Terminals Using Digital Twin
+T2  - 2025 Winter Simulation Conference (WSC)
+SP  - 3046
+EP  - 3057
+AU  - J. Neyra
+AU  - L. Silva
+AU  - J. Netto
+AU  - A. Medina
+PY  - 2025
+KW  - Metaheuristics
+KW  - Decision making
+KW  - Seaports
+KW  - Solids
+KW  - Rail transportation
+KW  - Digital twins
+KW  - Minerals
+KW  - Marine vehicles
+KW  - Preventive maintenance
+KW  - Logistics
+DO  - 10.1109/WSC68292.2025.11339094
+JO  - 2025 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2025 Winter Simulation Conference (WSC)
+Y1  - 7-10 Dec. 2025
+AB  - This article presents the development of a Digital Twin (DT)-based tool for optimizing scheduling in solid bulk export port terminals. The approach integrates agent-based simulation with the Ant Colony System (ACS) metaheuristic to efficiently plan railway unloading, stockyard storage, and maritime shipping. The model interacts with operational data, anticipating issues and aiding decision-making. Validation was performed using real data from a port terminal in Brazil, yielding compatible results and reducing port stay duration. Tests were based on a Baseline Scenario, aligned with a mineral export terminal, for ACS parameter calibration, along with three additional scenarios: direct shipment, preventive maintenance, and a simultaneous route from stockyard to ships. This study highlights DT's potential to modernize port operations, offering practical support in large-scale logistics environments.
+ER  - 
+
+

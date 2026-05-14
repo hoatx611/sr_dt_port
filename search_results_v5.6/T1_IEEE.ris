@@ -1,0 +1,1799 @@
+TY  - CONF
+TI  - Development Direction of Automated Terminal and Systematic Planning of Smart Port
+T2  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+SP  - 708
+EP  - 712
+AU  - H. Yao
+AU  - T. Xue
+AU  - D. Wang
+AU  - Y. Qi
+AU  - M. Su
+PY  - 2021
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Systematics
+KW  - System integration
+KW  - Big Data
+KW  - Data models
+KW  - Planning
+KW  - automated terminal
+KW  - smart port
+KW  - Big Data
+KW  - GIS
+KW  - PIM
+KW  - Digital Twin Model
+DO  - 10.1109/ICBAIE52039.2021.9389884
+JO  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+Y1  - 26-28 March 2021
+AB  - With the rapid development of information technology, the construction of automated terminals is in the ascendant, and the direction of automated terminal construction has attracted attention from all over the world. At the same time, the proposal of the smart port also puts forward new requirements for the future development of the port. This article summarizes the relevant research on the construction of automated terminals and smart port system planning, and proposes the direction of future automated terminal construction, including equipment upgrades, technical process standardization, and improvement of system integration capabilities. It also proposed smart port system planning guidelines, focusing on the key points of smart port planning, and specifying that smart ports should focus on building a GIS-based Smart Port-Industry-City Spatial Geographic Information Platform, a Smart Port-Industry-City Digital Twin Model and PIM (Port Information Model) that perceived 3D data and temporal and spatial changes, and a Smart Port Big Data Center, which was interconnected and coordinated in all directions, providing technical references for the research on the top system plan of smart ports and the development of specific applications.
+ER  - 
+
+TY  - CONF
+TI  - Satellite-AIS Fusion for Container Terminal Analytics: Towards Digital Port Operations in Tokyo's Ohi Terminals
+T2  - 2025 IEEE International Conference on Big Data (BigData)
+SP  - 1
+EP  - 10
+AU  - W. Zhang
+AU  - R. Shibasaki
+PY  - 2025
+KW  - Containers
+KW  - Seaports
+KW  - Throughput
+KW  - Spatial databases
+KW  - Satellite images
+KW  - Spatiotemporal phenomena
+KW  - Artificial intelligence
+KW  - Sustainable development
+KW  - Surges
+KW  - Resilience
+KW  - Port Digitalization
+KW  - Container Terminal
+KW  - SpatioTemporal Fusion
+KW  - Satellite Imagery
+KW  - AIS Data
+KW  - Deep Learning
+KW  - UNetFormer
+DO  - 10.1109/BigData66926.2025.11402153
+JO  - 2025 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 2573-2978
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Big Data (BigData)
+Y1  - 8-11 Dec. 2025
+AB  - In the era of port digitalization, obtaining real-time, transparent, and comprehensive analytics of container terminal operations is crucial for enhancing efficiency and sustainability. Traditional performance metrics often depend on proprietary, non-public data, which restricts objective analysis and comparability across terminals. This paper proposes a novel spatiotemporal coupling framework that integrates high-resolution satellite imagery with Automatic Identification System (AIS) data to address these challenges. Using Tokyo's Ohi Container Terminals as a case study, we integrate the temporal dynamics of vessel movements from AIS data with the spatial state of the terminal, including yard use and berth occupancy, derived from satellite images processed with a UNetFormer deep learning model. This integration facilitates a new class of analytics, uncovering intricate relationships between vessel traffic patterns and yard congestion cycles. Contrary to the assumption that total yard capacity drives delays, our findings identify physical congestion at the road-yard interface as the primary bottleneck for vessel turnaround efficiency ($\rho=0.96$). Furthermore, longitudinal analysis reveals structural resilience within the terminal ecosystem, where functional specialization enables the port to maintain throughput efficiency by balancing high-frequency feeder operations with heavy-load handling, even during postpandemic traffic surges. This work presents a replicable, datadriven methodology for third-party port monitoring, facilitating enhanced transparency and efficiency in the global logistics chain.
+ER  - 
+
+TY  - CONF
+TI  - Simulation analysis of dynamic scheduling for uncertain task in automated container terminal
+T2  - International Conference on Automation in Manufacturing, Transportation and Logistics (iCaMaL 2023)
+SP  - 67
+EP  - 72
+AU  - J. Wang
+AU  - H. Huang
+AU  - C. Zhang
+AU  - Y. Zhang
+PY  - 2024
+DO  - 10.1049/icp.2024.3640
+JO  - International Conference on Automation in Manufacturing, Transportation and Logistics (iCaMaL 2023)
+IS  - 
+SN  - 
+VO  - 2023
+VL  - 2023
+JA  - International Conference on Automation in Manufacturing, Transportation and Logistics (iCaMaL 2023)
+Y1  - 3-5 Nov. 2023
+AB  - Aiming at the problem of charging scheduling in automated container terminals, a dynamic charging scheduling strategy is proposed based on the traditional AGV leave when fully charged strategy combined with a new type of horizontal transport vehicle named Unmanned Truck. The strategy is divided into three parts: vehicle rotation, push charging and pull charging. The vehicle rotation strategy divides the vehicles into working vehicles and non-working vehicles for partition management. When the power of the charging vehicle reaches the threshold, the Pull charging strategy will be activated to improve the robustness of the port to deal with unexpected tasks. Finally, the simulation software Anylogic is used to simulate and model the port transportation tasks under different charging scheduling strategies to verify the actual performance of the dynamic charging scheduling strategy.
+ER  - 
+
+TY  - CONF
+TI  - Scheduling Problem of Empty Container Trucks Considering the Uncertainty of Bulk Cargo Weight at the Terminal
+T2  - 2024 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+SP  - 1444
+EP  - 1448
+AU  - Y. Li
+AU  - W. Qin
+AU  - P. Wang
+AU  - R. Tan
+AU  - Z. Zhang
+AU  - Q. Xu
+AU  - H. Huang
+AU  - Y. Zou
+PY  - 2024
+KW  - Job shop scheduling
+KW  - Costs
+KW  - Uncertainty
+KW  - Life estimation
+KW  - Containers
+KW  - Seaports
+KW  - Routing
+KW  - Encoding
+KW  - Genetic algorithms
+KW  - Freeports
+KW  - Genetic algorithm
+KW  - simulate annealing algorithm
+KW  - uncertain demand
+KW  - vehicle routing problem
+DO  - 10.1109/IEEM62345.2024.10857205
+JO  - 2024 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+Y1  - 15-18 Dec. 2024
+AB  - The scheduling problem of container trucks considering the uncertainty of bulk cargo weight has become an important factor hindering the efficiency of automated container terminals. To address it, a low-complexity and accurate control algorithm for truck routing problem under uncertain demands is proposed. Firstly, a tunable parameter called risk preference level was designed to precisely quantify the uncertainty of the planned routes in meeting clients’ demands. Secondly, a multi-stage heuristic algorithm, GA-SAA is designed, in which a low-complexity individual encoding and decoding method for uncertain demand is developed based on the risk preference level. Lastly, the costs of truck scheduling results were compared among GA-SAA, GA, SAA, and ACO at different risk preference levels, and GA-SAA shows its advantages over other algorithms.
+ER  - 
+
+TY  - CONF
+TI  - Forecasting the Electrical Demand at the Port of Gävle Container Terminal
+T2  - 2021 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe)
+SP  - 1
+EP  - 6
+AU  - P. Alikhani
+AU  - L. B. Tjernberg
+AU  - L. Astner
+AU  - P. Donnerstal
+PY  - 2021
+KW  - Europe
+KW  - Stochastic processes
+KW  - Artificial neural networks
+KW  - Containers
+KW  - Seaports
+KW  - Predictive models
+KW  - Smart grids
+KW  - container terminal
+KW  - data analysis
+KW  - electricity consumption
+KW  - electricity forecasting
+KW  - electrification
+KW  - neural network
+KW  - peak demand
+KW  - smart ports
+KW  - short-term load prediction
+DO  - 10.1109/ISGTEurope52324.2021.9640170
+JO  - 2021 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe)
+Y1  - 18-21 Oct. 2021
+AB  - The port industry is transforming into a smart port thanks to technological advancements and environmental expectations. Developing a sustainable maritime transportation system and its beneficial electrification as a proven approach in emissions reduction are gathering momentum due to technological growth. Global containerization leads to high electricity demand at container terminals, and the electricity demand is highly dynamic and dependent on different operation processes. The approach of this paper is to forecast the hourly peak load demand and short-term electricity demand profile in a container terminal. The correctly forecasted electricity demand profile is crucial for less expensive and reliable power operation and planning. First, Artificial Neural Network (ANN) method is used to predict the container terminal baseload demand. Second, worst-case simultaneous peak load is estimated. Third, the day-ahead load profile is modeled based on the handling operation scheduled for the day. The approach is implemented at the container terminal in Port of Gävle, and the results, including the baseload forecasting, the peak power demand, and the hourly load profile modeling by 2030, have been used in dialogue with the local energy company for the future predicted need of load.
+ER  - 
+
+TY  - JOUR
+TI  - Integrated Scheduling Optimization for Automated Container Terminal: A Reinforcement Learning-Based Approach
+T2  - IEEE Transactions on Intelligent Transportation Systems
+SP  - 10019
+EP  - 10035
+AU  - Q. Wang
+AU  - X. Tong
+AU  - Y. Li
+AU  - C. Wang
+AU  - C. Zhang
+PY  - 2025
+KW  - Containers
+KW  - Seaports
+KW  - Decision making
+KW  - Cranes
+KW  - Processor scheduling
+KW  - Mathematical models
+KW  - Layout
+KW  - Reinforcement learning
+KW  - Lower bound
+KW  - Job shop scheduling
+KW  - Maritime logistics
+KW  - automated container terminal scheduling
+KW  - flexible flow shop scheduling problem
+KW  - reinforcement learning
+DO  - 10.1109/TITS.2025.3556882
+JO  - IEEE Transactions on Intelligent Transportation Systems
+IS  - 7
+SN  - 1558-0016
+VO  - 26
+VL  - 26
+JA  - IEEE Transactions on Intelligent Transportation Systems
+Y1  - July 2025
+AB  - Container terminals face tremendous pressure to improve their throughput due to the expanding global shipping market. As a key for throughput, handling capacity requires effective coordination between various automated facilities. Observed from the operational practice of Tianjin port, a world-leading smart port, four critical facilities, namely quay cranes, lock stations, intersections, and yard cranes, are identified as bottlenecks that impact handling efficiency. Congestion at these facilities, in particular, pose significant challenges to terminal managers. To address these issues, we investigate an integrated terminal scheduling problem and formulate this novel problem as a mixed-integer linear program, from which we derive two efficient lower bounds. To tackle practical-sized problems, we propose a reinforcement learning (RL)-based algorithm with two modules. The offline module uses RL to learn from abundant historical data. When actual instance information is available, the online module enhances offline decisions using a rollout mechanism and mathematical programming. The proposed algorithm employs a pre-trained offline policy to handle extensive computations before actual decision-making and an online phase that provides a streamlined and stable method to enhance the solution. Extensive experiments validate the effectiveness of the proposed algorithm, demonstrating an 18.22% reduction in makespan compared to the rule-based heuristic used in actual port operations.
+ER  - 
+
+TY  - CONF
+TI  - A Framework for Evaluating Energy Sustainability Efforts for Maritime Smart Port Operations
+T2  - 2018 International Conference on ICT for Smart Society (ICISS)
+SP  - 1
+EP  - 5
+AU  - K. W. Tan
+AU  - M. Kan
+AU  - P. J. Tan
+AU  - S. Schablinski
+PY  - 2018
+KW  - Energy consumption
+KW  - Regulators
+KW  - Energy measurement
+KW  - Seaports
+KW  - Energy efficiency
+KW  - Sustainable development
+KW  - Best practices
+KW  - energy sustainability
+KW  - framework
+KW  - smart port
+DO  - 10.1109/ICTSS.2018.8549958
+JO  - 2018 International Conference on ICT for Smart Society (ICISS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 International Conference on ICT for Smart Society (ICISS)
+Y1  - 10-11 Oct. 2018
+AB  - Energy-efficient operations have been getting more attention from maritime operators and regulators in the journey towards sustainable smart ports. This research proposes a framework to analyze and evaluate sustainability initiatives for land-side terminal operations in the maritime sector. The proposed framework provides a process-driven approach to capture energy management across various business processes. The approach provides consistent comparisons across terminal operations, has the capabilities of drilling-down to business units for accountability and rolling-up for management reporting. The framework considers four key evaluating parameters, namely transparency (measurement methodologies), technologies, best practices and policies. The framework aims to serve as the guiding principles for sustainability and policy decision makers in setting the directions for energy-efficient smart ports.
+ER  - 
+
+TY  - JOUR
+TI  - Utilizing Emotional Intelligence and Artificial Intelligence to Improve Safety Behavior in Smart Port Operations
+T2  - IEEE Transactions on Technology and Society
+SP  - 283
+EP  - 294
+AU  - S. -Y. Kuo
+AU  - L. -B. Chen
+PY  - 2025
+KW  - Safety
+KW  - Artificial intelligence
+KW  - Accidents
+KW  - Containers
+KW  - Seaports
+KW  - Decision making
+KW  - Organizations
+KW  - Employment
+KW  - Regulation
+KW  - Artificial intelligence
+KW  - container terminals
+KW  - emotional intelligence
+KW  - maritime transportation management
+KW  - safety behavior
+KW  - smart port
+DO  - 10.1109/TTS.2024.3513775
+JO  - IEEE Transactions on Technology and Society
+IS  - 3
+SN  - 2637-6415
+VO  - 6
+VL  - 6
+JA  - IEEE Transactions on Technology and Society
+Y1  - Sept. 2025
+AB  - Due to the continuous development of globalization and the new era of the shipping industry, the smartening of port operations has become an urgent need. However, the question of whether smart ports impact the safety of port operations is worth exploring. This study examines the relationships among emotional intelligence, artificial intelligence, and safety behavior in the context of container terminal operations. This study drew upon the levels of control framework and conservation of resources theory to examine survey data collected from 281 operators working at Kaohsiung port. The survey responses were evaluated using confirmatory factor analysis and a hierarchical regression model. The findings indicate that emotional and artificial intelligence significantly impact safety behavior. Furthermore, interactive self-emotion appraisal and emotion regulation positively moderate safety compliance. This study offers novel insights pertaining to terminal operations and discusses ways of employing artificial intelligence to facilitate safety operations at container terminals.
+ER  - 
+
+TY  - JOUR
+TI  - Cad-Transformer: A CNN–Transformer Hybrid Framework for Automatic Appearance Defect Classification of Shipping Containers
+T2  - IEEE Transactions on Instrumentation and Measurement
+SP  - 1
+EP  - 21
+AU  - S. -Y. Kuo
+AU  - P. -C. Lin
+AU  - X. -R. Huang
+AU  - G. -Z. Huang
+AU  - L. -B. Chen
+PY  - 2025
+KW  - Containers
+KW  - Corrosion
+KW  - Artificial intelligence
+KW  - Personnel
+KW  - Computer architecture
+KW  - Convolutional neural networks
+KW  - Visualization
+KW  - Transformers
+KW  - Seaports
+KW  - Internet of Things
+KW  - Appearance defect classification
+KW  - artificial intelligence of things (AIoT)
+KW  - container shipping
+KW  - shipping container inspection
+KW  - smart port
+DO  - 10.1109/TIM.2025.3548214
+JO  - IEEE Transactions on Instrumentation and Measurement
+IS  - 
+SN  - 1557-9662
+VO  - 74
+VL  - 74
+JA  - IEEE Transactions on Instrumentation and Measurement
+Y1  - 2025
+AB  - In traditional port operations, manual visual inspection by tally personnel is standard for detecting defects in shipping containers during unloading. However, the fast pace of operations, distractions, poor visibility, and adverse weather often result in errors and delays. To address these issues, we propose the Cad-transformer, a convolutional neural network (CNN)–transformer hybrid framework for automatic container defect classification. The framework includes three components: encoding, upsampling, and decoding. The encoding phase simulates missing parts by randomly deleting 60% of the original image. Upsampling enhances mask resolution, and the decoding phase predicts and fills in missing areas using a transformer-based self-supervised approach. Additionally, the CNN feature extraction method focused on visible patches (CFE-VP) module focuses on key local mask features to accelerate learning. Experimental results show that Cad-transformer outperforms existing methods in container damage detection for smart ports, marking the first use of a CNN-transformer hybrid in this domain.
+ER  - 
+
+TY  - CONF
+TI  - A Multi-perspective Study on Quantitative Evaluation Index System of Smart Port
+T2  - 2021 6th International Conference on Transportation Information and Safety (ICTIS)
+SP  - 1166
+EP  - 1175
+AU  - D. Guo
+AU  - Z. Guo
+AU  - Y. Jiang
+PY  - 2021
+KW  - Correlation
+KW  - Systematics
+KW  - Energy measurement
+KW  - Transportation
+KW  - Production
+KW  - Analytic hierarchy process
+KW  - Real-time systems
+KW  - smart port
+KW  - evaluation system
+KW  - quantitative index
+KW  - multiple perspectives
+DO  - 10.1109/ICTIS54573.2021.9798506
+JO  - 2021 6th International Conference on Transportation Information and Safety (ICTIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 6th International Conference on Transportation Information and Safety (ICTIS)
+Y1  - 22-24 Oct. 2021
+AB  - Smart port construction is the key direction of next generation's port upgrading and transformation. The initial trials on the application of multi-mode perception and real-time analysis, big data and intelligent scheduling, and other emerging technologies have been conducted in some advanced ports from various perspectives of port production and operation. However, effects of those new techniques on the smart port construction are difficult to measure, and there is still a lack of consensus on the systematic evaluation methods and indicators. To deal with this and promote the scientific and systematical measurement of the port intelligence construction level, this paper made an initial trial to propose a quantitative port evaluation index system with five measurement dimensions, including management benefit, production scale, port operation, intelligent decision-making, and energy and environment. Then, indicators of the evaluation system have been analyzed from three stake-holders' perspectives, e.g., investors, ship operators and port managers. The analytic hierarchy process and fuzzy comprehensive evaluation method are utilized to evaluate the effect of port intelligence construction. Through a comparative analysis of two domestic ports in China, as a case study, the validity of the evaluation system has been testified. Results in this study show that the evaluation system proposed can reasonably reflect the construction effect of the intelligent port and provide potential theoretical supports and hints for future smart port construction.
+ER  - 
+
+TY  - CONF
+TI  - 5G Signal Coverage Analysis in Port Container Stacking Scenario
+T2  - 2023 IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC)
+SP  - 1434
+EP  - 1438
+AU  - D. Hua
+AU  - K. Zhou
+AU  - J. Ou
+AU  - F. Li
+PY  - 2023
+KW  - Industries
+KW  - Wireless communication
+KW  - 5G mobile communication
+KW  - Stacking
+KW  - Production
+KW  - Containers
+KW  - Software
+KW  - 5G technology
+KW  - smart port
+KW  - coverage
+KW  - radio-wave propagation
+KW  - FEKO simulation
+DO  - 10.1109/ITAIC58329.2023.10408930
+JO  - 2023 IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC)
+IS  - 
+SN  - 2693-2865
+VO  - 11
+VL  - 11
+JA  - 2023 IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC)
+Y1  - 8-10 Dec. 2023
+AB  - In recent years, the development of 5G technology has brought about significant transformations and improvements in production and various other domains, particularly in its applications within vertical industries, resulting in substantial savings in manpower and resources. Among these industries, ports playa pivotal role as critical national infrastructure in international trade. With the rapid expansion of ports, 5G technology has been instrumental in supporting their development, enabling the transition towards digitalization, automation, and the establishment of intelligent smart ports, which represent the future direction of port development. Investigating the coverage of 5G signals not only serves as a reference for the deployment of 5G networks in ports but also facilitates more efficient and stable network connections, thereby assisting in the production and operations of ports. This article primarily examines the propagation mechanisms of 5G signals, combined with installing 5G antennas in port scenarios, to analyze the coverage of 5G signals within ports.
+ER  - 
+
+TY  - CONF
+TI  - Rolling Horizon Cooperative Scheduling for the Transportation-Energy Coupling Network in Automated Container Ports
+T2  - 2024 International Conference on Automation in Manufacturing, Transportation and Logistics (ICaMaL)
+SP  - 1
+EP  - 7
+AU  - J. Zhang
+AU  - X. Lu
+AU  - C. Zhang
+AU  - W. Zhou
+AU  - Y. Tian
+AU  - Y. Zhang
+PY  - 2024
+KW  - Couplings
+KW  - Job shop scheduling
+KW  - Containers
+KW  - Power system stability
+KW  - Dynamic scheduling
+KW  - Real-time systems
+KW  - Stability analysis
+KW  - Energy efficiency
+KW  - Resource management
+KW  - Sustainable development
+KW  - automated container port
+KW  - integrated energy system
+KW  - transportation-energy coupling
+KW  - day-ahead
+KW  - intra-day and real-time scheduling
+KW  - multi-commodity flow
+DO  - 10.1109/ICaMaL62577.2024.10919827
+JO  - 2024 International Conference on Automation in Manufacturing, Transportation and Logistics (ICaMaL)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Automation in Manufacturing, Transportation and Logistics (ICaMaL)
+Y1  - 7-9 Aug. 2024
+AB  - With the intelligent upgrading of automated ports and the electrification of port equipment, the continuous strengthening of the coupling degree of transportation-energy networks, the fluctuating operation demand and the uncertain energy structure present higher requirements for the cooperative operation management and energy efficiency improvement in the transportation-energy coupling network of automated ports. In this paper, considering the influence of uncertain factors such as port wind and solar production capacity, as well as market electricity prices, on port energy system, a rolling horizon cooperative scheduling method for the transportation-energy coupling network of automated container ports is proposed. Firstly, by analyzing the port container operation process and the topology of the port energy network, the transportation-energy coupling relationship and the potential for energy conservation and emission reduction are explored. A three-stage cooperative rolling scheduling architecture comprising day-ahead, intra-day and real-time scheduling is then constructed. Subsequently, the day-ahead integer programming model and the intraday multi-commodity flow model are established respectively to realize cooperative scheduling optimization for the multi-scale automated port transportation-energy coupling network. Finally, based on the fluctuation information of wind and solar energy, real-time scheduling adjustments are implemented. According to the port operation rules, two heuristic scheduling strategies are summarized: the energy compensation strategy and task delay strategy. These strategies enable real-time feedback and facilitate flexible adjustments of port energy consumption structure to accommodate dynamic energy fluctuations. Experimental results demonstrate that the method can enhance the energy efficiency and energy structure stability of the port system, effectively improving energy conservation and emission reduction efficiency in the port, and promoting green and intelligent port construction.
+ER  - 
+
+TY  - CONF
+TI  - Study on Port Energy Consumption Inventory and Monitoring Technology
+T2  - 2019 5th International Conference on Transportation Information and Safety (ICTIS)
+SP  - 298
+EP  - 302
+AU  - L. Haibo
+AU  - L. Wen
+AU  - S. Xiaowei
+PY  - 2019
+KW  - Energy consumption
+KW  - Carbon dioxide
+KW  - Marine vehicles
+KW  - Machinery
+KW  - Containers
+KW  - Monitoring
+KW  - Energy conservation
+KW  - energy saving and emission reduction
+KW  - energy inventory
+KW  - port
+KW  - monitoring technology
+DO  - 10.1109/ICTIS.2019.8883859
+JO  - 2019 5th International Conference on Transportation Information and Safety (ICTIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 5th International Conference on Transportation Information and Safety (ICTIS)
+Y1  - 14-17 July 2019
+AB  - With the gradual deepening of China's ecological environment and green development policy, port energy consumption a will be more and more important. Based on the current situation at home and abroad, the port energy consumption inventories and monitoring technology are studied. Firstly, energy consumption inventories are compiled for a port container terminal in China. The establishment method and procedure of the inventory are put forward. Secondly, the potential of port energy saving and emission reduction is analyzed according to the energy consumption and emission inventory. The control measures for reducing energy consumption emission at container terminals are given. Finally, relevant monitoring technologies and suggestions for port energy consumption and emissions are put forward.relevant
+ER  - 
+
+TY  - JOUR
+TI  - A Rigid Body Consensus-Based Collaborative Control Framework for Dual AGVs in Smart Port
+T2  - IEEE Internet of Things Journal
+SP  - 25182
+EP  - 25196
+AU  - Q. Zhang
+AU  - W. Li
+AU  - L. Cai
+AU  - L. Guo
+AU  - X. Qi
+PY  - 2025
+KW  - Collaboration
+KW  - Containers
+KW  - Robots
+KW  - Seaports
+KW  - Robot kinematics
+KW  - Internet of Things
+KW  - Aerodynamics
+KW  - Mobile robots
+KW  - Trajectory
+KW  - Robot sensing systems
+KW  - Collaborative transport
+KW  - hybrid collaborative control framework
+KW  - nonholonomic constraint
+KW  - rigid-body consensus theory
+KW  - smart port
+DO  - 10.1109/JIOT.2025.3557952
+JO  - IEEE Internet of Things Journal
+IS  - 13
+SN  - 2327-4662
+VO  - 12
+VL  - 12
+JA  - IEEE Internet of Things Journal
+Y1  - 1 July1, 2025
+AB  - To address issues with automated guided vehicles (AGVs) in ports, such as low utilization, poor flexibility, and weak adaptability, this article presents a new collaborative transport solution. This solution enables the virtual connection of two AGVs via the Internet of Things (IoT) without physical connections. A hybrid collaborative control framework is designed to implement this solution, integrating feedback and feed-forward control. Within this framework, the transport AGV and container are treated as a single rigid body. A hierarchical decoupling approach is applied to separately design lateral and longitudinal feedback controllers for the leader AGV. Additionally, a centralized feed-forward controller for the follower AGV is developed based on rigid-body consensus theory and the AGV’s kinematic model. Typical port transportation conditions are established on both a high-fidelity dynamics software platform and a self-developed port platform using real-world port data. Tests with two AGVs show a distance error of 0.019 m and an angle error of 0.2° at handling points, meeting port operational metrics. These results demonstrate the scheme’s effectiveness in addressing gaps in research on nonholonomic constraint robots in collaborative transport, offering solutions for scenarios with multiple constraints and high precision requirements. Importantly, this work provides insights for developing IoT-enabled smart ports.
+ER  - 
+
+TY  - CONF
+TI  - Extraction of Shipping Container Defect Dimensions by Video Inferencing via Computer Vision
+T2  - 2025 International Conference on Power Electronics and Control Engineering (ICPECE)
+SP  - 103
+EP  - 106
+AU  - Y. Sun
+AU  - Y. Wu
+PY  - 2025
+KW  - Computer vision
+KW  - Accuracy
+KW  - Pipelines
+KW  - Estimation
+KW  - Containers
+KW  - Inspection
+KW  - Surface cracks
+KW  - Videos
+KW  - Logistics
+KW  - Synthetic data
+KW  - Container inspection
+KW  - Object detection
+KW  - Semantic segmentation
+KW  - Defect size estimation
+KW  - End-to-end pipeline
+DO  - 10.1109/ICPECE67187.2025.11435707
+JO  - 2025 International Conference on Power Electronics and Control Engineering (ICPECE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Power Electronics and Control Engineering (ICPECE)
+Y1  - 14-16 Nov. 2025
+AB  - The rapid growth of global trade has intensified the need for reliable and efficient inspection of shipping containers, as surface defects such as dents, rust, and cracks can compromise structural integrity and disrupt logistics operations. Manual inspection remains slow, labor-intensive, and inconsistent, underscoring the demand for automated solutions. This study proposes an end-to-end computer vision pipeline that integrates container detection, surface defect segmentation, and defect size estimation. A YOLOv8n detector was fine-tuned on a selfannotated dataset to accurately identify containers in video streams, while a SegFormer-B2 segmentation model was trained on both synthetic (SeaFront) and real (container-defect) datasets. Results show that although the synthetic dataset achieved strong validation accuracy, its performance degraded significantly in real-world conditions, whereas the real dataset enabled improved segmentation generalization. Post-processing techniques further enhanced mask quality by removing noise and preserving coherent defect regions. Finally, a size estimation module converted binary masks into physical defect areas under a 40 ft container assumption, producing actionable metrics such as defect count, total defective area, and maximum defect size. Experimental evaluation demonstrated that the pipeline achieved high detection accuracy $(\text{mAP} {@} 0.5=0.92)$ and robust segmentation performance ($\text{mIoU}=0.78$ on real data), validating its effectiveness in realistic port scenarios. The modular design ensures scalability, with potential extensions to multi-class segmentation, calibrated dimension mapping, and integration into smart port infrastructures. This work contributes to bridging the gap between academic advances in computer vision and practical needs in automated logistics inspection.
+ER  - 
+
+TY  - CONF
+TI  - Current situation of the Mediterranean container ports regarding the operational, energy and environment areas
+T2  - 2015 International Conference on Industrial Engineering and Systems Management (IESM)
+SP  - 530
+EP  - 536
+AU  - G. Buiza
+AU  - S. Cepolina
+AU  - A. Dobrijevic
+AU  - M. del Mar Cerbán
+AU  - O. Djordjevic
+AU  - C. González
+PY  - 2015
+KW  - Ports (Computers)
+KW  - Containers
+KW  - Europe
+KW  - Energy consumption
+KW  - Electronic mail
+KW  - Green products
+KW  - Energy efficiency
+DO  - 10.1109/IESM.2015.7380209
+JO  - 2015 International Conference on Industrial Engineering and Systems Management (IESM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Industrial Engineering and Systems Management (IESM)
+Y1  - 21-23 Oct. 2015
+AB  - The 2020 Strategy in Europe commits to the consolidation of a SMART, SUSTAINABLE and INCLUSIVE Europe. Aligned with these priorities, the strategic importance of the smart-port holistic concept (emphasizing particularly operational and energy efficiency, competitiveness and environmental aspects) within the Mediterranean space is beyond doubt. Once defined the smart port concept, we search the data and information available in public resources about the main Mediterranean containers ports to try to describe their current situation regarding the smart-port concept. We found a significant lack of published data. Available data are often detected with different unit of measure, based on different time-scales and frequencies. The port authorities generally don't have a clear, exhaustive and updated overview of key performance indicators' data, with the exception of the operational KPIs. These aspects make difficult the results' comparison and require an ad hoc elaboration.
+ER  - 
+
+TY  - JOUR
+TI  - NaviGate App: A Digital Catalyst Supporting Coordination in a Smart Port Ecosystem
+T2  - IEEE Access
+SP  - 53601
+EP  - 53617
+AU  - J. Basulo-Ribeiro
+AU  - R. Gil-Pereira
+AU  - B. Macedo
+AU  - E. Dias
+AU  - L. Teixeira
+PY  - 2026
+KW  - Contacts
+KW  - Feedback
+KW  - Circuits
+KW  - Circuits and systems
+KW  - Interoperability
+KW  - Internetworking
+KW  - Mobile handsets
+KW  - Smart phones
+KW  - Routing
+KW  - Videos
+KW  - Digital transformation
+KW  - smart ports
+KW  - mobile application
+KW  - human–technology interaction
+KW  - gate operations
+KW  - user-centred design
+KW  - port ecosystems
+DO  - 10.1109/ACCESS.2026.3681514
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 14
+VL  - 14
+JA  - IEEE Access
+Y1  - 2026
+AB  - The increasing complexity of port logistics and the growing need for coordinated data-driven operations have highlighted the importance of integrating truck drivers into digital transformation initiatives. This study presents the development and validation of NaviGate, a mobile application designed to improve communication, planning and operational synchronisation between truck drivers, transport companies and a Portuguese port (aiming to be a Smart Port). This paper reports the design and validation of a NaviGate prototype (interface, interaction flows and functional logic), which is being designed to support driver interaction with the future smart gate that is currently proposed for development. Using a user-centred design methodology, requirements were gathered through interviews with transport companies and questionnaires administered to drivers, forming the basis for a prototype that was subsequently validated by terminal managers and port authorities. Results indicate that drivers express a strong interest in adopting a mobile solution, recognising the need for reliable real-time information, better coordination and reduced operational uncertainty. The developed prototype integrates scheduling, real-time notifications, Guidance (process-oriented operational navigation) inside the terminal, continuous GPS-based monitoring, safety information, feedback mechanisms and a 24/7 chatbot. Theoretically, the study contributes to the conceptualisation of ports as socio-technical digital ecosystems, reinforcing evidence that digital maturity depends not only on technological infrastructures but also on the integration and acceptance of human actors, particularly truck drivers in this case, who are often overlooked in strategic planning. By demonstrating how mobile applications can operationalise this alignment, the research advances discussions on user-centred innovation in port digital transformation and supports emerging literature on collaborative smart gate ecosystems. Practically, NaviGate establishes a replicable model for ports seeking to enhance transparency, safety and efficiency through integrated, user-oriented mobile solutions. By aligning people, processes and technology, the application illustrates how digital platforms can strengthen coordination and operational resilience across port ecosystems.
+ER  - 
+
+TY  - CONF
+TI  - Innovative Short-Sea Shipping Logistics
+T2  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+SP  - 1
+EP  - 7
+AU  - A. Amditis
+AU  - E. Latsa
+AU  - I. Kanellopoulos
+AU  - N. Ventikos
+AU  - D. Konstantinos Louzis
+PY  - 2025
+KW  - Technological innovation
+KW  - Automation
+KW  - Supply chains
+KW  - Europe
+KW  - Collaboration
+KW  - Containers
+KW  - Seaports
+KW  - Internet
+KW  - Stakeholders
+KW  - Sustainable development
+KW  - Waterborne transport
+KW  - Container supply chain
+KW  - Automated docking
+KW  - Container handling
+KW  - Green logistics
+KW  - Short-sea and deep-sea shipping
+KW  - Physical Internet
+DO  - 10.1109/MARIS64137.2025.11139831
+JO  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+Y1  - 26-27 June 2025
+AB  - Ports play a crucial role in global trade, handling approximately 74% of imports and exports and 37% of internal exchanges in Europe. Despite its significance, Short Sea Shipping (SSS) remains underutilized in comparison to Deep Sea Shipping (DSS), leading to inefficiencies in the European container supply chain. The MOSES project, funded under the Horizon 2020 Work Programme, aims to enhance the integration of SSS through automation, digitalization, and Physical Internet (PI) principles. By developing innovative solutions such as automated docking, intelligent container handling, and optimized logistics operations, MOSES seeks to improve operational efficiency, reduce the environmental footprint, and facilitate smart port development. This paper presents the key technological advancements of MOSES and their potential impact on maritime logistics, demonstrating how these innovations contribute to a more resilient, cost-effective, and sustainable shipping network.
+ER  - 
+
+TY  - CONF
+TI  - Towards Smart Port: An Application of AIS Data
+T2  - 2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+SP  - 1414
+EP  - 1421
+AU  - A. Rajabi
+AU  - A. Khodadad Saryazdi
+AU  - A. Belfkih
+AU  - C. Duvallet
+PY  - 2018
+KW  - Artificial intelligence
+KW  - Intelligent sensors
+KW  - Logistics
+KW  - Seaports
+KW  - Big Data
+KW  - smart port
+KW  - maritime traffic
+KW  - AIS
+KW  - IoT
+KW  - big data
+KW  - digital transformation
+DO  - 10.1109/HPCC/SmartCity/DSS.2018.00234
+JO  - 2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+Y1  - 28-30 June 2018
+AB  - A seaport is a dynamic environment which plays a crucial role in the global economy. It includes various activities such as transportation, logistic, fishing, rescue operations and protection of the environment against its destructive impacts that make tremendous challenges. In this paper, we investigate the smart port concept as the last generation of traditional ports reinforced with technologies such as Internet of Things (IoT). We propose an architecture for the smart port and discuss its different levels as well as its challenges. In addition, we introduce CLASSE project which is a step forward in making the port of Le Havre smart. The project utilizes Automatic Identification System (AIS) data as its main data source. Finally, we present some AIS analyses which could be the use cases and services of a smart port. These analyses show how the port is operating.
+ER  - 
+
+TY  - JOUR
+TI  - Towards Smart Port Infrastructures: Enhancing Port Activities Using Information and Communications Technology
+T2  - IEEE Access
+SP  - 83387
+EP  - 83404
+AU  - K. -L. A. Yau
+AU  - S. Peng
+AU  - J. Qadir
+AU  - Y. -C. Low
+AU  - M. H. Ling
+PY  - 2020
+KW  - Containers
+KW  - Data centers
+KW  - Information and communication technology
+KW  - Greenhouse effect
+KW  - Cranes
+KW  - Sensors
+KW  - Smart port
+KW  - seaport
+KW  - smart city
+KW  - smart port city
+KW  - computing
+KW  - ICT
+KW  - sustainability
+DO  - 10.1109/ACCESS.2020.2990961
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - In this digital age, ports face stiff competition in global supply chain. Smart ports, as high performing ports, utilize information and communications technology (ICT) to provide a wide range of smart applications, resulting in vastly improved vessels and container management among others, which subsequently improve the competitiveness and sustainability of the national economy. While various novel solutions, such as information system and locating system, have been proposed to improve smart port activities, there are several key issues pertaining to ports and port operations that warrant specific attention, particularly greenhouse gases emission, which has accelerated to an alarming level. The urgent need to address such issues is lacking. This article aims to offer a review of the research literature on smart ports, including Internet of Things platform, greenhouse gases emission reduction, energy efficiency enhancement, and so on. The objective is to establish a foundation of existing research conducted on smart ports in order to motivate new research interests in this area. Open issues are also presented to foster new research initiatives on smart ports.
+ER  - 
+
+TY  - JOUR
+TI  - Smart Port Logistics and Energy Co-Optimization Considering Dynamic Wireless Charging of Automated Guided Vehicles
+T2  - IEEE Transactions on Transportation Electrification
+SP  - 1618
+EP  - 1629
+AU  - L. Zhao
+AU  - Z. Wang
+AU  - X. Zhang
+PY  - 2026
+KW  - Logistics
+KW  - Batteries
+KW  - Inductive charging
+KW  - Cranes
+KW  - Costs
+KW  - Seaports
+KW  - Biological system modeling
+KW  - Marine vehicles
+KW  - Containers
+KW  - State of charge
+KW  - Automated guided vehicles (AGVs)
+KW  - dynamic wireless charging (DWC)
+KW  - logistics-energy synergy
+KW  - port electrification
+KW  - port scheduling
+DO  - 10.1109/TTE.2025.3630638
+JO  - IEEE Transactions on Transportation Electrification
+IS  - 1
+SN  - 2332-7782
+VO  - 12
+VL  - 12
+JA  - IEEE Transactions on Transportation Electrification
+Y1  - Feb. 2026
+AB  - Dynamic wireless charging (DWC) technology can significantly enhance the transportation efficiency of automated guided vehicles (AGVs) in port logistics operations. To address the challenges of integrating DWC-mode AGVs into port microgrids and improve the economics of port energy management, this study proposes a co-optimization scheduling strategy for port logistics and energy systems considering DWC-mode AGVs. First, we establish cascade logistics task models and power consumption models for quay cranes and AGVs. Second, considering the characteristics of DWC, an AGV charging model by combining DWC topology and battery model is developed. Finally, a port energy optimization scheme with multiple energy requirements is proposed, which integrates port logistics information to coordinate quay crane operation, AGV’s transportation, and charging processes. The proposed methodology aims to minimize port daily power cost while satisfying both logistics and energy demands. Numerical simulation results demonstrate that DWC load responds best to time-of-use pricing, and the proposed method achieves a cost reduction of more than 9.37% compared to plug-in AGVs.
+ER  - 
+
+TY  - CONF
+TI  - MSER and Connected Domain Analysis Based Algorithm for Container Code Locating Process
+T2  - 2017 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+SP  - 83
+EP  - 86
+AU  - M. Weng
+AU  - Q. Liu
+AU  - J. Guo
+PY  - 2017
+KW  - Containers
+KW  - Image edge detection
+KW  - Morphology
+KW  - Image color analysis
+KW  - Surface morphology
+KW  - Impurities
+KW  - Automation
+KW  - container code locating
+KW  - MSER
+KW  - connected domain analysis
+KW  - algorithm combination strategy
+DO  - 10.1109/ICIICII.2017.71
+JO  - 2017 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+Y1  - 2-3 Dec. 2017
+AB  - Effective and efficient automatic container code recognition is an essential component of intelligent port management. Higher sensitivity and intelligence are required in container code locating process. Based on the edge of container code area and the color of the container surface, a container code locating algorithm based on Maximally Stable Extremal Region (MSER) and connected domain analysis is proposed in this paper. This algorithm is an efficient algorithm of container code characters location in complex scenes. Then, this paper further proposed a strategy to combine multiple algorithms. The correct rate under the algorithm combination strategy reached 97.19%, and the time is within 0.6s, effectively adapt to the diversity and code permutation of container code permutation, significantly improve the positioning ability of the container, which can meet the requirement of real time in practical application.
+ER  - 
+
+TY  - CONF
+TI  - A Novel Framework for Container Code-Character Recognition Based on Deep Learning and Template Matching
+T2  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+SP  - 78
+EP  - 82
+AU  - L. Mei
+AU  - J. Guo
+AU  - Q. Liu
+AU  - P. Lu
+PY  - 2016
+KW  - Containers
+KW  - Character recognition
+KW  - Feature extraction
+KW  - Image recognition
+KW  - Biological neural networks
+KW  - Automation
+KW  - container code recognition
+KW  - character recognition
+KW  - convolutional neural network
+KW  - template matching
+DO  - 10.1109/ICIICII.2016.0030
+JO  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+Y1  - 3-4 Dec. 2016
+AB  - Effective and efficient automatic container code recognition (ACCR) is an important part of Intelligent port management. Due to the severity of nonuniform illumination and invalidation of color information, higher sensitivity and intelligence are required in ACCR. To address this issue, a novel Framework for container code-character recognition based on deep learning and template matching (TM) in visual images is proposed in this paper. In this framework, convolutional neural network (CNN) algorithm and TM algorithm are applied to recognize the container code-character, respectively. Then, the container code is obtained by combining all characters recognized according to the credibility of each character and the verification rule of container code. The experimental results demonstrate the effectiveness of the proposed method, which can successfully recognize the container code in complicated situations.
+ER  - 
+
+TY  - CONF
+TI  - FUSION-IGV: Design and Implementation of a Multi-Sensor Fusion Framework for Port IGVs
+T2  - 2025 IEEE International Conference on Unmanned Systems (ICUS)
+SP  - 767
+EP  - 774
+AU  - Y. Yao
+AU  - Y. Lin
+AU  - Y. Ma
+AU  - Y. Dong
+AU  - Z. Zhu
+AU  - Y. Liu
+PY  - 2025
+KW  - Training
+KW  - Sensor placement
+KW  - Laser radar
+KW  - Three-dimensional displays
+KW  - System performance
+KW  - Semantics
+KW  - Dynamic scheduling
+KW  - Cameras
+KW  - Solids
+KW  - Vehicle dynamics
+KW  - smart port IGV
+KW  - 3D perception
+KW  - multi-sensor fusion
+DO  - 10.1109/ICUS66297.2025.11294063
+JO  - 2025 IEEE International Conference on Unmanned Systems (ICUS)
+IS  - 
+SN  - 2771-7372
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Unmanned Systems (ICUS)
+Y1  - 18-19 Sept. 2025
+AB  - With the rapid advancement of smart port technologies, autonomous environmental perception for Intelligent Guided Vehicles (IGVs) has emerged as a pivotal challenge in achieving fully automated port operations. This paper addresses the inherent limitations of existing perception solutions and the excessive reliance of IGVs on scheduling strategies in complex and dynamic port environments. We propose a novel multi-sensor perception framework, FUSION-IGV, which integrates LiDAR and camera data for enhanced perception capabilities. To facilitate practical deployment, we provide a comprehensive toolset, including a structural design scheme, a calibration approach tailored to the unique structural characteristics of IGVs, and a multi-sensor fusion perception method. To support the development and evaluation of sensor placement strategies and perception algorithms, we also introduce PIPD: an IGV-oriented perception dataset specifically curated for port scenarios. Extensive experiments demonstrate that the proposed system significantly improves the detection and tracking performance of IGVs for both static and dynamic objects, thereby ensuring more reliable environmental perception for downstream control and decision-making processes. FUSION-IGV scores 83.03% mAP and 85.41% NDS on PIPD validation set. Even when up to three LiDAR sensors (i.e., half of the total LiDAR sensors) fail during real-world operations, the decreases in NDS and mAP remain within 2%. Moreover, our proposed image-depth prediction optimization strategy further increases both NDS and mAP by at least 2% compared to the baseline method. The effectiveness and superiority of our approach are validated through comprehensive evaluations, offering valuable insights for advancing autonomous driving technologies in smart port applications.
+ER  - 
+
+TY  - JOUR
+TI  - Integration of Cold Ironing and Renewable Sources in the Barcelona Smart Port
+T2  - IEEE Transactions on Industry Applications
+SP  - 7198
+EP  - 7206
+AU  - A. Rolán
+AU  - P. Manteca
+AU  - R. Oktar
+AU  - P. Siano
+PY  - 2019
+KW  - Marine vehicles
+KW  - Microgrids
+KW  - Power cables
+KW  - Diesel engines
+KW  - Atmosphere
+KW  - Cold ironing
+KW  - microgrid
+KW  - renewable energies
+KW  - smart port
+DO  - 10.1109/TIA.2019.2910781
+JO  - IEEE Transactions on Industry Applications
+IS  - 6
+SN  - 1939-9367
+VO  - 55
+VL  - 55
+JA  - IEEE Transactions on Industry Applications
+Y1  - Nov.-Dec. 2019
+AB  - Cold ironing, which is the procedure of supplying shoreside electrical power to a ship at berth when its engines are turned off, arises as the eco-friendly way to deliver power to ships while they are berthed in ports, thus avoiding the use of diesel engines onboard, which provokes the emission of large amounts of greenhouse gases into the atmosphere. The aim of this study is twofold. First, a survey of research developments on cold ironing is carried out in order to show the state-of-the-art on the problem of greenhouse gases emitted by ships while docked and how to tackle it. Current regulations and examples of current ports that make use of technologies for cold ironing purposes are also shown. Second, the study proposes the use of a cold ironing system in the port of Barcelona, where the power generation is entirely given by renewable energy systems (wind turbines and photovoltaic panels). The idea is to contribute to the wide spread of cold ironing within smart port microgrids to achieve the goal of zero emissions from berthed ships.
+ER  - 
+
+TY  - CONF
+TI  - Practice of Connotation Disclosure and Fuzzy Dimension Construction and Evaluation of Supporting Services of Automatic Wharf Under the Digital Economy Mode
+T2  - 2025 IEEE 7th International Conference on Artificial Intelligence, Computer Science, and Information Processing (AICSIP)
+SP  - 1
+EP  - 6
+AU  - Y. Mei
+PY  - 2025
+KW  - Evaluation models
+KW  - Production
+KW  - Organizations
+KW  - Information processing
+KW  - Market research
+KW  - Indexes
+KW  - Artificial intelligence
+KW  - Information technology
+KW  - Optimization
+KW  - Logistics
+KW  - information technology
+KW  - supporting service
+KW  - fuzzy element
+KW  - evaluation method
+DO  - 10.1109/AICSIP65423.2025.11427216
+JO  - 2025 IEEE 7th International Conference on Artificial Intelligence, Computer Science, and Information Processing (AICSIP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE 7th International Conference on Artificial Intelligence, Computer Science, and Information Processing (AICSIP)
+Y1  - 25-27 July 2025
+AB  - In order to better release the production efficiency of automatic terminal, improve the comprehensive benefits, stimulate the endogenous power of smart port logistics, the new dimension of supporting service of automatic terminal is explored, and the evaluation index system and model of innovative service level of fuzzy automatic terminal are established. The automatic terminals of seven ports were selected as samples, collected data, and combined with quantitative and qualitative methods to demonstrate and correct the mechanism and function of the evaluation model. The conclusion shows that the innovative service of integrated logistics is accurate, effective and scientific. Its method is convenient, easy to operate and reasonable demonstration, which provides important reference for the optimization of operation mode and the improvement of management ability.
+ER  - 
+
+TY  - JOUR
+TI  - Connected and Intelligent Framework for Vehicle Automation in Smart-Ports
+T2  - IEEE Access
+SP  - 120347
+EP  - 120361
+AU  - M. E. Vaca-Recalde
+AU  - M. Marcano
+AU  - J. Matute
+AU  - C. Hidalgo
+AU  - B. Martinez-Rodriguez
+AU  - S. Bilbao-Arechabala
+AU  - F. Jorge-Hernandez
+AU  - J. Murgoitio
+AU  - J. Pérez Rastelli
+AU  - J. Santaella
+AU  - A. Camacho
+PY  - 2024
+KW  - Seaports
+KW  - Cranes
+KW  - Containers
+KW  - Vehicle-to-everything
+KW  - Logistics
+KW  - Logic gates
+KW  - Safety
+KW  - Connected vehicles
+KW  - Intelligent transportation systems
+KW  - Vehicle-to-everything
+KW  - Connected and automated vehicles (CAVs)
+KW  - smart-port
+KW  - mobility
+KW  - logistics
+KW  - intelligent transportation systems
+KW  - vehicle-to-everything communication (V2X)
+DO  - 10.1109/ACCESS.2024.3434628
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - The increase in maritime traffic due to the globalization of trade has led to an exponential growth in logistics operations and port traffic management is becoming increasingly complicated. The need to improve the efficiency, safety, and sustainability of operations is leading to a strong demand for automation in port processes. A significant challenge is the optimization and automation of loading and unloading systems, given their complexity and repetitive nature. Advances in automated systems, through ongoing research and application in various transportation scenarios, are addressing these challenges. However, automating vehicles alone is insufficient; it is also important to have a connected, infrastructure-based collaborative framework to manage the complex logistics of port operations effectively and in a synchronized manner. In this sense, ESTIBA+2022, a Spanish-funded project, is addressing this challenge, aiming to develop strategic technologies for Smart-Ports. Its goal is to design and validate a scalable collaborative framework that meets the specifications and functions of port services using Industry 4.0 technologies and advanced wireless communications through Connected Intelligent Transportation Systems (C-ITS). This article presents the proposed architecture and its validation in the comprehensive use case of the project, focusing on communication from the supervision platform to Automated Guided Vehicles (AGVs) to ensure optimal traffic flow and management in ports. Specifically, the scenario involves three different forklifts equipped with an On-Board Unit (OBU) that interact with each other and the infrastructure via Roadside Units (RSU). The outcome of the project shows that the framework can meet the requirements for Smart-Port logistics, showing the feasibility of the implementation with a collaborative maneuver between three forklifts, a supervision station, and connected traffic lights.
+ER  - 
+
+TY  - CONF
+TI  - Container Damage Detection Based on SelfContrastive Learning and Deep Convolutional Neural Networks
+T2  - 2025 5th International Conference on Electronic Communication, Computer Science and Technology (ECCST)
+SP  - 221
+EP  - 225
+AU  - L. Zhang
+PY  - 2025
+KW  - Weather
+KW  - Analytical models
+KW  - Accuracy
+KW  - Uncertainty
+KW  - Transportation
+KW  - Containers
+KW  - Data models
+KW  - Robustness
+KW  - Safety
+KW  - Residual neural networks
+KW  - Container Damage Detection
+KW  - Deep Learning
+KW  - Multi-scale Feature Fusion
+KW  - YOLOv11
+KW  - ResNet-50
+DO  - 10.1109/ECCST68196.2025.11441171
+JO  - 2025 5th International Conference on Electronic Communication, Computer Science and Technology (ECCST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Electronic Communication, Computer Science and Technology (ECCST)
+Y1  - 26-28 Dec. 2025
+AB  - As the core transportation carrier of global trade, container surface damage directly threatens transportation safety and efficiency, while traditional manual inspection methods are incompatible with the demands of intelligent port operations due to low efficiency and limited precision. To address this issue, this paper proposes a deep learning-based two-stage container damage detection framework to improve detection accuracy, robustness and real-time performance in complex environments. For the binary classification task of damage presence judgment, a ResNet50 model integrating positive sample self-contrastive learning and probability distribution uncertainty analysis is constructed; by enhancing the discrimination between damaged areas and background textures, the model achieves effective classification without negative samples, with a test set accuracy of 96.7% and an F1-score of 0.956. For damage localization and category recognition, an end-to-end YOLOv11 model integrated with a lightweight C2f structure, an improved PANv2 module and a decoupled detection head is designed; combined with data augmentation strategies such as random cropping and weather simulation as well as sample balance optimization, the model achieves an $\mathbf{m A P} \text{@} \mathbf{0. 5}$ of $\mathbf{8 8. 4 \%}$ and an inference speed of over $\mathbf{1 2 0}$ FPS, enabling efficient detection in scenarios with complex illumination and target occlusion. Comprehensive evaluation results show that the system obtains an overall score of 0.882, with a damage detection rate of 87.41% on 413 validation images, verifying the practical value and application potential of the proposed framework.
+ER  - 
+
+TY  - CONF
+TI  - Toward a smart port congestion optimizing model
+T2  - 2020 IEEE 13th International Colloquium of Logistics and Supply Chain Management (LOGISTIQUA)
+SP  - 1
+EP  - 5
+AU  - K. Lakhmas
+AU  - P. A. Sedqui
+PY  - 2020
+KW  - Supply chain management
+KW  - Automation
+KW  - Decision making
+KW  - Data models
+KW  - Planning
+KW  - Stakeholders
+KW  - Logistics
+KW  - Harbor
+KW  - Vessel
+KW  - Terminal
+KW  - Performance
+KW  - Priority
+KW  - Delay
+KW  - Call
+KW  - Congestion
+KW  - Simulation
+DO  - 10.1109/LOGISTIQUA49782.2020.9353875
+JO  - 2020 IEEE 13th International Colloquium of Logistics and Supply Chain Management (LOGISTIQUA)
+IS  - 
+SN  - 2166-7373
+VO  - 
+VL  - 
+JA  - 2020 IEEE 13th International Colloquium of Logistics and Supply Chain Management (LOGISTIQUA)
+Y1  - 2-4 Dec. 2020
+AB  - Actually, ports are in need to maximize their incomes. To achieve this, all their stakeholders should be involved to participate in the design and the development of a policy of scheduling and priority. This project was carried out by the Vessel Call Service Planning Service in the port of Tanger Med as the “Tanger Med Port Authority”, and this report summarizes the work done and the methods behind it. The main objective is to develop a simulator model that includes all aspects of operations and the operational process by selecting appropriate KPIs that are fully representative of the congestion transferred by port vessels. First, it aims to define the operating assumptions and the fundamental concepts on which our simulation model will be based and to present the data that were used for the implementation of the simulation as well as the origin of these data. Secondly, it aims to validate and calibrate the model by presenting some improvements that could be made to the simulator in order to make it more precise and more representative and to ensure automation of the processing of inputs and outputs. While towards the end we conclude with the presentation of congestion situations, the results obtained and their use in decision making.
+ER  - 
+
+TY  - CONF
+TI  - In the eye of a storm governance of emerging technologies in UK ports post Brexit
+T2  - Living in the Internet of Things (IoT 2019)
+SP  - 1
+EP  - 9
+AU  - F. Lesniewska
+AU  - U. Ani
+AU  - M. Carr
+AU  - J. Watson
+PY  - 2019
+KW  - PORTS
+KW  - INTERNET OF THINGS
+KW  - BREXIT
+KW  - SECURITY
+KW  - GOVERNACE
+DO  - 10.1049/cp.2019.0165
+JO  - Living in the Internet of Things (IoT 2019)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Living in the Internet of Things (IoT 2019)
+Y1  - 1-2 May 2019
+AB  - As the UK looks to a future of changing relations with its trading partners there is a clear need to invest in its port infrastructure. As part of its strategic response the UK is looking to follow other countries, especially in the EU and Asia, in investing in developing smart ports which incorporate advanced digital technologies. However, the UK is faced with the challenge of resolving many decisions regarding where to invest, what to invest in, the consequence(s) of those decisions, and how to regulate a future sector that is increasingly becoming dependent on digital information and communication technology (ICT) infrastructure. Smart ports can bring benefits locally, nationally and globally from reducing greenhouse gas emissions, improving air quality, creating efficient supply chains, and secure and safer working environments. Yet, embedding emerging technologies, like the Internet of Things (IoT) into critical infrastructure like ports introduces new security risks and vulnerabilities that existing governance mechanisms are often unable to address. This paper firstly examines the growth in digitalisation of seaports drawing on initiatives in Rotterdam and Singapore. Potential security risks and vulnerabilities emerging are then discussed using some case studies before turning to review existing cybersecurity governance measures for ports. The lessons the UK can learn from smart port leaders like Rotterdam and Singapore as it looks to implement the innovation and digitalisation element of its new Maritime Strategy are then highlighted with recommendations on ways forward.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Port Data Management Systems to improve capability
+T2  - 2017 International Conference on Service Systems and Service Management
+SP  - 1
+EP  - 3
+AU  - Hing Kai Chan
+AU  - Shuojiang Xu
+PY  - 2017
+KW  - Industries
+KW  - Throughput
+KW  - Ports (Computers)
+KW  - Biological system modeling
+KW  - Forecasting
+KW  - Containers
+KW  - Predictive models
+KW  - data mining
+KW  - port management system
+KW  - forecasting
+KW  - support vector machine
+DO  - 10.1109/ICSSSM.2017.7996283
+JO  - 2017 International Conference on Service Systems and Service Management
+IS  - 
+SN  - 2161-1904
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Service Systems and Service Management
+Y1  - 16-18 June 2017
+AB  - From operations management's point of view, the nature of business models is the tool for knowing data, processing data and extracting value from data. Recently many studies advocate big data research which one common object to bring in intelligence from the huge amount of data. Nevertheless, owing to the characteristics of unstructured data, extracting the value in the big data still requires further research. This paper demonstrates a case study on container throughput forecasting model based on previous socio-economic data. The objective is to create an intelligent logistics centre for port operations. First, descriptive statistics has been conducted to describe the potential influencing factors. And then a variable selection process was applied to confirm the variables which will be included in the forecasting model. Then a forecasting model can be built by support vector machine algorithm. To evaluate the performance of the proposed method, other forecasting models were used, and the results showed that the proposed method outperform other common models, and also has the ability to help the stakeholders to make decisions.
+ER  - 
+
+TY  - JOUR
+TI  - Digital Twins for Ports: Derived From Smart City and Supply Chain Twinning Experience
+T2  - IEEE Access
+SP  - 71777
+EP  - 71799
+AU  - R. Klar
+AU  - A. Fredriksson
+AU  - V. Angelakis
+PY  - 2023
+KW  - Seaports
+KW  - Supply chains
+KW  - Smart cities
+KW  - Digital twins
+KW  - Sustainable development
+KW  - Internet of Things
+KW  - Information systems
+KW  - Digital twin
+KW  - IoT
+KW  - smart city
+KW  - smart port
+KW  - supply chain
+DO  - 10.1109/ACCESS.2023.3295495
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Ports are striving for innovative technological solutions to cope with the ever-increasing growth of transport, while at the same time improving their environmental footprint. An emerging technology that has the potential to substantially increase the efficiency of the multifaceted and interconnected port processes is the digital twin. Although digital twins have been successfully integrated in many industries, there is still a lack of cross-domain understanding of what constitutes a digital twin. Furthermore, the implementation of the digital twin in complex systems such as the port is still in its infancy. This paper attempts to fill this research gap by conducting an extensive cross-domain literature review of what constitutes a digital twin, keeping in mind the extent to which the respective findings can be applied to the port. It turns out that the digital twin of the port is most comparable to complex systems such as smart cities and supply chains, both in terms of its functional relevance as well as in terms of its requirements and characteristics. The conducted literature review, considering the different port processes and port characteristics, results in the identification of three core requirements of a digital port twin, which are described in detail. These include situational awareness, comprehensive data analytics capabilities for intelligent decision making, and the provision of an interface to promote multi-stakeholder governance and collaboration. Finally, specific operational scenarios are proposed on how the port’s digital twin can contribute to energy savings by improving the use of port resources, facilities and operations.
+ER  - 
+
+TY  - CONF
+TI  - Assessing the Maturity of Digital Twinning Solutions for Ports
+T2  - 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+SP  - 552
+EP  - 557
+AU  - R. Klar
+AU  - A. Fredriksson
+AU  - V. Angelakis
+PY  - 2023
+KW  - Pervasive computing
+KW  - Technological innovation
+KW  - Grounding
+KW  - Conferences
+KW  - Benchmark testing
+KW  - Digital twins
+KW  - Complex systems
+KW  - Digital Twin
+KW  - Smart Port
+KW  - Digital Twin Maturity
+DO  - 10.1109/PerComWorkshops56833.2023.10150378
+JO  - 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+IS  - 
+SN  - 2766-8576
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+Y1  - 13-17 March 2023
+AB  - Ports are striving for innovative technological solutions to cope with the increasing growth in demand of goods transport, while at the same time improving their environmental footprint. An emerging technology that has the potential to substantially increase the effectiveness of the multifaceted and interconnected port processes is that of digital twins. Recognizing the potential of twinning assets and processes, innovation-leading ports have already started working on it. However, since there is no clear consensus on what a digital twin of a complex system comprises and how it should be designed, deployed digital twin solutions for ports, as in multiple other domains, often differ significantly. We address this issue by initially identifying three core aspect underpinning digital twins of complex systems, grounding our work on the domain of ports, and outlining five successive maturity levels based on these aspects' instantiation. These identified aspects and the derived maturity levels are then used to examine real-world cases by critically evaluating existing digital twinning solutions in the port of Singapore, the Mawan port of Shanghai, and that of Rotterdam. Our work on maturity levels and core twinning aspects can provide a guideline for designing and benchmarking digital twinning solutions, applicable in any domain where a digital twin can be used. For ports, the capacity for innovation via twinning is highly contextual, with the key affecting factors being the availability of financial and technical resources.
+ER  - 
+
+TY  - JOUR
+TI  - End-to-End Shipping Container Code Spotting Based on Visual Sensors for Intelligent Inspection
+T2  - IEEE Sensors Journal
+SP  - 3076
+EP  - 3087
+AU  - H. Chen
+AU  - X. Piao
+AU  - S. You
+AU  - M. Jiang
+AU  - C. Chen
+AU  - P. Chen
+PY  - 2026
+KW  - Codes
+KW  - Containers
+KW  - Interference
+KW  - Intelligent sensors
+KW  - Inspection
+KW  - Feature extraction
+KW  - Noise
+KW  - Visualization
+KW  - Text recognition
+KW  - Pipelines
+KW  - Character contrastive learning (CCL)
+KW  - end-to-end
+KW  - horizontal
+KW  - vertical
+KW  - andmultiline (HVM) code spotting
+KW  - intelligent inspection
+KW  - shipping container code
+DO  - 10.1109/JSEN.2025.3641379
+JO  - IEEE Sensors Journal
+IS  - 2
+SN  - 1558-1748
+VO  - 26
+VL  - 26
+JA  - IEEE Sensors Journal
+Y1  - 15 Jan.15, 2026
+AB  - Real-time shipping container code spotting (CCS) plays a vital role in enabling intelligent inspection to optimize smart port logistics. Recent methods suffer from error accumulation and have complex pipelines, resulting in high computational complexity that limits the generalization ability for multidirectional, including horizontal, vertical, and multiline (HVM) codes. Moreover, fixing the parameters of visual sensors (e.g., angle, position, and focal length) to avoid noise interference limits deployment on mobile devices. To address them, we propose an end-toend framework for HVM code spotting. First, an inter-domain feature fusion network that includes the self-spatial enhancement module (SSEM) and self-channel enhancement module (SCEM) is proposed to reduce noise interference and improve the efficiency of the lightweight model. Next, a transformerbased branch with character contrastive earning (CCL) loss is designed to enhance the representation of character features. Experimental results indicate that the proposed method achieves state-of-the-art performance, in which the F-measure and recognition accuracy reach 91.2% and 93.2%, respectively, in real-time.
+ER  - 
+
+TY  - CONF
+TI  - Design of Intelligent Dispatching System for Port Gantry Crane
+T2  - 2021 40th Chinese Control Conference (CCC)
+SP  - 1887
+EP  - 1892
+AU  - C. Sun
+AU  - D. Liu
+AU  - S. Kang
+AU  - B. Hui
+PY  - 2021
+KW  - Ports (computers)
+KW  - Cranes
+KW  - Transportation
+KW  - Dispatching
+KW  - Software
+KW  - Real-time systems
+KW  - Mathematical models
+KW  - Gantry crane
+KW  - Wireless Communication
+KW  - Optimized Scheduling
+DO  - 10.23919/CCC52363.2021.9549610
+JO  - 2021 40th Chinese Control Conference (CCC)
+IS  - 
+SN  - 1934-1768
+VO  - 
+VL  - 
+JA  - 2021 40th Chinese Control Conference (CCC)
+Y1  - 26-28 July 2021
+AB  - By designing certain traffic dispatching rules, the existing port can complete the dispatching of gantry cranes in the yard. However, if the gantry crane breaks down suddenly, the scheduling plan will be terminated and manual transportation will be returned, which will seriously affect the overall efficiency of transportation. Aiming at this phenomenon, an intelligent port gantry crane dispatching system with operation monitoring function is designed, which can compare the actual position of gantry crane with the preset position output by dispatching system in real-time, to determine the operation status of gantry crane. Remote alarm in case of sudden abnormality, and redistribution according to the transport rules, to reduce the time lost in the case of sudden abnormality. Through design rules and optimization algorithm, the system realizes the optimal assignment of three gantry cranes in one site, the conflict resolution involved in the operation of multiple gantry cranes, and the task reorganization and assignment of gantry cranes in emergencies. The GSM module, UM220 module, and the Arduino control core are connected to realize the operation status monitoring, wireless communication, intelligent alarm, and other functions of the gantry crane. Scheduling optimization algorithm of this model by MATLAB software simulation, it is concluded that the location of the gantry crane dispatching process midfield zone - time simulation diagram, proved in this paper, the software model can reasonably effective, especial on the solution of the gantry crane running the sudden failure of the conflict, can be used in the engineering of the gantry crane's condition monitoring and fault conflict resolving, Improve the overall efficiency of transportation to enhance the intelligent level of the port.
+ER  - 
+
+TY  - CONF
+TI  - The Transition of Croatian Seaports into Smart Ports
+T2  - 2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)
+SP  - 1386
+EP  - 1390
+AU  - M. Jović
+AU  - N. Kavran
+AU  - S. Aksentijević
+AU  - E. Tijan
+PY  - 2019
+KW  - Seaports
+KW  - Stakeholders
+KW  - Security
+KW  - Companies
+KW  - Supply chains
+KW  - smart ports
+KW  - smart technologies
+KW  - interconnected platforms
+KW  - Croatian seaports
+DO  - 10.23919/MIPRO.2019.8757111
+JO  - 2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)
+IS  - 
+SN  - 2623-8764
+VO  - 
+VL  - 
+JA  - 2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)
+Y1  - 20-24 May 2019
+AB  - Currently, the most advanced cargo-related business process management seaport model is a “smart port”, in which all parts of the seaport operations and transportation are closely connected through various networks. Different seaports are in different phases of system implementation that allows uninterrupted data flow and interconnections. For example, some Croatian cargo seaports can be considered “ports in development”, meaning they are currently only trying to simplify business processes. The Ministry of the Sea, Transport and Infrastructure plays an important role in the development of Croatian seaports, as it has recognized the importance of digitalization and stakeholder connectivity (shippers, freight forwarders, maritime agents, etc.), and has taken concrete measures to achieve digitalization and connectivity. Initially, it is necessary to enable system integration and stakeholder connectivity within the seaport, and subsequently connect the seaports with each other. The first step in the transition of Croatian seaports into smart ports is the development of both the Port Community Systems and the National Single Window. Later on, the goal should be to introduce the appropriate smart technologies, which should result in various benefits e.g., accelerated cargo manipulation.
+ER  - 
+
+TY  - CONF
+TI  - Traffic Condition Estimation at the Smart City Edge using Deep Learning: A Ro-Pax Terminal Case Study
+T2  - 2022 IEEE International Smart Cities Conference (ISC2)
+SP  - 1
+EP  - 7
+AU  - F. De Vita
+AU  - G. Nocera
+AU  - O. M. Belcore
+AU  - A. Polimeni
+AU  - F. Longo
+AU  - D. Bruneo
+AU  - M. Di Gangi
+PY  - 2022
+KW  - Deep learning
+KW  - Technological innovation
+KW  - Smart cities
+KW  - Estimation
+KW  - Maintenance engineering
+KW  - Market research
+KW  - Safety
+KW  - Smart City
+KW  - Smart Port
+KW  - Edge computing
+KW  - Cloud computing
+KW  - Data management
+KW  - ANPR
+DO  - 10.1109/ISC255366.2022.9922581
+JO  - 2022 IEEE International Smart Cities Conference (ISC2)
+IS  - 
+SN  - 2687-8860
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Smart Cities Conference (ISC2)
+Y1  - 26-29 Sept. 2022
+AB  - The technology and innovations introduced by information systems have revolutionized how public institutions use their infrastructures and manage their assets. Even more, the need to carry out maintenance and to guarantee adequate standards of safety, efficiency, and quality of the services provided has prompted administrations and managers to integrate, in their management plans, the use of Information Computer Technologies (ICT). They are used as a tool through which it is possible to ensure the transition between the previous management and the new needs in the context of Smart mobility and, in general, Smart City. In this sense, this paper introduces a remote monitoring system built at the port terminal of Tremestieri (located in the city of Messina, Italy) that exploits deep learning to perform an Automatic Number Plate Recognition (ANPR) of vehicles transiting the area. Using a set of cameras installed at the terminal, this system allows to compute synthetic traffic indicators (e.g., arrival distribution, travel time, platooning and queuing phenomena) that can be used to infer the traffic conditions and the overall operability of the infrastructure in a non-invasive manner, highlighting daily peak hours and trends in the use of the terminal, also achieving an estimation of congestion phases.
+ER  - 
+
+TY  - CONF
+TI  - An Improved Quantum Lion Swarm Optimization for Integrated Berth Allocation and Tugboat Scheduling in Maritime Ports
+T2  - 2025 4th International Conference on Electronic Information Technology (EIT)
+SP  - 194
+EP  - 200
+AU  - C. Huang
+AU  - W. Yuan
+PY  - 2025
+KW  - Heuristic algorithms
+KW  - Perturbation methods
+KW  - Seaports
+KW  - Search problems
+KW  - Resource management
+KW  - Particle swarm optimization
+KW  - Information technology
+KW  - Optimization
+KW  - Standards
+KW  - Logistics
+KW  - tugboat scheduling
+KW  - berth allocation
+KW  - lion swarm algorithm
+KW  - quantum calculation
+DO  - 10.1109/EIT67313.2025.11232246
+JO  - 2025 4th International Conference on Electronic Information Technology (EIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 4th International Conference on Electronic Information Technology (EIT)
+Y1  - 22-24 Aug. 2025
+AB  - In modern port operations, collaborative optimization of berth allocation and tugboat scheduling is a key challenge to improving operational efficiency. To address this problem, this paper proposes an improved quantum lion swarm optimization algorithm(QLSO) to optimize port berth-tugboat cooperative scheduling. The algorithm enhances population diversity by introducing a quantum bit perturbation mechanism, adopts a quantum revolving door search strategy to improve the local search ability, and combines a dynamic role allocation mechanism to balance the exploration and exploitation performance of the algorithm. The experimental results show that, compared to the traditional particle swarm algorithm(PSO) and the genetic algorithm(GA), QLSO exhibits faster convergence speed and better solution quality in both standard test functions and real scheduling scenarios, and is especially suitable for the optimization of large-scale complex scheduling problems. This study not only provides a new efficient optimization tool for intelligent port scheduling, but also provides a new solution idea for the cooperative optimization problem of complex logistics systems.
+ER  - 
+
+TY  - JOUR
+TI  - Roadmap to Greener Seaports: A Bibliographic Analysis
+T2  - IEEE Transactions on Industry Applications
+SP  - 5725
+EP  - 5738
+AU  - M. Sadiq
+AU  - C. -L. Su
+AU  - Z. Ali
+AU  - A. Micallef
+AU  - M. Apap
+AU  - J. Licari
+AU  - C. Caruana
+AU  - K. Sayler
+AU  - G. Parise
+PY  - 2025
+KW  - Seaports
+KW  - Green products
+KW  - Sustainable development
+KW  - Bibliometrics
+KW  - Technological innovation
+KW  - Databases
+KW  - Air pollution
+KW  - Urban areas
+KW  - Standards
+KW  - Market research
+KW  - Environmental impact
+KW  - maritime logistics
+KW  - green seaport
+KW  - sustainable development
+KW  - technological innovation
+DO  - 10.1109/TIA.2025.3546585
+JO  - IEEE Transactions on Industry Applications
+IS  - 4
+SN  - 1939-9367
+VO  - 61
+VL  - 61
+JA  - IEEE Transactions on Industry Applications
+Y1  - July-Aug. 2025
+AB  - Seaports play a crucial role in global trade, acting as key hubs in international logistics networks. However, the growth of maritime activities has led to significant environmental challenges, including elevated carbon emissions and pollution. This paper presents an in-depth bibliometric analysis of sustainable and smart port initiatives, utilizing data from the Web of Science database to identify trends, key contributors, and technological advancements. The study focuses on the adoption of innovative technologies, such as All-Electric Ships, smart grids, and renewable energy systems, which are essential for modernizing port operations and reducing environmental impact. The analysis categorizes initiatives into five main areas: Energy & Fuels, Climate & Air, Port & City, Waste & Circular Economy, and Environment & Biodiversity. The findings highlight the potential of hybrid microgrid systems and advanced digital solutions in enhancing energy management and operational efficiency. Policy frameworks, including differentiated carbon pricing and global port incentive programs, are proposed as effective measures to align seaport sustainability with global decarbonization goals. This research provides a concise overview of current developments and outlines future strategies for achieving sustainable port infrastructure.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Parking Facility of Container Drayage in Seaports: A Study on Integrating Computer Vision and AI
+T2  - 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII)
+SP  - 384
+EP  - 387
+AU  - H. Lee
+AU  - I. Chatterjee
+AU  - G. Cho
+PY  - 2023
+KW  - Computer vision
+KW  - Technological innovation
+KW  - Computational modeling
+KW  - Urban areas
+KW  - Transfer learning
+KW  - Seaports
+KW  - Containers
+KW  - Computer Vision
+KW  - Deep Learning
+KW  - AI
+KW  - Seaport
+KW  - Parking Space Allocation
+DO  - 10.1109/ICKII58656.2023.10332699
+JO  - 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII)
+IS  - 
+SN  - 2770-4785
+VO  - 
+VL  - 
+JA  - 2023 IEEE 6th International Conference on Knowledge Innovation and Invention (ICKII)
+Y1  - 11-13 Aug. 2023
+AB  - Revolutionizing seaport operations is imperative for rapid urbanization in housing, transportation, education, health, and the economy. For this, the integration of artificial intelligence (AI) and computer vision (CV) technology is required. With smart traffic monitoring and parking space distribution, smart mobility optimization is realized for intelligent cities. Seaport container transportation is also required using AI and CV technologies. Thus, we established a sustainable and efficient parking system at seaports with a comprehensive framework based on deep learning and transfer learning techniques. Through an in-depth literature review, we determined the benefits of combining AI and CV to optimize parking facility management. Then, data gathering, quality evaluation, and practical applications of CV and AI in parking spaces and lanes were conducted. The significance of AI and CV technologies in developing efficient and sustainable transportation systems was verified by enhancing container drayage efficiency in seaports. The proposed system allowed AI and CV technologies to improve traffic management, optimize parking space allocation, and streamline container movement within seaports. By using deep learning techniques, particularly transfer learning, the proposed framework accurately identified parking spaces and lanes considering the crane position. CCTV camera data were used for real-time monitoring and efficient utilization of parking spaces in the seaport. Implementation of this framework enhanced container drayage operations, improved operational efficiency, reduced congestion, and enhanced seaport management. The proposed transformative technologies are crucial for the development of sustainable and efficient transportation networks for intelligent port operations.
+ER  - 
+
+TY  - CONF
+TI  - Comparative Machine Learning Analysis for Predicting Container Turnaround Time in ESG-Driven Port Marine Systems
+T2  - 2025 8th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)
+SP  - 262
+EP  - 266
+AU  - S. G. Rabiha
+AU  - F. Kurniawan
+AU  - F. Khair
+AU  - A. Tjolleng
+AU  - S. N. Musa
+AU  - M. Qosim
+AU  - A. N. Fadiyah
+PY  - 2025
+KW  - Cranes
+KW  - Runtime
+KW  - Computational modeling
+KW  - Seaports
+KW  - Predictive models
+KW  - Containers
+KW  - Real-time systems
+KW  - Resource management
+KW  - Sustainable development
+KW  - Predictive analytics
+KW  - Container Turnaround Time
+KW  - Port Marine
+KW  - Machine Learning
+KW  - Generalized Linear Model
+KW  - fostering innovation
+DO  - 10.1109/ISRITI68345.2025.11393219
+JO  - 2025 8th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)
+IS  - 
+SN  - 2832-1456
+VO  - 
+VL  - 
+JA  - 2025 8th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI)
+Y1  - 11-11 Dec. 2025
+AB  - Sustainable port operations and efficient container handling are essential components of competitiveness in modern maritime logistics. Although machine learning (ML) has been widely applied to port operations, particularly for berth scheduling, crane allocation, and yard optimization, current approaches generally emphasize operational efficiency and rarely integrate sustainability requirements. This gap limits the capacity of predictive systems to support emerging Smart Port environments, where performance must align with Environmental, Social, and Governance (ESG) principles. To address this need, this study develops an ESG-driven predictive framework for estimating container turnaround time using six ML algorithms: Generalized Linear Model (GLM), Deep Learning, Decision Tree, Random Forest, Gradient Boosted Trees, and Support Vector Machine. Historical operational characteristics, such as berth time, crane efficiency, loading and unloading rates, and delay factors, were analyzed utilizing RapidMiner. Experimental results indicate that GLM attains the lowest Root Mean Squared Error (RMSE) of 0.175, while providing the fastest runtime of 7 seconds, surpassing more complex ensemble methods and neural network models. These findings demonstrate that operational variables display strong linear correlations with turnaround efficiency, thereby rendering GLM appropriate for real-time decision support. By integrating ESG considerations into the predictive process, the proposed model improves environmental performance, reinforces governance coordination, and promotes social workload equilibrium. This study presents a computationally effective methodology for the sustainability-oriented transformation of smart ports.
+ER  - 
+
+TY  - CONF
+TI  - Application of Lion Swarm Optimization in Berth Allocation Problem
+T2  - 2021 6th International Conference on Transportation Information and Safety (ICTIS)
+SP  - 565
+EP  - 569
+AU  - Q. Yu
+AU  - F. Ma
+PY  - 2021
+KW  - Bridges
+KW  - Seaports
+KW  - Parallel processing
+KW  - Scheduling
+KW  - Safety
+KW  - Resource management
+KW  - Marine vehicles
+KW  - smart port
+KW  - berth allocation problem
+KW  - ship scheduling
+KW  - Lion Swarm Optimization
+DO  - 10.1109/ICTIS54573.2021.9798550
+JO  - 2021 6th International Conference on Transportation Information and Safety (ICTIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 6th International Conference on Transportation Information and Safety (ICTIS)
+Y1  - 22-24 Oct. 2021
+AB  - The construction of an intelligent port can promote the development of intelligent shipping. Berth resources are scarce resources in ports and terminals. For incoming ships, reasonable allocation of berth resources can shorten the ship's port time, speed up the overall operational efficiency of the terminal, and enhance the comprehensive competitiveness of the port. At present, the allocation of berth resources mostly relies on the experience of the port center dispatchers, and there will inevitably that there will be phenomena such as waiting for available berths, waiting for ships, and ship scheduling errors and conflicts. Aiming at the problem of the low efficiency of berth scheduling at the terminal, an optimization model of berth allocation was established. To minimize the total ship in port time, the multi-objective Lion Swarm Optimization algorithm was used to solve the model. Taking the berth allocation problem of a bulk cargo port as an example, the total time of ships in the port after the algorithm optimization is greatly shortened, and a relatively better scheduling plan can be given. A satisfactory application effect can be obtained in the optimization of the ship scheduling, and it can provide the optimization of port berth allocation a new method.
+ER  - 
+
+TY  - CONF
+TI  - Sustainable Cold Ironing with On-Grid Photovoltaic Power: A Case Study of Tanjung Emas Port
+T2  - 2025 4th International Conference on Electronics Representation and Algorithm (ICERA)
+SP  - 461
+EP  - 466
+AU  - W. A. Santosa
+AU  - F. D. Wijaya
+AU  - Y. F. Sidik
+PY  - 2025
+KW  - Photovoltaic systems
+KW  - Renewable energy sources
+KW  - Costs
+KW  - Electricity
+KW  - Simulation
+KW  - Carbon dioxide
+KW  - Seaports
+KW  - Hybrid power systems
+KW  - Marine vehicles
+KW  - Load flow
+KW  - Cold Ironing
+KW  - Emission Reduction
+KW  - Renewable Energy
+KW  - Energy Transition
+KW  - Smart Port
+DO  - 10.1109/ICERA66156.2025.11086634
+JO  - 2025 4th International Conference on Electronics Representation and Algorithm (ICERA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 4th International Conference on Electronics Representation and Algorithm (ICERA)
+Y1  - 12-12 June 2025
+AB  - Ports play a vital role in today's liberalized economy, with high demand for seaborne trade due to their costeffectiveness and capacity to transport large goods. However, fossil fuel-powered ships generate carbon emissions while docked, posing risks to local communities. Cold ironing systems supply electricity to ships directly from the port to address this, reducing emissions. This solution supports Indonesia's carbon reduction targets outlined in its Nationally Determined Contribution (NDC). Alternative energy sources, particularly renewable options like photovoltaic (PV) power plants, are needed to further support this goal. This research focuses on designing and calculating the power requirements for a cold ironing system that combines hybrid photovoltaic and grid electricity. It also evaluates potential carbon emissions and operational cost reductions. The study analyzes the installation of a rooftop PV system for the port authority building at Tanjung Emas Port, with a designed capacity of 6,250 kW. PV sources contribute 43.9% to the hybrid grid supply system for cold ironing operations. Implementation of the grid-PV hybrid system achieves 79.35% cost savings over diesel generation and reduces 61.39% CO₂ emissions. These findings offer a technical foundation for enhancing environmental sustainability at Tanjung Emas Port and advancing it toward becoming an international smart port.
+ER  - 
+
+TY  - JOUR
+TI  - Smart High Power Charging Networks and Optimal Control Mechanism for Electric Ships
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 1476
+EP  - 1483
+AU  - N. Kumar
+AU  - S. K. Panda
+PY  - 2023
+KW  - Marine vehicles
+KW  - Seaports
+KW  - Wires
+KW  - Power supplies
+KW  - Earth
+KW  - Pollution
+KW  - Transformers
+KW  - Alternative maritime power
+KW  - cold ironing (CI)
+KW  - electric ship
+KW  - high power
+KW  - high-power supply (HPS) system
+KW  - shore-to-ship power
+KW  - smart port
+DO  - 10.1109/TII.2022.3170484
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 2
+SN  - 1941-0050
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Feb. 2023
+AB  - On commercial ports, during loading/unloading on cruise, carrier, container, or tanker, its diesel engine creates pollution. Therefore, in ports, shore-to-ship power (Cold Ironing) supply is an alternative way to overcome the pollution issue at shipyards. However, different ships of different countries and different companies require different types of power with different electrical connections, such as ac power with 50 Hz and 3-phase 3-wire connection, ac power with 60 Hz and 3-phase 4-wire connection, ac power with 50 Hz and 1-phase 2-wire connection, dc power, etc. The ship's power requirements are always in the megawatt range and its required potentials are in the kilovolt range. Therefore, in this article, a smart high power charging network and its control mechanism are developed for cold ironing on the ports, which is capable of serving almost all types of power with different types of power supply network. This developed supply system is capable of providing ac power, dc power, 50 Hz frequency, 60 Hz frequency, single phase, three phases, 3 wire, 4 wire, and 5 wire networks, different ac, dc voltages, etc. The capability of the developed smart power network is validated for different types of ships and vessels, on the simulation platform as well as through experimentation on real-time hardware-in-the-loop. The test results on both the platforms satisfactorily demonstrate the proposed power network and control scheme.
+ER  - 
+
+TY  - JOUR
+TI  - A Multipurpose and Power Quality Improved Electric Vessels Charging Station for the Seaports
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 3254
+EP  - 3261
+AU  - N. Kumar
+AU  - S. K. Panda
+PY  - 2023
+KW  - Marine vehicles
+KW  - Seaports
+KW  - Wires
+KW  - Power quality
+KW  - Harmonic analysis
+KW  - Earth
+KW  - Rectifiers
+KW  - Cold ironing (CI)
+KW  - electric vessels
+KW  - high-power charging station
+KW  - power quality
+KW  - smart port
+DO  - 10.1109/TII.2022.3170424
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 3
+SN  - 1941-0050
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - March 2023
+AB  - To avoid air and noise pollution on seaports, the use of electric vessels and shore-to-ship power supply based charging station on seaports are in trend, which is also known as cold ironing (CI) infrastructure. In the starting stage, electric vessels charging stations are being implemented on the most busiest commercial ports, where modern electronic devices are used to serve different types of vessels. These devices only take care of the quality of output power. However, on the input side, it creates a serious harmonic issue. During CI, megawatt range of power is supplied to the ships, so generated harmonics and interharmonics in the high-power supply based charging system become more dangerous for the grid. In this article, we propose a novel power quality improved cold ironing (PQICI) system (charging mechanism) to overcome this issue. Moreover, due to inherent multipurpose useability, this novel PQICI is able to supply different types of power to various types of vessels, such as ac power, dc power, 50 Hz frequency, 60 Hz frequency, single phase, three phases, three-wire network, four-wire network, five-wire network, and different ac and dc voltages. Furthermore, this PQICI supply system is capable of serving four vessels at a time. In every type of loading condition with different kinds of power supply mode, the PQICI maintains the power quality on the input side, with fulfilling the varieties of the power demand of vessels. The capability of the developed “PQICI” system is tested for different types of ships and vessels on the simulation platform as well as through real-time hardware-in-the-loop experimentation. On IEEE standard 519, satisfactory test results on both platforms show the efficiency of the developed system and its control mechanism.
+ER  - 
+
+TY  - JOUR
+TI  - Boosting the Decision-Making in Smart Ports by Using Blockchain
+T2  - IEEE Access
+SP  - 128055
+EP  - 128068
+AU  - C. A. Durán
+AU  - C. Fernández-Campusano
+AU  - R. Carrasco
+AU  - M. Vargas
+AU  - A. Navarrete
+PY  - 2021
+KW  - Seaports
+KW  - Crowdsourcing
+KW  - Ports (computers)
+KW  - Companies
+KW  - Technological innovation
+KW  - Logistics
+KW  - Industries
+KW  - Blockchain
+KW  - Crowdsourcing
+KW  - cybernetic-social-technological-cognitive model
+KW  - smart port
+DO  - 10.1109/ACCESS.2021.3112899
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Blockchain technology (BC) offers an innovation platform for decentralized and transparent transactions in the maritime port industry. This technology allows guaranteeing trust, transparency and traceability of cargo and data to be tracked. Today, in the port systems of emerging market countries, BC technology is increasingly being incorporated into information and communication processes. In parallel, the social domain has begun to be explored due to the lack of link between the port and the city it occupies, and the need to incorporate public actors in decision-making at the governance level. In this sense, the present work aims to promote BC technology in order to transform data and information into useful knowledge for effective decision making, through the use of Crowdsourcing. A Crowdsourcing Blockchain CrowdBC conceptual framework and its architecture are generated for a port system in which the cyber-technological, social and cognitive domains (CSTC) of smart ports, the knowledge generation process and Crowdsourcing technology are interrelated. Finally, opportunities are discussed for ports that are in permanent development to reduce the gaps with the smart industry. As a discussion, two possible scenarios and recommendations for future implementations that consider the social and cognitive aspects of Industry 4.0 are presented.
+ER  - 
+
+TY  - CONF
+TI  - Deployment Strategies of Mobile Networks for Internet-of-Things in Smart Maritime Ports
+T2  - 2022 11th International Symposium on Signal, Image, Video and Communications (ISIVC)
+SP  - 1
+EP  - 6
+AU  - A. E. Idrissi
+AU  - A. Haidine
+AU  - A. Aqqal
+AU  - A. Dahbi
+PY  - 2022
+KW  - Smart buildings
+KW  - Costs
+KW  - Switches
+KW  - Seaports
+KW  - Containers
+KW  - Smart grids
+KW  - Fourth Industrial Revolution
+KW  - smart maritime port
+KW  - IoT
+KW  - mobile network
+KW  - network costs
+KW  - CAPEX/OPEX
+KW  - private LTE
+KW  - 5G
+DO  - 10.1109/ISIVC54825.2022.9800728
+JO  - 2022 11th International Symposium on Signal, Image, Video and Communications (ISIVC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 11th International Symposium on Signal, Image, Video and Communications (ISIVC)
+Y1  - 18-20 May 2022
+AB  - It is estimated that 80% of world trade is transported via maritime logistic. The maritime trade networks can be seen as a graph with links and nodes. For an optimal network, the links representing the maritime routes must be short (with minimal cost) and secure. The nodes of the network represents the maritime ports, which are hub sending, receiving or switching the goods (in form of containers). The ports has passed from analog to digital ports to make use of IT tools to speed up the process, especially the administrative part. Nowadays, we talk about smart ports that uses data to further speed up the process administratively but also use a full automation to accelerate/optimize the processing of the goods/containers in terminals/quay. Terminal Operation System (TOS) is the main components in these operations. Therefore, the use of Internet-of-Thing (IoT) in TOS a decisive step towards smart ports. In this work, we propose to extend the notion of IoT in other smart domains to be considered in the smart port paradigm, such smart building, smart grid, smart environment monitoring, etc. Furthermore, we study the optimal strategies for the deployment of a performing networking infrastructure, which is the core element in the IoT layered model. Private network based on Long Term Evolution (LTE/4G) has been estimated to be an optimal solution for private enterprise networking in Industry 4.0. Here, we analyze its suitability for smart maritime ports.
+ER  - 
+
+TY  - JOUR
+TI  - Bulk Cargo Multimodal Transportation on Inland Waterways Considering Transport Wastage
+T2  - IEEE Access
+SP  - 139575
+EP  - 139586
+AU  - Q. Ai
+AU  - J. Zhang
+AU  - Q. Liu
+AU  - C. Zhang
+AU  - Q. Chen
+AU  - J. Yan
+PY  - 2023
+KW  - Transportation
+KW  - Costs
+KW  - Roads
+KW  - Logistics
+KW  - Rivers
+KW  - Oils
+KW  - Containers
+KW  - Freight handling
+KW  - Bulk cargo multimodal transport
+KW  - hyper-heuristic
+KW  - multi-objective optimization
+KW  - transport wastage
+DO  - 10.1109/ACCESS.2023.3340217
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Transportation wastage is inevitable during transportation. With the emergence of container transportation, the transportation wastage generated by most cargo through container transportation has been greatly reduced. However, for products such as grain, oil, and sand transported in bulk, significant transportation wastage still occurs during the process. Under the background of vigorously developing intermodal transportation in the transportation industry, there is still limited research on transportation wastage in bulk intermodal transportation. This study proposes a multi-objective model to determine appropriate transport routes and modes for inland waterway dry bulk transport, minimizing transport time and transport costs considering transport wastage. Using existing machine learning algorithms to predict wastage in multimodal transportation of bulk cargo. The goal is to accurately predict transportation wastage, determine transportation routes and modes. Considering the poor generalization ability of heuristic algorithms, a hyper-heuristic algorithm based on the hypervolume indicator is designed to solve the model, and it is validated through simulation experiments. The analysis results show that the model can effectively reduce the wastage rate during bulk intermodal transportation.
+ER  - 
+
+TY  - JOUR
+TI  - Time-Optimal Route Planning for Electric Ships in Stochastic Seas via PMP–HJB Equivalence
+T2  - IEEE Access
+SP  - 41119
+EP  - 41140
+AU  - J. Kwon
+AU  - H. -S. Jang
+AU  - T. -H. Lee
+AU  - Y. -J. Kim
+AU  - K. -H. Ryu
+AU  - Y. -K. Kim
+AU  - J. Park
+PY  - 2026
+KW  - Marine vehicles
+KW  - Reactive power
+KW  - Safety
+KW  - Reliability
+KW  - Vectors
+KW  - Computational modeling
+KW  - Numerical models
+KW  - Motors
+KW  - Inverters
+KW  - Dynamics
+KW  - Hamilton-Jacobi-Bellman (HJB) equation
+KW  - Pontryagin’s maximum principle (PMP)
+KW  - robustness analysis
+KW  - time-optimal route planning
+KW  - vector autoregression (VAR)
+DO  - 10.1109/ACCESS.2026.3662203
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 14
+VL  - 14
+JA  - IEEE Access
+Y1  - 2026
+AB  - We propose an integrated framework for minimum-time return-to-origin routing of electric-propelled ships operating under uncertain wind, waves, and currents, with a particular focus on partial-failure conditions. Because delayed return in harsh seas can escalate operational risk, the framework is designed to deliver not only fast routes but also dependable guidance under forecast and modeling uncertainty. We first generate stochastic metocean profiles using a vector autoregression (VAR) model that preserves cross-variable dependencies, and we couple these profiles with a physics-based vessel model. Wind forcing and wave-added resistance are converted into an equivalent drift and combined with ocean currents, allowing heterogeneous environmental effects to be treated consistently in the routing formulation. The time-optimal route is computed using Pontryagin’s Maximum Principle (PMP), and the solution is validated and generalized through the Hamilton–Jacobi–Bellman (HJB) value function, providing a complementary policy-level view of optimality. To quantify operational robustness, we construct a large library of perturbed routes and identify an asymmetric robust corridor in which transit-time inflation remains within a 10% margin. Simulation studies in a realistic coastal scenario show that the proposed approach yields stable minimum-time return routes, clarifies when near-straight paths become fragile, and offers actionable guidance for safe and economical operation. The results support practical deployment in digital-twin and decision-support systems for electric and autonomous surface ships.
+ER  - 
+
+TY  - JOUR
+TI  - Mobile-RetinaNet: A Lightweight Integrated Framework for Efficient Rotated Object Detection in Remote Sensing Images
+T2  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+SP  - 8384
+EP  - 8395
+AU  - X. Lin
+AU  - J. Chen
+AU  - J. Liu
+AU  - T. Yi
+AU  - H. Zhan
+AU  - G. Chen
+AU  - X. Wan
+PY  - 2026
+KW  - Feature extraction
+KW  - Remote sensing
+KW  - Object detection
+KW  - Accuracy
+KW  - Transformers
+KW  - Detectors
+KW  - Computational efficiency
+KW  - Computational modeling
+KW  - Neck
+KW  - Head
+KW  - Lightweight backbone
+KW  - multiscale feature fusion
+KW  - remote sensing images
+KW  - rotating object detection
+DO  - 10.1109/JSTARS.2026.3662490
+JO  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IS  - 
+SN  - 2151-1535
+VO  - 19
+VL  - 19
+JA  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Y1  - 2026
+AB  - Rotated object detection plays a vital role in remote sensing interpretation, with broad applications in urban planning, port monitoring, and disaster response. However, the significant scale variations, complex orientations, and cluttered backgrounds in remote sensing images pose considerable challenges to accurate detection. To address these issues, this article proposes an efficient rotated object detection framework that integrates state space models with vision transformers to achieve an optimal balance between accuracy and computational efficiency. The proposed framework employs a MobileMamba backbone enhanced with a multireceptive field feature interaction module for effective local–global feature representation. An EfficientViT-FPN neck enables efficient multiscale feature fusion, while a refined Rotated RetinaNet head incorporates five-parameter rotated box regression with angle-aware constraints to improve the orientation estimation. Comprehensive experiments on the DOTA-v1.0 and SRSDD-v1.0 datasets demonstrate that our approach achieves superior detection accuracy with significantly reduced computational overhead, making it particularly suitable for practical remote sensing applications.
+ER  - 
+
+TY  - CONF
+TI  - The Impact of Digitalization on Operational Efficiency in Ports: A Case Study of Borusan Port
+T2  - 2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+SP  - 1
+EP  - 6
+AU  - A. Konuk
+AU  - I. Çil
+AU  - K. A. Konuk
+PY  - 2025
+KW  - Occupational safety
+KW  - Automation
+KW  - Digital transformation
+KW  - Engineering management
+KW  - Stakeholders
+KW  - Information technology
+KW  - Logistics
+KW  - Radiofrequency identification
+KW  - Digital transformation
+KW  - port operations
+KW  - information technologies
+KW  - automation
+KW  - IoT
+KW  - ERP
+KW  - RFID
+KW  - operational efficiency
+KW  - logistics management
+DO  - 10.1109/ISMSIT67332.2025.11267960
+JO  - 2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+IS  - 
+SN  - 2770-7962
+VO  - 
+VL  - 
+JA  - 2025 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+Y1  - 14-16 Nov. 2025
+AB  - This study highlights the contributions of digital transformation to operational processes and sectoral development in port operations. Digitalization has been found to yield significant outcomes in terms of accelerating processes, strengthening occupational safety, improving operational efficiency, and enhancing coordination among stakeholders. The case analysis conducted at Borusan Port, supported by field data and literature, demonstrates that digitalization not only improves operational efficiency but also provides strategic advantages. In conclusion, digital transformation offers ports not only operational benefits but also competitive advantages. This study contributes to the engineering management and logistics literature and serves as a reference for future smart port applications.
+ER  - 
+
+TY  - CONF
+TI  - The Matlab Realization of the Fusion Information Framework of Guangdong, Hong Kong and Macao by the Low-Altitude Sensor Network Construction of Civil Aviation Transportation Industry
+T2  - 2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC)
+SP  - 1709
+EP  - 1712
+AU  - X. Jia
+PY  - 2022
+KW  - Transportation industry
+KW  - Urban areas
+KW  - Supply chains
+KW  - Education
+KW  - Transportation
+KW  - Production
+KW  - Throughput
+KW  - Matlab Realization
+KW  - Fusion Information Framework
+KW  - Low-Altitude Sensor Network Construction
+KW  - Civil Aviation Transportation Industry
+DO  - 10.1109/ICESC54411.2022.9885331
+JO  - 2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC)
+Y1  - 17-19 Aug. 2022
+AB  - The de velopment of civil aviation transportation has a very significant and continuous positive impact on regional economic growth, which reaches a maximum value of 0.105 in the first period, and then declines year by year. The goal and principle of Qinhuangdao Port's smart port construction are put forward, and the overall framework of Guangdong-Hong Kong-Macao smart port is built according to the overall design idea, and then the logistics supply chain service cloud platform, intelligent terminal platform, and Matlab customer service platform are respectively established, and builds a more reasonable and practical module in the learning design section. In the module design of the existing teaching information model, some of the test resource files, such as the test resource file set.
+ER  - 
+
+TY  - CONF
+TI  - Identifier Management in Semantic Interoperability Solutions for IoT
+T2  - 2018 IEEE International Conference on Communications Workshops (ICC Workshops)
+SP  - 1
+EP  - 6
+AU  - M. Ganzha
+AU  - M. Paprzycki
+AU  - W. Pawlowski
+AU  - P. Szmeja
+AU  - K. Wasielewska
+PY  - 2018
+KW  - Interoperability
+KW  - Ecosystems
+KW  - Semantics
+KW  - Computer architecture
+KW  - Syntactics
+KW  - Software
+KW  - Urban areas
+DO  - 10.1109/ICCW.2018.8403752
+JO  - 2018 IEEE International Conference on Communications Workshops (ICC Workshops)
+IS  - 
+SN  - 2474-9133
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Communications Workshops (ICC Workshops)
+Y1  - 20-24 May 2018
+AB  - There are multiple ways, in which large-scale IoT ecosystems can materialize. First, they can be instantiated as a result of a specific project. For instance, when a city authority decides to deploy an IoT-based smart city solution. Second, they can be result of "organic growth". For instance, a port authority deploys smart lighting system, then it implements smart gateways, and in the next stage it decides to combine these two, and a smart container positioning system, into a complete port IoT ecosystem. In the context of interoperability, one of the interesting open issues is: how to manage identities of artifacts and entities that constitute the IoT ecosystem. Identity management seems to be relatively easy in the first case - identifier management can be a part of the IoT deployment. However, as soon as multiple artifacts are to be combined, the problem of identification is no longer easy to solve. This is particularly the case when (i) multiple artifacts originate from different vendors (that use their own identity management approaches), and (ii) when the interoperability solution is based on semantic technologies. In this context, the aim of this contribution is to introduce an approach to identifier management, as well as potential ID interoperability architectures that have been developed within the scope of the INTER-IoT project.
+ER  - 
+
+

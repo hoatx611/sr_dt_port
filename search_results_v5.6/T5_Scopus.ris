@@ -1,0 +1,1294 @@
+TY  - CONF
+AU  - Van, H.N.
+AU  - Anh, T.D.
+TI  - Designing an Intelligent Environmental Monitoring System for Vietnam Green Seaports
+PY  - 2024
+T2  - RusAutoCon - Proceedings of the International Russian Automation Conference
+IS  - 2024
+SP  - 462
+EP  - 467
+DO  - 10.1109/RusAutoCon61949.2024.10694425
+UR  - https://www.scopus.com/pages/publications/85208237225?origin=resultslist
+AB  - Air pollution is a complex problem for the world, particularly Vietnam. With the excessive number of ships operating and transporting goods, the air quality in these areas has become polluted and dangerous to human health. This paper presents the design and real-time application of an efficient adaptive neuro-fuzzy (ANFIS) inference system to monitor air quality at Vietnamese Ports. The system collects parameters such as PM2.5, CO, S02, and N02 in real time, and then the system calculates the AQIx index to warn the operator about the pollution level. In addition, applying the ant colony optimization (ACO) algorithm helps increase the ability to transmit and receive data between stations. The training datasets of the adaptive N euro- Fuzzy inference system were extracted from the fuzzy logic controller model developed in MATLAB Simulink, and its robustness was verified experimentally. The research results increase the ability to monitor the quality of clean, green port environments today in Vietnam. © 2024 IEEE.
+KW  - ACO-ANFIS algorithm
+KW  - air quality forecasting
+KW  - air quality index
+KW  - ANFIS model
+KW  - LoRaWAN
+KW  - smart green ports
+KW  - Air pollution control
+KW  - Air quality
+KW  - Ecodesign
+KW  - Failure analysis
+KW  - Fuzzy inference
+KW  - Fuzzy neural networks
+KW  - Air quality forecasting
+KW  - Air quality indices
+KW  - ANFIS model
+KW  - Ant colonies
+KW  - Ant colony optimization-ANFIS algorithm
+KW  - Colony optimization
+KW  - Green ports
+KW  - LoRaWAN
+KW  - Smart green port
+KW  - Viet Nam
+KW  - Environmental monitoring
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Koad, P.
+AU  - Deesamutara, S.
+TI  - Examining trade routes through the Thai–Malay Peninsula: A simulation analysis
+PY  - 2025
+T2  - Journal of Island and Coastal Archaeology
+VL  - 20
+IS  - 3
+SP  - 728
+EP  - 756
+DO  - 10.1080/15564894.2024.2335624
+UR  - https://www.scopus.com/pages/publications/85199268006?origin=resultslist
+AB  - An important area for understanding human movement and trade routes during the Early Historic Period in Southeast Asia is the Thai–Malay Peninsula where external records date back 2300 years. Early east–west trade could be routed around the peninsula or sailing time could be reduced by taking terrestrial shortcuts across the peninsula. However, spatial research, particularly on transpeninsula routes, is insufficient to supplement the gaps between written historical records and excavated archaeological sites. This study aimed to simulate transpeninsula routes across the entire Thai–Malay Peninsula using a digital elevation model (DEM) to eliminate human biases when exploring the actual terrain. The simulation results reveal some intriguing characteristics of potential routes that can be used to divide the Thai–Malay Peninsula into five zones. This zonation is associated with external historical records and archaeological evidence before the twelfth century AD to assess the efficacy of different transpeninsula routes. These data are also utilized to propose potential areas of undiscovered archaeological sites within the Thai–Malay Peninsula. © 2024 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - Early Historic Period
+KW  - maritime trade
+KW  - pathfinding
+KW  - Southeast Asia
+KW  - Malay Peninsula
+KW  - Thailand
+KW  - digital elevation model
+KW  - historical record
+KW  - maritime trade
+KW  - simulation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Fan, H.
+AU  - Jia, H.
+AU  - Wu, Z.
+TI  - Natural disaster risks in seaports for global petroleum trades
+PY  - 2026
+T2  - Transportation Research Part E: Logistics and Transportation Review
+VL  - 210
+C7  - 104784
+DO  - 10.1016/j.tre.2026.104784
+UR  - https://www.scopus.com/pages/publications/105031876319?origin=resultslist
+AB  - Maritime ports are encountering escalating vulnerabilities attributable to intensified risks posed by climate change and natural hazards. This study leverages Automatic Identification System-based maritime big data to formulate a risk assessment framework that evaluates the impact of natural disasters on seaports. To assess climate risks affecting global petroleum flows, a Rule-based Bayesian network is employed. Quantitative approaches are introduced for model construction, reducing the potential subjective bias and enhancing the model’s ability to distinguish the intricate relationships among various influential factors. The results indicate that Mina Al Ahmadi port, Madang port, and Floro port are identified as the three ports exhibiting the highest natural disaster risk. Conversely, the largest petroleum ports in terms of cargo throughput, such as Ras Tanura and Singapore, present a lower risk level compared to Mina Al Ahmadi port. The findings reveal that significant risks are not primarily associated with high-throughput ports; rather, certain regional ports, with comparatively lower throughput located in high hazard risk areas, encounter more substantial threats. These findings enhance the understanding of petroleum trade patterns and vulnerabilities inherent in petroleum seaport facilities, thereby providing essential data-driven insights for policy formulation, climate risk adaption strategies, and optimized port management practices. © 2026 The Author(s).
+KW  - Automatic Identification System (AIS)
+KW  - Climate change
+KW  - Natural disaster
+KW  - Petroleum trade
+KW  - Rule-based Bayesian network
+KW  - Kuwait [Middle East]
+KW  - Madang
+KW  - Norway
+KW  - Papua New Guinea
+KW  - Saudi Arabia
+KW  - Singapore [Southeast Asia]
+KW  - Automatic identification
+KW  - Bayesian networks
+KW  - Commerce
+KW  - Disasters
+KW  - Gasoline
+KW  - Hazards
+KW  - Information management
+KW  - Ports and harbors
+KW  - Risk assessment
+KW  - Throughput
+KW  - Automatic identification system
+KW  - Bayesia n networks
+KW  - Natural disaster risk
+KW  - Natural disasters
+KW  - Natural hazard
+KW  - Petroleum trade
+KW  - Risk assessment framework
+KW  - Rule based
+KW  - Rule-based bayesian network
+KW  - Bayesian analysis
+KW  - climate change
+KW  - international trade
+KW  - natural disaster
+KW  - petroleum
+KW  - port operation
+KW  - transportation safety
+KW  - Climate change
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Nguyen, T.-M.-T.
+AU  - Nguyen, D.-T.
+AU  - Truong, M.-H.
+AU  - Doan, N.-A.
+TI  - GIS-based simulation for deep-water port site selection using analytic hierarchy process: a case study from Southern East of Vietnam
+PY  - 2021
+T2  - Applied Geomatics
+VL  - 13
+IS  - 1
+SP  - 107
+EP  - 118
+DO  - 10.1007/s12518-020-00319-2
+UR  - https://www.scopus.com/pages/publications/85085688034?origin=resultslist
+AB  - This research developed a model for choosing the location of deep-water port based on analytic hierarchy process (AHP) and geographic information system (GIS) by estimating natural factors on 21-km-long Thi Vai river, Nhon Trach district, Dong Nai province which has not been conducted in literature. Three considered criteria are topography with tidal level, land use, and coastline change. Moreover, the coastline change, which indicates areas of erosion, accretion, and stability, is determined using satellite images from 1995 to 2010 and ArcGIS software. The result highlights that coastline change is the most important criterion among the three criteria and simulated location has matched 80% with real location. Therefore, the developed model can be used for supporting planners, managers, policy makers, and local government to make decisions on suitable and effective planning strategies for port construction as well as can be applied anywhere around the world. © 2020, Società Italiana di Fotogrammetria e Topografia (SIFET).
+KW  - Location choice
+KW  - Model builder
+KW  - Natural criteria
+KW  - Weight
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Myriam Gaete, G.
+AU  - González-Araya, M.C.
+AU  - González-Ramírez, R.G.
+AU  - César Astudillo, H.
+TI  - A dwell time-based container positioning decision support system at a port terminal
+PY  - 2017
+T2  - ICORES 2017 - Proceedings of the 6th International Conference on Operations Research and Enterprise Systems
+VL  - 2017-January
+SP  - 128
+EP  - 139
+DO  - 10.5220/0006193001280139
+UR  - https://www.scopus.com/pages/publications/85049479545?origin=resultslist
+AB  - In this article, a methodology as well as a decision support system for the container storage assignment at a yard of a container terminal is proposed. The motivation of the proposed methodology are the cases of container terminals where inland flows present high levels of uncertainty and variability. This situation is typical of ports in developing countries such as is the case in Latin America where due to lack of automation, there are many paper-based procedures and little coordination with the hinterland. The proposed methodology is based on a dwell time segregated storage policy, considering only import containers (due to the difficulty to determine segregation criteria for this type of containers). Dwell times are discretized in order to determine dwell time classes or segregations, so that containers of the same segregation are assigned to close locations at the yard. As a case study, the port of Arica in Chile is considered. A discrete-event simulation model is also proposed to estimate potential benefits of the proposed methodology. Numerical results for the case study show a good performance, with potential reduction of the rehandles incurred. Copyright © 2017 by SCITEPRESS - Science and Technology Publications, Lda. All rights reserved.
+KW  - Container storage policies
+KW  - Container terminal
+KW  - Dwell times
+KW  - Stacking strategies
+KW  - Artificial intelligence
+KW  - Containers
+KW  - Developing countries
+KW  - Discrete event simulation
+KW  - Operations research
+KW  - Port terminals
+KW  - Railroad yards and terminals
+KW  - Container terminal
+KW  - Discrete-event simulation model
+KW  - Dwell time
+KW  - Potential benefits
+KW  - Potential reduction
+KW  - Stacking strategies
+KW  - Storage policies
+KW  - Uncertainty and variability
+KW  - Decision support systems
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 16
+ER  -
+
+TY  - JOUR
+AU  - Boadu, S.
+AU  - Anu Thompson, E.
+AU  - Godavarthy, R.
+AU  - Boateng, A.
+AU  - Penneigh, R.
+TI  - A decade of Smart Port Concept: a comprehensive review of past, present, and future implications
+PY  - 2025
+T2  - Australian Journal of Maritime and Ocean Affairs
+DO  - 10.1080/18366503.2025.2546729
+UR  - https://www.scopus.com/pages/publications/105013751752?origin=resultslist
+AB  - The evolution of global trade has necessitated a paradigm shift in port operations to optimise movement of goods/information within maritime industry through digitally enhanced systems. However, ports in developing countries face challenges including need for implementation framework, cybersecurity threats, inter-system interoperability, and regulatory compliance. To address these challenges, this study explores smart port evolution, components, and benefits, to develop Smart Port Concept Implementation (SPCI) framework, emphasising operational optimisation and sustainability. Using comprehensive literature review, 65 articles were analyzed to identify the challenges and emerging future trends of the smart port concept. The research reveals that while smart ports offer transformative benefits, however, challenges such as high capital investment, integration issues, and labour gaps still remain. Future developments in smart ports will include fully automated operations, seamless digital ecosystems, green infrastructure, climate resilience, smart city integration, and predictive operations. These advancements require coordinated efforts among policymakers, industry stakeholders, and technology providers to enable a sustainable and inclusive transition toward smart port ecosystems. © 2025 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - maritime digitalisation
+KW  - maritime supply chain
+KW  - port automation
+KW  - Smart Port Concept
+KW  - sustainable port development
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Kocak, D.
+TI  - Maritime Critical Infrastructure in Southeast Asia: Policy Frameworks and Resilience
+PY  - 2026
+T2  - Journal of Territorial and Maritime Studies
+VL  - 13
+IS  - 1
+SP  - 30
+EP  - 49
+DO  - 10.2307/JTMS.13.1.30
+UR  - https://www.scopus.com/pages/publications/105034767686?origin=resultslist
+AB  - Article Type: Research Article Purpose—This study examines how Southeast Asian states can ensure their critical maritime infrastructure’s security in the face of hybrid threats and geopolitical tensions through technological innovation and regional cooperation. Design, Methodology, Approach—Applying Balzacq’s practice-centered securitization framework and Krippendorff’s content analysis, the study examines defense documents from five Southeast Asian states and the Association of Southeast Asian Nations (ASEAN) Maritime Outlook across four dimensions: threat concepts, technological approaches, governance structures and regional cooperation mechanisms. Findings—Southeast Asian states share threat perceptions but differ in priorities and tech capacity: Singapore leads with AI and digital twins, while Vietnam relies on conventional deterrence. Cooperative arrangements like the Malacca Straits Patrol remain geographically confined, while sovereignty concerns and differing conceptions of hybrid threats impede integrated regional defense concepts. Practical Implications—States should adopt modular, threat-specific cooperation rather than broad multilateral schemes and pair tech modernization with institutional reforms that reconcile sovereignty with shared vulnerability management. Originality, Value—Through Balzacq’s securitization theory, this study links technological capacities, governance structures and cooperation mechanisms in Southeast Asian maritime security, demonstrating how hybrid threats are constructed through practice-centered processes rather than speech acts. It expands theory on how hybrid threats redefine the gray zone between war and peace. © 2026, McFarland and Company, Inc. All rights reserved.
+KW  - critical maritime infrastructure
+KW  - hybrid threats
+KW  - regional security cooperation
+KW  - resilience
+KW  - Southeast Asia
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Pandey, A.
+AU  - Varvello, M.
+AU  - Ahmed, S.I.
+AU  - Zhou, S.
+AU  - Subramanian, L.
+AU  - Zaki, Y.
+TI  - MAML: Towards a Faster Web in Developing Regions
+PY  - 2025
+T2  - WWW 2025 - Proceedings of the ACM Web Conference
+SP  - 727
+EP  - 739
+DO  - 10.1145/3696410.3714584
+UR  - https://www.scopus.com/pages/publications/105005140763?origin=resultslist
+AB  - The web experience in developing regions remains subpar, primarily due to the growing complexity of modern webpages and insufficient optimization by content providers. Users in these regions typically rely on low-end devices and limited bandwidth, which results in a poor user experience as they download and parse webpages bloated with excessive third-party CSS and JavaScript (JS). To address these challenges, we introduce the Mobile Application Markup Language (MAML), a flat layout-based web specification language that reduces computational and data transmission demands, while replacing the excessive bloat from JS with a new scripting language centered on essential (and popular) web functionalities. Last but not least, MAML is backward compatible as it can be transpiled to minimal HTML/JavaScript/CSS and thus work with legacy browsers. We benchmark MAML in terms of page load times and sizes, using a translator which can automatically port any webpage to MAML. When compared to the popular Google AMP, across 100 testing webpages, MAML offers webpage speedups by tens of seconds under challenging network conditions thanks to its significant size reductions. Next, we run a competition involving 25 university students porting 50 of the above webpages to MAML using a web-based editor we developed. This experiment verifies that, with little developer effort, MAML is quite effective in maintaining the visual and functional correctness of the originating webpages. © 2025 Copyright held by the owner/author(s).
+KW  - Developing countries
+KW  - Digital divide
+KW  - Web simplification
+KW  - Web browsers
+KW  - XML
+KW  - Content providers
+KW  - Developing regions
+KW  - Digital divide
+KW  - End-devices
+KW  - Javascript
+KW  - Mobile applications
+KW  - Optimisations
+KW  - Web experiences
+KW  - Web simplification
+KW  - Web-page
+KW  - HTML
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - D'Amico, G.
+AU  - Szopik-Depczyńska, K.
+AU  - Dembińska, I.
+AU  - Ioppolo, G.
+TI  - Smart and sustainable logistics of Port cities: A framework for comprehending enabling factors, domains and goals
+PY  - 2021
+T2  - Sustainable Cities and Society
+VL  - 69
+C7  - 102801
+DO  - 10.1016/j.scs.2021.102801
+UR  - https://www.scopus.com/pages/publications/85104756448?origin=resultslist
+AB  - Digital technologies integrated into port logistics are becoming increasingly decisive among port cities around the world. This growing importance is due to the need for policymakers, urban managers, port authorities, local administrators, shipping companies, couriers, and so on to develop increasingly digitalized and sustainable logistic processes. Therefore, in a global context characterized by intense datafication and globalization of trade, the data-based approach has become a necessary modus operandi to promote smart and sustainable logistics development. This forward-looking model of port logistics uses technologies such as IoT, sensors, cloud computing platforms, Big Data analytics, Artificial Intelligence (AI), GPS tracking systems, radars, drones, real-time monitoring stations, smart grids, and so on in order to collect, process, monitor and analyse data and information concerning the economic, environmental, social and technological sphere of port cities. In this sense, mobile and fixed platforms help logistics operators to optimize the management of flows (e.g., water, waste, emissions, raw materials, people, monetary investments, etc.) in an efficient and digitized manner. The study proposes a systematic literature review of the most recurring themes concerning smart and sustainable logistics initiatives within port cities in order to develop a multidimensional framework capable of holistically integrating the prevailing enabling factors (Ecosystem, Internal Organization, Data and Security, Policy and Regulation, Finance and Funding, and Digital and Technology), domains (Mobility, Environment, Economy, Telecommunications, Safety and Security, Government, and Community) and goals (Sustainable Development and Digitalization) that characterize smart and sustainable logistical development. To this end, the best practices of several pioneering port cities such as Rotterdam, Hamburg, Singapore, Los Angeles, Amsterdam, etc. implemented in partnerships with technology companies such as Cisco, IBM, Huawei and SAP were also analysed. Therefore, the results of this research show that smart and sustainable logistics initiatives in port cities: (a) have the potential to enhance the efficiency of the economic, environmental, social and technological flows; (b) increase the involvement and awareness of stakeholders such as couriers, shippers, shipping companies, citizens, port authorities, municipalities, security officers, gate and terminal personnel, and so on; and (c) provide a detailed overview of the enabling factors, domains and goals that must be activated by port cities to foster a smart and sustainable logistic transition. © 2021 Elsevier Ltd
+KW  - Digital technologies
+KW  - Port logistics
+KW  - Smart logistics
+KW  - Sustainable logistics
+KW  - Amsterdam [North Holland]
+KW  - California
+KW  - Germany
+KW  - Hamburg [Germany]
+KW  - Hamburg [Hamburg (STT)]
+KW  - Los Angeles [California]
+KW  - Netherlands
+KW  - North Holland
+KW  - Rotterdam
+KW  - Singapore [Singapore (NTN)]
+KW  - Singapore [Southeast Asia]
+KW  - South Holland
+KW  - United States
+KW  - Aircraft detection
+KW  - Data Analytics
+KW  - Drones
+KW  - Economics
+KW  - Environmental technology
+KW  - Monitoring
+KW  - Real time systems
+KW  - Smart city
+KW  - Sustainable development
+KW  - Waste management
+KW  - Digital technologies
+KW  - Global context
+KW  - Logistics process
+KW  - Policy makers
+KW  - Port authorities
+KW  - Port city
+KW  - Ports logistics
+KW  - Shipping companies
+KW  - Smart logistic
+KW  - Sustainable logistic
+KW  - digitization
+KW  - freight transport
+KW  - GPS
+KW  - information and communication technology
+KW  - logistics
+KW  - policy making
+KW  - port
+KW  - port operation
+KW  - shipping
+KW  - smart city
+KW  - stakeholder
+KW  - transportation technology
+KW  - Ships
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 147
+ER  -
+
+TY  - JOUR
+AU  - Inutsuka, H.
+AU  - Ichimura, K.
+AU  - Sugimura, Y.
+AU  - Yoshie, M.
+AU  - Shinoda, T.
+TI  - Study on the Relationship between Port Governance and Terminal Operation System for Smart Port: Japan Case
+PY  - 2024
+T2  - Logistics
+VL  - 8
+IS  - 2
+C7  - 59
+DO  - 10.3390/logistics8020059
+UR  - https://www.scopus.com/pages/publications/85196845110?origin=resultslist
+AB  - Background: To improve port productivity, safety, and sustainability, the use of information and communication technology is being promoted as a smart port. The utilization of a terminal operation system (TOS) is important for advanced port operations, and it is necessary to organize the issues and characteristics of the TOS. Methods: The characteristics of TOSs introduced in Japan and those widely introduced in Europe and Southeast Asia will be investigated and discussed according to the port management system in Japan. Results: Japanese TOSs are characterized by a lack of automated functions, such as ship loading plans, and by the fact that they are designed to allow the crane driver to select the order of operations, which may be attributed to a system wherein stakeholders are segmented and on-site decisions are emphasized. The promotion of smart ports in Japanese-style ports requires a system for information linkage between stakeholders. Conclusions: TOS capabilities for smart ports should be implemented according to the characteristics of port management in each region, and the studies conducted in this paper are useful in examining port system implementation strategies. © 2024 by the authors.
+KW  - port
+KW  - port management
+KW  - smart port
+KW  - terminal operation system
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Amelia, S.
+AU  - Leow, J.S.
+AU  - Hasyim, B.
+AU  - Indah, P.T.M.E.
+AU  - Aditramulyadi, D.D.
+AU  - Kang, H.S.
+AU  - Yaakob, O.
+AU  - Punurai, W.
+TI  - Onshore Yard Readiness for Upcoming Oil and Gas Offshore Structure Decommissioning Projects in Indonesia
+PY  - 2021
+T2  - Society of Petroleum Engineers - SPE Symposium: Decommissioning and Abandonment, SM02 2021
+DO  - 10.2118/208474-MS
+UR  - https://www.scopus.com/pages/publications/85127837887?origin=resultslist
+AB  - More than a thousand fixed oil and gas offshore structures were installed in the Southeast Asia region. Indonesia currently has more than 600 offshore oil and gas platforms, nearly half of which need to be decommissioned within the next few years. While the regulators and operators are developing procedures and regulations for the decommissioning process of the offshore platforms, there is also a need to ensure that onshore facilities are available to receive the decommissioned structures and equipment and subsequently process them safely. At the moment, there is no yard in Indonesia that is well-placed to undertake onshore decommissioning activities. The aim of this study is to develop recommendations for yard owners to assure their yards are ready for the upcoming decommissioning projects. Research data was collected directly from field survey in an offshore fabrication yard, owned by PT. Meitech Eka Bintan, Indonesia. In the current study, research data was analyzed by comparing with decommissioning yard facilities in ABLE Seaton Port, United Kingdom which was used as offshore structure decommissioning yard since 1985. Recommendations include the work required to assure the yard comply with respective guidelines and industry best practices. The research begun with identifying the yard's potential to receive onshore decommissioning work based on current primary facilities which are quay and fabrication area properties. After that, a yard modernization assessment was carried out as to identify the best location for the upgrade on the missing required facilities. The results indicate that the primary facilities of the yard are comparable to ABLE Seaton Port with both having similar depth at quayside, capable of mooring barges and Heavy Lift Vessel (HLV), both having liquid containment system at the fabrication area and the large fabrication area at PT. Meitech Eka Bintan yard is sufficient similar to the area utilized by ABLE Seaton Port for Brent Delta topside decommissioning works. However, since the yard's main business is currently on offshore structure fabrication, hence there is a lack of waste handling facilities such as waste handling workshop and covered waste storage area to fulfill the respective guidelines and regulations. A case study was carried out to identify the onshore decommissioning working area and the location of the waste handling facilities on the yard. This study is expected to assist towards improving the readiness of yards to carry out onshore decommissioning not only in Indonesia but also in Southeast Asia region. Copyright © 2021, Society of Petroleum Engineers
+KW  - Digital storage
+KW  - Fabrication
+KW  - Offshore oil well production
+KW  - Offshore oil wells
+KW  - Offshore structures
+KW  - Decommissioning activities
+KW  - Decommissioning process
+KW  - Decommissioning project
+KW  - Indonesia
+KW  - Offshore oil and gas platforms
+KW  - Oil and gas
+KW  - Onshore facilities
+KW  - Research data
+KW  - Southeast Asia
+KW  - Waste handling
+KW  - Decommissioning (nuclear reactors)
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Thach, N.D.
+AU  - Van Hung, N.
+TI  - Research and Design a Lifeboat Virtual Reality Simulation System for  Maritime Safety Training in Vietnam
+PY  - 2024
+T2  - Journal of Marine Science and Technology (Taiwan)
+VL  - 32
+IS  - 2
+SP  - 146
+EP  - 156
+DO  - 10.51400/2709-6998.2739
+UR  - https://www.scopus.com/pages/publications/85207171800?origin=resultslist
+AB  - Ensuring maritime safety and security is crucial for all nations. Training trainees and operational officers in this field aims to enhance their professional skills and ability to manage and resolve incidents at sea. This article outlines the development of a lifeboat simulation system that integrates Virtual Reality (VR) technology in accordance with international maritime regulations. It describes the creation of an algorithm designed to optimize data transmission between simulation systems using the ant colony optimization technique in conjunction with intelligent control algorithms on UNITY 3D software for human interaction. In particular, the system combines training with a maritime simulation framework to comprehensively assess the trainee's progress and closely mirrors real-world scenarios. The application of the algorithm demonstrates that the speed and quality of the simulation increased substantially, effectively meeting the complex demands of the training process. The development of this virtual reality simulation system aims to facilitate seafarers' access to advanced maritime safety training technology in the future. © 2024 National Taiwan Ocean University.
+KW  - Lifeboat simulation
+KW  - Lifesaving skills
+KW  - Maritime safety
+KW  - UNITY 3D virtual reality
+KW  - Digital elevation model
+KW  - Lifeboats
+KW  - Marine safety
+KW  - Personnel training
+KW  - 3D virtual reality
+KW  - Lifeboat simulation
+KW  - Lifesaving skill
+KW  - Maritime safety
+KW  - Maritime security
+KW  - Safety training
+KW  - Simulation systems
+KW  - UNITY 3d virtual reality
+KW  - Viet Nam
+KW  - Virtual reality simulation systems
+KW  - Virtual environments
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Goh, C.S.
+AU  - Potter, L.
+TI  - Bio-economy for sustainable growth in developing countries: The case of oil palm in Malaysia and Indonesia
+PY  - 2022
+T2  - Biofuels, Bioproducts and Biorefining
+VL  - 16
+IS  - 6
+SP  - 1808
+EP  - 1819
+DO  - 10.1002/bbb.2381
+UR  - https://www.scopus.com/pages/publications/85130587621?origin=resultslist
+AB  - Malaysia and Indonesia are two vivid examples of economic development built upon land exploitation. The concept of ‘bio-economy’ illustrates a pathway for countries to move on to a more sustainable course of development by creating added value downstream and diversifying away from primary production. Growing a local oleochemical industry was naturally the first step for Malaysia and Indonesia as the world's largest palm-oil producers. This was extended to biofuel production, which first aimed for export revenues. The biofuel sector later became an important buffer for the palm-oil industry to absorb excessive stock with domestic blending targets during low price periods. Meanwhile, the utilization of biomass for power generation has grown significantly for both exports and local use. Converting biomass into second-generation biofuels and other advanced bio-based materials has also attracted great interest from foreign investors. However, the high cost of biomass mobilization has limited the deployment of advanced biorefineries. One interesting option is to integrate waste management with the production of high-value bioenergy and biomaterials, adopting the model of a multi-feedstock biorefinery. While several bio-based industrial clusters were set up to attract investment with the consolidation of infrastructure surrounding major ports, more effort is still needed to explore and identify feasible business models with optimized supply chains. Cross-border cooperation may open new doors for building regional bio-based value chains. The ongoing digital revolution may provide breakthroughs in chain integration and technology deployment. © 2022 Society of Chemical Industry and John Wiley & Sons, Ltd. © 2022 Society of Chemical Industry and John Wiley & Sons, Ltd.
+KW  - Biofuels
+KW  - Blending
+KW  - Chemical industry
+KW  - Developing countries
+KW  - Investments
+KW  - Palm oil
+KW  - Refining
+KW  - Supply chains
+KW  - Waste management
+KW  - Added values
+KW  - Bio-based
+KW  - Biorefineries
+KW  - Down-stream
+KW  - Economic development
+KW  - Indonesia
+KW  - Malaysia
+KW  - Oil palm
+KW  - Primary production
+KW  - Sustainable growth
+KW  - Biomass
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Thu, N.H.A.
+AU  - Khoa, L.D.
+AU  - Khoi, T.P.M.
+AU  - Phuoc, N.L.T.
+AU  - Thao, N.D.
+TI  - Advanced Survey Techniques for Port Infrastructure Assessment: A Collision Investigation Case Study
+PY  - 2025
+T2  - Journal of Water Management Modeling
+VL  - 33
+C7  - S544
+DO  - 10.14796/JWMM.S544
+UR  - https://www.scopus.com/pages/publications/105002737020?origin=resultslist
+AB  - This paper presents a case study demonstrating the effective integration of advanced technologies for a comprehensive current conditions survey following a collision accident at the Interflour port's waterfront jetty in Phu My town, Ba Ria, Vung Tau province, Vietnam. To reconstruct the accident and assess the port's future operability, a combination of 3D laser scanning, unmanned aerial vehicle (UAV) aerial photography, bathymetric surveying by unmanned surface vehicles (USVs), and side-scan sonar for marine obstacle detection were conducted. 3D laser scanning provided high-precision data (up to 1.0 mm accuracy) for modeling and simulations of above-water structures. UAVs enabled detailed inspection of the vast jetty area. USVs generated accurate bathymetric maps, while side-scan sonar detected underwater obstacles. Data from all sources was integrated into a Geographic Information System (GIS) platform for streamlined management and analysis. The paper aims to highlight the value of technological solutions in accident investigations. Integrating these methods facilitates highly accurate data collection and visualization, even in challenging environments. The results have implications for improving survey accuracy and efficiency, supporting the assessment and restoration of critical infrastructure following accidents. © Thu et al. 2025.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Liu, J.
+AU  - Duru, O.
+TI  - Bayesian probabilistic forecasting for ship emissions
+PY  - 2020
+T2  - Atmospheric Environment
+VL  - 231
+C7  - 117540
+DO  - 10.1016/j.atmosenv.2020.117540
+UR  - https://www.scopus.com/pages/publications/85083865275?origin=resultslist
+AB  - This paper proposes a Bayesian forecasting algorithm to extrapolate ship movements and accordingly ship emissions based on probabilities extracted from current ship movements, sailing configurations and ship particulars. Total amount of ship emission on a given sea field may be estimated by using the Automatic Identification System (AIS) records. However, emission predictions cannot be generated since future ship movements are not available. Therefore, predictive exercises usually lie on extrapolations of mass amount of emissions independent from ship movements and any transformations of ship fuel and engine characteristics. In this circumstance, a Bayesian ship traffic generator is developed to simulate long-term predictions of ship movements based on cumulative ship traffic. The empirical study reflects the case of the Port of Singapore and the forecasting horizon for years of 2020 and 2025, with 2018 being the baseline year for comparison analysis. By utilizing the proposed algorithm, policy makers can visualize and simulate the impact of various regulations and implementation on emission control, fuel standards or technical changes in ship design or engine simultaneously. In other words, the proposed simulation testbed also enables prescriptive analytics of emission factors by adjusting technical features of ships. © 2020 Elsevier Ltd
+KW  - Bayesian MCMC
+KW  - Emission projection
+KW  - Fuel-mix simulation
+KW  - Prescriptive analytics
+KW  - Singapore [Southeast Asia]
+KW  - Automatic identification
+KW  - Emission control
+KW  - Engines
+KW  - Extrapolation
+KW  - Forecasting
+KW  - Waterway transportation
+KW  - Automatic identification system
+KW  - Bayesian forecasting
+KW  - Comparison analysis
+KW  - Empirical studies
+KW  - Long-term prediction
+KW  - Probabilistic forecasting
+KW  - Simulation test beds
+KW  - Technical features
+KW  - algorithm
+KW  - automation
+KW  - Bayesian analysis
+KW  - carbon emission
+KW  - empirical analysis
+KW  - engine
+KW  - forecasting method
+KW  - identification method
+KW  - maritime transportation
+KW  - probability
+KW  - air pollution control
+KW  - algorithm
+KW  - article
+KW  - empiricism
+KW  - exercise
+KW  - forecasting
+KW  - prediction
+KW  - probability
+KW  - ship
+KW  - simulation
+KW  - Singapore
+KW  - Ships
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 28
+ER  -
+
+TY  - JOUR
+AU  - Kao, S.-L.
+AU  - Hsueh, C.-K.
+AU  - Chou, C.-C.
+AU  - Yuan, T.-Y.
+TI  - A Decision-making Support System for Automatically Determining the Route Priority of Vessels Entering/ Exiting the Ports
+PY  - 2020
+T2  - Transportation Journal
+VL  - 59
+IS  - 4
+SP  - 335
+EP  - 368
+DO  - 10.5325/TRANSPORTATIONJ.59.4.0335
+UR  - https://www.scopus.com/pages/publications/85097452851?origin=resultslist
+AB  - This study developed a decision-making support system (DMSS) for automatically determining the route priority of vessels entering/exiting the waters surrounding the port monitored by vessel traffic services (VTS). The developed DMSS was combined with marine geographic information systems (GIS), automatic identification systems (AIS), and fuzzy logic theory. The simulations of case studies for the ports of Keelung and Singapore were shown to illustrate the fitness of the developed DMSS. Based on the vessel information received/transmitted by AIS within the waters monitored by VTS, the developed DMSS can compute and output the route priority values for the captains on board and the operators in VTS stations as a point of reference. In other words, each ship in the waters surrounding the port can know the route priority for entering/ exiting the port. The simulation results of case studies showed that the developed DMSS seems promising. The developed DMSS could be a useful tool in improving a port’s navigation safety. Copyright © 2020 The Pennsylvania State University, University Park, PA
+KW  - Automatic identification system (AIS)
+KW  - Decision-making support system (DMSS)
+KW  - Geographic information system (GIS)
+KW  - Intelligent port
+KW  - Port risk management
+KW  - Safety
+KW  - Keelung
+KW  - Singapore [Southeast Asia]
+KW  - Taiwan
+KW  - decision making
+KW  - decision support system
+KW  - GIS
+KW  - port operation
+KW  - risk assessment
+KW  - vessel
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Li, Z.
+AU  - Zhuang, Q.
+AU  - Chu, H.
+AU  - Gao, S.
+AU  - Cheng, L.
+AU  - Cheng, J.
+AU  - Duan, Z.
+AU  - Xue, Q.
+AU  - Yao, Y.
+AU  - Chen, D.
+AU  - Qi, Y.
+AU  - Li, M.
+TI  - Assessment of navigable water depth reliability in the Port of Singapore on the basis of AIS
+PY  - 2025
+T2  - Applied Ocean Research
+VL  - 158
+C7  - 104574
+DO  - 10.1016/j.apor.2025.104574
+UR  - https://www.scopus.com/pages/publications/105002835490?origin=resultslist
+AB  - Vessel groundings can be harmful to people and the environment. Draught in Automatic Identification System (AIS) data can help vessels avoid grounding incidents. However, AIS data often contain redundancies and errors. Vessel draught is not effectively utilized. This study aims to design a reliability assessment method based on the characteristics of AIS data to calculate reliable navigable water depth. The Port of Singapore is selected as the study area to generate navigable water depth. The proposed method calculates navigable water depth in grids and assesses its reliability. The assessment considers factors, such as the dispersion of a vessel's draught, completeness of trajectories, type of vessels, and Vessel voyage data. A navigable water depth product can be obtained through data cleaning and reliability assessment. Results demonstrate the effectiveness of the proposed method in calculating navigable water depth and assessing reliability. Specifically, the method performs well in areas whose water depth is <25 m, including wharves, inner harbor channels, and anchorages. The data are compared with other depth prediction methods, and the error between it and the charts is relatively small. The obtained navigable water depth is generally less than the chart depth and meets the requirements for safe navigation while optimizing the utilization of water depth in the port. The methodology has also been applied in other areas. Overall, utilizing AIS data to calculate and assess the reliability of navigable water depth provides valuable information for enhancing navigational safety and optimizing port water depth utilization. It also makes draught in AIS effective. © 2025
+KW  - Automatic Identification System (AIS) data, Navigable water depth
+KW  - Navigational safety
+KW  - Port
+KW  - Reliability assessment
+KW  - Singapore [Southeast Asia]
+KW  - Network security
+KW  - Redundancy
+KW  - Automatic identification system
+KW  - Automatic identification system  data, navigable water depth
+KW  - Data cleaning
+KW  - Navigable waters
+KW  - Navigational safeties
+KW  - Port
+KW  - Reliability assessments
+KW  - Singapore
+KW  - Study areas
+KW  - Water depth
+KW  - navigation
+KW  - optimization
+KW  - port operation
+KW  - reliability analysis
+KW  - safety
+KW  - water depth
+KW  - Navigation charts
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Sewasew, Y.T.
+AU  - Teklemariam, M.
+AU  - Teame, B.
+AU  - Tesfamariam, S.
+TI  - Extension of HBIM to 3D city modeling: Application for the port city of Massawa, Eritrea
+PY  - 2024
+T2  - Digital Applications in Archaeology and Cultural Heritage
+VL  - 34
+C7  - e00367
+DO  - 10.1016/j.daach.2024.e00367
+UR  - https://www.scopus.com/pages/publications/85200168276?origin=resultslist
+AB  - Despite the significance of 3D city models, the associated costs and reliance on modern data acquisition tools hindered progress. This research aims to bridge these gaps by devising a method to create 3D city models with limited resources, sidestepping the need for cutting-edge tools. The method proposed relies on available resources to generate building footprint data and primarily generates elevation data using images. Based on Historic Building information model principles, a 3D city model of the port city of Massawa, Eritrea, comprising four classes of models was developed. In its current state, the model can be used for several applications such as visualization, conservation, urban assessments, and as a spatial data source to develop a city digital twin. Despite limitations in acquiring appropriate resources and the need for significant user interaction, the approach holds promise for initiating urban heritage conservation, particularly in inaccessible and resource-deficient sites in developing countries. © 2024 The Authors
+KW  - 3D city model
+KW  - City digital twin
+KW  - Digitalization
+KW  - Historic building information modeling (HBIM)
+KW  - Image-based modelling
+KW  - Massawa
+KW  - Urban heritage conservation
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Bagheri Orumi, M.A.
+AU  - Bellotti, F.
+AU  - Berta, R.
+AU  - Giulianetti, A.
+AU  - Sciomachen, A.
+TI  - CPDGen: A Scalable Synthetic Dataset Generator for Container Port Operations
+PY  - 2025
+T2  - Procedia Computer Science
+VL  - 274
+SP  - 351
+EP  - 358
+DO  - 10.1016/j.procs.2025.12.035
+UR  - https://www.scopus.com/pages/publications/105027087834?origin=resultslist
+AB  - Obtaining data for developing port studies and applications is awkward and costly. However, extending the basis of research in the field would be beneficial to improve its growth. Thus, we propose CPDGen (Container Port Dataset Generator), a synthetic data generator developed for container port simulation and experimentation, using a modular architecture which mimics the flow in a port. The implementation, in Python, is based on the SimPy framework and organizes the simulation process into five main phases: configuration, entities, actions, monitoring, and testing. Configuration is automatically performed processing simple JSON files, through which the end user can establish the infrastructural, temporal, and strategic parameters. The stochastic ship arrival engine implements the arrivals according to exponential, uniform, or weekly strategies, and the associated containers are dynamically generated by sampling characteristics from user-defined distributions. The simulation cycle manages the entire operational flow of arrival, mooring, unloading, and output updating. The monitoring module processes tables and graphs related to simulated ships and containers, while tests verify the consistency of the computed results. The modular division of the code allows for scalability, reusability, and extensibility. The tool has been designed to be integrated into experimental pipelines aimed at evaluating decision-making policies and generating synthetic benchmarks.  © 2025 The Author(s). 
+KW  - Container Port
+KW  - Logistics
+KW  - Modeling
+KW  - Simulation
+KW  - Synthetic Data
+KW  - Computer programming languages
+KW  - Computer software reusability
+KW  - Containers
+KW  - Decision making
+KW  - Ports and harbors
+KW  - Reusability
+KW  - Ships
+KW  - Stochastic systems
+KW  - Unloading
+KW  - Container ports
+KW  - Modeling
+KW  - Modular architectures
+KW  - Port operations
+KW  - Port simulations
+KW  - Simulation
+KW  - Simulation process
+KW  - Study and applications
+KW  - Synthetic data
+KW  - Synthetic datasets
+KW  - Logistics
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Zohaib, S.
+AU  - Tufail, M.M.B.
+AU  - Khan, M.R.
+AU  - Karore, A.
+TI  - Impact Assessment of Green Port Practices on the Triple Bottom Line of Sustainability: The Case of South Asia Pakistan Terminals (SAPT)
+PY  - 2025
+T2  - Transactions on Maritime Science
+VL  - 14
+IS  - 1
+DO  - 10.7225/toms.v14.n01.019
+UR  - https://www.scopus.com/pages/publications/105005446971?origin=resultslist
+AB  - The sustainable operation of ports plays an important and valuable role in achieving overall product reach and logistics. Sustainable port operations ensure production efficiency, profitable business growth and increase customer satisfaction. In developing countries, these practices are neglected and not widely recognized in the literature. The inadequate implementation of these practices in SAPT contributes significantly to greenhouse gas (GHG) emissions, creating problems for the environment and climate change. Therefore, this study examines the implementation of green port practices and answers the question of how these practices contribute to the environmental problems at South Asian Pakistan Terminals (SAPT) and recommends specific practices to transform SAPT into a green terminal. This study is based on a quantitative approach for which data was collected from 172 respondents using a questionnaire on a five-point Likert scale through random sampling. Respondents were selected based on their qualifications, experience and knowledge of green port practices. The model was analyzed using PLS-SEM via Smart PLS 4. PLS-SEM was chosen as the data analysis technique as it can handle complex models in a single trial and provides more generalized results. The results showed that IEM positively and significantly affects GO (p<0.05, β=0.356) and ED (p<0.05, β=0.277). Similarly, ED influences GO (p<0.05, β=0.305), while GO influences ENVIROPER (p<0.05, β=0.398), followed by ECONOPER (p<0.05, β=0.303) and SP (p<0.05, β=0.276). The results imply that Karachi Port Trust (KPT) and Hutchisons Port Holding (HPH) need to address the best practices of green ports in SAPT such as diversification of power generation portfolio, installation of electric Rubber-Tired Gantry (RTG) cranes and electric Internal Transfer Vehicle (ITV) around the port and consideration of Scope III emissions in the value chain of SAPT for sustainable growth and development. The results identify ways to improve the port's sustainability by implementing Green Port Practices (GPPs) that are best suited for SAPT. This study makes a novel contribution to the implementation and achievement of sustainable port performance in the context of developing countries. In the future, other practices such as green purchasing, investment recovery and supplier audits can be operationalized to expand the study. © 2025, Faculty of Maritime Studies. All rights reserved.
+KW  - Green operations
+KW  - Green port practices
+KW  - Green terminal
+KW  - South Asia Pacific Terminal (SAPT)
+KW  - Sustainability
+KW  - Triple Bottom Line
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Le, H.
+TI  - Investigating Factors Affecting on Smart Port Practices in Container Terminals in Haiphong Port
+PY  - 2025
+T2  - Lecture Notes in Networks and Systems
+VL  - 1340 LNNS
+SP  - 145
+EP  - 154
+DO  - 10.1007/978-981-96-4032-4_9
+UR  - https://www.scopus.com/pages/publications/105018797115?origin=resultslist
+AB  - Thanks to the growing process of the industrial revolution, smart ports have been widely established and their importance is indispensable in the global supply chain nowadays. Significantly, it is beneficial to solve problems in operations and management, for example, optimization and planning, navigation, real-time information integration, pollution, connectivity and resilience. It is practical that 80 percent of Vietnam’s import and export goods are bypassed by port systems; Haiphong Port, one of three main ports in Vietnam, has accounted for approximately a-fifth of national throughputs. The paper aims to investigate factors affecting smart port practices in container terminals in Haiphong Port. Through Technology Acceptance Model (TAM) and 21 experts’ questionnaires, it is a statistic that the two most influential factors are objective usability and voluntariness as a result. Moreover, it is the author’s contribution to conceptual frameworks of smart port practices as well as a basement to develop in the next research. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2025.
+KW  - Container terminal
+KW  - Haiphong port
+KW  - Smart port
+KW  - Technology acceptance model TAM
+KW  - Containers
+KW  - Information management
+KW  - Ports and harbors
+KW  - Supply chains
+KW  - Container terminal
+KW  - Growing process
+KW  - Haiphong port
+KW  - Industrial revolutions
+KW  - Modeling technology
+KW  - Smart port
+KW  - Technology acceptance model
+KW  - Technology acceptance model technology acceptance model
+KW  - Viet Nam
+KW  - Port terminals
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Hu, S.
+AU  - Liu, W.
+AU  - Yuan, C.
+AU  - Zhu, Q.
+AU  - Zhang, Y.
+AU  - Han, B.
+TI  - Optimal Allocation Model for Maritime Emergency Resource Considering the Spatial Correlation between Accident Hotspots
+PY  - 2025
+T2  - Transportation Research Record
+VL  - 2679
+IS  - 1
+SP  - 1342
+EP  - 1363
+DO  - 10.1177/03611981241255024
+UR  - https://www.scopus.com/pages/publications/105002264578?origin=resultslist
+AB  - For effective maritime traffic emergency rescue (MTER) operations in the event of maritime traffic accidents (MTAs) and to improve rescue efficiency, it is necessary to analyze the MTER synergy problem and the cooperation between port states. First, the spatial information of accidents under the geographic information system data structure is clarified from the global integrated shipping information system of the International Maritime Organization, and the density-based spatial clustering of applications with noise algorithm is used to conduct hotspot mapping analysis of MTAs to establish the clustering and classification of accident characteristics in key areas. Second, the classification characteristics of accident samples are extracted based on spatial information, and the correlation attributes between MTA hotspots are analyzed. Furthermore, by introducing complex network measurement technology, a topological model of the MTER network is established considering the correlation of accident hotspots, and this model is combined with the sample data of MTAs in Southeast Asian waters from 1990 to 2022. Third, the MTER topological network model is quantitatively analyzed under the accident space of Southeast Asia, and the degree of correlation of traffic accidents in key areas is obtained to reveal the inevitable demand for MTER between regions. The results of the analysis show that there is a network correlation between inter-regional accident hotspots, and thus the degree of correlation between accident hotspots needs to be considered for MTER in key areas. Countries in densely connected regions would set up joint rescue exercises and consider rescue assistance between port country stakeholders, thus improving protection for accident emergency responses. The method of complex network topology based on spatial correlation between accident hotspots suggests a new approach for solving the MTER problem. © The Author(s) 2024.
+KW  - data and data science
+KW  - data visualization
+KW  - marine safety and human factors
+KW  - network screening
+KW  - safety
+KW  - transportation safety management systems
+KW  - visualization in transportation
+KW  - Classification (of information)
+KW  - Clustering algorithms
+KW  - Complex networks
+KW  - Data visualization
+KW  - Information management
+KW  - Information systems
+KW  - Information use
+KW  - Topology
+KW  - Visualization
+KW  - Data and data science
+KW  - Emergency rescue
+KW  - Hotspots
+KW  - Marine safety and human factor
+KW  - Maritime traffic
+KW  - Network screening
+KW  - Safety management systems
+KW  - Transportation safety
+KW  - Transportation safety management system
+KW  - Visualization in transportation
+KW  - Accidents
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Perttola, W.
+TI  - Digital Navigator on the Seas of the Selden Map of China: Sequential Least-Cost Path Analysis Using Dynamic Wind Data
+PY  - 2022
+T2  - Journal of Archaeological Method and Theory
+VL  - 29
+IS  - 2
+SP  - 688
+EP  - 721
+DO  - 10.1007/s10816-021-09534-6
+UR  - https://www.scopus.com/pages/publications/85114693693?origin=resultslist
+AB  - During the age of sail-powered ships, the maritime trade networks of Southeast Asia were highly cyclical in nature due to the biannually switching wind directions of the East Asian Monsoon. The Selden Map of China provides us with a glimpse of these connections in the early seventeenth century, and it is drawn in a unique way that allows the sailing durations between ports to be measured. In this paper, a novel method of simulating directed sail-powered voyages is developed. The method utilizes ArcGIS Pro’s functionality through Python macros, and unlike the previous least-cost path (LCP) sailing models, it is based on sequential LCP analysis using dynamic real-time series wind data. The optimized routes and sailing durations generated by the macros are then compared against the Selden map. In general, the model performs reasonably well in favourable winds, but is unable to simulate tacking properly in adverse conditions. The results allow the visualization of wind patterns in terms of time spent at sea and demonstrate the inherent natural rhythm of maritime movement and trade in the South China Sea region. The macros are freely available and can be modified to simulate directed sailing in other time periods, localities, and environmental settings. © 2021, The Author(s).
+KW  - GIS
+KW  - Least-cost path
+KW  - Sailing
+KW  - Selden Map of China
+KW  - South China Sea
+KW  - Southeast Asia
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Mou, N.
+AU  - Li, J.
+AU  - Sun, S.
+AU  - Yang, T.
+AU  - Zhang, L.
+AU  - Zhang, H.
+AU  - Liu, W.
+TI  - The impact of opening the Arctic Northeast Passage on the global maritime transportation network pattern using AIS data
+PY  - 2020
+T2  - Arabian Journal of Geosciences
+VL  - 13
+IS  - 11
+C7  - 419
+DO  - 10.1007/s12517-020-05432-5
+UR  - https://www.scopus.com/pages/publications/85085876678?origin=resultslist
+AB  - Previous studies have shown that the existing maritime network presents unbalanced characteristics as reported by Mou et al. (Sustainability, 10(4): 977–989, 2018). The research in this paper shows that the network movement caused by the opening of the Arctic Northeast Passage will share part of the pressure of the Belt and Road passage, which will play a positive role in the global maritime transportation network. Based on the 2014 global container Automatic Identification System (AIS) data, this research constructs a global maritime transportation network and conducts scenario simulations on the opening of the Arctic Northeast Passage. An evaluation system based on a complex network index is established to evaluate changes in the geometric characteristics of maritime network and community characteristics, and PageRank is used to evaluate the status changes of ports in communities before and after the opening of the network. Finally, the impact of the opening of the Arctic Northeast Passage on the global maritime network pattern is analyzed and discussed. Results show that after opening the Arctic Northeast Passage, (1) the small-world features of the global maritime network are more obvious and the scale-free features are weaker, which indicates that the transportation efficiency of the global network is promoted; (2) the center of global maritime network moves northward with a latitude of 1.3° and eastward with a longitude of 4°; and (3) the importance of some ports, such as the Middle East, Mediterranean, and Southeast Asia communities, has reduced by 0.0073, 0.0078, and 0.0092 respectively. Conversely, the importance of some ports has increased, such as the Northeast Asia community and West Europe community, with increase values of 0.0074 and 0.0097 respectively. These findings are expected to provide advice on national strategies and regional port investments. © 2020, Saudi Society for Geosciences.
+KW  - Arctic Northeast Passage
+KW  - Automatic Identification System
+KW  - Complex network
+KW  - Maritime transportation
+KW  - Network community
+KW  - Scenario simulation
+KW  - Arctic Ocean
+KW  - Mediterranean Sea
+KW  - Middle East
+KW  - Southeast Asia
+KW  - global perspective
+KW  - maritime transportation
+KW  - port
+KW  - satellite data
+KW  - transportation system
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 11
+ER  -
+
+TY  - CONF
+AU  - Gaete, M.
+AU  - González-Araya, M.C.
+AU  - González-Ramírez, R.G.
+AU  - Astudillo, C.
+TI  - A novel storage space allocation policy for import containers
+PY  - 2018
+T2  - Communications in Computer and Information Science
+VL  - 884
+SP  - 293
+EP  - 316
+DO  - 10.1007/978-3-319-94767-9_15
+UR  - https://www.scopus.com/pages/publications/85049697894?origin=resultslist
+AB  - In developing countries, such as those in Latin America, inland flows of container terminals present high levels of uncertainty and variability. This situation occurs mainly due to lack of automation procedures, affecting coordination with the hinterlands. In this article, a methodology based on a dwell time segregated container storage policy is proposed. This methodology considers only import containers, due to the difficulty to determine a segregation criterion, which motivated us to use container dwell time information. Dwell times are discretized to determine classes, so that containers of the same class are assigned to close locations at the yard. The architecture of a decision support system to aid the stacking decisions based on this storage policy is proposed. The port of Arica in Chile is considered as a case study, and a discrete-event simulation model is also proposed to estimate potential benefits of this approach. Numerical results for the case study show a good performance, with potential reduction of the rehandles incurred when containers are retrieved from the yard. © Springer International Publishing AG, part of Springer Nature 2018.
+KW  - Classification algorithms
+KW  - Container storage policies
+KW  - Dwell times of containers
+KW  - Segregation of containers
+KW  - Artificial intelligence
+KW  - Decision support systems
+KW  - Developing countries
+KW  - Discrete event simulation
+KW  - Operations research
+KW  - Classification algorithm
+KW  - Container terminal
+KW  - Discrete-event simulation model
+KW  - Dwell time
+KW  - Potential reduction
+KW  - Storage policies
+KW  - Storage space allocations
+KW  - Uncertainty and variability
+KW  - Containers
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Tri, D.Q.
+AU  - Don, N.C.
+AU  - Ching, C.Y.
+AU  - Mishra, P.K.
+TI  - Application of environmental sensitivity index (ESI) maps of shorelines to coastal oil spills: a case study of Cat Ba Island, Vietnam
+PY  - 2015
+T2  - Environmental Earth Sciences
+VL  - 74
+IS  - 4
+SP  - 3433
+EP  - 3451
+DO  - 10.1007/s12665-015-4380-0
+UR  - https://www.scopus.com/pages/publications/84937967997?origin=resultslist
+AB  - The transportation of crude diesel oil in Lach Huyen port (Cat Ba Island) in Northeast Vietnam has increased due to industry development. These areas support tankers and other ships, which therefore increases the potential for oil spills from ships’s and or tankers’s collision. This paper presents the development of a two-dimensional hydrodynamic model for prediction of oil spill trajectories. An oil spill model combining with a GIS supportive software was also established to simulate hydrodynamic flow and the transportation of crude oil trajectories to the environment. Both models were calibrated and validated using field data. The GIS supportive software was applied for mapping the environmental sensitivity index that accounts for digital databases as well as for the abundant biodiversity and coastal geomorphologic features of the shoreline. The simulation results from the hydrodynamic flow model showed that the hydrodynamic flow regime in the study area is complicated due to the influence of seabed geometries with many small islands and riverine estuaries. Results from the oil spill model revealed that an oil spill even at Lach Huyen port would affect and spread out across a vast area. Environmental sensitivity maps of the shoreline for the Cat Ba ecosystem were subsequently constructed to explain how oil spills affect the marine environment. This study can be used to provide the information and preparedness for coastline managers in their effort to protect shoreline from major oil or chemical disasters. © 2015, Springer-Verlag Berlin Heidelberg.
+KW  - Cat Ba Island in Vietnam
+KW  - Environmental sensitivity index (ESI)
+KW  - Lach Huyen port
+KW  - Oil spill model
+KW  - Shoreline classification
+KW  - Ha Long Bay
+KW  - Viet Nam
+KW  - Biodiversity
+KW  - Crude oil
+KW  - Diesel fuels
+KW  - Fluid dynamics
+KW  - Hydrodynamics
+KW  - Oil spills
+KW  - Oil tankers
+KW  - Petroleum transportation
+KW  - Ships
+KW  - Tankers (ships)
+KW  - Environmental sensitivities
+KW  - Environmental sensitivity index (ESI)
+KW  - Geomorphologic features
+KW  - Hydrodynamic flow models
+KW  - Lach Huyen port
+KW  - Oil-spill model
+KW  - Two-dimensional hydrodynamic modeling
+KW  - Viet Nam
+KW  - chemical pollutant
+KW  - coastal zone
+KW  - crude oil
+KW  - database
+KW  - diesel
+KW  - disaster
+KW  - environmental monitoring
+KW  - GIS
+KW  - hydrodynamics
+KW  - industrial development
+KW  - island
+KW  - mapping method
+KW  - model validation
+KW  - oil spill
+KW  - port
+KW  - shoreline
+KW  - software
+KW  - transportation mode
+KW  - two-dimensional modeling
+KW  - Marine pollution
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Haruno, H.
+AU  - Buchari, E.
+TI  - Toward Modelling of Enhancing Export Process in Developing Country, Palembang, Indonesia
+PY  - 2024
+T2  - International Journal of Engineering Trends and Technology
+VL  - 72
+IS  - 6
+SP  - 29
+EP  - 38
+DO  - 10.14445/22315381/IJETT-V72I6P104
+UR  - https://www.scopus.com/pages/publications/85197209120?origin=resultslist
+AB  - Export process in developing countries often takes longer time than in developed countries. Lack of service quality and long dwelling time are the main problems. In the case of Boom Baru Port in Palembang, Indonesia, there has been a long line in limited Berth and Yard, especially during the loading and unloading of goods. The goal of this study is to formulate a model for enhancing the export process at Boom Baru Port. This research aims to analyze the need for a trade information system to reduce trade preparation time, with a case study at Boom Baru Port. The collection of information regarding the preparation of input variables, such as the Origin and Destination of Trade Commodities and Calculation of Annual Daily Activities, can be accessed by various types of stakeholders in their respective departments and jobs. Once the framework is connected, Port execution changes can save time and improve the environment. The novelty of this research paper is the Export Trade Information System model, which is designed to facilitate the exchange of information between Exporters and various stakeholders in the export trading process in port, such as government agencies, businesses, and consumers. © 2024 Seventh Sense Research Group®
+KW  - Developing countries
+KW  - Enhancing process
+KW  - Export process
+KW  - Export trade information system
+KW  - Model
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Bauk, S.
+AU  - Gonzalez, D.G.
+AU  - Schmeink, A.
+TI  - A zigbee/RFID safety system at the seaport
+PY  - 2018
+T2  - Journal of Marine Science and Technology (Taiwan)
+VL  - 26
+IS  - 1
+SP  - 11
+EP  - 18
+DO  - 10.6119/JMST.2018.02_(1).0002
+UR  - https://www.scopus.com/pages/publications/85048926410?origin=resultslist
+AB  - The paper examines three potential safety solutions for the protection of port workers, which are based on a junction of Radio Frequency IDentification (RFID), as an automatic identification, data collecting and positioning system from one side, and ZigBee, as a low energy consumption communication technology from another. The considered solutions are placed in the context of the individual needs and capacities of the developing Port of Bar in Montenegro (South East Europe), which has been operating in the transitional environment for the past two decades. The transitional circumstances prevent the port from adopting advanced occupational and environmental safety systems. Therefore we are proposing models for improving the workers’ safety that are at the same time cost-effective, reliable and flexible. More precisely, the on port workers’ body area sub networks formed by RFID active/passive devices are treated in the paper as end nodes of the ZigBee network. On the other hand, the forklifts’ RFID warning systems are treated as the moving routers of the ZigBee network. Some simulation experiments with such RFID/ZigBee hybrid system in an OPNET environment have been implemented over the Port of Bar container and general cargo terminal layout, while corresponding conclusions have been derived, along with some directions for further research work in the field.
+KW  - Seaport
+KW  - Workers’ safety
+KW  - ZigBee/RFID
+KW  - Automation
+KW  - Cost effectiveness
+KW  - Energy utilization
+KW  - Hybrid systems
+KW  - Occupational risks
+KW  - Ports and harbors
+KW  - Safety engineering
+KW  - Security systems
+KW  - Zigbee
+KW  - Automatic identification
+KW  - Communication technologies
+KW  - Corresponding conclusions
+KW  - Environmental safety
+KW  - Low energy consumption
+KW  - Positioning system
+KW  - Seaport
+KW  - Transitional environments
+KW  - Radio frequency identification (RFID)
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Tran, T.A.
+AU  - Easwaramoorthy, S.V.
+TI  - Energy-efficiency Management Framework of a Ship based on Data Classification Technique
+PY  - 2024
+T2  - IEEE International Conference on Data Mining Workshops, ICDMW
+SP  - 372
+EP  - 377
+DO  - 10.1109/ICDMW65004.2024.00054
+UR  - https://www.scopus.com/pages/publications/105001284264?origin=resultslist
+AB  - A comprehensive analysis of ship energy efficiency management has been undertaken, focusing on optimizing onboard energy utilization as evidenced by engine performance metrics. Fuel consumption, currently indicated by heavy fuel oil/fuel oil (HFO/FO) and diesel oil (DO) usage, is a key parameter in this evaluation. To enhance energy monitoring, a novel model leveraging the Internet of Things (IoT) has been developed and validated against the Automatic Identification System (AIS). This cyber-physical model empowers a more effective approach to ship energy efficiency management. Moreover, the integration of the proposed model with IoT marks a significant advancement in the field, offering robust reliability for energy consumption monitoring. The model's effectiveness has been rigorously validated through its application on a specific bulk carrier operated by NS United Kaiun Kaisha, Ltd., Japan. Located at Vietnam Maritime University (VMU), Haiphong City, Vietnam, and managed by VINIC shipping transportation company, the vessel served as a robust testbed for the proposed methodologies. The quantitative results showed that the energy consumption of both diesel engines and marine boiler have been saved and approached under 0.5 (Tons). Comparative analysis of the results with existing models employing alternative approaches reveals significant advantages in terms of accuracy and efficiency, demonstrating the potential of this novel approach for enhanced ship energy monitoring. © 2024 IEEE.
+KW  - Automatic Identification System
+KW  - Energy Consumption
+KW  - Energy Efficiency Management Cyber-physical system
+KW  - International Maritime Organization (IMO)
+KW  - Internet of Things
+KW  - Marpol 73/78
+KW  - Antiknock compounds
+KW  - Coal
+KW  - Cybersecurity
+KW  - Diesel fuels
+KW  - Energy utilization
+KW  - Fuel oils
+KW  - Network security
+KW  - Petroleum tar
+KW  - Ships
+KW  - Waterway transportation
+KW  - Automatic identification system
+KW  - Cybe-physical systems
+KW  - Cyber-physical systems
+KW  - Efficiency managements
+KW  - Energy
+KW  - Energy efficiency management cybe-physical system
+KW  - Energy-consumption
+KW  - International maritime organization
+KW  - International maritime organizations
+KW  - Marpol 73/78
+KW  - Crude oil
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Andriani, D.P.
+AU  - Novianti, V.D.
+AU  - Adnandy, R.
+AU  - A'Yunin, Q.
+TI  - Quantitative risk modelling of occupational safety in green-port
+PY  - 2019
+T2  - IOP Conference Series: Materials Science and Engineering
+VL  - 546
+IS  - 5
+C7  - 052007
+DO  - 10.1088/1757-899X/546/5/052007
+UR  - https://www.scopus.com/pages/publications/85069448243?origin=resultslist
+AB  - Three industrial revolutions are known to have been able to improve the welfare of the community. The fourth industrial revolution or industry 4.0 made many studies carried out on plans, implementations, and other actions that will affect the community. Some industries also began competing to apply industry 4.0 in their systems, including case in this study. This study was conducted in one of the port terminals that are known to be the one and only port that has implemented semi-automatic technology and environmentally friendly in the developing countries. The port operates semi-automatically, so the operating system uses computerization and minimal manpower. As a modern port, this port is equipped with advanced technology, such as automated stacking cranes, ship to shore, and grab ship un-loader, CNG trucks, combined terminal tractors, and others. Port working system is also different from the other ports where only equipment and vehicles that fuelled electricity and gas are allowed to operate in this port, so they also are known as green-ports. Based on preliminary research that had been done, even though the technology and work systems that are applied are sophisticated, but it was known that there were still some occupational accidents that should not have happened, especially in the ship to shore area. The aim of this research was conducted to identify the probability of hazards that occur based on historical data and minimize the risk of further occupational accidents using risk analysis and modelling. Statistical, mathematical, and computational approaches were carried out to obtain risk quantification and develop risk mitigation and response strategies. Thus, the results of the study are expected to help this port as a pilot green-port for other ports, so that it will have a massive positive impact on the change in a more environmentally friendly transportation system. © Published under licence by IOP Publishing Ltd.
+KW  - Barium compounds
+KW  - Developing countries
+KW  - Industry 4.0
+KW  - Iodine compounds
+KW  - Risk analysis
+KW  - Risk assessment
+KW  - Ships
+KW  - Sulfur compounds
+KW  - Tractors (truck)
+KW  - Analysis and modelling
+KW  - Automated stacking cranes
+KW  - Computational approach
+KW  - Electricity and gas
+KW  - Industrial revolutions
+KW  - Occupational accident
+KW  - Risk quantification
+KW  - Transportation system
+KW  - Occupational risks
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Song, Z.-Y.
+AU  - Pettit, S.
+AU  - Wang, Y.
+AU  - Ye, G.
+AU  - Lin, C.-W.
+TI  - Performance evaluation of major world container ports in the post-pandemic era: The 6th generation ports model with smart ports
+PY  - 2026
+T2  - Transport Policy
+VL  - 179
+C7  - 103950
+DO  - 10.1016/j.tranpol.2025.103950
+UR  - https://www.scopus.com/pages/publications/105026611978?origin=resultslist
+AB  - The port sector faces both challenges and opportunities in digital transformation and decarbonization in the post-pandemic era. To address these issues, the Sixth Generation Port (6 GP) model with smart ports comprising six aspects and 14 criteria was proposed, iteratively refined, and validated. In order to extend the test scope and assess the applicability of the 6 GP model, this study aims to evaluate the performance of major world container ports, namely the Port of Singapore, Shanghai, Busan, Hong Kong, and Rotterdam, by applying the 6 GP model with smart ports. An innovative hybrid methodology integrating CFPR, MOORA, and VIKOR was employed to explore the business needs and development priorities of port stakeholders and to assess each port's performance with reference to the 6 GP model. The test results indicate that the Port of Singapore, Rotterdam, and Shanghai performanc, with Asian container ports achieved better performance in "service" and "smart port governance system and policy". Specifically, Shanghai has emphasized automation optimization to facilitate the seamless cargo and vessel flows, while Rotterdam achieved significant performance in digitalization and decarbonization by fostering a smart port–city symbiosis. The contribution of this study lies in theoretical, methodological, and empirical aspects. i) Theoretically, it validates the applicability of the 6 GP model, enriching the existing literature on Port Devolution Theory by integrating digitalization and decarbonization into the 6 GP model; ii) Methodologically, it applies a novel hybrid CFPR–MOORA–VIKOR framework to enhance multi-criteria decision-making in port studies; iii) Empirically, it offers a comparative evaluation of container ports in both Asia and Europe, providing actionable insights for policymakers and port managers, and advocates collaborative action among different stakeholders. © 2025 Elsevier Ltd.
+KW  - Container port
+KW  - COVID-19
+KW  - Maritime industry decarbonization
+KW  - Port digitalization
+KW  - Sixth generation ports (6 GP)
+KW  - China
+KW  - Hong Kong
+KW  - Netherlands
+KW  - Pusan [Pusan (ADS)]
+KW  - Pusan [South Korea]
+KW  - Rotterdam
+KW  - Shanghai
+KW  - Singapore [Singapore (NTN)]
+KW  - Singapore [Southeast Asia]
+KW  - South Holland
+KW  - South Korea
+KW  - Containers
+KW  - Decision theory
+KW  - Optimization
+KW  - Ports and harbors
+KW  - Container ports
+KW  - Decarbonisation
+KW  - Maritime industry
+KW  - Maritime industry decarbonization
+KW  - Performance
+KW  - Performances evaluation
+KW  - Port digitalization
+KW  - Rotterdam
+KW  - Singapore
+KW  - Sixth generation port (6 GP)
+KW  - container terminal
+KW  - pandemic
+KW  - performance assessment
+KW  - port development
+KW  - port trade
+KW  - smart city
+KW  - Decision making
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Zhang, C.
+AU  - Yang, Y.
+AU  - Wang, N.
+TI  - Port governance and sustainable development: The impact of port smartization on port carbon emission efficiency
+PY  - 2024
+T2  - Ocean and Coastal Management
+VL  - 259
+C7  - 107485
+DO  - 10.1016/j.ocecoaman.2024.107485
+UR  - https://www.scopus.com/pages/publications/85209138121?origin=resultslist
+AB  - Considering the growing volume of seaborne trade worldwide, most ports need smart policies to address high carbon emissions. As a major shipping nation, China is committed to reducing port carbon emissions. China recently introduced a series of smartization policies to accelerate the construction of smart ports, but their effectiveness in energy saving and emission reduction is unclear. Taking 39 major ports in China as research subjects, this study uses the super-efficiency SBM model to measure carbon emissions and the generalized difference-in-differences method to deeply explore the impact of port smartization policies on port carbon emission efficiency. Results indicate that these policies have significantly improved the carbon emission efficiency of ports, a conclusion validated through multiple robustness tests. Heterogeneity analyses show that ports in coastal areas, and in cities with larger populations or moderate economic development, are more significantly affected by port smartization initiatives. Mechanism analysis suggests that the number of port berths, the length of wharves, and container throughput are important channels through which smart port policies influence carbon emission efficiency. This research enriches carbon emission efficiency literature, offers insights for developing countries on reducing emissions and achieving carbon neutrality, and provides a basis for China's smart port construction. © 2024 Elsevier Ltd
+KW  - Carbon emission efficiency
+KW  - Generalized difference-in-differences
+KW  - Ports
+KW  - Shipping
+KW  - Smartization
+KW  - China
+KW  - Carbon capture and utilization
+KW  - Carbon sequestration
+KW  - Zero-carbon
+KW  - Carbon emission efficiencies
+KW  - Carbon emissions
+KW  - Difference-in-differences
+KW  - Differences-in-differences
+KW  - Energy-saving and emission reductions
+KW  - Generalized difference-in-difference
+KW  - High carbons
+KW  - Port
+KW  - Seaborne trade
+KW  - Smartization
+KW  - carbon emission
+KW  - construction industry
+KW  - emission control
+KW  - energy efficiency
+KW  - port development
+KW  - shipping
+KW  - smart city
+KW  - sustainable development
+KW  - Low emission
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 14
+ER  -
+
+TY  - CONF
+AU  - Tran, K.P.M.
+AU  - Nguyen, T.D.
+AU  - Luc, T.T.
+AU  - Tri, P.L.M.
+AU  - Tran, P.T.
+TI  - Integrating Port Planning Information into a Web-Based Geographic Information System Platform
+PY  - 2025
+T2  - Ports 2025: Port Planning and Development - Selected Papers from the 17th Triennial International Conference
+SP  - 380
+EP  - 392
+DO  - 10.1061/9780784486153.037
+UR  - https://www.scopus.com/pages/publications/105009585212?origin=resultslist
+AB  - Vietnam's 3,260 km coastline highlights the vital role of coastal ports in the nation's economy and regional development, particularly in underdeveloped areas. Modernizing port planning through the integration of Building Information Modeling (BIM) and Geographic Information Systems (GIS) can address the shortcomings of traditional methods, which often lack comprehensive data. This study examines the Ha Tinh Province port system, where a web-based GIS platform combined BIM and GIS technologies to enhance planning and management. Data from aerial, terrestrial, and underwater surveys were processed into detailed 3D models of port infrastructure and integrated into the platform. The system enabled real-Time data sharing, advanced spatial analysis, and simulation of operational scenarios, improving decision-making and resource management. This innovative approach supports Vietnam's seaport master plan, demonstrating how BIM-GIS integration can revolutionize port planning, promote sustainable development, and reinforce the strategic importance of the nation's seaport network. © 2025 ASCE.
+KW  - Architectural design
+KW  - Building Information Model
+KW  - Data Sharing
+KW  - Decision making
+KW  - Geographic information systems
+KW  - Information management
+KW  - Information systems
+KW  - Ports and harbors
+KW  - Regional planning
+KW  - Aerial surveys
+KW  - Building Information Modelling
+KW  - Geographic information
+KW  - Model informations
+KW  - Planning information
+KW  - Port planning
+KW  - Regional development
+KW  - System platforms
+KW  - Viet Nam
+KW  - Web based
+KW  - Information use
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Tran, K.P.M.
+AU  - Hoang, H.
+AU  - Bui, C.M.
+AU  - Lam, P.N.
+AU  - Tran, Q.P.M.
+AU  - Tran, P.T.
+TI  - Digitization of Industrial Zone and Seaport Infrastructure of Dung Quat Economic Zone in Vietnam
+PY  - 2025
+T2  - Ports 2025: Port Planning and Development - Selected Papers from the 17th Triennial International Conference
+SP  - 343
+EP  - 357
+DO  - 10.1061/9780784486153.034
+UR  - https://www.scopus.com/pages/publications/105009585258?origin=resultslist
+AB  - The digitalization of infrastructure in developing countries is increasingly prioritized, with Vietnam making significant strides in this area. This paper presents a case study of the Dung Quat Economic Zone in central Vietnam, where over 30,000 ha of transportation infrastructure, industrial parks, and seaports were digitized within 2 months. The project resulted in the creation of a comprehensive digital database, including Building Information Modeling (BIM) models, 3D terrain representations, and associated legal documentation. The digitized data is crucial for various applications, from port and regional development planning to the management and maintenance of infrastructure facilities. The process involved advanced technologies, such as 3D laser scanning, UAV-based LiDAR, and photogrammetry for data acquisition, followed by the integration of BIM models into a Geographic Information System (GIS) platform. This integration facilitated a holistic understanding of spatial relationships and attributes, enabling improved decision-making and predictive maintenance through a digital twin program. The study outlines the achievements of the digitalization effort and provides insights into its transformative impact on infrastructure management and planning within the Dung Quat Economic Zone. © 2025 ASCE.
+KW  - Building Information Model
+KW  - Data integration
+KW  - Developing countries
+KW  - Digital twin
+KW  - Economic analysis
+KW  - Geographic information systems
+KW  - Industrial economics
+KW  - Information management
+KW  - Ports and harbors
+KW  - Regional planning
+KW  - Technology transfer
+KW  - Building Information Modelling
+KW  - Case-studies
+KW  - Central Vietnam
+KW  - Digital database
+KW  - Digitisation
+KW  - Economic zones
+KW  - Industrial parks
+KW  - Industrial zones
+KW  - Transportation infrastructures
+KW  - Viet Nam
+KW  - Data acquisition
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 21 April 2026; Cited By: 0
+ER  -
+

@@ -1,0 +1,1721 @@
+TY  - CONF
+TI  - The need for Digital Twins and monitoring systems in port infrastructure and operations
+T2  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+SP  - 1
+EP  - 3
+AU  - A. Aggelakakis
+AU  - G. Ntanis
+AU  - G. Papacharalampous
+AU  - M. Boile
+AU  - S. Theofanis
+PY  - 2025
+KW  - Training
+KW  - Seaports
+KW  - Predictive models
+KW  - Real-time systems
+KW  - Digital twins
+KW  - Security
+KW  - Internet of Things
+KW  - Sustainable development
+KW  - Robots
+KW  - Resilience
+KW  - Digital Twin
+KW  - port operations
+KW  - smart ports
+KW  - IoT
+DO  - 10.1109/MARIS64137.2025.11139599
+JO  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+Y1  - 26-27 June 2025
+AB  - Digital Twins are now considered as modern and innovative tools designed to optimize port operations through the continuous collection and real-time analysis of data. This process is facilitated by sensors, the Internet of Things (IoT), unmanned vehicles, and the advanced capabilities of artificial intelligence. These technologies enhance infrastructure management, reduce costs, prevent malfunctions, improve security and promote sustainability. Additionally, integrating such state-of-the-art equipment in a university laboratory can significantly contribute to research, development and the training of research personnel in advanced port management technologies.
+ER  - 
+
+TY  - CONF
+TI  - Development of an Intelligent Digital Twins Framework for Secure Container Terminal Operations
+T2  - 2021 62nd International Scientific Conference on Information Technology and Management Science of Riga Technical University (ITMS)
+SP  - 1
+EP  - 4
+AU  - S. Jakovlev
+AU  - T. Eglynas
+AU  - M. Voznak
+AU  - P. Partila
+AU  - J. Tovarek
+AU  - M. Jusis
+AU  - E. Pocevicius
+AU  - Z. Purlaura
+PY  - 2021
+KW  - Digital twin
+KW  - Neural networks
+KW  - Containers
+KW  - Control systems
+KW  - Safety
+KW  - Security
+KW  - Data mining
+KW  - intelligent transportation systems
+KW  - data mining
+KW  - control systems
+KW  - neural nets
+DO  - 10.1109/ITMS52826.2021.9615313
+JO  - 2021 62nd International Scientific Conference on Information Technology and Management Science of Riga Technical University (ITMS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 62nd International Scientific Conference on Information Technology and Management Science of Riga Technical University (ITMS)
+Y1  - 14-15 Oct. 2021
+AB  - This paper aims to analyze the operations performed at the container terminal and to propose a new digital twin (DT)-based framework increasing the level of safety and security. This paper discusses the physical space as well as demonstrates the capabilities of the virtual framework from the cyber-physical security point of view. The main contribution of this paper is the demonstration of the dynamics of both, the physical and the virtual systems from a qualitative perspective.
+ER  - 
+
+TY  - CONF
+TI  - Development Direction of Automated Terminal and Systematic Planning of Smart Port
+T2  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+SP  - 708
+EP  - 712
+AU  - H. Yao
+AU  - T. Xue
+AU  - D. Wang
+AU  - Y. Qi
+AU  - M. Su
+PY  - 2021
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Systematics
+KW  - System integration
+KW  - Big Data
+KW  - Data models
+KW  - Planning
+KW  - automated terminal
+KW  - smart port
+KW  - Big Data
+KW  - GIS
+KW  - PIM
+KW  - Digital Twin Model
+DO  - 10.1109/ICBAIE52039.2021.9389884
+JO  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+Y1  - 26-28 March 2021
+AB  - With the rapid development of information technology, the construction of automated terminals is in the ascendant, and the direction of automated terminal construction has attracted attention from all over the world. At the same time, the proposal of the smart port also puts forward new requirements for the future development of the port. This article summarizes the relevant research on the construction of automated terminals and smart port system planning, and proposes the direction of future automated terminal construction, including equipment upgrades, technical process standardization, and improvement of system integration capabilities. It also proposed smart port system planning guidelines, focusing on the key points of smart port planning, and specifying that smart ports should focus on building a GIS-based Smart Port-Industry-City Spatial Geographic Information Platform, a Smart Port-Industry-City Digital Twin Model and PIM (Port Information Model) that perceived 3D data and temporal and spatial changes, and a Smart Port Big Data Center, which was interconnected and coordinated in all directions, providing technical references for the research on the top system plan of smart ports and the development of specific applications.
+ER  - 
+
+TY  - CONF
+TI  - Digital twin system for automated container terminal and a case study*
+T2  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+SP  - 142
+EP  - 147
+AU  - X. Bao
+AU  - F. Jia
+AU  - J. Zhong
+AU  - L. Zhang
+AU  - C. Liu
+AU  - L. Chen
+AU  - Y. Zheng
+PY  - 2024
+KW  - Visualization
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Object oriented modeling
+KW  - Systems architecture
+KW  - Containers
+KW  - Digital twins
+KW  - Complexity theory
+KW  - Monitoring
+KW  - Business
+DO  - 10.1109/CASE59546.2024.10711351
+JO  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+Y1  - 28 Aug.-1 Sept. 2024
+AB  - The ever-expanding scale and extensive business necessitate the comprehensive and lean management of terminal operations. As an effective bridge of cyber-physical fusion, digital twin (DT) provides revolutionary opportunities for intellectualized upgrades of terminals’ operation mode. However, the complexity of diverse port elements, inter-coupled business processes, and massive but isolated information, poses challenges to DT system construction for automated container terminals (ACTs). To address these issues, this work proposes a DT modeling approach based on business decomposition and object-oriented design. Then, an ACT-DT system architecture with high flexibility is proposed to orchestrate multi-source information in terminals. A case study of Qingdao port is finally presented for validation. The introduction of the ACT-DT system promotes cross-region, cross-business, and cross-source information sharing, and thus realizes the transparent management of full business processes in ACTs.
+ER  - 
+
+TY  - CONF
+TI  - Digital twin-based scheduling method for marine equipment material transportation vehicles
+T2  - 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)
+SP  - 100
+EP  - 105
+AU  - X. Shen
+AU  - S. Liu
+AU  - B. Zhou
+AU  - Y. Zheng
+AU  - J. Bao
+PY  - 2022
+KW  - Q-learning
+KW  - Heuristic algorithms
+KW  - Transportation
+KW  - Dynamic scheduling
+KW  - Approximation algorithms
+KW  - Path planning
+KW  - Digital twins
+KW  - digital twin
+KW  - Q-learning
+KW  - vehicle scheduling
+DO  - 10.1109/CASE49997.2022.9926428
+JO  - 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)
+Y1  - 20-24 Aug. 2022
+AB  - The traditional material transportation vehicle scheduling adopts manual scheduling application and vehicle scheduling, which has low efficiency, high cost and waste of human resources. The existing scheduling system can not realize the information interaction and collaborative integration between the physical world and the virtual world, and the digital twin technology can effectively solve the problem of information interaction. This paper establishes a model of the transportation vehicle scheduling problem, proposes a transportation vehicle scheduling framework based on digital twin model, and uses Q-learning method to solve the dynamic scheduling problem. Finally, an example is given to verify the superiority and effectiveness of this method.
+ER  - 
+
+TY  - CONF
+TI  - Navigating the Future: Digital Twin in Maritime Industry
+T2  - 2024 International Conference on Broadband Communications for Next Generation Networks and Multimedia Applications (CoBCom)
+SP  - 1
+EP  - 6
+AU  - M. Zeneli
+AU  - G. Marinova
+PY  - 2024
+KW  - Industries
+KW  - Data analysis
+KW  - Virtual environments
+KW  - Seaports
+KW  - Software
+KW  - Digital twins
+KW  - Safety
+KW  - maritime industry
+KW  - digital twin
+KW  - smart port
+DO  - 10.1109/CoBCom62281.2024.10631195
+JO  - 2024 International Conference on Broadband Communications for Next Generation Networks and Multimedia Applications (CoBCom)
+IS  - 
+SN  - 2834-8265
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Broadband Communications for Next Generation Networks and Multimedia Applications (CoBCom)
+Y1  - 9-11 July 2024
+AB  - This paper presents the idea of Digital Twins, a novel technology that allows previously unheard-of degrees of simulation, analysis, and control by reflecting actual objects into their digital equivalents. The article starts by giving a thorough overview of digital twins and outlining their diverse kinds, such as prescriptive, descriptive, and predictive models, each of which has a specific function in a variety of businesses. The emphasis switches to how Digital Twins might be used in the maritime industry, namely in port operations. The study examines how real-time data analysis, predictive maintenance, and operational optimization provided by digital twins may transform port management, logistics, safety, and environmental sustainability. Furthermore, it goes into more detail about the processes involved in building Digital Twins, emphasizing the incorporation of machine learning, simulation, data analytics, and Internet of Things (IoT) sensors. Together, these techniques help to accurately replicate physical assets in a virtual environment, which promotes improved decisionmaking. Additionally, there are described several software platforms that can be used to create Digital Twins with their features, interoperability, and integration potential. Software that facilitates the production of Digital Twins and offers schematic views for complex visualization and interaction with the digital models receives particular attention. Essentially, the goal of this article is to clarify how Digital Twins are revolutionizing port operations by providing an understanding of their creation process and the technology that enables it. Through this investigation there are highlighted the major advantages and challenges of implementing Digital Twins in ports, such as increased productivity, decreased operating expenses, and a proactive approach to sustainability and maintenance issues.
+ER  - 
+
+TY  - CONF
+TI  - Digital Twin and IoT-Cloud System: Case Study on Durrës Port
+T2  - 2025 20th Annual System of Systems Engineering Conference (SoSE)
+SP  - 1
+EP  - 7
+AU  - A. Merdani
+AU  - K. Bërdufi
+AU  - E. Torba
+AU  - E. Sheme
+AU  - D. Minarolli
+PY  - 2025
+KW  - Cloud computing
+KW  - Seaports
+KW  - Real-time systems
+KW  - Motion detection
+KW  - Energy efficiency
+KW  - Digital twins
+KW  - Internet of Things
+KW  - Sustainable development
+KW  - Optimization
+KW  - Predictive maintenance
+KW  - cloud system
+KW  - data stream analytics
+KW  - digital twin
+KW  - humidity and motion sensors
+KW  - internet of things
+KW  - smart port management
+DO  - 10.1109/SoSE66311.2025.11083850
+JO  - 2025 20th Annual System of Systems Engineering Conference (SoSE)
+IS  - 
+SN  - 2835-3161
+VO  - 
+VL  - 
+JA  - 2025 20th Annual System of Systems Engineering Conference (SoSE)
+Y1  - 8-11 June 2025
+AB  - Ports worldwide are facing challenges in optimizing operations while maintaining environmental sustainability. Digital Twin (DT) and Internet of Things (IoT) technologies provide real-time monitoring, predictive maintenance, and operational efficiency. This paper presents an IoT-enabled cloud system integrated with Digital Twin for smart environmental and operational management of the Port of Durrës. The system employs IoT sensors to collect real-time environmental and operational data, processed using Azure Cloud Services, Python-based analytics, and Power BI visualization. The results demonstrate improved energy efficiency, predictive maintenance capabilities, and enhanced port management. The study contributes to smart port research by offering a scalable, secure, and data-driven approach for maritime infrastructure optimization.
+ER  - 
+
+TY  - CONF
+TI  - Prototype development of a cross-reality digital twin ecosystem: the web, open source and open data
+T2  - 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+SP  - 459
+EP  - 462
+AU  - W. Herbrich
+AU  - P. Zittlau
+AU  - F. Joeres
+AU  - C. Hansen
+PY  - 2025
+KW  - Three-dimensional displays
+KW  - Smart cities
+KW  - Scalability
+KW  - Ecosystems
+KW  - Prototypes
+KW  - User interfaces
+KW  - Rendering (computer graphics)
+KW  - Digital twins
+KW  - Knowledge transfer
+KW  - Open data
+KW  - Cross reality
+KW  - Virtual reality
+KW  - Augmented reality
+KW  - Knowledge transfer
+KW  - Smart city
+KW  - Digital twin
+KW  - Urban transformation
+KW  - Science communication
+DO  - 10.1109/VRW66409.2025.00100
+JO  - 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Y1  - 8-12 March 2025
+AB  - This work contributes to a broader initiative aimed at transforming a former industrial port area into a dynamic Knowledge Transfer Space (KTS). To support this transformation, we explore the development of a cross-reality (CR) digital twin of the port area, which integrates user interfaces with varying degrees of virtuality. We evaluate different web technologies, focusing on the balance between accessibility, immersion, scalability, and performance. By comparing client-side rendering with pixel streaming approaches, we aim to identify suitable solutions for prototyping a CR digital twin ecosystem. The development of a prototype is ongoing, based on a client-side rendering approach. The outcomes contribute to developing an open and transferable CR digital twin applicable to similar urban projects in other cities.
+ER  - 
+
+TY  - CONF
+TI  - Research on Port truck trajectory completion based on Long Short-Term Memory model and Speed distribution characteristics
+T2  - 2021 7th International Conference on Hydraulic and Civil Engineering & Smart Water Conservancy and Intelligent Disaster Reduction Forum (ICHCE & SWIDR)
+SP  - 1281
+EP  - 1286
+AU  - R. Ni
+AU  - Z. Guo
+AU  - Y. Jiang
+AU  - S. Liu
+PY  - 2021
+KW  - Roads
+KW  - Neural networks
+KW  - Focusing
+KW  - Production
+KW  - Predictive models
+KW  - Turning
+KW  - Real-time systems
+KW  - container terminal
+KW  - trajectory prediction
+KW  - LSTM
+DO  - 10.1109/ICHCESWIDR54323.2021.9656235
+JO  - 2021 7th International Conference on Hydraulic and Civil Engineering & Smart Water Conservancy and Intelligent Disaster Reduction Forum (ICHCE & SWIDR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 7th International Conference on Hydraulic and Civil Engineering & Smart Water Conservancy and Intelligent Disaster Reduction Forum (ICHCE & SWIDR)
+Y1  - 6-8 Nov. 2021
+AB  - In the process of port intelligent transformation, real-time completion of missing truck trajectory data plays a vital role in the qualitative data collection of port production operations and the establishment of port digital twin systems. Focusing on the port-specific scenario, this article introduces a method of completing the trajectory of the truck based on the long short-term memory (LSTM), followed by empirical data analysis method. The neural network was deployed to train and predict the trajectory data of trucks in the port. At the same time, it explores the possibility that making a rough prediction of the long-term missing data by considering the historical data and analyzing the truck&#x2019;s speed distribution characteristics. Compared with previous studies, the method proposed in this paper provides new ideas and methods for collecting missing trajectories of trucks in ports.
+ER  - 
+
+TY  - JOUR
+TI  - Digital Twins for Ports: Derived From Smart City and Supply Chain Twinning Experience
+T2  - IEEE Access
+SP  - 71777
+EP  - 71799
+AU  - R. Klar
+AU  - A. Fredriksson
+AU  - V. Angelakis
+PY  - 2023
+KW  - Seaports
+KW  - Supply chains
+KW  - Smart cities
+KW  - Digital twins
+KW  - Sustainable development
+KW  - Internet of Things
+KW  - Information systems
+KW  - Digital twin
+KW  - IoT
+KW  - smart city
+KW  - smart port
+KW  - supply chain
+DO  - 10.1109/ACCESS.2023.3295495
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Ports are striving for innovative technological solutions to cope with the ever-increasing growth of transport, while at the same time improving their environmental footprint. An emerging technology that has the potential to substantially increase the efficiency of the multifaceted and interconnected port processes is the digital twin. Although digital twins have been successfully integrated in many industries, there is still a lack of cross-domain understanding of what constitutes a digital twin. Furthermore, the implementation of the digital twin in complex systems such as the port is still in its infancy. This paper attempts to fill this research gap by conducting an extensive cross-domain literature review of what constitutes a digital twin, keeping in mind the extent to which the respective findings can be applied to the port. It turns out that the digital twin of the port is most comparable to complex systems such as smart cities and supply chains, both in terms of its functional relevance as well as in terms of its requirements and characteristics. The conducted literature review, considering the different port processes and port characteristics, results in the identification of three core requirements of a digital port twin, which are described in detail. These include situational awareness, comprehensive data analytics capabilities for intelligent decision making, and the provision of an interface to promote multi-stakeholder governance and collaboration. Finally, specific operational scenarios are proposed on how the port’s digital twin can contribute to energy savings by improving the use of port resources, facilities and operations.
+ER  - 
+
+TY  - CONF
+TI  - Digital Twin for Monitoring Containerized Hazmat Cargo in Port Areas
+T2  - 2022 17th Iberian Conference on Information Systems and Technologies (CISTI)
+SP  - 1
+EP  - 4
+AU  - L. Oliveira
+AU  - M. Castro
+AU  - R. Ramos
+AU  - J. Santos
+AU  - J. Silva
+AU  - L. Dias
+PY  - 2022
+KW  - Hazardous materials
+KW  - Visualization
+KW  - Three-dimensional displays
+KW  - Containers
+KW  - Real-time systems
+KW  - Digital twins
+KW  - Security
+KW  - 3D Visualization
+KW  - Geographical Information Systems
+KW  - Containerized Hazmat Cargo
+KW  - Digital Twin
+DO  - 10.23919/CISTI54924.2022.9820434
+JO  - 2022 17th Iberian Conference on Information Systems and Technologies (CISTI)
+IS  - 
+SN  - 2166-0727
+VO  - 
+VL  - 
+JA  - 2022 17th Iberian Conference on Information Systems and Technologies (CISTI)
+Y1  - 22-25 June 2022
+AB  - The complexity of the number of stakeholders, information systems used, and port operations evoke new challenges to port security when it comes to the total knowledge and control of the overall operations of transport and parking of containerized freight, namely hazmat ones.The rising interest and the port authorities' awareness of the relevance of security concerns involved in this complex ecosystem has led to the search for new technological solutions that allow, in an integrated manner, the smart and automatic control of operations of transport and hazardous freight parking in all the areas of its jurisdiction, without third-party dependencies.Despite its importance and criticality, port authorities tend to have limited real-time knowledge of the location of hazmat containers, whether moving within the port (entering and leaving), or in its parking, having a direct impact on the port security.This article presents a Digital Twin platform for 3D and real-time georeferenced visualization of container parks and the location of hazardous containerized freight. This tool combines different modules that further allow to visualize information associated to a container, its movement, as well as its surrounding area, including a realistic and dynamic 3D representation of what is the area encircling the port.
+ER  - 
+
+TY  - CONF
+TI  - Digital Twin Architectures for Maritime Microgrids: Toward Resilient and Intelligent Port Operations
+T2  - 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)
+SP  - 1
+EP  - 6
+AU  - M. Sadiq
+AU  - J. Licari
+AU  - M. Apap
+AU  - C. S. Staines
+AU  - A. Micallef
+PY  - 2025
+KW  - Load forecasting
+KW  - Microgrids
+KW  - Seaports
+KW  - Predictive models
+KW  - Real-time systems
+KW  - Digital twins
+KW  - Synchronization
+KW  - Forecasting
+KW  - Energy management systems
+KW  - Optimization
+KW  - Digital Twin
+KW  - Energy Management System
+KW  - Maritime Microgrids
+KW  - Port Electrification
+KW  - Ship-Port Coordination
+DO  - 10.1109/EEEIC/ICPSEurope64998.2025.11168982
+JO  - 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)
+IS  - 
+SN  - 2994-9467
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Environment and Electrical Engineering and 2025 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)
+Y1  - 15-18 July 2025
+AB  - The transition toward intelligent and sustainable port operations requires advanced tools to manage the complexity of maritime microgrids. These systems must enable real-time coordination between hybrid vessels and port-side infrastructure while adapting to variable renewable generation, uncertain berthing schedules, and mission-critical loads. This paper presents a focused review of digital twin (DT) technologies as a foundation for data-driven predictive control, diagnostics, and energy optimization in maritime environments. Key architectural elements are analyzed, including multi-source sensing, data modeling, forecasting, and secure communication. Representative DT applications such as cold ironing scheduling, DER coordination, propulsion monitoring, and AIS-based demand prediction are discussed. A unified framework is proposed to illustrate how a centralized Energy Management System (EMS) integrates port and shipboard DTs, enabling dynamic interaction, load forecasting, and synchronized control. The paper also identifies major challenges and research directions to support scalable, secure, and low-emission digital twin deployments for resilient port electrification.
+ER  - 
+
+TY  - CONF
+TI  - Assessing the Maturity of Digital Twinning Solutions for Ports
+T2  - 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+SP  - 552
+EP  - 557
+AU  - R. Klar
+AU  - A. Fredriksson
+AU  - V. Angelakis
+PY  - 2023
+KW  - Pervasive computing
+KW  - Technological innovation
+KW  - Grounding
+KW  - Conferences
+KW  - Benchmark testing
+KW  - Digital twins
+KW  - Complex systems
+KW  - Digital Twin
+KW  - Smart Port
+KW  - Digital Twin Maturity
+DO  - 10.1109/PerComWorkshops56833.2023.10150378
+JO  - 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+IS  - 
+SN  - 2766-8576
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)
+Y1  - 13-17 March 2023
+AB  - Ports are striving for innovative technological solutions to cope with the increasing growth in demand of goods transport, while at the same time improving their environmental footprint. An emerging technology that has the potential to substantially increase the effectiveness of the multifaceted and interconnected port processes is that of digital twins. Recognizing the potential of twinning assets and processes, innovation-leading ports have already started working on it. However, since there is no clear consensus on what a digital twin of a complex system comprises and how it should be designed, deployed digital twin solutions for ports, as in multiple other domains, often differ significantly. We address this issue by initially identifying three core aspect underpinning digital twins of complex systems, grounding our work on the domain of ports, and outlining five successive maturity levels based on these aspects' instantiation. These identified aspects and the derived maturity levels are then used to examine real-world cases by critically evaluating existing digital twinning solutions in the port of Singapore, the Mawan port of Shanghai, and that of Rotterdam. Our work on maturity levels and core twinning aspects can provide a guideline for designing and benchmarking digital twinning solutions, applicable in any domain where a digital twin can be used. For ports, the capacity for innovation via twinning is highly contextual, with the key affecting factors being the availability of financial and technical resources.
+ER  - 
+
+TY  - CONF
+TI  - Digital Twin Enhanced Reinforcement Learning for Integrated Scheduling in Automated Container Terminals*
+T2  - 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)
+SP  - 1
+EP  - 6
+AU  - Y. Zhang
+AU  - X. Bao
+AU  - L. Zhang
+AU  - L. Chen
+AU  - X. Tang
+AU  - Z. Zhang
+AU  - Y. Zheng
+PY  - 2023
+KW  - Reinforcement learning
+KW  - Containers
+KW  - Multilayer perceptrons
+KW  - Real-time systems
+KW  - Data models
+KW  - Digital twins
+KW  - Synchronization
+KW  - Automated container terminal
+KW  - digital twin
+KW  - reinforcement learning
+KW  - simulation optimization
+DO  - 10.1109/CASE56687.2023.10260497
+JO  - 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)
+Y1  - 26-30 Aug. 2023
+AB  - Container logistics in automated container terminals (ACTs) involves multiple interconnected operational processes. The integrated scheduling of these processes is crucial for the efficiency of the system. Current reinforcement learning (RL) methods struggle to interact effectively with the real world. Digital twin (DT) presents a promising solution to this challenge by providing real-time synchronized simulation. We propose a RL method enhanced by DT to address the integrated scheduling problem in ACTs. The RL model is trained in a DT-based simulation environment, which is more accurate and real-time than traditional simulations. This approach allows for easy transfer of the RL model to a real-world environment. To demonstrate the effectiveness of this approach, we present an experiment in this paper. Our proposed method shows promising results and has the potential to increase container logistics efficiency in ACTs.
+ER  - 
+
+TY  - CONF
+TI  - Using Simulation and Digital Twins to Innovate: Are we Getting Smarter?
+T2  - 2021 Winter Simulation Conference (WSC)
+SP  - 1
+EP  - 13
+AU  - S. J. E. Taylor
+AU  - B. Johansson
+AU  - S. Jeon
+AU  - L. H. Lee
+AU  - P. Lendermann
+AU  - G. Shao
+PY  - 2021
+KW  - Technological innovation
+KW  - Digital twin
+KW  - Soft sensors
+KW  - Wheels
+KW  - Predictive models
+KW  - Data models
+KW  - Faces
+DO  - 10.1109/WSC52266.2021.9715535
+JO  - 2021 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2021 Winter Simulation Conference (WSC)
+Y1  - 12-15 Dec. 2021
+AB  - Digital Twins have recently emerged as a major new area of innovation. Digital Twins are often found at the core of “smart” solutions that have also emerged as major areas of innovation. Modeling and Simulation (M&S) approaches create a model of a real-world system that is linked to data sources and is used to simulate and predict the behavior of its real-world counterpart. On the face of it Digital Twins and M&S appear to be similar, if not the same. Is this actually the case? Are the two fields really separate or is Digital Twin research re-inventing the “M&S wheel”? To investigate these relationships, in this panel we will explore some contemporary innovations with Digital Twins and discuss whether or not Digital Twins is a contemporary “refresh” or “rebranding” of M&S or if there are exciting new synergies.
+ER  - 
+
+TY  - CONF
+TI  - Constructing Virtual Prototypes in a Port Environment Using AR Technology
+T2  - 2025 32nd International Conference on Systems, Signals and Image Processing (IWSSIP)
+SP  - 1
+EP  - 5
+AU  - M. Zeneli
+AU  - G. Marinova
+PY  - 2025
+KW  - Industries
+KW  - Scalability
+KW  - Decision making
+KW  - Spatial augmented reality
+KW  - Data visualization
+KW  - Prototypes
+KW  - Seaports
+KW  - Digital twins
+KW  - Stakeholders
+KW  - Testing
+KW  - maritime industry
+KW  - AR
+KW  - digital twin
+KW  - smart port
+DO  - 10.1109/IWSSIP66997.2025.11151862
+JO  - 2025 32nd International Conference on Systems, Signals and Image Processing (IWSSIP)
+IS  - 
+SN  - 2157-8702
+VO  - 
+VL  - 
+JA  - 2025 32nd International Conference on Systems, Signals and Image Processing (IWSSIP)
+Y1  - 24-26 June 2025
+AB  - This paper explores the integration of Augmented Reality (AR) in the development of digital twins in port environments, with a focus on the Port of Durrës, Albania. Using the Adobe Aero platform, there were created virtual prototypes that visualize energy consumption through interactive infographics. The methodology includes energy data collection, infographic preparation, AR integration, and user testing. Results demonstrate improved user engagement, enhanced data comprehension, and potential applications for energy efficiency and decision-making in port operations. Future work will explore real-time data integration and scalability across other domains.
+ER  - 
+
+TY  - CONF
+TI  - Beyond 5G-Assisted Automatic Guided Vehicles in Seaport Environments
+T2  - 2023 IEEE International Conference on Communications Workshops (ICC Workshops)
+SP  - 1038
+EP  - 1043
+AU  - G. Torsoli
+AU  - S. Stracca
+AU  - M. Puleri
+AU  - M. Z. Win
+AU  - A. Conti
+PY  - 2023
+KW  - Location awareness
+KW  - Wireless communication
+KW  - Navigation
+KW  - 5G mobile communication
+KW  - Conferences
+KW  - Seaports
+KW  - Digital twins
+KW  - 5G
+KW  - autonomous vehicles
+KW  - localization
+KW  - seaport
+KW  - digital twin
+DO  - 10.1109/ICCWorkshops57953.2023.10283590
+JO  - 2023 IEEE International Conference on Communications Workshops (ICC Workshops)
+IS  - 
+SN  - 2694-2941
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Communications Workshops (ICC Workshops)
+Y1  - 28 May-1 June 2023
+AB  - Location awareness is vital for several fifth generation (5G) and beyond wireless applications. In particular, the use of 5G localization to assist or control automatic guided vehicles (AGVs) in seaport environments is a relevant use case conceived by the 3rd Generation Partnership Project (3GPP) standardization body. However, AGVs control systems require accurate localization, which is challenging in dynamic and cluttered environments like seaports. This paper proposes the use of soft information (SI)-based localization for providing location awareness to assist the motion of AGVs. The localization and navigation performance is determined considering the digital twin of a real seaport environment. Results show that SI-based localization can provide reliable AGVs navigation in 5G and beyond seaport environments.
+ER  - 
+
+TY  - CONF
+TI  - Resilient Control Strategy for Seaport Microgrid Against False Data Injection Attacks Based on Interactive System
+T2  - 2023 5th International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI)
+SP  - 360
+EP  - 365
+AU  - K. Ma
+AU  - Q. Cao
+AU  - P. Zhao
+AU  - J. Yang
+PY  - 2023
+KW  - Cloud computing
+KW  - Decentralized control
+KW  - Software algorithms
+KW  - Distributed databases
+KW  - Microgrids
+KW  - Seaports
+KW  - Communication networks
+KW  - Seaport microgrids
+KW  - network attacks
+KW  - distributed consensus algorithm
+DO  - 10.1109/RICAI60863.2023.10488941
+JO  - 2023 5th International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 5th International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI)
+Y1  - 1-3 Dec. 2023
+AB  - One of the most popular control strategies for seaport microgrids (SMGs) is distributed control because it efficiently combines the benefits of centralized control with distributed control, lowers communication and calculation complexity, and enhances dependability and scalability of the system. The stability of the system and the safety of the inverter are at risk, though, because there is no central controller for monitoring the activities of the generator set. As a result, under the influence of potential network attacks, the control decisions between distributed generations (DGs) will be directly destroyed, and the power sharing between DGs will be hampered. To address the secondary control problem of the microgrid under false data injection (FDI) attacks, inspired by the concept of Digital Twins, this study proposes a virtual network defined by cloud network technology or software and linked to the microgrid's distributed cooperative control algorithm, to achieve frequency (voltage) synchronization and power sharing of SMGs.
+ER  - 
+
+TY  - CONF
+TI  - Towards Next-Generation Smart Ports: A Review on Seaport Microgrid, Smart Architecture, and Future Prospects
+T2  - 2023 IEEE Industry Applications Society Annual Meeting (IAS)
+SP  - 1
+EP  - 8
+AU  - M. Sadiq
+AU  - C. L. Su
+AU  - Y. Terriche
+AU  - C. A. Aragon
+AU  - S. W. Ali
+AU  - L. Buzna
+AU  - G. Parise
+PY  - 2023
+KW  - Industries
+KW  - Digital transformation
+KW  - Focusing
+KW  - Microgrids
+KW  - Seaports
+KW  - Stakeholders
+KW  - Next generation networking
+KW  - Digitalization
+KW  - Internet of Things
+KW  - Seaport Microgrid
+KW  - Next-Generation Smart Ports
+DO  - 10.1109/IAS54024.2023.10406668
+JO  - 2023 IEEE Industry Applications Society Annual Meeting (IAS)
+IS  - 
+SN  - 2576-702X
+VO  - 
+VL  - 
+JA  - 2023 IEEE Industry Applications Society Annual Meeting (IAS)
+Y1  - 29 Oct.-2 Nov. 2023
+AB  - Maritime industry has experienced substantial progress with impressive technological advancements in recent decades. However, this growth has also created new challenges that threaten the industry. This paper reviews the state-of-the-art of the next-generation smart ports, focusing on seaport microgrids with hierarchical control strategies. Additionally, the next-generation port's digitalized architecture is detailed. The digital transition of seaports provides benefits and opportunities to guide all stakeholders to execute effective preventative and restorative procedures in the territory of ports. Finally, the paper discusses the future prospects of the maritime industry, highlighting recent technological solutions that enhance productivity and smartness.
+ER  - 
+
+TY  - CONF
+TI  - Framework of O2DES.NET Digital Twins for Next Generation Ports and Warehouse Solutions
+T2  - 2020 Winter Simulation Conference (WSC)
+SP  - 3188
+EP  - 3199
+AU  - H. Li
+AU  - X. Cao
+AU  - P. Sharma
+AU  - L. H. Lee
+AU  - E. P. Chew
+PY  - 2020
+KW  - Industries
+KW  - Object oriented modeling
+KW  - Digital twin
+KW  - Ecosystems
+KW  - Tools
+KW  - Next generation networking
+KW  - Logistics
+DO  - 10.1109/WSC48552.2020.9384111
+JO  - 2020 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2020 Winter Simulation Conference (WSC)
+Y1  - 14-18 Dec. 2020
+AB  - Innovative solutions are proposed to meet the challenges bringing by the development of next generation ports and warehouses. In order to test the feasibility of the solutions and increase the "wisdom" of maritime logistics facilities, a maritime Digital Twin (DT), SingaPort.Net Suite, is developed and presented in this paper. An object-oriented discrete event simulation (O2DES.NET) framework is proposed as the development framework. Seven functions achieved by O2DES.NET are embedded in the SingaPort.Net Suite and are illustrated in this paper. It is hoped that with the help of SingaPort.Net Suite and O2DES.NET, the maritime logistics DT ecosystem could experience a vivid and healthy growth in the future decades.
+ER  - 
+
+TY  - CONF
+TI  - Automated container vessel docking: From Anchorage to Dock
+T2  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+SP  - 1
+EP  - 4
+AU  - A. Amditis
+AU  - A. Roukouni
+AU  - E. Latsa
+AU  - I. Kanellopoulos
+AU  - A. Koimtzoglou
+AU  - K. Louzis
+PY  - 2025
+KW  - Technological innovation
+KW  - Automation
+KW  - Service robots
+KW  - Supply chains
+KW  - Seaports
+KW  - Digital twins
+KW  - Safety
+KW  - Stakeholders
+KW  - Computer security
+KW  - Sustainable development
+KW  - maritime freight transport
+KW  - automation
+KW  - berthing of freight vessels
+KW  - port terminal
+KW  - open reference architecture
+DO  - 10.1109/MARIS64137.2025.11139495
+JO  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Symposium on Maritime Informatics and Robotics (MARIS)
+Y1  - 26-27 June 2025
+AB  - Maritime transport remains the backbone of global trade, handling approximately 80% of total trade volume. As technological advancements continue to reshape logistics and supply chain operations, automation has emerged as a transformative force in the maritime sector. This paper explores the feasibility and implications of full automation in maritime freight transport, with a specific focus on automated berthing and unberthing of vessels. Drawing insights from the EU-funded AutoMoTIF project, it examines the benefits, challenges, and technological gaps associated with automation in port operations. Through an in-depth analysis of a use case, the paper identifies key operational, safety, environmental, and cybersecurity considerations, highlighting the role of digital twins as a critical enabler for seamless integration. The findings contribute to the ongoing discussion on maritime automation, highlighting the necessity of overcoming interoperability issues, regulatory hurdles, and workforce adaptation challenges to achieve a fully autonomous maritime transport system.
+ER  - 
+
+TY  - JOUR
+TI  - Roadmap to Greener Seaports: A Bibliographic Analysis
+T2  - IEEE Transactions on Industry Applications
+SP  - 5725
+EP  - 5738
+AU  - M. Sadiq
+AU  - C. -L. Su
+AU  - Z. Ali
+AU  - A. Micallef
+AU  - M. Apap
+AU  - J. Licari
+AU  - C. Caruana
+AU  - K. Sayler
+AU  - G. Parise
+PY  - 2025
+KW  - Seaports
+KW  - Green products
+KW  - Sustainable development
+KW  - Bibliometrics
+KW  - Technological innovation
+KW  - Databases
+KW  - Air pollution
+KW  - Urban areas
+KW  - Standards
+KW  - Market research
+KW  - Environmental impact
+KW  - maritime logistics
+KW  - green seaport
+KW  - sustainable development
+KW  - technological innovation
+DO  - 10.1109/TIA.2025.3546585
+JO  - IEEE Transactions on Industry Applications
+IS  - 4
+SN  - 1939-9367
+VO  - 61
+VL  - 61
+JA  - IEEE Transactions on Industry Applications
+Y1  - July-Aug. 2025
+AB  - Seaports play a crucial role in global trade, acting as key hubs in international logistics networks. However, the growth of maritime activities has led to significant environmental challenges, including elevated carbon emissions and pollution. This paper presents an in-depth bibliometric analysis of sustainable and smart port initiatives, utilizing data from the Web of Science database to identify trends, key contributors, and technological advancements. The study focuses on the adoption of innovative technologies, such as All-Electric Ships, smart grids, and renewable energy systems, which are essential for modernizing port operations and reducing environmental impact. The analysis categorizes initiatives into five main areas: Energy & Fuels, Climate & Air, Port & City, Waste & Circular Economy, and Environment & Biodiversity. The findings highlight the potential of hybrid microgrid systems and advanced digital solutions in enhancing energy management and operational efficiency. Policy frameworks, including differentiated carbon pricing and global port incentive programs, are proposed as effective measures to align seaport sustainability with global decarbonization goals. This research provides a concise overview of current developments and outlines future strategies for achieving sustainable port infrastructure.
+ER  - 
+
+TY  - CONF
+TI  - A feasibility study on regeneration capture on a seaport electrified gantry crane
+T2  - 2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)
+SP  - 196
+EP  - 203
+AU  - M. Short
+AU  - F. Hassan
+AU  - A. Kidd
+AU  - F. Amrouche
+AU  - E. Segovia
+AU  - D. Coleman
+AU  - M. Walker
+PY  - 2022
+KW  - Potential energy
+KW  - Energy consumption
+KW  - Cranes
+KW  - Carbon dioxide
+KW  - Seaports
+KW  - Data models
+KW  - Real-time systems
+KW  - Energy consumption
+KW  - gantry cranes
+KW  - regeneration capture
+KW  - power electronics
+KW  - cargo handling
+KW  - digital twins
+KW  - data analytics
+DO  - 10.1109/CSCC55931.2022.00041
+JO  - 2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)
+Y1  - 19-22 July 2022
+AB  - Recent estimates indicate that roughly 80% of worldwide freight is carried at sea. With shipping and cargo handling responsible for at least 2.5% of annual carbon emissions, the maritime sector poses fertile ground for carbon reductions. This paper focuses on the use of Digital Twins for analyzing and optimizing energy consumption related to cargo handling in a seaport. Specifically, the paper focuses upon data-driven modelling and ‘what-if’ analysis to quantify the potential of energy regeneration capture in a seaport electrified gantry crane used for cargo handling. The crane, located in Middlesbrough, UK was modelled using real-time sensor and control system data on electricity consumption, position, velocity, and driver commands. Mean average modelling errors of less than 1 % were obtained. The dynamic model was deployed for exploration of regeneration capture from lifting operations using a simulated Active Front End (AFE) of power electronics and batteries. Using calibrated simulations, data from a cargo handling system and historical annual consumption data, the paper provides estimates of the potential energy savings for three existing electrified cranes of approximately 420 MWh per year. Using conservative estimates of 40% reclamation of energy for all hoist lifting operations, obtained via a simplified static model, further potentially significant savings are suggested to be possible through the retrofitting of additional diesel cranes.
+ER  - 
+
+TY  - JOUR
+TI  - Container Relocation and Retrieval Tradeoffs Minimizing Schedule Deviations and Relocations
+T2  - IEEE Open Journal of Intelligent Transportation Systems
+SP  - 360
+EP  - 379
+AU  - R. Klar
+AU  - A. Andersson
+AU  - A. Fredriksson
+AU  - V. Angelakis
+PY  - 2024
+KW  - Containers
+KW  - Seaports
+KW  - Stacking
+KW  - Logic gates
+KW  - Stakeholders
+KW  - Optimization
+KW  - Scheduling
+KW  - Digital twins
+KW  - Container relocation problem
+KW  - ports
+KW  - optimization
+KW  - digital twins
+KW  - schedule deviations
+DO  - 10.1109/OJITS.2024.3413197
+JO  - IEEE Open Journal of Intelligent Transportation Systems
+IS  - 
+SN  - 2687-7813
+VO  - 5
+VL  - 5
+JA  - IEEE Open Journal of Intelligent Transportation Systems
+Y1  - 2024
+AB  - Ports are striving to improve operational efficiency in the context of constantly growing volumes of trade. In this context, port terminal storage yard operation is key, since complexity and poor coordination lead to containers stacked without consideration of retrieval schedules, resulting in time- and energy-consuming reshuffling operations. This problem, known as the block relocation (and retrieval) problem (BRP), has recently gained considerable attention. Indeed, there are promising solutions to the BRP. However, the literature views the problem in isolation, optimizing one operational parameter for one of the many port stakeholders. This often leads to efficiency losses since port processes involve different stakeholders and port parts. In this work, we explicitly focus on scheduling trucks for pick-up for hinterland distribution. Appointments are often postponed in order to minimize reshuffling operations, leading to losses for the transport forwarders and decreasing the competitiveness of the port. We discuss the trade-off between minimizing container reshuffling operations while maintaining scheduled time windows for container retrieval. We describe the multi-objective optimization problem as a weighted sum of the two objectives. Given the complexity of the problem, we also present a greedy heuristic. Our results indicate that the number of schedule deviations can be reduced without significantly affecting the number of relocations compared to solutions that consider only the latter. Ideally, a weighting of 0.4 and 0.6 should be applied, reflecting schedule deviations and relocations, respectively, to achieve the highest joint optimization potential. This demonstrates that in complex environments, such as ports, with multiple interacting stakeholders and processes, coordination of solutions yields significant benefits.
+ER  - 
+
+TY  - JOUR
+TI  - Online Condition Monitoring of Gantry Cranes Based on Integrated Optical Fiber Sensing System
+T2  - IEEE Sensors Journal
+SP  - 3520
+EP  - 3528
+AU  - Y. Chen
+AU  - W. Zeng
+AU  - Y. Sun
+AU  - W. Chen
+AU  - Z. Wang
+AU  - F. Yin
+AU  - J. Liu
+AU  - Z. Fan
+PY  - 2025
+KW  - Cranes
+KW  - Sensors
+KW  - Temperature measurement
+KW  - Temperature sensors
+KW  - Optical fiber sensors
+KW  - Monitoring
+KW  - Vibrations
+KW  - Fiber gratings
+KW  - Optical fiber cables
+KW  - Power cables
+KW  - Fiber Bragg grating (FBG)
+KW  - gantry crane
+KW  - online monitoring
+KW  - phase-sensitive optical time-domain reflectometer
+KW  - Raman scattering
+DO  - 10.1109/JSEN.2024.3504719
+JO  - IEEE Sensors Journal
+IS  - 2
+SN  - 1558-1748
+VO  - 25
+VL  - 25
+JA  - IEEE Sensors Journal
+Y1  - 15 Jan.15, 2025
+AB  - Gantry cranes play a critical role in accelerating the shipment process at container ports. The complex operational environments of ports heighten the necessity for monitoring key parameters of gantry cranes in order to monitor operational conditions and prevent safety issues. To overcome the limitations of conventional sensors in ports, an optical fiber sensing (OFS) system integrated with distributed temperature sensing (DTS), distributed vibration sensing (DVS), and fiber Bragg grating (FBG) technologies was proposed. This system was used for real-time online monitoring of two gantry cranes (aged and recently deployed) for comparison. Temperature fields of crane power cables were constructed, and temperature variations were rapidly captured by DTS during on-site experiments. Vibration characteristics of the crane girder were extracted using DVS under artificial interference. The operating states of gantry cranes were identified through the analysis of vibration distribution maps. Besides, the temperature, acceleration, and stress concentration of the critical components were monitored accurately by FBGs. This study presented novel insights into the condition monitoring of gantry cranes via OFS and predicted the potential to prevent unexpected failures, enhance safety and efficiency, and extend the lifespan of gantry cranes.
+ER  - 
+
+TY  - JOUR
+TI  - Digital Twin-Driven Reinforcement Learning Method for Marine Equipment Vehicles Scheduling Problem
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 2173
+EP  - 2183
+AU  - X. Shen
+AU  - S. Liu
+AU  - B. Zhou
+AU  - T. Wu
+AU  - Q. Zhang
+AU  - J. Bao
+PY  - 2024
+KW  - Job shop scheduling
+KW  - Task analysis
+KW  - Dynamic scheduling
+KW  - Transportation
+KW  - Marine equipment
+KW  - Vehicle dynamics
+KW  - Optimization
+KW  - Digital twin
+KW  - Q-learning
+KW  - vehicle scheduling
+KW  - marine equipment
+DO  - 10.1109/TASE.2023.3289915
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 3
+SN  - 1558-3783
+VO  - 21
+VL  - 21
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - July 2024
+AB  - In the traditional marine equipment construction process, the material transportation vehicle scheduling method dominated by manual experience has shown great limitations, which is inefficient, costly, wasteful of human resources, and unable to cope with complex and changing scheduling scenarios. The existing scheduling system cannot realize the information interaction and collaborative integration between the physical world and the virtual world, while the digital twin (DT) technology can effectively solve the problem of real-time information interaction and the reinforcement learning (RL) method can cope with dynamic scenarios. Therefore, this paper proposed a DT-driven RL method to solve the marine equipment vehicle scheduling problem. Given the dynamic nature of transportation tasks, the diversity of transported goods, and the optimization characteristics of transportation requirements, a framework for scheduling transportation vehicle operations based on DT is constructed, and a RL-based vehicle scheduling method in a dynamic task environment is proposed. A Markov decision process (MDP) model of the vehicle scheduling process is established to realize one-to-one mapping between information and physical elements. An improved RL method based on Q-learning is proposed to solve the MDP model, and the value function approximation and convergence enhancement methods are applied to optimize the solving process. Finally, a case study is used for example verification to prove the superiority and effectiveness of the proposed method in this paper. Note to Practitioners—The motivation of this paper is to optimize material transportation vehicle scheduling in dynamic task environments and to improve logistics transportation efficiency. Therefore, a DT-based vehicle scheduling method for marine equipment is proposed. Firstly, a framework of vehicle scheduling based on DT is designed to establish a MDP model of the vehicle scheduling process, and the dynamic task characteristics are described by mathematical methods in the design of the elements of the model. A RL-based vehicle scheduling method is proposed. The value function approximation method and the convergence enhancement method of the algorithm are investigated for the characteristics of continuous dynamic action features leading to huge state space and non-convergence of the algorithm. The algorithm performance is verified and analyzed through data validation of actual cases.
+ER  - 
+
+TY  - CONF
+TI  - Mobility and QoS Prediction for Dynamic Coverage Optimization
+T2  - NOMS 2020 - 2020 IEEE/IFIP Network Operations and Management Symposium
+SP  - 1
+EP  - 2
+AU  - J. Ali-Tolppa
+AU  - M. Kajó
+PY  - 2020
+KW  - Degradation
+KW  - Adaptation models
+KW  - Automation
+KW  - Digital twin
+KW  - Quality of service
+KW  - Machine learning
+KW  - Seaports
+KW  - Machine Learning
+KW  - Cognitive Network Management
+KW  - Closed-loop Automation
+KW  - Digital Twin
+DO  - 10.1109/NOMS47738.2020.9110396
+JO  - NOMS 2020 - 2020 IEEE/IFIP Network Operations and Management Symposium
+IS  - 
+SN  - 2374-9709
+VO  - 
+VL  - 
+JA  - NOMS 2020 - 2020 IEEE/IFIP Network Operations and Management Symposium
+Y1  - 20-24 April 2020
+AB  - This demonstrator shows, how Machine Learning (ML) based predictions can be used for closed-loop optimization in operational network management. It is based on data collected from an actual testbed deployed at the Hamburg Smart Seaport and uses a digital twin of the testbed to demonstrate how Coverage and Capacity Optimization (CCO) and Beam Adaptation (BA) functions can utilize mobility and Quality of Service (QoS) predictions to prevent service degradations. At the same time it studies the use of digital twins in operational network management automation and the robustness of ML models against changes in the environment.
+ER  - 
+
+TY  - CONF
+TI  - A Platform for Time-Sensitive Networking in Converged IoT-Cloud Environments
+T2  - 2024 27th Conference on Innovation in Clouds, Internet and Networks (ICIN)
+SP  - 94
+EP  - 96
+AU  - G. Papathanail
+AU  - I. Sakellariou
+AU  - L. Mamatas
+AU  - P. Papadimitriou
+PY  - 2024
+KW  - Bridges
+KW  - Schedules
+KW  - Technological innovation
+KW  - Cloud computing
+KW  - Processor scheduling
+KW  - Computer architecture
+KW  - Logic gates
+DO  - 10.1109/ICIN60470.2024.10494475
+JO  - 2024 27th Conference on Innovation in Clouds, Internet and Networks (ICIN)
+IS  - 
+SN  - 2472-8144
+VO  - 
+VL  - 
+JA  - 2024 27th Conference on Innovation in Clouds, Internet and Networks (ICIN)
+Y1  - 11-14 March 2024
+AB  - IoT-enabled applications benefit from various forms of digital twinning, such as the so-called Virtual Objects (VOs). A crucial requirement in the communication among IoT devices and their associated VOs is low latency. In this respect, we showcase a software platform for Time-Sensitive Networking (TSN), which enables the rapid computation of TSN schedules, based on flow demands, and the configuration of Gate Control Lists (GCLs) on the TSN bridges that reside between IoT Gateways and VOs.
+ER  - 
+
+TY  - CONF
+TI  - Protocol Model and Execution Protocols for Networked MRO Intralogistics *
+T2  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+SP  - 2553
+EP  - 2558
+AU  - Q. Chen
+AU  - Z. Zhao
+AU  - G. Q. Huang
+PY  - 2024
+KW  - Protocols
+KW  - Uncertainty
+KW  - Processor scheduling
+KW  - Network topology
+KW  - Computational modeling
+KW  - Agricultural machinery
+KW  - Scheduling
+KW  - Planning
+KW  - Maintenance
+KW  - Logistics
+DO  - 10.1109/CASE59546.2024.10711769
+JO  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+Y1  - 28 Aug.-1 Sept. 2024
+AB  - Aviation maintenance, repair, and overhaul intralogistics (MRO intralogistics) are essential to ensure normal aircraft maintenance operations. However, MRO intralogistics faces several challenges, including planning inaccuracy, scheduling disruption, and execution uncertainties. In analogy to computer networking, this study proposes a networked framework for MRO intralogistics management. First, this work designs a protocol model to organize the planning, scheduling, and execution decisions systematically to achieve end-to-end communication among various participants. Second, this study proposes a network topology for organizing the physical logistics elements, such as parts, workers, and logistics equipment. Additionally, the study designs tables to instruct the physical logistics elements quickly. Third, the work designs the execution protocols to address the execution uncertainties in MRO intralogistics, such as absent workers and shortage of equipment. The protocol model and execution protocols of the networked MRO intralogistics realize its flexible and efficient management.
+ER  - 
+
+TY  - CONF
+TI  - Research on Coupling Mechanism of Production Factors of Super Large Integrated Port
+T2  - 2023 IEEE 8th International Conference on Big Data Analytics (ICBDA)
+SP  - 83
+EP  - 86
+AU  - L. Chunxu
+AU  - Z. Lei
+AU  - Z. Yucheng
+AU  - W. Jie
+PY  - 2023
+KW  - Couplings
+KW  - Correlation
+KW  - Production
+KW  - Big Data
+KW  - Digital twins
+KW  - Business
+KW  - Logistics
+KW  - Super large integrated port
+KW  - production factor
+KW  - coupling relationship
+KW  - digital twin
+DO  - 10.1109/ICBDA57405.2023.10104945
+JO  - 2023 IEEE 8th International Conference on Big Data Analytics (ICBDA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE 8th International Conference on Big Data Analytics (ICBDA)
+Y1  - 3-5 March 2023
+AB  - In view of the characteristics of the super-large integrated port, such as the variety of goods, complex business and multiple factors affecting the operation process, this paper studies the characteristics and correlation of key production factors in the complex business process of the terminal of the super-large integrated port according to the objective law of port operation, and sorts out the coupling relationship among various factors of the super-large integrated port. A coupling modeling method of production factors of super large integrated port based on logistics and information flow was proposed. The research provided theoretical support for ‘‘port digital twin system research and development’’.
+ER  - 
+
+TY  - JOUR
+TI  - Smart, Green, and Sustainable: Unveiling Technological Trajectories in Maritime Port Operations
+T2  - IEEE Access
+SP  - 47713
+EP  - 47723
+AU  - M. -I. Gerrero-Molina
+AU  - Y. -A. Vásquez-Suárez
+AU  - D. -M. Valdés-Mosquera
+PY  - 2024
+KW  - Seaports
+KW  - Fourth Industrial Revolution
+KW  - Bibliometrics
+KW  - Artificial intelligence
+KW  - Databases
+KW  - Production processes
+KW  - Internet of Things
+KW  - Maritime communications
+KW  - Sustainable development
+KW  - Supply chain management
+KW  - Green design
+KW  - Big Data
+KW  - Internet of Things
+KW  - Artificial intelligence
+KW  - Industry 40
+KW  - maritime ports
+KW  - scientometrics
+KW  - digital transformation
+KW  - sustainability
+KW  - smart ports
+KW  - technological innovations
+KW  - supply chain management
+DO  - 10.1109/ACCESS.2024.3376431
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - The technological advancements in port operations over the last decade have enabled the incorporation of significant elements into the supply chain, contributing to the progress of Industry 4.0. Through Big Data, the Internet of Things, and Artificial Intelligence, strides have been made in technical, operational, and procedural management for maritime ports. The literature on this subject is diverse and spans various areas of focus. This study aims to outline the principal trajectories of digital maritime transport by applying scientometrics and the ToS metaphor. Employing an exploratory methodology, a scientometric mapping was conducted based on Scopus and WoS, analyzing the most relevant scientific production by authors, countries, journals, and affiliations. Three trends are presented: Smart Ports: A Technological Necessity for the 21st Century; Greening the Digital Harbor; and Sustainable Port Management. The study concludes that the dynamics of scientific production have seen significant growth in the influence of Industry 4.0 in the maritime field, and it also evidences the applicability of technological innovations in the port sector.
+ER  - 
+
+TY  - CONF
+TI  - Mimo-Inspired Real-Time Scheduling of Port Transport Equipment: a Simulation-Optimization Approach Incorporating Reinforcement Learning
+T2  - 2025 International Conference on Networking, Sensing and Control (ICNSC)
+SP  - 1
+EP  - 6
+AU  - S. Zhu
+AU  - W. Li
+AU  - L. Cai
+AU  - L. He
+AU  - W. Guo
+AU  - H. Fan
+PY  - 2025
+KW  - Uncertainty
+KW  - Processor scheduling
+KW  - Heuristic algorithms
+KW  - Computational modeling
+KW  - Transportation
+KW  - Reinforcement learning
+KW  - Dynamic scheduling
+KW  - Real-time systems
+KW  - Optimization
+KW  - Logistics
+KW  - MIMO
+KW  - Real-time Scheduling
+KW  - Horizontal Transportation Equipment
+KW  - Simulation
+KW  - Reinforcement Learning
+DO  - 10.1109/ICNSC66229.2025.00036
+JO  - 2025 International Conference on Networking, Sensing and Control (ICNSC)
+IS  - 
+SN  - 2766-8665
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Networking, Sensing and Control (ICNSC)
+Y1  - 1-3 Oct. 2025
+AB  - The dynamic scheduling of automated container terminals has emerged as a critical challenge in port operations optimization. This study addresses two persistent issues in port transport equipment scheduling: operational uncertainties and chronic congestion at cargo interfaces. We propose a novel reinforcement learning framework that innovatively integrates Multi-Input Multi-Output (MIMO) communication theory into port logistics optimization. The methodology comprises three key components: 1) Development of an isomorphic mapping model that establishes precise correspondence between port logistics elements and communication system components, 2) Implementation of an enhanced $Q$-learning algorithm with multi-dimensional state-action space configuration, and 3) Deployment of a digital twin platform for virtual-real interaction verification of scheduling policies. Through extensive simulations on a validated terminal model, the proposed framework demonstrates superior performance metrics: achieving a 16 % reduction in average task completion time while decreasing quay crane waiting time variability by 31 % compared to conventional heuristic approaches. Notably, the MIMO-inspired real-time scheduling mechanism reduces peakperiod congestion occurrences by 47 % through intelligent resource multiplexing. These empirical results substantiate the framework's capability to enhance horizontal transportation efficiency while maintaining operational stability under stochastic disturbances.
+ER  - 
+
+TY  - CONF
+TI  - A feasibility study on emissions reductions and demand response in a seaport building
+T2  - 2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)
+SP  - 188
+EP  - 195
+AU  - E. Segovia
+AU  - M. Short
+AU  - F. Hassan
+AU  - D. Coleman
+AU  - M. Walker
+PY  - 2022
+KW  - Electric potential
+KW  - Heat pumps
+KW  - Oils
+KW  - Buildings
+KW  - Seaports
+KW  - Demand response
+KW  - Energy efficiency
+KW  - Baseline
+KW  - building-to-grid
+KW  - demand response
+KW  - digital twins
+KW  - energy consumption
+KW  - energy efficiency
+KW  - HVAC
+KW  - thermal comfort
+DO  - 10.1109/CSCC55931.2022.00040
+JO  - 2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)
+Y1  - 19-22 July 2022
+AB  - Digital Twins play a vital role in analyzing dynamic behavior and increasing energy efficiency in an interconnected energy system. Energy consumption modelling in buildings is a fundamental part of developing a building energy digital twin, which allows the use of a virtual environment to run ‘what-if’ simulations to explore the impact of design modifications for improving the energy efficiency of buildings. This paper focuses principally on the HVAC demand in a seaport building used as an office space. It explores the flexibility and deployment of heat pumps for emissions reductions and demand response. The office building, located in Middlesbrough, UK was modelled using sensor data on electricity consumption, fuel oil consumption, inside temperature and humidity distribution and the subjective thermal experiences of the building occupants. Modelling errors of less than 6% for the demand for active power and less than 10% for the demand for reactive power were obtained. The models were then deployed for exploration of demand management, demand response and emissions reduction scenarios. The paper reports the potential for 33% cut in CO2 emissions per year by conversion of heating from fuel oil to heat pumps, and a 14% potential reduction in peak electricity load by the deployment of heuristic demand management / demand response controls.
+ER  - 
+
+TY  - CONF
+TI  - TwinPot: Digital Twin-assisted Honeypot for Cyber-Secure Smart Seaports
+T2  - 2023 IEEE International Conference on Communications Workshops (ICC Workshops)
+SP  - 740
+EP  - 745
+AU  - Y. Yigit
+AU  - O. K. Kinaci
+AU  - T. Q. Duong
+AU  - B. Canberk
+PY  - 2023
+KW  - Performance evaluation
+KW  - Conferences
+KW  - Intrusion detection
+KW  - Telecommunication traffic
+KW  - Seaports
+KW  - Software
+KW  - Security
+KW  - IoT
+KW  - DT
+KW  - Seaport
+KW  - Smart Ports
+KW  - Honeypot
+DO  - 10.1109/ICCWorkshops57953.2023.10283756
+JO  - 2023 IEEE International Conference on Communications Workshops (ICC Workshops)
+IS  - 
+SN  - 2694-2941
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Communications Workshops (ICC Workshops)
+Y1  - 28 May-1 June 2023
+AB  - The idea of next-generation ports has become more apparent in the last ten years - in response to the challenge posed by the rising demand for efficiency and the ever-increasing volume of goods. In this new era of intelligent infrastructure and facilities, it is evident that cyber-security has recently received the most significant attention from the seaport and maritime authorities, and it is a primary concern on the agenda of most ports. Traditional security solutions like firewalls and antivirus software can be applied to safeguard IoT and Cyber-Physical Systems (CPS) from harmful entities. Nevertheless, security researchers can only watch, examine, and learn about the behaviors of attackers if these solutions operate more transparently. Herein, honeypots are potential solutions since they offer valuable information about the attackers. Honeypots can be virtual or physical. Virtual honeypots must be more realistic to entice attackers, necessitating better high-fidelity. To this end, Digital Twin (DT) technology can be employed to increase the complexity and simulation fidelity of the honeypots. Seaports can be attacked from both their existing devices and external devices at the same time. Existing intrusion detection mechanisms are insufficient to detect external attacks; therefore, the current systems cannot handle attacks at the desired level. DT and honeypot technologies can be used together to tackle them. Consequently, we suggest a DT-assisted honeypot, called TwinPot, for external attacks in smart seaports. Moreover, we propose an intelligent attack detection mechanism to handle different attack types using DT technology for internal attacks. Finally, we build an extensive smart seaport dataset for internal and external attacks using the MANSIM tool and two existing datasets to test the performance of our system. We show that under both simultaneous internal and external attacks on the system, our solution successfully detects internal and external attacks.
+ER  - 
+
+TY  - CONF
+TI  - Optimization of Operations in Solid Bulk Port Terminals Using Digital Twin
+T2  - 2025 Winter Simulation Conference (WSC)
+SP  - 3046
+EP  - 3057
+AU  - J. Neyra
+AU  - L. Silva
+AU  - J. Netto
+AU  - A. Medina
+PY  - 2025
+KW  - Metaheuristics
+KW  - Decision making
+KW  - Seaports
+KW  - Solids
+KW  - Rail transportation
+KW  - Digital twins
+KW  - Minerals
+KW  - Marine vehicles
+KW  - Preventive maintenance
+KW  - Logistics
+DO  - 10.1109/WSC68292.2025.11339094
+JO  - 2025 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2025 Winter Simulation Conference (WSC)
+Y1  - 7-10 Dec. 2025
+AB  - This article presents the development of a Digital Twin (DT)-based tool for optimizing scheduling in solid bulk export port terminals. The approach integrates agent-based simulation with the Ant Colony System (ACS) metaheuristic to efficiently plan railway unloading, stockyard storage, and maritime shipping. The model interacts with operational data, anticipating issues and aiding decision-making. Validation was performed using real data from a port terminal in Brazil, yielding compatible results and reducing port stay duration. Tests were based on a Baseline Scenario, aligned with a mineral export terminal, for ACS parameter calibration, along with three additional scenarios: direct shipment, preventive maintenance, and a simultaneous route from stockyard to ships. This study highlights DT's potential to modernize port operations, offering practical support in large-scale logistics environments.
+ER  - 
+
+TY  - JOUR
+TI  - Trajectory Predictions with Details in a Robotic Twin-Crane System
+T2  - Complex System Modeling and Simulation
+SP  - 1
+EP  - 17
+AU  - N. Zhao
+AU  - G. Lodewijks
+AU  - Z. Fu
+AU  - Y. Sun
+AU  - Y. Sun
+PY  - 2022
+KW  - Cranes
+KW  - Simulation
+KW  - Interference
+KW  - Predictive models
+KW  - Containers
+KW  - Production facilities
+KW  - Trajectory
+KW  - twin-crane systems
+KW  - trajectory prediction
+KW  - acceleration
+KW  - velocity
+KW  - interference
+DO  - 10.23919/CSMS.2021.0028
+JO  - Complex System Modeling and Simulation
+IS  - 1
+SN  - 2097-3705
+VO  - 2
+VL  - 2
+JA  - Complex System Modeling and Simulation
+Y1  - March 2022
+AB  - Nowadays, more automated or robotic twin-crane systems (RTCSs) are employed in ports and factories to improve material handling efficiency. In a twin-crane system, cranes must travel with a minimum safety distance between them to prevent interference. The crane trajectory prediction is critical to interference handling and crane scheduling. Current trajectory predictions lack accuracy because many details are simplified. To enhance accuracy and lessen the trajectory prediction time, a trajectory prediction approach with details (crane acceleration/deceleration, different crane velocities when loading/unloading, and trolley movement) is proposed in this paper. Simulations on different details and their combinations are conducted on a container terminal case study. According to the simulation results, the accuracy of the trajectory prediction can be improved by 20%. The proposed trajectory prediction approach is helpful for building a digital twin of RTCSs and enhancing crane scheduling.
+ER  - 
+
+TY  - CONF
+TI  - Port Management Digital Twin and Control Tower Integration: An Approach to Support Real-Time Decision Making
+T2  - 2024 Winter Simulation Conference (WSC)
+SP  - 2821
+EP  - 2831
+AU  - A. Fernandes
+AU  - D. Gutierres
+AU  - M. Fugihara
+AU  - B. De Norman
+PY  - 2024
+KW  - Machine learning algorithms
+KW  - Runtime
+KW  - Heuristic algorithms
+KW  - Decision making
+KW  - Poles and towers
+KW  - Predictive models
+KW  - Real-time systems
+KW  - Digital twins
+KW  - Resource management
+KW  - Predictive analytics
+DO  - 10.1109/WSC63780.2024.10838965
+JO  - 2024 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2024 Winter Simulation Conference (WSC)
+Y1  - 15-18 Dec. 2024
+AB  - Discrete event simulation plays a pivotal role in facilitating decision-making within logistics, necessitating real-time initiation based on the current state of the system. The architecture outlined in this article integrates a real-time Digital Twin with simulation logic and a Control Tower into a cohesive model, thereby reducing offline efforts and runtime. This paper is to presents a groundbreaking project in a Brazilian port. The holistic approach of it offers a comprehensive overview of port operations and enables predictive insights for up to 72 hours in advance. Beyond enhancing operational efficiency, it promotes proactive decision-making and adaptive resource allocation, marking a paradigm shift in port management. The integration of real-time feedback and dynamic optimization algorithms can further enhance the responsiveness and adaptability of the system to changing operational conditions. Future development lies in enhancing the predictive analytics capabilities of the model by leveraging machine learning algorithms and advanced analytics techniques.
+ER  - 
+
+TY  - CONF
+TI  - Research on Optimization Scheduling Method for Port Electric Logistics Container Trucks
+T2  - 2025 5th International Conference on Energy, Power and Electrical Engineering (EPEE)
+SP  - 326
+EP  - 331
+AU  - Y. Wang
+AU  - Z. Wu
+AU  - D. Zhang
+PY  - 2025
+KW  - Costs
+KW  - Simulation
+KW  - Optimization models
+KW  - Electricity
+KW  - Carbon dioxide
+KW  - Containers
+KW  - Dynamic scheduling
+KW  - Optimization
+KW  - Logistics
+KW  - Genetic algorithms
+KW  - container trucks
+KW  - optimized scheduling
+KW  - ports
+KW  - logistics
+DO  - 10.1109/EPEE67527.2025.11428729
+JO  - 2025 5th International Conference on Energy, Power and Electrical Engineering (EPEE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Energy, Power and Electrical Engineering (EPEE)
+Y1  - 19-21 Sept. 2025
+AB  - This paper proposes a multi-objective optimization model considering idle time, time of use electricity price, battery degradation, and carbon quotas for the scheduling optimization of port electric logistics trucks under the “dual carbon” target. To solve the model, an improved adaptive genetic algorithm (IAGA) was designed, which improves the solving performance through adaptive operators and local search. The simulation results show that compared with the standard genetic algorithm (SGA) and first come first served (FCFS) strategies, the proposed method reduces the idle time and significantly reduces the total cost, verifying its effectiveness in improving port operation efficiency and promoting green operations.
+ER  - 
+
+TY  - CONF
+TI  - CHALLENGES AND OPPORTUNITIES IN INTEGRATION OF SIMULATION AND OPTIMIZATION IN MARITIME LOGISTICS
+T2  - 2018 Winter Simulation Conference (WSC)
+SP  - 2897
+EP  - 2908
+AU  - C. Zhou
+AU  - H. Li
+AU  - W. Liu
+AU  - A. Stephen
+AU  - L. H. Lee
+AU  - E. Peng Chew
+PY  - 2018
+KW  - Optimization
+KW  - Logistics
+KW  - Industries
+KW  - Containers
+KW  - Mathematical model
+KW  - Logic gates
+KW  - Modeling
+DO  - 10.1109/WSC.2018.8632202
+JO  - 2018 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2018 Winter Simulation Conference (WSC)
+Y1  - 9-12 Dec. 2018
+AB  - Maritime logistics plays an important role in the global trading scene with over 80% of global trade by volume and more than 70% of the trade value being handled by vessels and seaports worldwide. Today, the maritime industry is facing both new challenges and opportunities. Amongst the existing review papers, an in-depth and systematic summary on the integration of simulation and optimization is lacking. To fill the gap, this paper reviews dozens of papers on the integration of simulation and optimization for maritime logistics since 2010. Five modes of integration are classified according to how the two techniques interact with each other. Lastly, the paper introduces new challenges and opportunities in the maritime industry, and how the integration of simulation and optimization can help to boost the development of the next generation maritime systems.
+ER  - 
+
+TY  - JOUR
+TI  - Modeling the Bulk Port Belt-Conveyor Routing Problem Considering Interactions With Storage Spaces and Loading Operations
+T2  - IEEE Access
+SP  - 87709
+EP  - 87731
+AU  - S. Mallah
+AU  - A. Aloullal
+AU  - O. Kamach
+AU  - M. Masmoudi
+AU  - K. Kouiss
+AU  - A. Chebak
+PY  - 2023
+KW  - Routing
+KW  - Real-time systems
+KW  - Load modeling
+KW  - Seaports
+KW  - Mathematical models
+KW  - Optimization
+KW  - Fertilizers
+KW  - Position measurement
+KW  - Supply chains
+KW  - Storage management
+KW  - Complex transportation routes' matrix
+KW  - destination points
+KW  - problems’ interaction constraints
+KW  - routing constraints
+KW  - routing problem
+KW  - source points
+DO  - 10.1109/ACCESS.2023.3305572
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - In bulk port supply chains, products move from several source points (storage sheds) to various destination points (other storage sheds or vessels and trucks’ loading stations). The concern in such ports is increasing the value of delivering customer-specific products on time by choosing the best transportation routes among a complex real-world belt-conveyor routes network. This routing problem plays a crucial role in reducing charges related to waiting and tardiness in loading and stocking operations. In this paper, we propose a mixed integer linear program that considers jointly: routing constraints and interactions with stocking and loading operations. We propose a second model with pre-processing and reduction techniques to enhance computational performance. The two models are tested on 126 generated instances with up to 1590 routes (the real matrix of routes of a real industrial application). The results reveal a striking difference between the first and the second models in terms of  $(i)$  the number of instances that could be handled (6 versus 111 out of 126);  $(ii)$  the number of instances solved to optimality (5% versus 71%). The models are promising and respond to the needs regarding integration between the routing, which is the main operation in the fertilizer and phosphate port supply chain, and other operations, such as stocking and loading. The integration of the proposed models toward a real-time planning/control integrated system is discussed.
+ER  - 
+
+TY  - JOUR
+TI  - A Population-Based Variable Neighborhood Search for Multi-AGV Scheduling With Sudden Failures of Production Cells in Intelligent Workshops
+T2  - IEEE Access
+SP  - 53474
+EP  - 53488
+AU  - L. Li
+AU  - B. Jia
+AU  - B. Zhang
+AU  - L. Meng
+AU  - W. Zou
+PY  - 2026
+KW  - Job shop scheduling
+KW  - Production
+KW  - Costs
+KW  - Conferences
+KW  - Transportation
+KW  - Scheduling
+KW  - Dynamic scheduling
+KW  - Heuristic algorithms
+KW  - Search problems
+KW  - Manufacturing systems
+KW  - AGV
+KW  - VNS
+KW  - scheduling
+KW  - matrix manufacturing workshop
+KW  - sudden failure
+DO  - 10.1109/ACCESS.2026.3676269
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 14
+VL  - 14
+JA  - IEEE Access
+Y1  - 2026
+AB  - With the application and popularization of intelligent workshops, the sudden failure has become one of the key factors affecting production efficiency and stability. However, little attention has been paid to the scheduling of automatic guided vehicle (AGV) in the event of sudden failures. This paper investigates a multi-AGV scheduling problem with the sudden failure of production cells in a matrix manufacturing workshop, aiming to maximize the task delivery rate of AGVs. To address the problem, a mixed integer linear programming model and an algorithm which combines Q-learning with Variable Neighborhood Search based on population initialization (PQVNS) are proposed. Specifically, three strategies and two acceleration theorems are proposed in the Shaking stage, and four strategies in Variable Neighborhood Descent as well as Q-learning are designed to enhance the exploration and exploitation of the algorithm, and two rescheduling strategies are presented to deal with the reassignment of multiple AGVs at the time of sudden failure. Finally, 80 instances of real workshop collected are evaluated and compared with five existing algorithms in the related literature. The experimental results show that the proposed strategies are very effective and the proposed algorithm is better than the existing algorithms in solving the multi-AGV problem.
+ER  - 
+
+TY  - CONF
+TI  - Smart Ports: Utilizing AI-Driven Predictive Analytics and Simulation for Operational Excellence
+T2  - 2024 International Conference on Smart Technologies for Sustainable Development Goals (ICSTSDG)
+SP  - 1
+EP  - 7
+AU  - B. J. Chelliah
+AU  - S. K. Gahra
+AU  - A. Senthilselvi
+AU  - S. S. Pandi
+PY  - 2024
+KW  - Analytical models
+KW  - Accuracy
+KW  - Costs
+KW  - Predictive models
+KW  - Throughput
+KW  - Delays
+KW  - Artificial intelligence
+KW  - Predictive analytics
+KW  - Sustainable development
+KW  - Testing
+KW  - Smart Port Management
+KW  - Artificial Intelligence (AI)
+KW  - Machine Learning (ML)
+KW  - Simulation modeling
+KW  - Operational efficiency
+KW  - Predictive Modeling
+KW  - IoT Sensors
+DO  - 10.1109/ICSTSDG61998.2024.11026747
+JO  - 2024 International Conference on Smart Technologies for Sustainable Development Goals (ICSTSDG)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Smart Technologies for Sustainable Development Goals (ICSTSDG)
+Y1  - 6-8 Nov. 2024
+AB  - Using artificial intelligence (AI) smart port management gives a revolutionary way to maximize port operations by means of enhanced technological integration. Usually depending on conventional scheduling algorithms and rudimentary analytics, current port management solutions result in poor resource use and operational inefficiencies. These approaches provide higher turn-around times, congestion, and environmental damage as they lack the adaptability and predictive powers needed to properly manage contemporary marine logistics. This study presents a sophisticated approach that combines AI-driven predictive analytics with simulation modeling to tackle these difficulties. The suggested methodology improves upon current methodologies by integrating real-time data inputs from IoT sensors and machine learning algorithms to forecast operational disturbances and optimize scheduling. The program specifically utilizes Random Forests and Neural Networks for predictive analytics. It leverages previous maintenance records and sensor data to accurately predict equipment breakdowns and optimize port operations. Simulation modeling is employed to generate a digital depiction of port operations, allowing for the assessment of different management methods in various scenarios without the actual dangers associated with the real world. In order to evaluate the efficacy of the proposed model, various performance indicators including prediction accuracy, operational throughput, and cost savings are assessed. The study showcases that utilizing AI technology leads to a substantial enhancement in predicted accuracy and operational efficiency when compared to conventional approaches. This offers a strong alternative to reduce delays and improve the overall performance of ports.
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Fidelity Simulation Modeling for Discrete Event Simulation: An Optimization Perspective
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 1156
+EP  - 1169
+AU  - W. Chen
+AU  - W. Hong
+AU  - H. Zhang
+AU  - P. Yang
+AU  - K. Tang
+PY  - 2023
+KW  - Computational modeling
+KW  - Solid modeling
+KW  - Optimization
+KW  - Brain modeling
+KW  - Discrete event simulation
+KW  - Distortion
+KW  - Resource management
+KW  - Multi-fidelity simulation modeling
+KW  - discrete event simulation
+KW  - bi-objective simulation optimization
+DO  - 10.1109/TASE.2022.3173296
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 2
+SN  - 1558-3783
+VO  - 20
+VL  - 20
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - April 2023
+AB  - Multi-fidelity simulation is an effective approach to balancing speed and accuracy in expensive simulation, and its performance is affected by the quality of multi-fidelity simulation models. Building high-quality simulation models is non-trivial, especially for complex systems, because current manual modeling methods require sufficient domain knowledge and experience, increasing the labor and time costs. Motivated by the issues, this paper focuses on one of the most crucial simulation types, discrete event simulation, and develops a computer-aid multi-fidelity simulation modeling method called Optimization-based Multi-fidelity Simulation Modeling (OMFSM). OMFSM formulates multi-fidelity simulation modeling as a bi-objective simulation optimization problem to optimize speed and accuracy. An efficient optimization algorithm called Multi-objective Simulation Optimization based on Hypervolume (MOSO-HV) is tailored to select a set of high-quality models. Experimental results in a digital twin emergency department demonstrate that the computer-aid modeling method builds more and better multi-fidelity simulation models than manual modeling and reveal the effectiveness of MOSO-HV for OMFSM. The utility of OMFSM in multi-fidelity simulation is also justified by a real-world optimization problem. Note to Practitioners—Multi-fidelity simulation is an essential technique to fulfill the demand for accuracy analysis and quick decision-making in Industrial 4.0, such as digital twins and virtual reality. The quality of multi-fidelity simulation models significantly influences the performance of multi-fidelity simulation. Developers currently build multi-fidelity simulation models manually, and their experience determines the model’s quality. To reduce the labor and time costs in constructing high-quality multi-fidelity simulation models, we propose a computer-aid method named OMFSM from optimization for the first time. Experiments on a real case prove that OMFSM lightens the burden of manual modeling and provides more and better models for multi-fidelity simulation.
+ER  - 
+
+TY  - CONF
+TI  - VITAL-5G: Innovative Network Applications (NetApps) Support over 5G Connectivity for the Transport & Logistics Vertical
+T2  - 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)
+SP  - 437
+EP  - 442
+AU  - K. Trichias
+AU  - G. Landi
+AU  - E. Seder
+AU  - J. Marquez-Barja
+AU  - R. Frizzell
+AU  - M. Iordache
+AU  - P. Demestichas
+PY  - 2021
+KW  - Industries
+KW  - Technological innovation
+KW  - 5G mobile communication
+KW  - Europe
+KW  - Communications technology
+KW  - Complexity theory
+KW  - Portals
+KW  - Transport
+KW  - Logistics
+KW  - NetApps
+KW  - 5G-testbed
+KW  - vertical experimentation
+KW  - port/warehouse trials
+KW  - SME
+DO  - 10.1109/EuCNC/6GSummit51104.2021.9482437
+JO  - 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)
+IS  - 
+SN  - 2575-4912
+VO  - 
+VL  - 
+JA  - 2021 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)
+Y1  - 8-11 June 2021
+AB  - As 5G networks are being deployed across the world, more and more vertical industries are discovering the benefits of 5G connectivity and the novel business and innovation models that it has to offer. The Transport & Logistics (T&L) industry is expected to be one of the key adopters of 5G technology, where the 5G enterprise market for T&L is estimated to reach $2.9 trillion (€2.7 trillion) by 2026 and grow at a CAGR of 47.5% [1]. However, the adoption and penetration of 5G-based solutions in T&L may be hindered by the knowledge/expertise gap between the vertical industry, the telecommunication experts and the application developers. 5G based Network Applications (NetApps) represent a key enabler for the adoption of 5G solutions, as they can abstract the complexity of the underlying 5G infrastructure for T&L application developers, and significantly reduce the service creation and deployment times, as well as optimize the utilization of 5G resources. The European Innovation Action project VITAL-5G has the vision to advance the offered T&L services by showcasing the benefits of 5G-based NetApps via real-life trials over state of the art vertical (T&L) facilities (warehouse, hubs, ports) and advanced European 5G-testbeds. To support both internal and 3rd-party experimentation, VITAL-5G will create an elaborate experimentation service portal and online repository which will facilitate the creation, deployment, monitoring and (re)configuration of NetApps in the vertical environment.
+ER  - 
+
+TY  - CONF
+TI  - Smart Supply Chains in Morocco: Sectoral Insights, Structural Barriers and Strategic Pathways for Inclusive Digital Transformation
+T2  - 2025 IEEE International Conference on Advanced Technologies in Supply Chain Management (ATSCM)
+SP  - 1
+EP  - 6
+AU  - H. O. Erradouani
+PY  - 2025
+KW  - Internet of Things
+KW  - Interoperability
+KW  - Communication systems
+KW  - Protocols
+KW  - Internet
+KW  - Internetworking
+KW  - HTTP
+KW  - Broadband communication
+KW  - Routing
+KW  - Artificial intelligence
+KW  - Industry 4.0
+KW  - smart supply chains
+KW  - digital transformation
+KW  - Morocco
+KW  - Internet of Things
+KW  - blockchain
+DO  - 10.1109/ATSCM67505.2025.11473905
+JO  - 2025 IEEE International Conference on Advanced Technologies in Supply Chain Management (ATSCM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Advanced Technologies in Supply Chain Management (ATSCM)
+Y1  - 21-22 Nov. 2025
+AB  - The integration of Industry 4.0 technologies— including the Internet of Things, artificial intelligence, blockchain, and digital twins—is transforming supply chain structures worldwide. While these technologies offer potential improvements in visibility, traceability, and operational efficiency, their adoption in emerging economies is often uneven and context-specific. This paper examines Morocco’s development toward smart supply chains in three strategic sectors: agri-food, automotive manufacturing, and port logistics.Using a sectoral analytical approach, the study combines institutional reports, official statistics, and peer-reviewed literature from 2018 to 2025. The analysis focuses on three research questions: (i) the specific methods of digital technology adoption in Morocco’s priority supply chain sectors, (ii) organizational and structural barriers affecting adoption and inclusiveness, and (iii) the requirements for creating integrated, end-to-end digital supply networks.Findings indicate contrasts between highly digitalized initiatives, such as Tanger Med and certain automotive projects, and broader structural challenges, including skill shortages, limited SME access to finance, interoperability issues, and sectoral disparities in technology uptake. The paper concludes that Morocco’s transition toward smart supply chains cannot rely on organic market developments alone and proposes a multi-level, pragmatic policy roadmap to foster inclusive digitalization.
+ER  - 
+
+TY  - CONF
+TI  - Unified Cognitive Orchestration System: The Next Paradigm for End-to-End Port Management and Predictive Truck Appointment Scheduling
+T2  - 2026 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
+SP  - 1
+EP  - 6
+AU  - V. T. M
+AU  - G. G. R
+AU  - S. T
+PY  - 2026
+KW  - Friction
+KW  - Ecosystems
+KW  - Prototypes
+KW  - Computer architecture
+KW  - Transforms
+KW  - System integration
+KW  - Seaports
+KW  - Real-time systems
+KW  - Logistics
+KW  - Testing
+KW  - Port Community System
+KW  - Truck Appointment System
+KW  - Logistics Orchestration
+KW  - Digital Fragmentation
+KW  - Real-Time Systems
+KW  - API Aggregation
+KW  - Supply Chain Management
+KW  - System Integration
+KW  - Python Flask
+KW  - Server-Sent Events (SSE)
+DO  - 10.1109/IITCEE67948.2026.11394151
+JO  - 2026 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)
+Y1  - 22-23 Jan. 2026
+AB  - Global port logistics are critically hindered by digital fragmentation, where isolated information silos between terminal operators, customs authorities, and shipping lines create significant operational friction and costly inefficiencies. The primary barrier to true integration is not technological but strategic: a justifiable reluctance from stakeholders to cede control over their proprietary data systems. This work addresses this challenge by proposing and implementing a neutral orchestration architecture designed to unify disparate data sources without requiring direct, privileged access to core systems. The primary artifact of this research is the Unified Cognitive Orchestration System (UCOS), a fully functional, real-time web application built on a Python Flask backend and a dynamic JavaScript frontend utilizing Server-Sent Events for live data propagation. UCOS successfully demonstrates the ability to aggregate multi-terminal slot data, provide an intelligent 'pre-check' tool that validates a container's complete readiness (location, customs, and freight status), and embed real-time validation directly into the truck appointment booking process to eliminate user error at the source. The results confirm that this decoupled, API-driven model is a feasible and scalable blueprint for a real-world Port Community System, validating the thesis that a neutral intermediary can transform fragmented, reactive operations into a predictive, efficient, and cohesive logistics ecosystem.
+ER  - 
+
+TY  - CONF
+TI  - A novel integration approach for a complex supply chain optimization problem in an export bulk port
+T2  - 2020 7th International Conference on Control, Decision and Information Technologies (CoDIT)
+SP  - 751
+EP  - 756
+AU  - S. Mallah
+AU  - A. Aloullal
+AU  - O. Kamach
+AU  - K. Kouiss
+AU  - N. Najid
+AU  - L. Deshayes
+PY  - 2020
+KW  - Planning
+KW  - Tools
+KW  - Optimization
+KW  - Loading
+KW  - Stacking
+KW  - Complexity theory
+KW  - Control systems
+KW  - Planning/control integration
+KW  - planning sub-problems integration
+KW  - Systems Engineering
+DO  - 10.1109/CoDIT49905.2020.9263911
+JO  - 2020 7th International Conference on Control, Decision and Information Technologies (CoDIT)
+IS  - 
+SN  - 2576-3555
+VO  - 1
+VL  - 1
+JA  - 2020 7th International Conference on Control, Decision and Information Technologies (CoDIT)
+Y1  - 29 June-2 July 2020
+AB  - Supply chain management is the art and science of delivering the right product in good quality, to the right customer, in the right place and at the right time. Bringing about the emergence of this much-wanted value is carried out by a synergic integration of an optimization tool within the control system rather than developing an isolated optimization solution. Then, if we move to the optimal planning tool in particular, it is believed that, the integration of planning and scheduling decisions of storage, routing and loading together making up an integrated optimization plan without contradictory goals, is vital for an efficient use of the three aforementioned bulk port operations. In this paper, we present an architecture to get the optimization tool fit into the industrial control system to consider disturbances, feedback cycles and dynamics. Then, we propose a novel approach of the integration of the three sub-optimizers using the systems engineering method. The novel aspect of this contribution is twofold. First, rather than only describing the problem before formulating the mathematical model. The systems engineering method, allowed to specify the problem with an in-depth scientific analysis, in order to get a complete and consistent mastery of the problem. Therefore, the problem formulation will not miss important use cases of the complex supply chain. Second, the resulting specified planning integration helps the whole planning tool converge in a reasonable time by avoiding quasi-infinite interaction loops.
+ER  - 
+
+TY  - CONF
+TI  - Assessing the Technical and Environmental Impacts of Energy Management Systems in Smart Ports
+T2  - 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+SP  - 1
+EP  - 5
+AU  - Y. Yang
+AU  - H. M. Hussain
+AU  - J. Haakana
+AU  - P. Nardelli
+PY  - 2025
+KW  - Energy consumption
+KW  - Costs
+KW  - Systematics
+KW  - Optimization models
+KW  - Green products
+KW  - Europe
+KW  - Carbon dioxide
+KW  - Seaports
+KW  - Energy management systems
+KW  - Systematic literature review
+DO  - 10.1109/ISGTEurope64741.2025.11305390
+JO  - 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+Y1  - 20-23 Oct. 2025
+AB  - A vital strategy for ports to mitigate the environmental impact of the maritime industry, while complying with frameworks such as the European Green Deal and the Sustainable Development Goals (SDGs), entails the systematic implementation of comprehensive energy management solutions. This paper provides a baseline evaluation of the energy management systems (EMSs) implementation and their impact on energy consumption, carbon emissions, and operational costs in smart ports. Initially, we provide a systematic review of the literature focusing on case studies from prominent ports, including Hamburg, Genoa, Jurong, and Shanghai Yangshan Phase IV. The analysis emphasizes key aspects such as energy efficiency, reductions in emissions, and the minimization of operational costs. Subsequently, we formulate an optimization model to simulate load dispatch, carbon emission reduction, and transport scheduling. Results indicate that EMS deployment reduces annual energy consumption and carbon emissions significantly—by approximately 7–8% and 11–12% respectively—while achieving substantial cost savings 30%. The study also identifies critical challenges, including system integration, data quality issues, cybersecurity risks, and the need for standardization. These findings provide valuable insights for port authorities and policymakers, supporting the transition toward more sustainable and efficient port operations.
+ER  - 
+
+TY  - JOUR
+TI  - Time-Optimal Route Planning for Electric Ships in Stochastic Seas via PMP–HJB Equivalence
+T2  - IEEE Access
+SP  - 41119
+EP  - 41140
+AU  - J. Kwon
+AU  - H. -S. Jang
+AU  - T. -H. Lee
+AU  - Y. -J. Kim
+AU  - K. -H. Ryu
+AU  - Y. -K. Kim
+AU  - J. Park
+PY  - 2026
+KW  - Marine vehicles
+KW  - Reactive power
+KW  - Safety
+KW  - Reliability
+KW  - Vectors
+KW  - Computational modeling
+KW  - Numerical models
+KW  - Motors
+KW  - Inverters
+KW  - Dynamics
+KW  - Hamilton-Jacobi-Bellman (HJB) equation
+KW  - Pontryagin’s maximum principle (PMP)
+KW  - robustness analysis
+KW  - time-optimal route planning
+KW  - vector autoregression (VAR)
+DO  - 10.1109/ACCESS.2026.3662203
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 14
+VL  - 14
+JA  - IEEE Access
+Y1  - 2026
+AB  - We propose an integrated framework for minimum-time return-to-origin routing of electric-propelled ships operating under uncertain wind, waves, and currents, with a particular focus on partial-failure conditions. Because delayed return in harsh seas can escalate operational risk, the framework is designed to deliver not only fast routes but also dependable guidance under forecast and modeling uncertainty. We first generate stochastic metocean profiles using a vector autoregression (VAR) model that preserves cross-variable dependencies, and we couple these profiles with a physics-based vessel model. Wind forcing and wave-added resistance are converted into an equivalent drift and combined with ocean currents, allowing heterogeneous environmental effects to be treated consistently in the routing formulation. The time-optimal route is computed using Pontryagin’s Maximum Principle (PMP), and the solution is validated and generalized through the Hamilton–Jacobi–Bellman (HJB) value function, providing a complementary policy-level view of optimality. To quantify operational robustness, we construct a large library of perturbed routes and identify an asymmetric robust corridor in which transit-time inflation remains within a 10% margin. Simulation studies in a realistic coastal scenario show that the proposed approach yields stable minimum-time return routes, clarifies when near-straight paths become fragile, and offers actionable guidance for safe and economical operation. The results support practical deployment in digital-twin and decision-support systems for electric and autonomous surface ships.
+ER  - 
+
+TY  - JOUR
+TI  - Application Research of Parameter Uncertainty Optimization Method in Steering Detection and Correction System
+T2  - IEEE Journal of Radio Frequency Identification
+SP  - 665
+EP  - 670
+AU  - J. Yang
+AU  - M. Xu
+AU  - L. Ma
+AU  - F. Chang
+AU  - W. Wu
+PY  - 2024
+KW  - Navigation
+KW  - Magnetometers
+KW  - Kalman filters
+KW  - Global navigation satellite system
+KW  - Magnetic separation
+KW  - Mathematical models
+KW  - Steering systems
+KW  - Detection algorithms
+KW  - Combinatorial navigation
+KW  - extended Kalman filter
+KW  - steering detection and compensation
+KW  - PSO
+DO  - 10.1109/JRFID.2024.3392444
+JO  - IEEE Journal of Radio Frequency Identification
+IS  - 
+SN  - 2469-7281
+VO  - 8
+VL  - 8
+JA  - IEEE Journal of Radio Frequency Identification
+Y1  - 2024
+AB  - A novel heading angle detection and compensation method is presented with the aim of addressing the navigation and localization accuracy challenges that unmanned robots encounter in their daily inspection jobs, thereby significantly raising the bar for smart port building and promoting the development of ports of superior quality. The Extended Kalman Filter (EKF) algorithm and a Global Navigation Satellite System (GNSS) Inertial Navigation System (INS)/Magnetometer combination navigation technology form the basis of this strategy. The suggested deviation detection and compensating method greatly enhances the navigation system’s performance when compared to the conventional EKF algorithm. Furthermore, we improved the navigation system’s ability to adapt to complex surroundings and sudden changes by adding the Particle Swarm Optimization (PSO) algorithm to the process. This allowed us to further optimize the system parameters based on the original innovation. This development is critical to enhancing unmanned robot navigation accuracy at smart ports and providing robust technical support for the growth of port automation and intelligence.
+ER  - 
+
+
