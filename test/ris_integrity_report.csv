@@ -1,0 +1,2 @@
+﻿file,total_records,valid_records,bad_lines,missing_TY,missing_TI,missing_ER,missing_AB,missing_DO,missing_PY,missing_AU,file_level_errors,status
+sample_pool.ris,37,37,0,0,0,0,0,1,0,0,0,OK

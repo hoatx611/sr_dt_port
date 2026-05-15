@@ -1,0 +1,754 @@
+TY  - JOUR
+AU  - Chen, Wei
+AU  - Liu, Hao
+AU  - Zhang, Yong
+TI  - Digital twin-driven real-time collaborative scheduling for automated container terminals: a closed-loop framework integrating IoT and reinforcement learning
+PY  - 2024
+T2  - International Journal of Production Research
+VL  - 62
+IS  - 14
+SP  - 5120
+EP  - 5143
+DO  - 10.1080/00207543.2024.2301001
+AB  - Container terminals are increasingly adopting digital twin (DT) technology to improve operational efficiency. This paper proposes a digital twin-driven real-time collaborative scheduling framework for U-shaped automated container terminals (ACTs). The framework integrates an IoT-based data collection layer, an operational state model (L2), and a reinforcement learning (RL) agent (L3) that leverages the DT for decision support. A physical entity model of quay cranes, yard equipment, and AGVs is synchronized with a virtual entity through bidirectional real-time data flow. Experiments on a real container terminal with throughput of 2.3 million TEU/year demonstrate that the proposed approach reduces makespan by 18.3% compared to rule-based heuristics. The closed-loop feedback mechanism (L5) is partially demonstrated in simulation, confirming scalability to large-scale ports. Findings suggest that the DT framework is applicable to mid-size and large container terminals with moderate resource requirements.
+KW  - digital twin
+KW  - container terminal
+KW  - automated guided vehicle
+KW  - scheduling
+KW  - reinforcement learning
+KW  - real-time optimization
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 12
+ER  -
+
+TY  - JOUR
+AU  - Kim, Jae-Ho
+AU  - Park, Sung-Hoon
+TI  - Digital shadow-based berth allocation optimization in container ports using MILP and real-time AIS data
+PY  - 2023
+T2  - Transportation Research Part E: Logistics and Transportation Review
+VL  - 178
+SP  - 103278
+DO  - 10.1016/j.tre.2023.103278
+AB  - Berth allocation at container ports is a critical operational bottleneck affecting port throughput and vessel waiting time. This study develops a digital shadow for a major seaport, continuously updated with AIS vessel data and terminal operating system (TOS) logs. A mixed-integer linear programming (MILP) model is solved using Benders decomposition over a rolling time horizon, leveraging real-time port state from the digital shadow. The approach is validated against historical data from Busan New Port (a large port handling approximately 8 million TEU/year), achieving a 15.7% reduction in average vessel waiting time. The digital shadow constitutes the data integration and operational state (L2) layer, while the MILP solver provides decision support (L3). Applicability to brownfield ports with legacy TOS is discussed, with integration challenges identified as a key limitation.
+KW  - digital shadow
+KW  - berth allocation
+KW  - container port
+KW  - MILP
+KW  - operational state
+KW  - AIS data
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Wang, Fei
+AU  - Li, Xin
+AU  - Zhou, Tao
+TI  - IoT-enabled digital twin architecture for yard management in semi-automated container terminals
+PY  - 2024
+T2  - IEEE International Conference on Automation Science and Engineering (CASE)
+VL  - 2024
+DO  - 10.1109/CASE59546.2024.10711234
+AB  - Efficient yard management is essential for container terminal operations. This paper presents an IoT-enabled digital twin (DT) architecture for yard management in semi-automated container terminals. The architecture integrates RFID sensors, GPS-equipped RTG cranes, and an edge computing layer to maintain a real-time digital representation of yard state. A data integration ontology aligns container, stack, and crane states across heterogeneous data sources (operational state layer L2). A rule-based decision support module (L3) uses the DT state to generate stack rearrangement plans that minimize crane moves. A hardware-in-the-loop validation was conducted at a medium-sized terminal (approximately 0.9 million TEU/year), demonstrating 12% improvement in yard crane utilization. The proposed lightweight DT components (RFID + edge compute + open-source stack) make it applicable to resource-constrained small and mid-size container ports.
+KW  - digital twin
+KW  - yard management
+KW  - IoT
+KW  - container terminal
+KW  - RTG crane
+KW  - edge computing
+DB  - IEEE Xplore
+N1  - Export Date: 21 April 2026; source=ieee; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Santos, Carlos
+AU  - Oliveira, Pedro
+AU  - Ferreira, Joao
+TI  - Cyber-physical system for AGV dispatching and routing in automated container terminals: a deep reinforcement learning approach
+PY  - 2023
+T2  - Computers in Industry
+VL  - 152
+SP  - 103970
+DO  - 10.1016/j.compind.2023.103970
+AB  - Automated guided vehicles (AGVs) play a central role in horizontal transport operations within automated container terminals (ACTs). This paper proposes a cyber-physical system (CPS) for real-time AGV dispatching and routing. The CPS architecture consists of a physical layer (AGV sensors, QR code readers), a communication layer (5G V2X), and a digital twin layer (virtual fleet model with bidirectional synchronization). A deep reinforcement learning (DRL) agent trained in the DT environment is deployed for real-time dispatching decisions. Simulations in AnyLogic with 150 AGVs show that the DRL policy reduces average AGV travel time by 23% compared to first-come-first-served heuristics. The closed-loop feedback between the DT and the physical AGV fleet is partially realized (L4), with full autonomy (L5) as future work. The system is validated at a large automated container terminal with throughput exceeding 3 million TEU/year.
+KW  - cyber-physical system
+KW  - AGV dispatching
+KW  - container terminal
+KW  - deep reinforcement learning
+KW  - digital twin
+KW  - 5G V2X
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Liu, Peng
+AU  - Zhang, Lei
+AU  - Chen, Gang
+TI  - Discrete event simulation and digital twin framework for quay crane scheduling with what-if analysis capabilities
+PY  - 2022
+T2  - Simulation Modelling Practice and Theory
+VL  - 121
+SP  - 102663
+DO  - 10.1016/j.simpat.2022.102663
+AB  - Quay crane scheduling (QCS) significantly influences the efficiency of container terminal operations. This paper develops a discrete event simulation (DES) model integrated within a digital twin framework to support quay crane scheduling at container terminals. The DES model, built using SimPy (Python), replicates the physical operations of quay cranes, including unloading, loading, and crane traversal. Real-time synchronization with AIS and TOS data enables the virtual model to mirror the current port state. A what-if analysis module (L4) allows terminal planners to test alternative crane schedules before deployment. Validation against 90 days of historical data from a medium-sized container terminal shows a mean absolute percentage error of 4.2% in makespan estimation. The paper discusses calibration challenges in brownfield ports with heterogeneous crane fleets and proposes an incremental calibration methodology for legacy systems.
+KW  - discrete event simulation
+KW  - digital twin
+KW  - quay crane scheduling
+KW  - container terminal
+KW  - what-if analysis
+KW  - calibration
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 22
+ER  -
+
+TY  - JOUR
+AU  - Zhao, Min
+AU  - Wang, Jing
+TI  - Smart gate system for container terminals: an IoT and digital twin approach to truck appointment and gate congestion reduction
+PY  - 2025
+T2  - Maritime Policy and Management
+VL  - 52
+IS  - 3
+SP  - 412
+EP  - 431
+DO  - 10.1080/03088839.2025.2198432
+AB  - Gate operations constitute a critical but often overlooked bottleneck at container terminals. This paper proposes a smart gate system integrating IoT sensors (license plate recognition, RFID gate readers, load sensors) with a digital twin representation of gate queue state. A truck appointment system (TAS) powered by DT-based demand forecasting reduces gate congestion by dynamically adjusting appointment windows. The system is classified at maturity level L3 (decision support) with IoT data collection at L1. A pilot deployment at a medium-sized greenfield container terminal in Southeast Asia demonstrates a 31% reduction in truck gate waiting time and 19% improvement in gate throughput. The lightweight IoT + edge architecture is recommended for ports with limited IT budgets. Future work targets a fully autonomous gate management system (L5) with self-organizing appointment scheduling.
+KW  - gate operations
+KW  - truck appointment system
+KW  - digital twin
+KW  - IoT
+KW  - container terminal
+KW  - Southeast Asia
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Neugebauer, Marcus
+AU  - Heilig, Leonard
+AU  - Voß, Stefan
+TI  - Digital twins in the context of seaports and terminal facilities: a systematic literature review and research agenda
+PY  - 2024
+T2  - Flexible Services and Manufacturing Journal
+VL  - 36
+IS  - 2
+SP  - 398
+EP  - 451
+DO  - 10.1007/s10696-023-09516-4
+AB  - Digital twin (DT) technology is increasingly adopted in maritime logistics and container terminal operations. This systematic literature review examines 87 publications from 2015 to 2023 addressing DT applications in seaports and terminal facilities. We analyze the maturity spectrum from data visibility (L1) to closed-loop autonomy (L5), identifying significant research gaps at L4 and L5 for container terminals. The review covers five operational domains: berth allocation, yard management, quay crane scheduling, AGV dispatching, and gate operations. We find that most existing research operates at L1-L3, with limited evidence of V&V frameworks and closed-loop autonomy. A research agenda for DT-driven port intelligence is proposed, including lightweight DT architectures for resource-constrained mid-size ports in developing countries. Geographic analysis reveals dominance of European and East Asian research, with Southeast Asian ports significantly underrepresented.
+KW  - digital twin
+KW  - seaport
+KW  - container terminal
+KW  - systematic literature review
+KW  - maturity model
+KW  - research agenda
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 47
+ER  -
+
+TY  - JOUR
+AU  - Huang, Rui
+AU  - Xie, Yang
+AU  - Tan, Bin
+TI  - 3D visualization and digital twin for smart container port operations: a GIS-based real-time monitoring framework
+PY  - 2023
+T2  - Advanced Engineering Informatics
+VL  - 55
+SP  - 101875
+DO  - 10.1016/j.aei.2022.101875
+AB  - Three-dimensional (3D) visualization of port operations enables terminal operators to monitor complex logistics processes intuitively. This paper develops a GIS-based 3D digital twin framework for container port operations. The framework integrates spatiotemporal data from crane position sensors, AGV tracking, and vessel AIS feeds into a Unity3D-based 3D model of the terminal. The virtual entity is updated in real time with a data synchronization frequency of 2 Hz. A 4D (3D + time) animation module supports what-if scenario analysis for crane scheduling and berth allocation. The system is deployed at a large container port (approximately 5 million TEU/year) in East Asia as a monitoring and decision support tool (L3). Visualization quality is validated through user studies with terminal operators, demonstrating improved situational awareness and decision confidence. The paper discusses scalability to smaller ports with reduced sensor density.
+KW  - digital twin
+KW  - 3D visualization
+KW  - GIS
+KW  - container port
+KW  - spatiotemporal
+KW  - monitoring
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Rashidi, Hossein
+AU  - Tsang, Edward
+TI  - Port-Hamiltonian formulation of mass-spring-damper systems for energy-preserving simulation
+PY  - 2022
+T2  - Journal of Applied Mathematics and Mechanics
+VL  - 102
+IS  - 7
+SP  - e202100210
+DO  - 10.1002/zamm.202100210
+AB  - Port-Hamiltonian systems provide a powerful mathematical framework for modeling physical systems by emphasizing energy exchange through ports. This paper investigates a class of port-Hamiltonian formulations applicable to mass-spring-damper networks, with applications to mechanical vibration analysis. We derive the Dirac structure underlying the system and prove energy preservation properties. A passivity-based controller is designed ensuring asymptotic stability. Numerical simulations confirm the energy-balancing properties. Applications to electrical circuits and hydraulic systems are discussed. The port-Hamiltonian approach is shown to generalize classical Lagrangian and Hamiltonian mechanics, offering compositional modeling advantages for complex multi-physics systems.
+KW  - port-Hamiltonian
+KW  - energy-preserving
+KW  - Dirac structure
+KW  - passivity-based control
+KW  - mechanical systems
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 19
+ER  -
+
+TY  - CONF
+AU  - Thompson, Andrew
+AU  - Williams, Brian
+TI  - High-performance serial port communication in embedded systems using DMA and interrupt-driven I/O
+PY  - 2023
+T2  - IEEE Embedded Systems Letters
+VL  - 15
+IS  - 2
+SP  - 78
+EP  - 81
+DO  - 10.1109/LES.2023.3248901
+AB  - Serial port communication remains a fundamental interface in embedded systems design. This paper presents a high-performance serial port communication framework leveraging Direct Memory Access (DMA) and interrupt-driven I/O to minimize CPU overhead. We evaluate USB port enumeration latency, COM port buffer management, and transport-layer protocol efficiency in ARM Cortex-M microcontrollers. Experimental results show that our DMA-based serial port driver achieves 40% lower CPU utilization compared to polling-based alternatives at 115200 baud. The framework supports hot-plug detection for serial port devices and integrates with POSIX termios for Linux applications. Applications include industrial IoT sensor hubs and medical device communication interfaces.
+KW  - serial port
+KW  - USB port
+KW  - DMA
+KW  - embedded systems
+KW  - communication
+KW  - interrupt-driven I/O
+DB  - IEEE Xplore
+N1  - Export Date: 21 April 2026; source=ieee; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Patel, Raj
+AU  - Kumar, Vijay
+TI  - Container security in Kubernetes: protecting microservices with Docker network port isolation and side-channel attack mitigation
+PY  - 2024
+T2  - ACM Conference on Computer and Communications Security
+DO  - 10.1145/3576915.3623056
+AB  - Container orchestration platforms such as Kubernetes rely on Linux namespaces and cgroups to isolate Docker containers, but network port exposure remains a significant attack surface. This paper analyzes side-channel attacks targeting container network port mappings in multi-tenant Kubernetes deployments. We demonstrate that an adversary can infer inter-container communication patterns through SMT execution port timing analysis. A novel port isolation policy using eBPF-based network filtering is proposed, reducing information leakage by 94% with less than 2% throughput overhead. Our evaluation covers eight real-world microservices architectures deployed on Kubernetes 1.28. Countermeasures include strict network port binding, container network policy enforcement, and NUMA-aware scheduling to minimize cross-container cache sharing.
+KW  - Kubernetes
+KW  - Docker
+KW  - container security
+KW  - side-channel attack
+KW  - port isolation
+KW  - microservices
+DB  - IEEE Xplore
+N1  - Export Date: 21 April 2026; source=ieee; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Smith, James
+AU  - Johnson, Emily
+TI  - Air terminal capacity expansion at Port Vila International Airport using agent-based simulation
+PY  - 2023
+T2  - Journal of Air Transport Management
+VL  - 110
+SP  - 102415
+DO  - 10.1016/j.jairtraman.2023.102415
+AB  - Port Vila International Airport on Vanuatu faces growing passenger demand. This paper investigates air terminal capacity expansion strategies using an agent-based simulation model of passenger flows from check-in through security to boarding gates. The model integrates queuing theory with behavioral agent rules for passenger routing decisions. Scenarios with varying security lane configurations and boarding gate assignments are evaluated. Results show that strategic gate reassignment reduces average passenger transit time by 22% without capital expenditure. The heliport pad is retained as a separate airside element. This study provides decision support for airport authority planning and demonstrates the utility of simulation for air terminal operations management.
+KW  - airport
+KW  - air terminal
+KW  - agent-based simulation
+KW  - capacity expansion
+KW  - passenger flow
+KW  - Port Vila
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Oliveira, Ricardo
+AU  - Silva, Marco
+TI  - Digital twin for bulk terminal operations: a coal and iron ore handling optimization framework
+PY  - 2023
+T2  - Ocean Engineering
+VL  - 286
+SP  - 115627
+DO  - 10.1016/j.oceaneng.2023.115627
+AB  - Bulk terminals handling coal, iron ore, and grain face unique operational challenges distinct from container terminals. This paper presents a digital twin framework for bulk terminal operations, integrating conveyor system monitoring, stockpile management, and vessel loading optimization. The virtual model mirrors the physical bulk terminal through sensor fusion from belt scales, material flow sensors, and ship-loading conveyor systems. An optimization module minimizes vessel waiting time and maximizes throughput for coal and ore terminals. The framework is validated at a large bulk terminal with 30 million tonnes annual throughput. Results show 8.9% improvement in ship loading efficiency. Future work includes extension to LNG terminals and grain terminals with different flow characteristics.
+KW  - digital twin
+KW  - bulk terminal
+KW  - coal handling
+KW  - iron ore
+KW  - terminal optimization
+KW  - conveyor system
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Andersson, Lars
+AU  - Bergstrom, Erik
+TI  - Digital twin for medical patient monitoring: a healthcare IoT framework with LNG-based cryogenic storage for biospecimen management
+PY  - 2023
+T2  - Journal of Medical Systems
+VL  - 47
+IS  - 1
+SP  - 15
+DO  - 10.1007/s10916-023-01943-6
+AB  - Patient monitoring in clinical settings increasingly leverages digital twin technology for personalized healthcare. This paper presents a digital twin framework for cancer patients undergoing chemotherapy, integrating wearable IoT sensors, electronic health records (EHR), and predictive models for adverse drug reactions. The virtual patient model continuously updates physiological parameters including tumor markers, drug concentration, and tissue response. A clinical decision support module alerts physicians to deteriorating patient states, enabling preemptive intervention. Validation against 120 cancer patient records demonstrates 91% sensitivity in detecting adverse events 4 hours before clinical manifestation. The framework also incorporates LNG-based cryogenic storage protocols for biospecimen preservation, enabling long-term longitudinal studies. Ethical and privacy considerations are discussed alongside regulatory compliance with GDPR and HIPAA.
+KW  - digital twin
+KW  - patient monitoring
+KW  - cancer
+KW  - clinical decision support
+KW  - IoT
+KW  - healthcare
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 31
+ER  -
+
+TY  - JOUR
+AU  - Muller, Hans
+AU  - Schneider, Klaus
+TI  - Digital twin for Industry 4.0 manufacturing: real-time monitoring and predictive maintenance for CNC machine tools
+PY  - 2022
+T2  - International Journal of Computer Integrated Manufacturing
+VL  - 35
+IS  - 10
+SP  - 1098
+EP  - 1114
+DO  - 10.1080/0951192X.2022.2067397
+AB  - Digital twins are transforming manufacturing operations by enabling real-time monitoring and predictive maintenance of CNC machine tools. This paper proposes a digital twin architecture for an Industry 4.0 smart factory, integrating machine tool sensors, PLC data, and computer vision for tool wear estimation. The virtual model replicates machining processes at sub-second granularity. A predictive maintenance module, based on LSTM neural networks, anticipates tool breakage 30 minutes in advance, reducing unplanned downtime by 43%. The framework is validated on a production line manufacturing automotive components. The architecture uses a commercial DT platform (PTC ThingWorx) with OPC-UA integration. Applications to shipyard manufacturing and marine component production are discussed as future extensions, though port terminal operations are not the primary focus.
+KW  - digital twin
+KW  - Industry 4.0
+KW  - manufacturing
+KW  - CNC
+KW  - predictive maintenance
+KW  - machine tool
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 55
+ER  -
+
+TY  - CONF
+AU  - Robinson, Paul
+AU  - Davies, Mark
+TI  - BIM-integrated digital twin for construction project management: structural health monitoring of reinforced concrete bridges
+PY  - 2023
+T2  - International Conference on Smart Infrastructure and Construction
+DO  - 10.1680/jsmic.22.00074
+AB  - Building Information Modeling (BIM) provides a structured data foundation for digital twin development in civil construction. This paper integrates BIM with real-time structural health monitoring (SHM) for reinforced concrete bridges. Vibration sensors embedded in bridge decks feed data into a BIM-linked digital twin, enabling continuous assessment of structural integrity under traffic loading and seismic events. A damage detection algorithm based on wavelet transform identifies anomalies in strain gauge readings with 95% detection accuracy. The framework is deployed on a major highway bridge with a 120-meter span. Results show that proactive maintenance scheduling, guided by the digital twin, reduces bridge maintenance costs by 28% over a 5-year period. Extensions to wharf structures and seismic monitoring of port civil infrastructure are mentioned as potential future work.
+KW  - BIM
+KW  - Building Information Modeling
+KW  - structural health monitoring
+KW  - bridge
+KW  - construction
+KW  - civil engineering
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 18
+ER  -
+
+TY  - JOUR
+AU  - Larsen, Mikkel
+AU  - Hansen, Thomas
+TI  - Microgrid energy management for green ports: digital twin-assisted hydrogen fuel cell and photovoltaic integration
+PY  - 2024
+T2  - Applied Energy
+VL  - 358
+SP  - 122481
+DO  - 10.1016/j.apenergy.2024.122481
+AB  - Ports are major consumers of energy and significant sources of greenhouse gas emissions. This paper presents a digital twin-assisted microgrid energy management system for a green port initiative. The framework integrates a hydrogen fuel cell system, photovoltaic panels, cold ironing shore power for vessels, and battery storage. A digital twin of the port energy system enables real-time monitoring and optimization of energy flows. Predictive energy dispatch models minimize carbon emissions while satisfying port load demands. The system is validated at a medium-sized multipurpose port in Denmark, demonstrating a 34% reduction in diesel generator usage. The digital twin framework is applicable to ports transitioning to ammonia maritime fuel and offshore wind integration. Container terminal load profiles are included in the energy model, though operational optimization of container handling is outside the scope.
+KW  - microgrid
+KW  - energy management
+KW  - green port
+KW  - hydrogen fuel cell
+KW  - cold ironing
+KW  - digital twin
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 14
+ER  -
+
+TY  - CONF
+AU  - Ibrahim, Ahmed
+AU  - Khalid, Mohammed
+TI  - OT cybersecurity for smart port SCADA systems: digital twin-based threat simulation and intrusion detection
+PY  - 2024
+T2  - IEEE International Conference on Cyber Security and Resilience
+DO  - 10.1109/CSR.2024.10679234
+AB  - Operational technology (OT) systems at smart ports, including SCADA systems for crane control, gate automation, and power distribution, face increasing cyber threats. This paper proposes a digital twin-based approach to OT cybersecurity for port SCADA systems. The digital twin replicates the behavior of port control systems, enabling safe simulation of cyberattack scenarios without impacting physical operations. A threat detection module based on anomaly detection in network traffic identifies intrusion attempts with 97% precision. The framework is validated against MITRE ATT&CK for ICS attack patterns. Port operators can use the DT to train incident response procedures and evaluate security countermeasures. The study focuses on cybersecurity architecture rather than container terminal operations optimization.
+KW  - cybersecurity
+KW  - OT security
+KW  - SCADA
+KW  - smart port
+KW  - digital twin
+KW  - intrusion detection
+DB  - IEEE Xplore
+N1  - Export Date: 21 April 2026; source=ieee; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Ferreira, Ana
+AU  - Costa, Bruno
+TI  - Digital twin for cruise terminal passenger flow management and turnaround operations
+PY  - 2023
+T2  - Ocean and Coastal Management
+VL  - 240
+SP  - 106598
+DO  - 10.1016/j.ocecoaman.2023.106598
+AB  - Cruise terminals present unique operational challenges distinct from container and bulk terminals. This paper presents a digital twin for cruise terminal passenger flow management and vessel turnaround operations. The virtual model integrates sensor data from passenger counters, CCTV analytics, and gangway position sensors to maintain a real-time representation of terminal state. A simulation module evaluates alternative turnaround sequences to minimize vessel departure delays. The ferry and passenger terminal framework is demonstrated at a major Mediterranean cruise port handling 800,000 passengers annually. IoT sensors detect boarding queue lengths and trigger automated announcements to redistribute passenger flows. The system is classified at maturity L3 (decision support). Extensions to RoRo ferries and roll-on/roll-off operations are discussed.
+KW  - digital twin
+KW  - cruise terminal
+KW  - passenger terminal
+KW  - ferry
+KW  - turnaround operations
+KW  - IoT
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Tanaka, Yuki
+AU  - Nakamura, Hiroshi
+TI  - Smart port intelligence platform: IoT sensor fusion for real-time container yard monitoring without explicit digital twin labeling
+PY  - 2023
+T2  - Journal of Marine Science and Engineering
+VL  - 11
+IS  - 7
+SP  - 1388
+DO  - 10.3390/jmse11071388
+AB  - Efficient monitoring of container yard operations is critical for port competitiveness. This paper presents a smart port intelligence platform that integrates heterogeneous IoT sensors — including RFID readers, electromagnetic loop detectors, overhead cameras, and crane position encoders — to provide real-time visibility of container yard state. The platform employs a cloud-based data fusion architecture with an event-driven processing model. A web-based dashboard allows operators to visualize container locations, crane positions, and truck movements in real time. Predictive analytics modules estimate future yard congestion based on historical patterns and vessel arrival schedules. The platform is deployed at a mid-sized container terminal in Japan handling 1.2 million TEU/year. While not explicitly labeled as a digital twin, the architecture includes synchronization between physical yard state and a virtual data model, with decision support capabilities for crane dispatching. Scalability to smaller port terminals with limited budgets is evaluated.
+KW  - smart port
+KW  - IoT
+KW  - yard monitoring
+KW  - container terminal
+KW  - sensor fusion
+KW  - real-time dashboard
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 22
+ER  -
+
+TY  - JOUR
+AU  - Brown, Thomas
+AU  - Green, Alice
+TI  - Digital twin for warehouse operations: autonomous mobile robot coordination and inventory management in logistics centers
+PY  - 2023
+T2  - International Journal of Production Economics
+VL  - 261
+SP  - 108896
+DO  - 10.1016/j.ijpe.2023.108896
+AB  - Warehousing and distribution centers are increasingly adopting digital twin technology for autonomous mobile robot (AMR) coordination and inventory management. This paper presents a comprehensive digital twin framework for warehouse operations, integrating robot state data, conveyor sensor streams, and barcode scanner feeds into a synchronized virtual environment. A multi-agent reinforcement learning (MARL) framework deployed within the DT optimizes AMR task allocation and routing. The framework is validated in a large e-commerce fulfillment center with 200 AMRs. Results show a 27% improvement in order fulfillment throughput. The DT architecture is described as a generalizable framework for logistics operations and the authors note potential transferability to container terminal AGV operations with appropriate adaptation. Specific container port applications are not investigated in this paper.
+KW  - digital twin
+KW  - warehouse
+KW  - autonomous mobile robot
+KW  - inventory management
+KW  - reinforcement learning
+KW  - logistics
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 33
+ER  -
+
+TY  - JOUR
+AU  - Madusanka, Thilanka
+AU  - Fan, Hongjun
+AU  - Yang, Zheng
+AU  - Xiang, Yue
+TI  - Digital twin in the maritime domain: a review and emerging trends
+PY  - 2023
+T2  - Journal of Marine Science and Engineering
+VL  - 11
+IS  - 10
+SP  - 1995
+DO  - 10.3390/jmse11101995
+AB  - The maritime domain encompasses a broad range of applications from vessel design and routing to port operations and offshore infrastructure. Digital twin (DT) technology is emerging as a transformative approach across these application areas. This review paper systematically examines 134 publications from 2015 to 2023 on DT applications in maritime contexts. We classify studies by application domain (vessel design, hull monitoring, port operations, offshore platforms, maritime logistics), maturity level (L1-L5), and geographic focus. For container terminal operations specifically, we identify 41 papers covering berth allocation, yard management, crane scheduling, and AGV dispatching. Key findings include the dominance of simulation-based approaches (L4) in vessel design and the prevalence of decision-support systems (L3) in port operations. Significant research gaps are identified for closed-loop autonomy (L5) in container terminals and DT adoption in developing countries with limited digital infrastructure. The review concludes with a research agenda prioritizing lightweight DT architectures for resource-constrained ports.
+KW  - digital twin
+KW  - maritime
+KW  - seaport
+KW  - review
+KW  - container terminal
+KW  - research agenda
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 134
+ER  -
+
+TY  - CONF
+AU  - Alves, Diego
+AU  - Ramos, Claudia
+TI  - RoRo terminal operations optimization with digital twin-based simulation: a transferable framework for vehicle handling efficiency
+PY  - 2024
+T2  - Proceedings of the International Association of Ports and Harbors Annual Conference
+DO  - 10.2139/ssrn.2024.4567890
+AB  - Roll-on/roll-off (RoRo) terminals present distinct operational characteristics compared to container terminals, including vehicle stacking, ramp management, and trailer docking. This paper presents a digital twin-based simulation framework for RoRo terminal operations, focusing on vehicle handling efficiency and ramp scheduling. The DES model, built in AnyLogic, replicates berth-to-parking-lot vehicle flows with agent-based crane and trailer movement models. A what-if analysis module (L4) evaluates alternative ramp allocation strategies. The DT framework is designed as a general-purpose terminal operations optimizer, with the authors explicitly noting that the core scheduling algorithms are transferable to container terminal operations with minor modifications to the cargo handling models. Validation is performed at a European RoRo terminal handling 300,000 vehicles annually. Container terminal applicability is discussed in the conclusions.
+KW  - RoRo terminal
+KW  - roll-on roll-off
+KW  - digital twin
+KW  - simulation
+KW  - vehicle handling
+KW  - terminal operations
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Chen, Wei
+AU  - Liu, Hao
+AU  - Zhang, Yong
+TI  - Digital twin-driven real-time collaborative scheduling for automated container terminals: a closed-loop framework integrating IoT and reinforcement learning
+PY  - 2024
+T2  - International Journal of Production Research
+VL  - 62
+IS  - 14
+SP  - 5120
+EP  - 5143
+DO  - 10.1080/00207543.2024.2301001
+AB  - Container terminals are increasingly adopting digital twin (DT) technology to improve operational efficiency. This paper proposes a digital twin-driven real-time collaborative scheduling framework for U-shaped automated container terminals (ACTs). The framework integrates an IoT-based data collection layer, an operational state model (L2), and a reinforcement learning (RL) agent (L3) that leverages the DT for decision support. A physical entity model of quay cranes, yard equipment, and AGVs is synchronized with a virtual entity through bidirectional real-time data flow. Experiments on a real container terminal with throughput of 2.3 million TEU/year demonstrate that the proposed approach reduces makespan by 18.3% compared to rule-based heuristics. The closed-loop feedback mechanism (L5) is partially demonstrated in simulation, confirming scalability to large-scale ports.
+KW  - digital twin
+KW  - container terminal
+KW  - scheduling
+KW  - reinforcement learning
+DB  - IEEE Xplore
+N1  - Export Date: 21 April 2026; source=ieee; Cited By: 12; DUPLICATE_TEST_LAYER1
+ER  -
+
+TY  - JOUR
+AU  - Kim, Jae-Ho
+AU  - Park, Sung-Hoon
+TI  - Digital  shadow-based  berth  allocation  optimization  in  container  ports  using  MILP  and  real-time  AIS  data
+PY  - 2023
+T2  - Transportation Research Part E
+VL  - 178
+SP  - 103278
+DO  - 10.1016/j.tre.2023.103279
+AB  - Berth allocation at container ports is a critical operational bottleneck affecting port throughput and vessel waiting time. This study develops a digital shadow for a major seaport, continuously updated with AIS vessel data and terminal operating system (TOS) logs. A mixed-integer linear programming (MILP) model is solved using Benders decomposition over a rolling time horizon, leveraging real-time port state from the digital shadow.
+KW  - digital shadow
+KW  - berth allocation
+KW  - container port
+DB  - Google Scholar
+N1  - Export Date: 21 April 2026; source=gs; DUPLICATE_TEST_LAYER2_title_spacing
+ER  -
+
+TY  - JOUR
+AU  - Wang, Fei
+AU  - Li, Xin
+AU  - Zhou, Tao
+TI  - IoT-enabled digital twin architecture for yard management in semi-automated container terminals
+PY  - 2024
+T2  - Proceedings of IEEE CASE 2024
+DO  - 10.1109/CASE59546.2024.10711299
+AB  - Efficient yard management is essential for container terminal operations. This paper presents an IoT-enabled digital twin architecture for yard management in semi-automated container terminals. The architecture integrates RFID sensors, GPS-equipped RTG cranes, and an edge computing layer to maintain a real-time digital representation of yard state.
+KW  - digital twin
+KW  - yard management
+KW  - IoT
+KW  - container terminal
+DB  - Google Scholar
+N1  - Export Date: 21 April 2026; source=gs; DUPLICATE_TEST_LAYER3_author_year_title
+ER  -
+
+TY  - JOUR
+AU  - Guo, Xiaofeng
+AU  - Lu, Wei
+TI  - Towards a digital twin for container port berth scheduling: an agent-based simulation approach with real-time data integration
+PY  - 2023
+T2  - Computers and Operations Research
+VL  - 156
+SP  - 106237
+DO  - 10.1016/j.cor.2023.106237
+AB  - Berth scheduling at container ports is a combinatorial optimization problem with significant operational impact. This paper proposes an agent-based simulation model integrated with real-time data to function as a lightweight digital twin for berth scheduling. The simulation model captures vessel arrival patterns, quay crane assignment, and berth occupancy dynamics using data from the terminal's TOS. A rolling-horizon optimization heuristic is embedded in the simulation to generate berth schedules with a 4-hour planning horizon. The framework constitutes a decision support system (L3) with simulation-based what-if capabilities (L4). Validation against 60 days of operational data from a small container terminal (under 500,000 TEU/year) in Vietnam demonstrates scheduling feasibility. The lightweight Python implementation requires minimal computational resources, making it suitable for resource-constrained port environments in Southeast Asia and developing countries.
+KW  - digital twin
+KW  - berth scheduling
+KW  - container port
+KW  - agent-based simulation
+KW  - Vietnam
+KW  - developing countries
+DB  - Springer Link
+N1  - Export Date: 21 April 2026; source=springer; abstract_source=crossref
+ER  -
+
+TY  - JOUR
+AU  - Hassan, Omar
+AU  - Farouk, Ibrahim
+TI  - Digital twin framework for integrated container terminal operations: from quay to gate using IoT and closed-loop feedback
+PY  - 2025
+T2  - International Journal of Production Research
+VL  - 63
+IS  - 5
+SP  - 1234
+EP  - 1256
+DO  - 10.1080/00207543.2025.2399999
+AB  - Container terminal operations involve complex interactions among berths, quay cranes, yard equipment, and gate systems. This paper presents a comprehensive digital twin (DT) framework covering the full container terminal workflow from ship-to-shore to gate-out. The DT integrates IoT sensors across all operational zones: AIS vessel tracking at berths, crane position encoders, RFID in the yard, and license plate readers at gates. A data integration ontology enables interoperability across the five operational domains. Decision support modules (L3) optimize crane-to-truck handover and truck appointment scheduling simultaneously. The system is demonstrated at a medium-sized greenfield container terminal in the Middle East (approximately 1.5 million TEU/year). A partial closed-loop feedback mechanism is realized for gate operations, with the crane and berth modules remaining at L3. The paper discusses the resource requirements and suggests a phased implementation roadmap for brownfield terminals.
+KW  - digital twin
+KW  - container terminal
+KW  - quay crane
+KW  - gate operations
+KW  - IoT
+KW  - closed-loop
+DB  - Taylor & Francis
+N1  - Export Date: 21 April 2026; source=tf; journal=International Journal of Production Research
+ER  -
+
+TY  - JOUR
+AU  - Vogel, Sebastian
+AU  - Richter, Karl
+TI  - Digital twin for construction project lifecycle management using BIM and IoT integration
+PY  - 2023
+T2  - International Journal of Construction Management
+VL  - 23
+IS  - 8
+SP  - 1452
+EP  - 1469
+DO  - 10.1080/15623599.2022.2103671
+AB  - The construction industry is undergoing digitalization through Building Information Modeling (BIM) and IoT integration. This paper presents a digital twin framework for construction project lifecycle management. The BIM model serves as the spatial data backbone, while IoT sensors on construction equipment and material inventory provide real-time updates. A machine learning module predicts construction schedule delays based on weather data and equipment utilization. The framework is demonstrated on a large-scale civil construction project. BIM-integrated digital twins enable collaboration between architects, engineers, and contractors through a shared data environment. Applications to port infrastructure construction (quay walls, berths) are mentioned as future extensions, but the primary focus is civil construction management.
+KW  - BIM
+KW  - Building Information Modeling
+KW  - construction
+KW  - digital twin
+KW  - IoT
+KW  - project management
+DB  - Taylor & Francis
+N1  - Export Date: 21 April 2026; source=tf; journal=International Journal of Construction Management
+ER  -
+
+TY  - JOUR
+AU  - Huang, Wei
+AU  - Chen, Fang
+TI  - Digital twin-based predictive maintenance for port crane systems: a lightweight IoT architecture for mid-size container terminals
+PY  - 2024
+T2  - IEEE Transactions on Industrial Informatics
+VL  - 20
+IS  - 8
+SP  - 10234
+EP  - 10245
+DO  - 10.1109/TII.2024.3401234
+AB  - Predictive maintenance of port crane systems is critical for minimizing unplanned downtime in container terminals. This paper presents a digital twin-based predictive maintenance system for quay cranes and RTG cranes at container terminals. The system integrates vibration sensors, motor current analyzers, and visual inspection cameras into an edge computing architecture. A digital twin of each crane maintains a real-time mechanical state model (L2) that feeds a machine learning predictive maintenance module (L3). The lightweight IoT architecture uses low-cost MEMS sensors and Raspberry Pi edge nodes, making it deployable at mid-size container terminals with limited capital budgets. Validation at a brownfield container terminal handling 0.8 million TEU/year in Southeast Asia demonstrates a 62% reduction in unplanned crane failures. The framework is designed as a modular add-on for legacy TOS environments.
+KW  - digital twin
+KW  - predictive maintenance
+KW  - quay crane
+KW  - container terminal
+KW  - IoT
+KW  - edge computing
+KW  - Southeast Asia
+DB  - IEEE Xplore
+N1  - Export Date: 21 April 2026; source=ieee; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Nguyen, Van An
+AU  - Tran, Minh Duc
+TI  - Feasibility assessment of digital twin adoption for Cat Lai container terminal, Vietnam: a maturity-level framework
+PY  - 2024
+T2  - Journal of Marine Science and Engineering
+VL  - 12
+IS  - 4
+SP  - 612
+DO  - 10.3390/jmse12040612
+AB  - Cat Lai Container Terminal, the largest container terminal in Vietnam with approximately 5 million TEU annual throughput, is exploring digital twin (DT) adoption as part of the national port digitalization strategy. This paper assesses the feasibility of DT adoption at Cat Lai using a maturity-level framework (L1-L5). Current operational state is evaluated as L1 (basic IoT monitoring) based on existing RFID and CCTV infrastructure. An implementation roadmap to L2-L3 is proposed over 3 years, covering data integration with TOS, ontology development for port operations, and decision support for berth and yard scheduling. Resource requirements are estimated at medium intensity (IoT expansion + cloud integration + 5 data engineers). The paper discusses brownfield integration challenges with legacy Navis TOS and provides cost-benefit analysis for each maturity level transition. The framework is recommended for adoption by other mid-size ports in Southeast Asia, including Da Nang, Quy Nhon, and Hai Phong terminals.
+KW  - digital twin
+KW  - Cat Lai
+KW  - Vietnam
+KW  - container terminal
+KW  - maturity model
+KW  - Southeast Asia
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Almutairi, Fahad
+AU  - Al-Khalid, Hani
+TI  - Closed-loop autonomous control for container terminal operations: a digital twin-based multi-agent system with self-adaptive scheduling
+PY  - 2025
+T2  - IEEE Transactions on Automation Science and Engineering
+VL  - 22
+IS  - 1
+SP  - 445
+EP  - 460
+DO  - 10.1109/TASE.2025.3401567
+AB  - Achieving closed-loop autonomy (L5) in container terminal operations requires seamless integration of real-time data, decision-making, verification, and feedback control. This paper presents a digital twin-based multi-agent system (MAS) for autonomous container terminal management. The DT maintains a comprehensive real-time model of the terminal, including vessel queue, quay crane positions, AGV fleet state, and yard occupancy. A multi-agent reinforcement learning (MARL) system continuously generates scheduling decisions that are first verified in the DT simulation before deployment to physical systems, constituting a closed-loop data-to-decision-to-verify-to-feedback cycle. Experiments at a fully automated container terminal (megaport, approximately 12 million TEU/year) demonstrate that the closed-loop system achieves 97.3% of theoretical maximum throughput with zero human intervention in steady-state operations. The system represents the first industrial deployment of L5 autonomy at a major automated container terminal.
+KW  - digital twin
+KW  - closed-loop autonomy
+KW  - container terminal
+KW  - multi-agent reinforcement learning
+KW  - self-adaptive
+KW  - automated terminal
+DB  - IEEE Xplore
+N1  - Export Date: 21 April 2026; source=ieee; Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Pham, Hoang Long
+AU  - Bui, Thi Lan
+TI  - Data integration ontology for operational state modeling in Hai Phong container port: a digital twin layer-2 approach
+PY  - 2025
+T2  - Computers in Industry
+VL  - 165
+SP  - 104190
+DO  - 10.1016/j.compind.2025.104190
+AB  - Hai Phong Port Complex is the primary container gateway of Northern Vietnam, handling approximately 2.8 million TEU/year across multiple terminals. This paper presents a data integration ontology for operational state modeling at Hai Phong container terminals, implementing the digital twin maturity level L2 (operational state). The ontology harmonizes data from three heterogeneous terminal operating systems (Navis N4, CTOS, in-house TOS) and integrates AIS vessel data, RFID yard data, and truck GPS tracking. An OWL 2 ontology with 145 classes and 89 object properties represents the complete container lifecycle from vessel arrival to gate-out. A SPARQL query interface enables real-time state queries for berth planning and yard management decision support. Evaluation on 90 days of operational data demonstrates 98.7% ontology coverage of observed events. The paper discusses scalability to Da Nang and Cai Mep terminals with brownfield TOS environments. This work is positioned as the data foundation for future L3 optimization and L4 simulation capabilities.
+KW  - ontology
+KW  - data integration
+KW  - operational state
+KW  - digital twin
+KW  - Hai Phong
+KW  - container terminal
+KW  - Vietnam
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Martinez, Carlos
+TI  - A survey of digital twin applications in port and maritime logistics: trends, challenges, and future directions
+PY  - 2022
+T2  - Maritime Economics and Logistics
+VL  - 24
+IS  - 3
+SP  - 487
+EP  - 521
+DO  - 10.1057/s41278-022-00213-4
+AB  - Digital twin (DT) technology is gaining traction across port and maritime logistics applications. This survey reviews 96 publications from 2016 to 2022, covering DT applications in container terminals, bulk terminals, vessel design, ship routing, and maritime logistics chains. For container terminal operations, we identify 38 relevant papers addressing berth allocation, yard management, crane scheduling, and AGV operations. The survey classifies these by application domain, maturity level, and geographic focus. Key trends include increasing adoption of IoT-based data visibility (L1) and growing interest in reinforcement learning for decision support (L3). Simulation and V&V (L4) are more common in vessel design than terminal operations. Research gaps include lightweight DT architectures, federated DT for port clusters, and DT adoption in developing country ports. The survey concludes with a research agenda emphasizing resource-constrained port contexts.
+KW  - digital twin
+KW  - maritime logistics
+KW  - port operations
+KW  - survey
+KW  - container terminal
+KW  - research gaps
+DB  - Springer Link
+N1  - Export Date: 21 April 2026; source=springer; abstract_source=crossref
+ER  -
+
+TY  - JOUR
+AU  - Anonymous
+TI  - Digital twin integration with legacy terminal operating systems: challenges and solutions for brownfield container ports
+PY  - 2024
+T2  - Journal of Advanced Transportation
+VL  - 2024
+SP  - 5549201
+DO  - 10.1155/2024/5549201
+AB  -
+KW  - digital twin
+KW  - brownfield
+KW  - container terminal
+KW  - legacy system
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; abstract_missing=true
+ER  -
+
+TY  - JOUR
+AU  - Unknown
+TI  - Simulation-based digital twin for small container terminal scheduling
+PY  - 2023
+T2  - Journal of Shipping and Trade
+AB  - This paper presents a simulation-based digital twin approach for scheduling operations at small container terminals with fewer than 500,000 TEU annual throughput. The simulation model integrates real-time data from a simplified IoT sensor network to maintain a digital representation of terminal state. A greedy heuristic provides scheduling recommendations for berth and crane operations. The framework is designed for minimal computational resources and uses entirely open-source tools (SimPy, Python, InfluxDB). Case study at a small regional port in Southeast Asia demonstrates feasibility.
+KW  - digital twin
+KW  - small port
+KW  - simulation
+KW  - container terminal
+KW  - scheduling
+DB  - Google Scholar
+N1  - Export Date: 21 April 2026; source=gs; doi_missing=true
+ER  -
+
+TY  - JOUR
+AU  - Homayouni, Seyed Mahdi
+AU  - Pinho de Sousa, Jorge
+AU  - Marques, Ana
+TI  - Unlocking the potential of digital twins to achieve sustainability in seaports: a systematic review
+PY  - 2025
+T2  - WMU Journal of Maritime Affairs
+VL  - 24
+IS  - 1
+SP  - 45
+EP  - 89
+DO  - 10.1007/s13437-025-00312-x
+AB  - Seaports are major contributors to maritime emissions and energy consumption. This systematic review examines 129 publications on digital twin (DT) applications for port sustainability, covering environmental monitoring, energy optimization, carbon emission reduction, and green port certification. For container terminal operations, the review identifies DT applications for sustainable crane scheduling, green AGV routing, and cold ironing integration. A sustainability maturity framework overlaid on the L1-L5 DT maturity model is proposed. Findings reveal that most sustainability-focused DT research is at L1-L2, with limited evidence of decision-support (L3) or closed-loop (L5) sustainability optimization. Geographic analysis shows European ports leading in green DT adoption, with Asian ports rapidly catching up. The review highlights a critical research gap for brownfield port sustainability transitions in developing countries, particularly in Southeast Asia and sub-Saharan Africa. A research agenda with six priority themes is proposed.
+KW  - digital twin
+KW  - seaport
+KW  - sustainability
+KW  - systematic review
+KW  - container terminal
+KW  - green port
+DB  - Scopus
+N1  - Export Date: 21 April 2026; source=scopus; Cited By: 29
+ER  -
+

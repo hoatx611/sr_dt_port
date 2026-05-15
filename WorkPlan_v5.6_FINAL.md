@@ -106,14 +106,22 @@
 
 | Pha | Bước | Trạng thái |
 |-----|-------|-------------|
-| Pha 1 — Thiết kế | 1–3 | 🔄 Đang triển khai (Bước 1.1, 1.3, 1.6, 1.7, 1.8, 1.9 ✅; 1.5 🔄; còn 1.2, 1.4, 1.10–1.13 + 2 + 3) |
-| Pha 2 — Tìm kiếm | 4–7 | ⬜ Chưa |
-| Pha 3 — Sàng lọc | 8–10 | ⬜ Chưa |
-| Pha 4 — Trích xuất + Chất lượng | 11–13 | ⬜ Chưa |
+| Pha 1 — Thiết kế | 1–3 | 🔄 Bước 1: 1.1/1.3/1.6/1.7/1.8/1.9 ✅; 1.10–1.13 ⬜ (NCS Rayyan); Bước 2: SR_Eligibility_Criteria ✅; Bước 3: pilot PRIMARY_Scopus 130 records ✅ |
+| Pha 2 — Tìm kiếm | 4–7 | ✅ Dữ liệu 21 files / 7.825 records (search_results_v5.6/); dedup 7.825→5.811 (25.7%) |
+| Pha 3 — Sàng lọc | 8–10 | 🔄 Bước 8 Pha A ✅ (284/5.051/476); Pha B ⬜ chờ Rayyan; Bước 9–10 ⬜ |
+| Pha 4 — Trích xuất + Chất lượng | 11–13 | ⬜ Chưa (chờ Pha B xong) |
 | Pha 5 — Tổng hợp + Phân tích | 14–17 | ⬜ Chưa |
 | Pha 6 — Viết + Nộp | 18–22 | ⬜ Chưa |
 
-**Trạng thái tổng:** 0/22 bước hoàn tất; Bước 1 đang triển khai (6/13 sub-task ✅, 1 🔄 cần verify).
+**Cập nhật 2026-05-14:**
+- Pha 2 hoàn tất: 21 RIS files (7.825 records), dedup pipeline chạy OK, 5.811 unique records.
+- Pha A screening hoàn tất: `03_screening/screening_pre.ris` sẵn sàng upload Rayyan.
+- Bước 2 sub-tasks 2.1–2.5 xác nhận ✅ (SR_Eligibility_Criteria v1.0 đầy đủ).
+- Bước 4.12, 5.4, 6.4 ✅: Strategy §9 cập nhật với số records thực tế.
+- DEV-004 thêm: Q10 Vintage (Scopus+IEEE) chưa chạy — NCS cần chạy trước Pha B.
+- Tạo mới 4 files: SR_Search_Results_Summary_v5.6.md, SR_PRISMA_FlowDiagram_v5.6.md, SR_Classification_Rubric_v5.6.md, SR_Quality_Appraisal_v5.6.md.
+- SR_PRISMA_Checklist_v5.6.md skeleton 27/27 items (section/page TBD sau Bước 18).
+- Xem `SR_Deviation_Log_v5.6.md` DEV-001/002/003/004 cho các lệch kế hoạch đã ghi nhận.
 
 ## Đường găng (Critical Path)
 
@@ -197,12 +205,12 @@
 
 | Việc | Mô tả | Trạng thái |
 |------|--------|-------------|
-| 2.1 Khung PICOC | Population, Intervention, Comparison, Outcome, Context | ⬜ |
-| 2.2 Tiêu chí bao gồm IC1–IC5 | Align với 5 lĩnh vực vận hành (RQ2) | ⬜ |
-| 2.3 Tiêu chí loại trừ Lớp 1 (T/A) | EC1–EC9 + EC7-{mfg/bim/health/noctx/other} + EC-CYBER/ENERGY/GENERIC/IT/NOSCOPE/PAX/STRUCT | ⬜ |
-| 2.4 Tiêu chí loại trừ Lớp 2 (Fulltext) | EC-ENV / VESSEL / POLICY / SECUR / BLOCK / TELECOM / CUSTOMS / AGRI + EC6 | ⬜ |
-| 2.5 Borderline rules (6) | DT-driven, Smart port, Mfg-transferable, Bulk/RoRo, Review paper, Vintage greenfield/brownfield | ⬜ |
-| 2.6 PRESS peer review của Strategy | NCS self-review 8 tiêu chí (xem Strategy §8) | ⬜ |
+| 2.1 Khung PICOC | Population, Intervention, Comparison, Outcome, Context | ✅ 2026-05-08 — §I file |
+| 2.2 Tiêu chí bao gồm IC1–IC5 | Align với 5 lĩnh vực vận hành (RQ2) | ✅ 2026-05-08 — §II file |
+| 2.3 Tiêu chí loại trừ Lớp 1 (T/A) | EC1–EC9 + EC7-{mfg/bim/health/noctx/other} + EC-CYBER/ENERGY/GENERIC/IT/NOSCOPE/PAX/STRUCT | ✅ 2026-05-08 — §III file |
+| 2.4 Tiêu chí loại trừ Lớp 2 (Fulltext) | EC-ENV / VESSEL / POLICY / SECUR / BLOCK / TELECOM / CUSTOMS / AGRI + EC6 | ✅ 2026-05-08 — §IV file |
+| 2.5 Borderline rules (6) | DT-driven, Smart port, Mfg-transferable, Bulk/RoRo, Review paper, Vintage greenfield/brownfield | ✅ 2026-05-08 — §VI file |
+| 2.6 PRESS peer review của Strategy | NCS self-review 8 tiêu chí (xem Strategy §8) | ⬜ NCS task |
 
 **Output cuối:** `SR_Eligibility_Criteria_v5.6.md` v1.0 phê duyệt.
 
@@ -236,18 +244,18 @@
 
 | Việc | Mô tả | Trạng thái |
 |------|--------|-------------|
-| 4.1 Chạy Q1 CORE NARROW trên Scopus → `Q1_Scopus.ris` | NCS | ⬜ |
-| 4.2 Chạy Q1 CORE NARROW trên IEEE Xplore → `Q1_IEEE.ris` (phân trang nếu cần) | NCS | ⬜ |
-| 4.3 Chạy Q2 CORE EXTENDED trên Scopus + IEEE | NCS | ⬜ |
-| 4.4 Chạy Q3 T-L1 trên Scopus + IEEE | NCS | ⬜ |
-| 4.5 Chạy Q4 T-L2 trên Scopus + IEEE | NCS | ⬜ |
-| 4.6 Chạy Q5 T-L3 trên Scopus + IEEE | NCS | ⬜ |
-| 4.7 Chạy Q6 T-L4 trên Scopus + IEEE | NCS | ⬜ |
-| 4.8 Chạy Q7 T-L5 trên Scopus + IEEE | NCS | ⬜ |
-| 4.9 Chạy Q8 Gate trên Scopus + IEEE | NCS | ⬜ |
-| 4.10 Chạy Q9 Quy mô + tên cảng VN/ĐNÁ trên Scopus + IEEE | NCS | ⬜ |
-| 4.11 Chạy Q10 Vintage trên Scopus + IEEE | NCS | ⬜ |
-| 4.12 Cập nhật Strategy §9 status table với số records thực tế | Claude | ⬜ |
+| 4.1 Chạy Q1 CORE NARROW trên Scopus → `Q1_Scopus.ris` | NCS | ✅ `PRIMARY_Scopus.ris` — 130 records |
+| 4.2 Chạy Q1 CORE NARROW trên IEEE Xplore → `Q1_IEEE.ris` | NCS | ✅ `PRIMARY_IEEE.ris` — 50 records |
+| 4.3 Chạy Q2 CORE EXTENDED trên Scopus + IEEE | NCS | ✅ `EXTENDED_Scopus.ris` (1518) + `EXTENDED_IEEE.ris` (1118) |
+| 4.4 Chạy Q3 T-L1 trên Scopus + IEEE | NCS | ✅ `T1_Scopus.ris` (180) + `T1_IEEE.ris` (53) |
+| 4.5 Chạy Q4 T-L2 trên Scopus + IEEE | NCS | ✅ `T2_Scopus.ris` (246) + `T2_IEEE.ris` (154) |
+| 4.6 Chạy Q5 T-L3 trên Scopus + IEEE | NCS | ✅ `T3_Scopus.ris` (422) + `T3_IEEE.ris` (135) |
+| 4.7 Chạy Q6 T-L4 trên Scopus + IEEE | NCS | ✅ `T4_Scopus.ris` (54) + `T4_IEEE.ris` (10) |
+| 4.8 Chạy Q7 T-L5 trên Scopus + IEEE | NCS | ✅ `T5_Scopus.ris` (34) + `T5_IEEE.ris` (54) — xem DEV-003 |
+| 4.9 Chạy Q8 Gate trên Scopus + IEEE | NCS | ✅ `T6_Scopus.ris` (345) + `T6_IEEE.ris` (110) |
+| 4.10 Chạy Q9 Quy mô + tên cảng VN/ĐNÁ trên Scopus + IEEE | NCS | ✅ `T7_Scopus.ris` (483) + `T7_IEEE.ris` (246) |
+| 4.11 Chạy Q10 Vintage trên Scopus + IEEE | NCS | ✅ 2026-05-15 — `T8_Scopus.ris` (9) + `T8_IEEE.ris` (13) — DEV-004 Resolved |
+| 4.12 Cập nhật Strategy §9 status table với số records thực tế | Claude | ✅ 2026-05-14 — Strategy §9 cập nhật đầy đủ |
 
 ---
 
@@ -259,10 +267,10 @@
 
 | Việc | Mô tả | Trạng thái |
 |------|--------|-------------|
-| 5.1 Chạy Q13–Q22 trên Google Scholar (10 sub-queries) | NCS | ⬜ |
-| 5.2 Lưu kết quả vào RIS (dùng [Publish or Perish](https://harzing.com/resources/publish-or-perish) hoặc Zotero connector) | NCS | ⬜ |
-| 5.3 Gộp 10 RIS thành `GS.ris` | NCS | ⬜ |
-| 5.4 Cập nhật Strategy §9 | Claude | ⬜ |
+| 5.1 Chạy Q13–Q22 trên Google Scholar (10 sub-queries) | NCS | ✅ 10 sub-queries thực hiện |
+| 5.2 Lưu kết quả vào RIS (dùng Publish or Perish hoặc Zotero connector) | NCS | ✅ |
+| 5.3 Gộp 10 RIS thành `GS.ris` | NCS | ✅ `GS.ris` — 650 records |
+| 5.4 Cập nhật Strategy §9 | Claude | ✅ 2026-05-14 |
 
 ---
 
@@ -274,10 +282,10 @@
 
 | Việc | Mô tả | Trạng thái |
 |------|--------|-------------|
-| 6.1 Chạy Q11 trên Springer Link (12 tháng) | NCS | ⬜ |
-| 6.2 Chạy Q12 trên Taylor & Francis (6 tháng) | NCS | ⬜ |
-| 6.3 Verify pool T&F whitelist (5 tạp chí target) | NCS | ⬜ |
-| 6.4 Cập nhật Strategy §9 | Claude | ⬜ |
+| 6.1 Chạy Q11 trên Springer Link (12 tháng) | NCS | ✅ `SPRINGER.ris` — 905 records |
+| 6.2 Chạy Q12 trên Taylor & Francis (6 tháng) | NCS | ✅ `TF.ris` — 928 records |
+| 6.3 Verify pool T&F whitelist (5 tạp chí target) | NCS | ✅ `tf_journal_exclusion.py` — whitelist embedded |
+| 6.4 Cập nhật Strategy §9 | Claude | ✅ 2026-05-14 |
 
 **Tổng cuối Pha 2 (kỳ vọng):** ≈ 6.000–9.000 records raw.
 
@@ -301,13 +309,13 @@
 
 | Việc | Mô tả | Trạng thái |
 |------|--------|-------------|
-| 7.1 Liệt kê toàn bộ RIS files trong `search_results_v5.6/` | Claude | ⬜ |
-| 7.2 Viết `check_ris_integrity.py` (regex `^([A-Z][A-Z0-9])  -\s?(.*)$`) → output `ris_integrity_report.csv` | Claude | ⬜ |
-| 7.3 NCS review + chạy script | NCS | ⬜ |
-| 7.4 Viết `dedup.py` 3 lớp + `--strict` mode cho cross-validation | Claude | ⬜ |
-| 7.5 Chạy dedup → output `dedup_unique.ris` (full RIS metadata) + `dedup_report.txt` | NCS | ⬜ |
-| 7.6 Cross-validate với Rayyan auto-dedup DOI-only round (kỳ vọng AGREE ≥ 99%) | NCS | ⬜ |
-| 7.7 NCS upload `dedup_unique.ris` vào Rayyan project (đã tạo Bước 1.10) | NCS | ⬜ |
+| 7.1 Liệt kê toàn bộ RIS files trong `search_results_v5.6/` | Claude | ✅ 21 files confirmed |
+| 7.2 Viết `check_ris_integrity.py` → output `ris_integrity_report.csv` | Claude | ✅ Script viết + chạy OK |
+| 7.3 NCS review + chạy script | NCS | ✅ Chạy OK — báo cáo lưu `ris_integrity_report.csv` |
+| 7.4 Viết `dedup.py` 3 lớp + inject N1 source annotation | Claude | ✅ Script viết + N1 injection hoàn tất |
+| 7.5 Chạy dedup → `dedup_unique.ris` (5.811 records) + `dedup_report.txt` | NCS | ✅ 7.825→5.811 (25,7%) |
+| 7.6 Cross-validate với Rayyan auto-dedup DOI-only | NCS | ⬜ Chờ Rayyan setup (Bước 1.10) |
+| 7.7 NCS upload `03_screening/screening_pre.ris` vào Rayyan | NCS | ⬜ Chờ Bước 1.10 + Q10 Vintage |
 | 7.8 Export Rayyan pool → `rayyan_export_after_dedup.csv` (audit trail) | NCS | ⬜ |
 
 **Output Bước 7:**
@@ -988,15 +996,15 @@ Một bước được tính ✅ khi:
 | Dedup pipeline open | ⬜ | `dedup.py` + `requirements.txt` |
 | T/A pre-screen open | ⬜ | `screening.py` + `tf_journal_exclusion.py` |
 | Eligibility operationalized | ⬜ | `SR_Eligibility_Criteria_v5.6.md` (28 EC/IC + 6 borderline) |
-| Quality appraisal protocol | ⬜ | `SR_Quality_Appraisal_v5.6.md` |
-| Data extraction form | ⬜ | `SR_Data_Extraction_Form_v5.6.md` v1.0 |
-| Maturity rubric | ⬜ | `SR_Classification_Rubric_v5.6.md` |
-| Borderline log | ⬜ | `borderline_decisions_log.md` |
+| Quality appraisal protocol | ✅ 2026-05-14 | `SR_Quality_Appraisal_v5.6.md` |
+| Data extraction form | ✅ 2026-05-08 | `SR_Data_Extraction_Form_v5.6.md` v1.0 |
+| Maturity rubric | ✅ 2026-05-14 | `SR_Classification_Rubric_v5.6.md` |
+| Borderline log | ⬜ | `borderline_decisions_log.md` (tạo sau Bước 9) |
 | Final pool data | ⬜ | `included_studies_v5.6.csv` |
 | Extraction data | ⬜ | `extraction_v5.6.csv` |
 | Bibliometric maps | ⬜ | `vos_*.png` + VOSviewer config |
 | Synthesis output | ⬜ | `SR_Bibliometric_v5.6.md` + `SR_Research_Agenda_v5.6.md` |
-| PRISMA Checklist 27/27 | ⬜ | `SR_PRISMA_Checklist_v5.6.md` |
+| PRISMA Checklist 27/27 | ✅ 2026-05-14 (skeleton — section/page TBD sau Bước 18) | `SR_PRISMA_Checklist_v5.6.md` |
 | OSF Amendments | ⬜ | (cập nhật khi có) |
 | Manuscript + Cover letter | ⬜ | (Bước 22) |
 

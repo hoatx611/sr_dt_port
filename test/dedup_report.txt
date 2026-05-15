@@ -1,0 +1,38 @@
+======================================================================
+DEDUP REPORT — Bước 7.4 WorkPlan v5.6
+======================================================================
+
+Tổng records đầu vào:      37
+Tổng records unique:       34
+Tổng đã loại bỏ:            3 (8.1%)
+
+Chi tiết theo lớp:
+  Lớp 1 (DOI exact):        1 cặp trùng
+  Lớp 2 (Fuzzy title):      2 cặp trùng
+  Lớp 3 (Hash):             0 cặp trùng
+
+Phân bố theo nguồn (đầu vào → sau dedup):
+  gs        :     3 →     1 (loại    2)
+  ieee      :     7 →     6 (loại    1)
+  scopus    :    23 →    23 (loại    0)
+  springer  :     2 →     2 (loại    0)
+  tf        :     2 →     2 (loại    0)
+
+Borderline pairs (score 85–89): 0
+
+[WARN R07] Dedup ratio < 10% — kiểm tra encoding / DOI normalization bug.
+[WARN R03] Pool unique 34 < 5000 (kỳ vọng WorkPlan). Xem xét chạy SA-1/2/3.
+
+----------------------------------------------------------------------
+Chi tiết Lớp 1 — DOI exact duplicates (top 20):
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1080/00207543.2024.2301001
+
+----------------------------------------------------------------------
+Chi tiết Lớp 2 — Fuzzy title duplicates (top 20):
+  score=100  KEEP [scopus] REMOVE [gs]
+    TITLE: Digital  shadow-based  berth  allocation  optimization  in  …
+  score=100  KEEP [ieee] REMOVE [gs]
+    TITLE: IoT-enabled digital twin architecture for yard management in…
+
+----------------------------------------------------------------------
+Chi tiết Lớp 3 — Hash duplicates (top 20):

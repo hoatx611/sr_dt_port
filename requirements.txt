@@ -1,0 +1,12 @@
+# SR Digital Twin Port — Python dependencies
+# WorkPlan v5.6 — Bước 7 (dedup) + Bước 8 (screening)
+# pip install -r requirements.txt
+
+# Dedup Layer 2 — fuzzy title matching
+rapidfuzz>=3.6.1
+
+# Data manipulation
+pandas>=2.1.0
+
+# Tùy chọn: nếu muốn dùng tqdm progress bar
+tqdm>=4.66.0

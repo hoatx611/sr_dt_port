@@ -913,35 +913,38 @@ Cú pháp Scopus đầy đủ lưu trong `graph_net.md` mục "Truy vấn phân 
 
 | # | Truy vấn | Cơ sở dữ liệu | Bản ghi | Trạng thái | Ngày chạy |
 |---|---------|----------------|---------:|-------------|--------------|
-| 1 | Q1 CORE NARROW | Scopus | – | ⬜ | – |
-| 2 | Q1 CORE NARROW | IEEE Xplore | – | ⬜ | – |
-| 3 | Q2 CORE EXTENDED | Scopus | – | ⬜ | – |
-| 4 | Q2 CORE EXTENDED | IEEE Xplore | – | ⬜ | – |
-| 5 | Q3 T-L1 | Scopus | – | ⬜ | – |
-| 6 | Q3 T-L1 | IEEE Xplore | – | ⬜ | – |
-| 7 | Q4 T-L2 | Scopus | – | ⬜ | – |
-| 8 | Q4 T-L2 | IEEE Xplore | – | ⬜ | – |
-| 9 | Q5 T-L3 | Scopus | – | ⬜ | – |
-| 10 | Q5 T-L3 | IEEE Xplore | – | ⬜ | – |
-| 11 | Q6 T-L4 | Scopus | – | ⬜ | – |
-| 12 | Q6 T-L4 | IEEE Xplore | – | ⬜ | – |
-| 13 | Q7 T-L5 | Scopus | – | ⬜ | – |
-| 14 | Q7 T-L5 | IEEE Xplore | – | ⬜ | – |
-| 15 | Q8 Gate | Scopus | – | ⬜ | – |
-| 16 | Q8 Gate | IEEE Xplore | – | ⬜ | – |
-| 17 | Q9 Quy mô + VN/ĐNÁ | Scopus | – | ⬜ | – |
-| 18 | Q9 Quy mô + VN/ĐNÁ | IEEE Xplore | – | ⬜ | – |
-| 19 | Q10 Vintage | Scopus | – | ⬜ | – |
-| 20 | Q10 Vintage | IEEE Xplore | – | ⬜ | – |
-| 21 | Q11 Springer (12 tháng) | Springer Link | – | ⬜ | – |
-| 22 | Q12 T&F (6 tháng) | Taylor & Francis | – | ⬜ | – |
-| 23–32 | Q13–Q22 GS-1 → GS-10 | Google Scholar | – | ⬜ | – |
-|   | **Tổng dự kiến (32 lượt chạy)** |   | – | – | – |
+| 1 | Q1 CORE NARROW | Scopus | 130 | ✅ `PRIMARY_Scopus.ris` | 2026-05-10 |
+| 2 | Q1 CORE NARROW | IEEE Xplore | 50 | ✅ `PRIMARY_IEEE.ris` | 2026-05-10 |
+| 3 | Q2 CORE EXTENDED | Scopus | 1518 | ✅ `EXTENDED_Scopus.ris` | 2026-05-10 |
+| 4 | Q2 CORE EXTENDED | IEEE Xplore | 1118 | ✅ `EXTENDED_IEEE.ris` | 2026-05-10 |
+| 5 | Q3 T-L1 | Scopus | 180 | ✅ `T1_Scopus.ris` | 2026-05-10 |
+| 6 | Q3 T-L1 | IEEE Xplore | 53 | ✅ `T1_IEEE.ris` | 2026-05-10 |
+| 7 | Q4 T-L2 | Scopus | 246 | ✅ `T2_Scopus.ris` | 2026-05-10 |
+| 8 | Q4 T-L2 | IEEE Xplore | 154 | ✅ `T2_IEEE.ris` | 2026-05-10 |
+| 9 | Q5 T-L3 | Scopus | 422 | ✅ `T3_Scopus.ris` | 2026-05-10 |
+| 10 | Q5 T-L3 | IEEE Xplore | 135 | ✅ `T3_IEEE.ris` | 2026-05-10 |
+| 11 | Q6 T-L4 | Scopus | 54 | ✅ `T4_Scopus.ris` | 2026-05-10 |
+| 12 | Q6 T-L4 | IEEE Xplore | 10 | ✅ `T4_IEEE.ris` | 2026-05-10 |
+| 13 | Q7 T-L5 | Scopus | 34 | ✅ `T5_Scopus.ris` | 2026-05-10 |
+| 14 | Q7 T-L5 | IEEE Xplore | 54 | ✅ `T5_IEEE.ris` | 2026-05-10 |
+| 15 | Q8 Gate | Scopus | 345 | ✅ `T6_Scopus.ris` | 2026-05-10 |
+| 16 | Q8 Gate | IEEE Xplore | 110 | ✅ `T6_IEEE.ris` | 2026-05-10 |
+| 17 | Q9 Quy mô + VN/ĐNÁ | Scopus | 483 | ✅ `T7_Scopus.ris` | 2026-05-10 |
+| 18 | Q9 Quy mô + VN/ĐNÁ | IEEE Xplore | 246 | ✅ `T7_IEEE.ris` | 2026-05-10 |
+| 19 | Q10 Vintage | Scopus | 9 | ✅ `T8_Scopus.ris` (PoP export) | 2026-05-15 |
+| 20 | Q10 Vintage | IEEE Xplore | 13 | ✅ `T8_IEEE.ris` (CSV→RIS convert) | 2026-05-15 |
+| 21 | Q11 Springer (12 tháng) | Springer Link | 905 | ✅ `SPRINGER.ris` | 2026-05-10 |
+| 22 | Q12 T&F (6 tháng) | Taylor & Francis | 928 | ✅ `TF.ris` | 2026-05-10 |
+| 23–32 | Q13–Q22 GS-1 → GS-10 | Google Scholar | 650 | ✅ `GS.ris` (gộp 10 sub) | 2026-05-10 |
+|   | **Tổng 23 files (Q1–Q12, GS)** | | **7.847** | **✅ Dedup → 5.822 unique** | **2026-05-15** |
 | 33 | SA-1 | Scopus | – | ⬜ Hoãn (chỉ nếu recall < 95%) | – |
 | 34 | SA-2 | Scopus | – | ⬜ Hoãn | – |
 | 35 | SA-3 | Scopus | – | ⬜ Hoãn | – |
-|   | Snowball (6 seeds) | – | – | ⬜ Sau dedup | – |
+|   | Snowball (6 seeds) | – | – | ⬜ Sau Bước 9 | – |
 |   | Hand search (10 tạp chí) | – | – | ⬜ Trước Submit | – |
+
+**Ghi chú Q-code → Filename mapping (DEV-002):**
+WorkPlan quy ước tên Q1_Scopus.ris — tên thực tế dùng mô tả nội dung (PRIMARY/EXTENDED/T1…T7). Xem DEV-002 trong `SR_Deviation_Log_v5.6.md`.
 
 **Ghi chú phân trang IEEE Xplore:** giới hạn ≈ 100 records/trang xuất → nếu một query trả về > 100 phải xuất theo trang `Q*_IEEE_P1.ris`, `Q*_IEEE_P2.ris`, …
 

@@ -1,0 +1,99 @@
+======================================================================
+DEDUP REPORT — Bước 7.4 WorkPlan v5.6
+======================================================================
+
+Tổng records đầu vào:    7847
+Tổng records unique:     5822
+Tổng đã loại bỏ:         2025 (25.8%)
+
+Chi tiết theo lớp:
+  Lớp 1 (DOI exact):     1675 cặp trùng
+  Lớp 2 (Fuzzy title):    347 cặp trùng
+  Lớp 3 (Hash):             3 cặp trùng
+
+Phân bố theo nguồn (đầu vào → sau dedup):
+  gs        :   650 →   298 (loại  352)
+  ieee      :  1943 →   973 (loại  970)
+  scopus    :  3422 →  2787 (loại  635)
+  springer  :   904 →   872 (loại   32)
+  tf        :   928 →   892 (loại   36)
+
+Borderline pairs (score 85–89): 19
+
+[OK] Dedup ratio 25.8% trong range bình thường (10–50%).
+[OK] Pool unique 5822 trong range kỳ vọng [5,000, 7,000].
+
+----------------------------------------------------------------------
+Chi tiết Lớp 1 — DOI exact duplicates (top 20):
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/HPCC67675.2025.00160
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/ICNSC66229.2025.00036
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/INDIN64977.2025.11279683
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/MetaCom65502.2025.00042
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/OCEANS58557.2025.11104366
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/AIRC64931.2025.11077478
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/TPEL.2026.3670611
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/CoDIT66093.2025.11321707
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/EEITE65381.2025.11165883
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/TSMC.2024.3490792
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/ICTIS68762.2025.11214916
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/WCSP68525.2025.1010587
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/CloudCom67567.2025.11331438
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/TEC.2026.3679977
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/TTE.2024.3453316
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/BigDataService65758.2025.00007
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/TII.2025.3646033
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/TVT.2025.3639167
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/IECON58223.2025.11221823
+  KEEP [scopus] REMOVE [ieee] DOI: 10.1109/TMC.2025.3583153
+
+----------------------------------------------------------------------
+Chi tiết Lớp 2 — Fuzzy title duplicates (top 20):
+  score=100  KEEP [scopus] REMOVE [scopus]
+    TITLE: Scalable Framework for Behavior Execution of Mobility and Tr…
+  score=100  KEEP [ieee] REMOVE [ieee]
+    TITLE: Covert Channels in Cyber-Physical Systems
+  score=100  KEEP [scopus] REMOVE [scopus]
+    TITLE: A Cyber-Physical Platform to Assess Power System Operation W…
+  score=90  KEEP [scopus] REMOVE [scopus]
+    TITLE: Digital Twinning and Optimization of Manufacturing Process F…
+  score=100  KEEP [scopus] REMOVE [gs]
+    TITLE: Comparative forecasting of container throughput for maritime…
+  score=100  KEEP [scopus] REMOVE [springer]
+    TITLE: Committee V.2: Experimental Methods
+  score=100  KEEP [scopus] REMOVE [springer]
+    TITLE: Committee V.2: Experimental Methods
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Committee IV.1: Design Methods, Principles and Criteria
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Committee IV.2: Material and Fabrication Technology
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Committee II.2: Dynamic Response
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Committee V.7: Structural Assessment During Operations
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Committee  III.2: Fatigue and Fracture
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Introduction
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Introduction
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Committee II.1: Quasi-Static Response
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Terminology in Active Distribution Systems and Distributed E…
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Terminology in Active Distribution Systems and Distributed E…
+  score=100  KEEP [springer] REMOVE [springer]
+    TITLE: Committee III.1: Ultimate Strength
+  score=90  KEEP [ieee] REMOVE [ieee]
+    TITLE: IEEE/ISO/IEC International Standard-Telecommunications and e…
+  score=100  KEEP [ieee] REMOVE [ieee]
+    TITLE: Table of contents
+
+----------------------------------------------------------------------
+Chi tiết Lớp 3 — Hash duplicates (top 20):
+  KEEP [scopus] ali, z. 2025 'distributed resilient control for invert…'
+  REMOVED [scopus] ali, z. 2025
+  KEEP [ieee]  2018 'ieee standard for local and metropolitan…'
+  REMOVED [ieee]  2018
+  KEEP [scopus] wang, r. 2023 'prediction and analysis of container ter…'
+  REMOVED [scopus] wang, r. 2023

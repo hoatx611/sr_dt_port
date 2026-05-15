@@ -1,0 +1,48 @@
+============================================================
+SCREENING DISTRIBUTION — Bước 8.1.3 WorkPlan v5.6
+============================================================
+
+Total records:     5822
+LIKELY_INCLUDE  :  284/5822 (4.9%)   [kỳ vọng 15–25%]
+REVIEW_NEEDED   :  5061/5822 (86.9%)   [kỳ vọng 40–60%]
+LIKELY_EXCLUDE  :  477/5822 (8.2%)   [kỳ vọng 20–40%]
+Missing abstract :  1422
+
+[WARN] LIKELY_INCLUDE < 5% — rules 1–3 quá strict? Kiểm tra regex.
+
+By source:
+  gs        : total=  298 | INC=  64 | REV= 231 | EXC=   3
+  ieee      : total=  973 | INC=  14 | REV= 905 | EXC=  54
+  scopus    : total= 2787 | INC= 204 | REV=2448 | EXC= 135
+  springer  : total=  872 | INC=   1 | REV= 820 | EXC=  51
+  tf        : total=  892 | INC=   1 | REV= 657 | EXC= 234
+
+Top EC codes (LIKELY_EXCLUDE):
+  EC-ENERGY           : 154
+  EC-STRUCT           : 113
+  EC7-mfg             : 72
+  EC-NOSCOPE          : 50
+  EC7-health          : 33
+  EC1                 : 27
+  EC7-bim             : 20
+  EC2                 : 18
+  EC7-other           : 11
+  EC-IT               : 6
+
+Rule match distribution (LIKELY_INCLUDE):
+  Rule 1    : 170
+  Rule 2    : 145
+
+Rule match distribution (LIKELY_EXCLUDE):
+  Rule TF_BLACKLIST: 211
+  Rule 10b       : 154
+  Rule 10        : 33
+  Rule 11        : 27
+  Rule 12        : 20
+  Rule 9         : 18
+  Rule 1         : 8
+  Rule 6         : 6
+  Rule 7         : 6
+  Rule 2         : 3
+  Rule 8         : 1
+  Rule 5         : 1

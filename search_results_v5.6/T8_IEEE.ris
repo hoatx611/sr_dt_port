@@ -1,0 +1,425 @@
+TY  - JOUR
+AU  - T. -A. Tran
+AU  - T. Ruppert
+AU  - G. Eigner
+AU  - J. Abonyi
+TI  - Retrofitting-Based Development of Brownfield Industry 4.0 and Industry 5.0 Solutions
+JO  - IEEE Access
+JF  - IEEE Access
+PY  - 2022
+VL  - 10
+SP  - 64348
+EP  - 64374
+AB  - The ongoing Industry 4.0 is characterized by the connectivity between components in the manufacturing system. For modern machines, the Internet of Things is a built-in function. In contrast, there are legacy machines in deployment functioning without digital communication. The need to connect them became popular to improve overall production efficiency. As building a new smart factory as a greenfield investment is a capital-intensive choice, retrofitting the existing infrastructure with IoT capability is more reasonable than replacing them. However, this so-called brownfield development, or retrofitting, requires specific prerequisites, e.g., digitization status assessment, technical and connectivity development, management requirement, and operational need, representing a significant disadvantage: lack of scalability. In the meantime, Industry 5.0 is under human-centric priority, which poses new challenges to the retrofitted system. Aware of the challenge, this paper provides a systematic overview of brownfield development regarding technical difficulties, supporting technologies, and possible applications for the legacy system. The research scope focuses on available Industry 4.0 advancements but considers preparing for the forthcoming Industry 5.0. The proposed retrofitting project approach can be a guideline for manufacturers to transform their factories into intelligent spaces with minimal cost and effort but still gain the most applicable solution for management needs. The future direction for other research in brownfield development for Industry 5.0 is also discussed.
+SN  - 2169-3536
+DO  - 10.1109/ACCESS.2022.3182491
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9794677
+KW  - Aging
+KW  - Brownfield development
+KW  - Fourth Industrial Revolution
+KW  - Industries
+KW  - Industry 4.0
+KW  - Industry 5.0
+KW  - Investment
+KW  - Machinery
+KW  - Production
+KW  - Systematics
+KW  - automation
+KW  - legacy system
+KW  - retrofitting
+N1  - IEEE Document ID: IEEE Journals
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - B. Steinhagen
+AU  - T. Jungh
+AU  - M. Hesse
+TI  - Integrating Industry 4.0 approaches into Low Voltage Grids: A Cost-Efficient Retrofit Strategy Using IoT and Edge Computing
+JO  - 2024 IEEE International Humanitarian Technologies Conference (IHTC)
+JF  - 2024 IEEE International Humanitarian Technologies Conference (IHTC)
+PY  - 2024
+SP  - 1
+EP  - 6
+AB  - This paper presents a cost-efficient retrofit strategy for the digitalization of low voltage grids, leveraging the advancements of Industry 4.0 technologies such as Internet of Things (IoT) and edge computing. Facing the challenges of traditional grid management systems, like scalability, data processing, cybersecurity, and integration of renewable energies, this strategy proposes a practical solution to enhance grid observability. By implementing this approach in a local grid station and two cable distributors, we illustrate the potential for significant improvements in grid management, including real-time monitoring of power consumption and energy feedback. The findings underscore the transformative impact of digital technologies on the energy sector, offering insights into the future of grid management and the integration of renewable energy sources. This study contributes to the evolving discourse on grid digitalization, providing a framework for deploying IoT and edge computing in low voltage grids to achieve a more sustainable and efficient energy future.
+SN  - 2837-4800
+DO  - 10.1109/IHTC61819.2024.10855009
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10855009
+KW  - Edge computing
+KW  - Fourth Industrial Revolution
+KW  - Industry 4.0
+KW  - Internet of Things
+KW  - Low voltage
+KW  - Observability
+KW  - Power demand
+KW  - Power grids
+KW  - Real-time systems
+KW  - Renewable energy sources
+KW  - Scalability
+KW  - Technological innovation
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - B. Rupprecht
+AU  - E. Trunzer
+AU  - S. König
+AU  - B. Vogel-Heuser
+TI  - Concepts for Retrofitting Industrial Programmable Logic Controllers for Industrie 4.0 Scenarios
+JO  - 2021 22nd IEEE International Conference on Industrial Technology (ICIT)
+JF  - 2021 22nd IEEE International Conference on Industrial Technology (ICIT)
+PY  - 2021
+VL  - 1
+SP  - 1034
+EP  - 1041
+AB  - In the course of the fourth industrial revolution, companies are facing considerable challenges, such as retrofitting and integrating existing, mission-critical automated production systems (aPS) into new interconnected environments. To integrate the production data from aPS and to make it available for data analysis and plant monitoring, relevant data from the programmable logic controller (PLC) of each aPS needs to be accessed and forwarded. These PLCs, at a first priority, control the production plants and ensure reliable production. Due to the long life-cycles of aPS of around 30 years, a huge number of legacy PLCs with limited processing and communication capabilities exists in the field. Therefore, retrofitting concepts that aim to allow access to PLC data need to account for this special, mission-critical role of PLCs. In the context of PLC retrofitting approaches, research currently addresses two domains: on the one hand, abstract Industrie 4.0 architectures are proposed that lack of implementation details. On the other hand, specific retrofitting concepts are presented, which are usually not transferable to other application purposes. Hence, this work aims to fill this gap by deriving generally applicable retrofitting strategies for legacy PLCs for data collection. Five technology-neutral retrofitting concepts based on industrially relevant use-cases were proposed. Three concepts were substantiated on an exemplary basis and their validity shown within a proof-of-concept. Altogether, this work can act as a guideline for retrofitting automation technology to facilitate the integration of legacy systems in Industrie 4.0 scenarios.
+DO  - 10.1109/ICIT46573.2021.9453558
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9453558
+KW  - Companies
+KW  - Cyber-Physical Systems of Systems
+KW  - Data Collection
+KW  - Industrial Internet of Things
+KW  - Industries
+KW  - Industry 4.0
+KW  - Mission critical systems
+KW  - PLC Retrofitting
+KW  - Production systems
+KW  - Programmable Logic Controller (PLC)
+KW  - Programmable logic devices
+KW  - Protocols
+KW  - Scalability
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - M. Short
+AU  - F. Hassan
+AU  - A. Kidd
+AU  - F. Amrouche
+AU  - E. Segovia
+AU  - D. Coleman
+AU  - M. Walker
+TI  - A feasibility study on regeneration capture on a seaport electrified gantry crane
+JO  - 2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)
+JF  - 2022 26th International Conference on Circuits, Systems, Communications and Computers (CSCC)
+PY  - 2022
+SP  - 196
+EP  - 203
+AB  - Recent estimates indicate that roughly 80% of worldwide freight is carried at sea. With shipping and cargo handling responsible for at least 2.5% of annual carbon emissions, the maritime sector poses fertile ground for carbon reductions. This paper focuses on the use of Digital Twins for analyzing and optimizing energy consumption related to cargo handling in a seaport. Specifically, the paper focuses upon data-driven modelling and ‘what-if’ analysis to quantify the potential of energy regeneration capture in a seaport electrified gantry crane used for cargo handling. The crane, located in Middlesbrough, UK was modelled using real-time sensor and control system data on electricity consumption, position, velocity, and driver commands. Mean average modelling errors of less than 1 % were obtained. The dynamic model was deployed for exploration of regeneration capture from lifting operations using a simulated Active Front End (AFE) of power electronics and batteries. Using calibrated simulations, data from a cargo handling system and historical annual consumption data, the paper provides estimates of the potential energy savings for three existing electrified cranes of approximately 420 MWh per year. Using conservative estimates of 40% reclamation of energy for all hoist lifting operations, obtained via a simplified static model, further potentially significant savings are suggested to be possible through the retrofitting of additional diesel cranes.
+DO  - 10.1109/CSCC55931.2022.00041
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10017991
+KW  - Carbon dioxide
+KW  - Cranes
+KW  - Data models
+KW  - Energy consumption
+KW  - Potential energy
+KW  - Real-time systems
+KW  - Seaports
+KW  - cargo handling
+KW  - data analytics
+KW  - digital twins
+KW  - gantry cranes
+KW  - power electronics
+KW  - regeneration capture
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - T. John
+AU  - M. Vorbröcker
+TI  - Enabling IoT connectivity for ModbusTCP sensors
+JO  - 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+JF  - 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+PY  - 2020
+VL  - 1
+SP  - 1339
+EP  - 1342
+AB  - This work in progress paper presents an architecture for an IoT gateway that can be seamlessly integrated into an industrial setting running older generations PLCs to enable IoT connectivity and data analytics for sensors to applications with minimal setup. Internet of Things (IoT) is a major paradigm of Industry 4.0 where cyber-physical systems are connected to the Internet. By integrating the measurement data from sensors into an IoT environment, more value can be derived from the data through advanced analytics using machine learning or deep learning. At present, most of the sensors in industrial plants are connected to Programmable Logic Controllers (PLCs). To enable IoT connectivity for sensors connected to PLCs, the controller often needs to be retrofitted with IoT gateways, especially in the case of older generation PLCs. The cost of retrofitting older generation PLCs with IoT gateways and the extensive configuration and setup required to use the sensor data in running environments can prevent industries and factories from utilizing the benefits of IoT. The presented architecture addresses these issues by describing an approach to capture sensor data from PLCs through Modbus protocol, transform the data into an IoT communication standard and provides contextual information of data sources on demand to enable plug and play IoT connectivity. A method to store, process and visualize the sensor data is also presented. Finally, a prototypical implementation of the presented architecture and method is introduced.
+SN  - 1946-0759
+DO  - 10.1109/ETFA46521.2020.9211999
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9211999
+KW  - Industry 4.0
+KW  - Internet of Things
+KW  - Logic gates
+KW  - Modbus IoT gateway
+KW  - Programmable logic devices
+KW  - Protocols
+KW  - Sensor phenomena and characterization
+KW  - Sensors
+KW  - Soft sensors
+KW  - Transforms
+KW  - data source integration
+KW  - interoperability
+KW  - sensor network
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - D. Pavković
+AU  - K. Kvaternik
+AU  - Z. Kljaić
+AU  - M. Cipek
+TI  - Conventional Approach versus State-of-Charge Feedback for Lithium Titanate Battery Cell Charging – A Comparative Simulation Study
+JO  - 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
+JF  - 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
+PY  - 2024
+SP  - 1920
+EP  - 1925
+AB  - Lithium-titanate currently represents state-of-the-art technology in lithium secondary batteries that is characterized by exceptional thermal stability and operational safety levels. This makes them particularly interesting for highly demanding stationary energy storage applications. In practical field operations, minimizing the recharging time from a partially discharged state is often crucial, while still adhering to technological constraints such as battery terminal voltage and continuous charging current. To address this, the present work outlines the design of a dynamic battery charging system, leveraging state-of-charge estimation obtained from a nonlinear state estimator, specifically an extended Kalman filter (EKF). The above approach is used to enhance the conventional constant-current/constant-voltage charging system, which traditionally relies solely on battery voltage feedback. To evaluate the novel charging system performance, a comparative analysis is conducted through extensive simulations employing the nonlinear equivalent circuit model of the lithium titanate battery cell. The presented mathematical model can be successfully used in the design of digital twins of battery systems to augment the related charging strategies for electric vehicles (EVs) through straightforward retrofitting.
+SN  - 2623-8764
+DO  - 10.1109/MIPRO60963.2024.10569463
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10569463
+KW  - Analytical models
+KW  - Batteries
+KW  - Benchmark testing
+KW  - Integrated circuit modeling
+KW  - Lithium
+KW  - Mathematical models
+KW  - Titanium compounds
+KW  - digital twin
+KW  - equivalent circuit model
+KW  - lithium titanate cell
+KW  - simulations
+KW  - state-of-charge estimator
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - S. Yolov
+AU  - G. Hristov
+AU  - P. Zahariev
+TI  - Development and Integration of an Industrial Automation System based on the MQTT Protocol
+JO  - 2025 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT & NCON)
+JF  - 2025 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT & NCON)
+PY  - 2025
+SP  - 79
+EP  - 84
+AB  - Industry 4.0 is a complex term used to describe the digital transformation of the manufacturing and industrial systems. It emphasizes connectivity, automation and real-time data integration. The Message Queuing Telemetry Transport (MQTT) protocol is one of the main driving forces behind this transformation. It is a lightweight, publish-subscribe messaging standard designed for efficient communications in the Industrial Internet of Things (IIoT) environments. The MQTT protocol provides seamless connectivity between diverse industrial devices, ensuring efficient data collection, transmission and integration with minimal network overhead. The MQTT gateways are among the key elements in the modern industrial automation applications and processes, but they also can bridge the legacy industrial systems and the advanced modern IIoT platforms. This is done by the translation of the traditional protocol data units into MQTT messages, which transforms the legacy systems into Industry 4.0-compliant solutions. The MQTT broker, acting as a central hub in the communication ecosystem, manages the message distribution among all connected devices, ensuring data availability for the analytical, monitoring and decision-making systems. At the present moment of time, this architecture is enabling scalable, interoperable and real-time data exchange, driving efficiency, predictive maintenance and smarter industrial operations in the era of Industry 4.0. This paper presents the design, development and integration of a sophisticated modern industrial automation system, which is based on MQTT and is representing the essence of the Industry 4.0 paradigm.
+SN  - 2768-4644
+DO  - 10.1109/ECTIDAMTNCON64748.2025.10962086
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10962086
+KW  - Fourth Industrial Revolution
+KW  - Industrial Internet of Things
+KW  - Industrial automation
+KW  - Industry 4.0
+KW  - MQTT
+KW  - Protocols
+KW  - Publish-subscribe
+KW  - Real-time systems
+KW  - Standards
+KW  - Sustainable development
+KW  - Telemetry
+KW  - Transforms
+KW  - Translation
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - JOUR
+AU  - R. P. Pontarolli
+AU  - M. Gaffurini
+AU  - E. P. Godoy
+AU  - P. Ferrari
+TI  - Analyzing Microservice Communication Performance in Industrial Edge Platform
+JO  - IEEE Access
+JF  - IEEE Access
+PY  - 2025
+VL  - 13
+SP  - 167744
+EP  - 167755
+AB  - The integration of legacy manufacturing systems into Industry 4.0 ecosystems necessitates architectures that balance interoperability and performance across infrastructures. This paper addresses these challenges by proposing a hybrid system leveraging Docker containers, the Moleculer framework, and the Asset Administration Shell (AAS) to enable semantic interoperability while quantifying communication latencies in bidirectional industrial workflows, analyzing microservice communication performance in edge platforms through a hybrid architecture that combines legacy protocols with edge virtualization, and contextualizing it against fieldbus-based systems and fully virtualized containerized microservices. Experimental validation on a Siemens S7-1500 Programmable Logic Controller (PLC) evaluates latency distributions across architectures, revealing average round-trip times of 7.23 ms for hybrid sensor updates and 5.94 ms for virtualized command writes, with 75% of operations under 10 ms. Performance tradeoffs emerge between protocol translation overhead in hybrid systems and transporter-induced variability in virtual deployments. By correlating temporal metrics with architectural choices, this work provides actionable insights for modernizing brownfield installations, enabling manufacturers to select optimal strategies based on legacy constraints and real-time requirements. The results highlight the viability of gradual migration paths, preserving existing investments while adopting Industry 4.0 capabilities through performance-aware microservice orchestration.
+SN  - 2169-3536
+DO  - 10.1109/ACCESS.2025.3612701
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11175134
+KW  - Aging
+KW  - Computer architecture
+KW  - Docker containers
+KW  - Fourth Industrial Revolution
+KW  - Industrial edge computing
+KW  - Machine-to-machine communications
+KW  - Microservice architectures
+KW  - Process control
+KW  - Protocols
+KW  - Reactive power
+KW  - Semantics
+KW  - Virtualization
+KW  - asset administration shell
+KW  - communication
+KW  - hybrid architectures
+KW  - latency analysis
+KW  - legacy system integration
+KW  - virtualized systems
+N1  - IEEE Document ID: IEEE Journals
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - J. Lange
+AU  - P. Schweizer
+AU  - G. Al-Falouji
+AU  - C. Krupitzer
+AU  - S. Tomforde
+TI  - A Hybrid Architecture for an Autonomous Maritime Water-Taxi Fleet
+JO  - 2025 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)
+JF  - 2025 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)
+PY  - 2025
+SP  - 100
+EP  - 105
+AB  - Autonomous water-taxi fleets operating in dynamic coastal environments face complex coordination challenges, including fluctuating passenger demand, environmental disturbances, and the need for fair, efficient service delivery. To address these demands, this paper proposes a hybrid self-adaptive and self-organizing architecture that combines centralized planning with decentralized decision-making, enabling water-taxis to respond to local conditions while maintaining system-wide coordination. This paper identifies and investigates four central research challenges: evaluating the system's performance, the implementation of a hybrid architecture tailored to the swarm-fleet maritime infrastructure, the system's ability to maintain robust operation under disturbances, and its seamless integration with existing port and transportation infrastructures. The proposed approach contributes to advancing adaptive maritime mobility systems capable of safe, efficient, and responsive service delivery even under highly dynamic environmental and operational conditions.
+DO  - 10.1109/ACSOS-C66519.2025.00036
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11217521
+KW  - Autonomous Vessel
+KW  - Computer architecture
+KW  - Decision making
+KW  - Hybrid Coordination
+KW  - Learning systems
+KW  - Optimization
+KW  - Real-time systems
+KW  - Sea measurements
+KW  - Seaports
+KW  - Strategic planning
+KW  - Swarm Fleet Infrastructure
+KW  - Symbiosis
+KW  - System performance
+KW  - System-of-Systems
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - R. C. Bello
+AU  - A. Gavrielides
+AU  - N. Q. Luong
+AU  - G. Ayfantopoulou
+AU  - S. Dais
+AU  - K. Batzou
+AU  - O. Manos
+AU  - G. Lilli
+AU  - J. F. Escagüés
+AU  - A. Enríquez Manilla
+AU  - J. M. Corell
+AU  - G. Sandiás Corbillón
+AU  - S. Stefanescu
+AU  - A. L. Marcu
+AU  - N. Capbun
+AU  - G. Suciu
+AU  - S. Barmpounakis
+AU  - G. Koutantos
+AU  - P. Demestichas
+AU  - J. Marquez-Barja
+TI  - Designing a dynamic platform for the next generation of multi-modal logistics
+JO  - 2024 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)
+JF  - 2024 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit)
+PY  - 2024
+SP  - 1102
+EP  - 1108
+AB  - The FOR-FREIGHT (Flexible, multi-mOdal and Robust FREIGHt Transport) project represents a pioneering initiative aimed at revolutionizing multimodal logistics by optimizing transport capacity and enhancing sustainability and efficiency. This paper delves into the project's overarching objectives, methodologies, and anticipated impacts. With a primary focus on developing innovative solutions seamlessly integrated into existing logistics systems, FOR-FREIGHT strives to diminish the average cost of freight transport. The project's unique approach encompasses a comprehensive, end-to-end optimization of multimodal logistics services, addressing challenges prevalent in airports, ports, inland terminals, and logistics nodes. Central to FOR-FREIGHT's success is the creation of a cloud-based platform, combining IoT, AI/ML, and Big Data Management, designed to streamline logistics processes and facilitate decision-making. The paper also emphasizes the integration of legacy systems, ensuring the project's applicability to real-world scenarios. Furthermore, FOR-FREIGHT envisions an open marketplace and standardized interfaces, fostering collaboration and interoperability across diverse stakeholders. As the project advances, it promises to not only redefine multimodal logistics practices but also contribute to the establishment of sustainable and efficient standards within the industry.
+SN  - 2575-4912
+DO  - 10.1109/EuCNC/6GSummit60053.2024.10597059
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597059
+KW  - AI
+KW  - Aerodynamics
+KW  - Aging
+KW  - Collaboration
+KW  - Industries
+KW  - Solvers
+KW  - Stakeholders
+KW  - Technological innovation
+KW  - Transforms
+KW  - Transport & Logistics
+KW  - multi-modal transport
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - B. Ludwig
+AU  - M. Maleshkova
+AU  - O. Niggemann
+TI  - CPSWatch: Lightweight Ontology for System Description and Diagnosis
+JO  - 2025 IEEE 30th International Conference on Emerging Technologies and Factory Automation (ETFA)
+JF  - 2025 IEEE 30th International Conference on Emerging Technologies and Factory Automation (ETFA)
+PY  - 2025
+SP  - 1
+EP  - 8
+AB  - The rapid evolution and continuously growing complexity of cyber-physical systems (CPS), ranging from Industry 4.0 production plants to ship drivetrains and building monitoring, have led to the abundant generation of heterogeneous, poorly-structured, and not standardized data. This situation is further aggravated by retrofitting legacy systems with new sensors for the purpose of data-driven monitoring. In this paper, we introduce Cyber-Physical System Watch (CPSWatch), a lightweight framework that aims to support the monitoring of CPS including the possibility for diagnosis, encompassing a high-level ontology, two sample datasets of different complexity as well as a use case scenario on how it can be applied. Our proposed ontology provides a unified framework for describing data across different CPS applications and aligns with OPC UA, ensuring its general applicability in modern industrial settings. CPSWatch is evaluated in terms of standard ontology evaluation measures, within the scope of condition monitoring of an automation system in the maritime domain and a benchmark in the field of process engineering.
+SN  - 1946-0759
+DO  - 10.1109/ETFA65518.2025.11205604
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11205604
+KW  - Complexity theory
+KW  - Condition monitoring
+KW  - Cyber-physical systems
+KW  - Marine vehicles
+KW  - Monitoring
+KW  - Ontologies
+KW  - Production
+KW  - Sensor systems
+KW  - Sensors
+KW  - Standards
+KW  - condition monitoring
+KW  - cyber-physical system
+KW  - diagnosis
+KW  - ontology
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - T. Seidelmann
+AU  - J. Weise
+AU  - S. Mostaghim
+TI  - Meeting Demands for Mass Customization: A Hybrid Organic Computing Approach
+JO  - 2021 IEEE Symposium Series on Computational Intelligence (SSCI)
+JF  - 2021 IEEE Symposium Series on Computational Intelligence (SSCI)
+PY  - 2021
+SP  - 1
+EP  - 8
+AB  - The manufacturing landscape is experiencing a trend towards mass customization of products as customer demands continue to rise. Product life cycles are becoming shorter, while order fluctuations resulting from small lot-sizes increase. Traditional manufacturing lines, designed to produce high quantities of identical products, are ill-equipped to face the new challenges. While the paradigms are shifting, adoption of modern technologies for dynamic and flexible shop floor designs, such as cyber-physical systems and multi-agent systems, remains low. A clear pathway towards reconfiguring legacy systems stepwise is missing, and the new technologies are not yet established enough. We aim to alleviate these problems by introducing a novel, general simulation framework, developed with partners from the industry, for evaluation of manufacturing system designs. We highlight the usage of this framework by applying an online optimization model, utilizing techniques from organic computing, to optimize order and task prioritization in a hypothetical minimal modular smartphone production scenario. Our experiments show that the usage of an independent ob-server/controller structure is suited to solving these problems. The outlined scenario and optimization procedure can be extended to cover real-life manufacturing systems of much greater complexity within the provided framework.
+DO  - 10.1109/SSCI50451.2021.9659946
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9659946
+KW  - Complexity theory
+KW  - Computational modeling
+KW  - Manufacturing processes
+KW  - Mass customization
+KW  - Processor scheduling
+KW  - Production
+KW  - Workstations
+KW  - job-shop scheduling
+KW  - manufacturing systems
+KW  - observer/controller
+KW  - online optimization
+KW  - organic computing
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
+TY  - CONF
+AU  - S. Behera
+AU  - B. Panigrahi
+AU  - H. K. Rath
+AU  - J. Karjee
+TI  - On Traffic Classification in Enterprise Wireless Networks
+JO  - 2021 National Conference on Communications (NCC)
+JF  - 2021 National Conference on Communications (NCC)
+PY  - 2021
+SP  - 1
+EP  - 6
+AB  - Enterprises today are quickly adopting intelligent, adaptive, and flexible wireless communication technologies in order to become compliant with Industry 4.0. One of the technological challenges related to this is to provide Quality of Services (QoS)-enabled network connectivity to the applications. Diverse QoS demands from the applications intimidate the underlying wireless networks to be agile and adaptive. Since the applications are diverse in nature, there must be a mechanism to learn the application types in near real-time so that the network can be provisioned accordingly. In this paper, we propose a Machine Learning (ML) based method to classify the application traffic. Our method is different from the existing port based and Deep Packet Inspection (DPI) based methods and uses statistical features of the network traffic related to the applications. We validate the performance of the proposed model in a lab based SDNized WiFi set-up. SDNization ensures that the proposed model can be deployed in practice.
+DO  - 10.1109/NCC52529.2021.9530062
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9530062
+KW  - 5G mobile communication
+KW  - Adaptive systems
+KW  - Inspection
+KW  - Machine learning
+KW  - Quality of service
+KW  - Telecommunication traffic
+KW  - Wireless networks
+N1  - IEEE Document ID: IEEE Conferences
+DB  - IEEE Xplore
+ER  - 
+
