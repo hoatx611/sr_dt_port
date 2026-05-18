@@ -107,21 +107,26 @@
 | Pha | Bước | Trạng thái |
 |-----|-------|-------------|
 | Pha 1 — Thiết kế | 1–3 | 🔄 Bước 1: 1.1/1.3/1.6/1.7/1.8/1.9 ✅; 1.10–1.13 ⬜ (NCS Rayyan); Bước 2: SR_Eligibility_Criteria ✅; Bước 3: pilot PRIMARY_Scopus 130 records ✅ |
-| Pha 2 — Tìm kiếm | 4–7 | ✅ Dữ liệu 21 files / 7.825 records (search_results_v5.6/); dedup 7.825→5.811 (25.7%) |
-| Pha 3 — Sàng lọc | 8–10 | 🔄 Bước 8 Pha A ✅ (284/5.051/476); Pha B ⬜ chờ Rayyan; Bước 9–10 ⬜ |
+| Pha 2 — Tìm kiếm | 4–7 | ✅ 23 files / 7.847 records (Q1–Q12 complete + GS); dedup 7.847→5.822 (25.8%) — Q10 Vintage added 2026-05-15 (DEV-004 Resolved) |
+| Pha 3 — Sàng lọc | 8–10 | 🔄 Bước 8 Pha A ✅ (284/5.061/477); Pha B ⬜ chờ Rayyan; Bước 9–10 ⬜ |
 | Pha 4 — Trích xuất + Chất lượng | 11–13 | ⬜ Chưa (chờ Pha B xong) |
 | Pha 5 — Tổng hợp + Phân tích | 14–17 | ⬜ Chưa |
 | Pha 6 — Viết + Nộp | 18–22 | ⬜ Chưa |
 
 **Cập nhật 2026-05-14:**
-- Pha 2 hoàn tất: 21 RIS files (7.825 records), dedup pipeline chạy OK, 5.811 unique records.
-- Pha A screening hoàn tất: `03_screening/screening_pre.ris` sẵn sàng upload Rayyan.
 - Bước 2 sub-tasks 2.1–2.5 xác nhận ✅ (SR_Eligibility_Criteria v1.0 đầy đủ).
-- Bước 4.12, 5.4, 6.4 ✅: Strategy §9 cập nhật với số records thực tế.
-- DEV-004 thêm: Q10 Vintage (Scopus+IEEE) chưa chạy — NCS cần chạy trước Pha B.
-- Tạo mới 4 files: SR_Search_Results_Summary_v5.6.md, SR_PRISMA_FlowDiagram_v5.6.md, SR_Classification_Rubric_v5.6.md, SR_Quality_Appraisal_v5.6.md.
-- SR_PRISMA_Checklist_v5.6.md skeleton 27/27 items (section/page TBD sau Bước 18).
-- Xem `SR_Deviation_Log_v5.6.md` DEV-001/002/003/004 cho các lệch kế hoạch đã ghi nhận.
+- Bước 4.12, 5.4, 6.4 ✅: Strategy §9 cập nhật với số records thực tế (21 files lúc này).
+- DEV-004 thêm: Q10 Vintage chưa chạy.
+- Tạo mới: SR_Search_Results_Summary, SR_PRISMA_FlowDiagram, SR_Classification_Rubric, SR_Quality_Appraisal, SR_PRISMA_Checklist, SR_Deviation_Log.
+
+**Cập nhật 2026-05-15:**
+- Q10 Vintage chạy xong (T8_Scopus.ris 9 + T8_IEEE.ris 13 records). DEV-004 Resolved.
+- Tái chạy dedup: **7.847→5.822** (25,8%) — L1 1.675 + L2 347 + L3 3.
+- Tái chạy Pha A: **284/5.061/477**; Rayyan pool = **5.345 records** (03_screening/screening_pre.ris).
+- Strategy §9 + SR_Search_Results_Summary v1.1 + SR_PRISMA_FlowDiagram v1.1 cập nhật đầy đủ.
+- SR_Deviation_Log DEV-001/002/003/004 all Resolved.
+- PRESS review (Bước 2.6) hoàn tất — xem `SR_PRESS_Review_v5.6.md`.
+- Recall validation seed list chuẩn bị — xem `SR_Recall_Validation_Seeds_v5.6.md` (Bước 15.1).
 
 ## Đường găng (Critical Path)
 
@@ -309,11 +314,11 @@
 
 | Việc | Mô tả | Trạng thái |
 |------|--------|-------------|
-| 7.1 Liệt kê toàn bộ RIS files trong `search_results_v5.6/` | Claude | ✅ 21 files confirmed |
+| 7.1 Liệt kê toàn bộ RIS files trong `search_results_v5.6/` | Claude | ✅ 23 files confirmed (Q10 added 2026-05-15) |
 | 7.2 Viết `check_ris_integrity.py` → output `ris_integrity_report.csv` | Claude | ✅ Script viết + chạy OK |
 | 7.3 NCS review + chạy script | NCS | ✅ Chạy OK — báo cáo lưu `ris_integrity_report.csv` |
 | 7.4 Viết `dedup.py` 3 lớp + inject N1 source annotation | Claude | ✅ Script viết + N1 injection hoàn tất |
-| 7.5 Chạy dedup → `dedup_unique.ris` (5.811 records) + `dedup_report.txt` | NCS | ✅ 7.825→5.811 (25,7%) |
+| 7.5 Chạy dedup → `dedup_unique.ris` (5.822 records) + `dedup_report.txt` | NCS | ✅ 7.847→5.822 (25,8%) — tái chạy 2026-05-15 sau Q10 |
 | 7.6 Cross-validate với Rayyan auto-dedup DOI-only | NCS | ⬜ Chờ Rayyan setup (Bước 1.10) |
 | 7.7 NCS upload `03_screening/screening_pre.ris` vào Rayyan | NCS | ⬜ Chờ Bước 1.10 + Q10 Vintage |
 | 7.8 Export Rayyan pool → `rayyan_export_after_dedup.csv` (audit trail) | NCS | ⬜ |
@@ -342,10 +347,10 @@
 
 | Việc | Mô tả | Trạng thái |
 |------|--------|-------------|
-| 8.1.1 Viết `tf_journal_exclusion.py` (T&F whitelist + journal/publisher exclusion) | Claude | ⬜ |
-| 8.1.2 Viết `screening.py` với 13 priority rules (regex IC/EC) | Claude | ⬜ |
-| 8.1.3 Chạy `screening.py` trên `dedup_unique.ris` → output `screening_pre_v5.6.csv` + `.ris` (PRE_LABEL trong N1) + `screening_distribution.txt` | NCS + Claude | ⬜ |
-| 8.1.4 NCS review distribution — kỳ vọng LIKELY_INCLUDE 15–25%, REVIEW_NEEDED 40–60%, LIKELY_EXCLUDE 20–40% | NCS | ⬜ |
+| 8.1.1 Viết `tf_journal_exclusion.py` (T&F whitelist + journal/publisher exclusion) | Claude | ✅ 2026-05-11 |
+| 8.1.2 Viết `screening.py` với 13 priority rules (regex IC/EC) | Claude | ✅ 2026-05-11 |
+| 8.1.3 Chạy `screening.py` trên `dedup_unique.ris` → `03_screening/screening_pre.ris` + `.csv` + `screening_distribution.txt` | NCS + Claude | ✅ 2026-05-15 — 284/5.061/477; Rayyan pool 5.345 |
+| 8.1.4 NCS review distribution — LIKELY_INCLUDE 4,9% (warn < 5%), REVIEW_NEEDED 86,9%, LIKELY_EXCLUDE 8,2% | NCS | 🔄 Số liệu sẵn sàng — NCS cần xác nhận |
 
 #### 8.2 Pha B — Rayyan formal screening
 
@@ -991,11 +996,11 @@ Một bước được tính ✅ khi:
 
 | Mục | Trạng thái | Đường dẫn |
 |-------|-------------|-------------|
-| Pre-registration OSF | ⬜ | DOI _[điền sau Bước 1.5]_ |
-| Search strategy reproducible | ⬜ | `SR_Search_Strategy_v5.6_FINAL.md` §4 (12 + 10 query nguyên văn) |
-| Dedup pipeline open | ⬜ | `dedup.py` + `requirements.txt` |
-| T/A pre-screen open | ⬜ | `screening.py` + `tf_journal_exclusion.py` |
-| Eligibility operationalized | ⬜ | `SR_Eligibility_Criteria_v5.6.md` (28 EC/IC + 6 borderline) |
+| Pre-registration OSF | 🔄 | OSF Project `dxjw9` tạo 2026-05-10; Registration submission text ✅; NCS chưa submit chính thức |
+| Search strategy reproducible | ✅ 2026-05-10 | `SR_Search_Strategy_v5.6_FINAL.md` §4 (12 queries nguyên văn + §9 status table) |
+| Dedup pipeline open | ✅ 2026-05-11 | `dedup.py` + `requirements.txt` |
+| T/A pre-screen open | ✅ 2026-05-11 | `screening.py` + `tf_journal_exclusion.py` |
+| Eligibility operationalized | ✅ 2026-05-08 | `SR_Eligibility_Criteria_v5.6.md` (28 EC/IC + 6 borderline) |
 | Quality appraisal protocol | ✅ 2026-05-14 | `SR_Quality_Appraisal_v5.6.md` |
 | Data extraction form | ✅ 2026-05-08 | `SR_Data_Extraction_Form_v5.6.md` v1.0 |
 | Maturity rubric | ✅ 2026-05-14 | `SR_Classification_Rubric_v5.6.md` |

@@ -1,7 +1,7 @@
 # PRISMA 2020 CHECKLIST — 27 ITEMS
 # Digital Twin cho Vận hành Cảng Container
 
-**File:** SR_PRISMA_Checklist_v5.6.md
+**File:** SR_PRISMA_Checklist.md
 **Phiên bản:** v1.1 — 2026-05-15
 **NCS:** HoaTX
 **OSF Project:** https://osf.io/dxjw9/ (DOI: 10.17605/OSF.IO/DXJW9)
@@ -42,14 +42,14 @@
 
 | Item | Mô tả PRISMA 2020 | Yêu cầu | Section/Page | Trạng thái |
 |------|-------------------|---------|--------------|------------|
-| **5** | **Eligibility criteria** — Xác định tiêu chí IC/EC đầy đủ với lý do | 28 mã IC/EC (IC1–IC5, EC1–EC-STRUCT), PICOC, 6 borderline rules | §3.1 Methods | ✅ `SR_Eligibility_Criteria_v5.6.md` v1.0 — 2026-05-08 |
+| **5** | **Eligibility criteria** — Xác định tiêu chí IC/EC đầy đủ với lý do | 28 mã IC/EC (IC1–IC5, EC1–EC-STRUCT), PICOC, 6 borderline rules | §3.1 Methods | ✅ `SR_Eligibility_Criteria.md` v1.0 — 2026-05-08 |
 | **6** | **Information sources** — Liệt kê tất cả nguồn tìm kiếm, ngày chạy | Scopus, IEEE, GS, Springer, T&F + ngày 2026-05-10; Q10 2026-05-15 | §3.2 Methods | ✅ 5 databases, 23 files, dates in Strategy §9 |
-| **7** | **Search strategy** — Trình bày ít nhất 1 full search string (đủ để tái lập) | Full query Q1–Q12 nguyên văn + PRESS 8/8 PASS + dedup.py + screening.py | §3.2 Methods + Supplementary | ✅ `SR_Search_Strategy_v5.6_FINAL.md` + `SR_PRESS_Review_v5.6.md` |
+| **7** | **Search strategy** — Trình bày ít nhất 1 full search string (đủ để tái lập) | Full query Q1–Q12 nguyên văn + PRESS 8/8 PASS + dedup.py + screening.py | §3.2 Methods + Supplementary | ✅ `SR_Search_Strategy_FINAL.md` + `SR_PRESS_Review.md` |
 | **8** | **Selection process** — Mô tả ai/bao nhiêu người sàng lọc, cách giải quyết bất đồng | Single reviewer (NCS) + Pha A regex (✅ 284/5.061/477) + Pha B Rayyan (⬜) + intra-rater κ | §3.3 Methods | 🔄 Pha A ✅; Pha B ⬜ chờ Rayyan |
 | **9** | **Data collection process** — Mô tả phương pháp và công cụ trích xuất dữ liệu | SR_Data_Extraction_Form 6 nhóm + Rayyan + Excel; pilot extraction 5 studies | §3.4 Methods | ⬜ Bước 18 |
 | **10a** | **Data items** — Liệt kê tất cả biến dữ liệu cần thu thập | 6 nhóm (A–F): Bibliometrics, DT characterization, Maturity, Ops area, Port context, Quality | §3.4 Methods + Supplementary | ⬜ Bước 18 |
 | **10b** | **Outcomes & prioritization** — Xác định outcomes chính, cách measure và aggregate | RQ1–RQ5 outcomes (bibliometric distribution, L1–L5 heat-map, gap matrix) | §3.4 Methods | ⬜ Bước 18 |
-| **11** | **Study risk of bias assessment** — Mô tả phương pháp đánh giá chất lượng | Kitchenham & Charters (2007) 8 tiêu chí; 0/0.5/1; single reviewer; intra-rater κ | §3.5 Methods | ✅ SR_Quality_Appraisal_v5.6.md |
+| **11** | **Study risk of bias assessment** — Mô tả phương pháp đánh giá chất lượng | Kitchenham & Charters (2007) 8 tiêu chí; 0/0.5/1; single reviewer; intra-rater κ | §3.5 Methods | ✅ SR_Quality_Appraisal.md |
 | **12** | **Effect measure** — Xác định effect size measures | **N/A** — xem §6 justification | N/A | **N/A** |
 | **13a** | **Synthesis methods** — Phương pháp tổng hợp (combining results) | Typology synthesis + bibliometric analysis + thematic coding; không có meta-analysis | §3.6 Methods | ⬜ Bước 18 |
 | **13b** | **Exploring heterogeneity** — Phương pháp explore heterogeneity | Heterogeneity được mô tả định tính (domain × maturity × method variation) — không có I² | §3.6 Methods | ⬜ Bước 18 |
@@ -63,7 +63,7 @@
 
 | Item | Mô tả PRISMA 2020 | Yêu cầu | Section/Page | Trạng thái |
 |------|-------------------|---------|--------------|------------|
-| **14** | **Study selection** — PRISMA flow diagram + số loại trừ theo lý do mỗi tầng | PRISMA 2020 flow diagram với số liệu thực (sau Bước 9) + Table EC reasons | §4.1 Results + Figure 1 | 🔄 Dữ liệu Identification+Dedup+PhaA ✅ (`SR_PRISMA_FlowDiagram_v5.6.md` v1.1); Pha B + Bước 9 ⬜ |
+| **14** | **Study selection** — PRISMA flow diagram + số loại trừ theo lý do mỗi tầng | PRISMA 2020 flow diagram với số liệu thực (sau Bước 9) + Table EC reasons | §4.1 Results + Figure 1 | 🔄 Dữ liệu Identification+Dedup+PhaA ✅ (`SR_PRISMA_FlowDiagram.md` v1.1); Pha B + Bước 9 ⬜ |
 | **15** | **Study characteristics** — Table tóm tắt đặc điểm mỗi study | Table 1: study_id, author/year, source, primary_maturity, ops area, port size, country | §4.2 Results + Table 1 | ⬜ Bước 11 + 18 |
 | **16a** | **Risk of bias in studies — assessment** — Trình bày đánh giá chất lượng từng study | Kitchenham scores (Q1–Q8) cho mỗi study trong Supplementary + summary Figure | §4.3 Results + Supplementary | ⬜ Bước 13 (chờ Pha B + extraction) |
 | **16b** | **Risk of bias in studies — presentation** | Distribution of quality levels (High/Medium/Low) | §4.3 Results | ⬜ Bước 13 |
@@ -179,14 +179,14 @@
 
 | File | Quan hệ |
 |------|---------|
-| `SR_PRISMA_FlowDiagram_v5.6.md` | Item 14 (flow diagram data) |
-| `SR_Quality_Appraisal_v5.6.md` | Item 11 (quality assessment) |
-| `SR_Eligibility_Criteria_v5.6.md` | Item 5 (eligibility criteria) |
-| `SR_Search_Strategy_v5.6_FINAL.md` | Items 6, 7 (search strategy) |
-| `SR_Deviation_Log_v5.6.md` | Item 23c (amendments) |
-| `WorkPlan_v5.6_FINAL.md` | §0.8 (mapping của mọi bước tới PRISMA items) |
+| `SR_PRISMA_FlowDiagram.md` | Item 14 (flow diagram data) |
+| `SR_Quality_Appraisal.md` | Item 11 (quality assessment) |
+| `SR_Eligibility_Criteria.md` | Item 5 (eligibility criteria) |
+| `SR_Search_Strategy_FINAL.md` | Items 6, 7 (search strategy) |
+| `SR_Deviation_Log.md` | Item 23c (amendments) |
+| `WorkPlan_FINAL.md` | §0.8 (mapping của mọi bước tới PRISMA items) |
 | `osf_release/` | Public version (strip "v5.6" labels) |
 
 ---
 
-*SR_PRISMA_Checklist_v5.6.md — v1.0 — 2026-05-14 — NCS HoaTX*
+*SR_PRISMA_Checklist.md — v1.0 — 2026-05-14 — NCS HoaTX*

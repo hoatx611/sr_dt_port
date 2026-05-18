@@ -896,16 +896,16 @@ Cú pháp Scopus đầy đủ lưu trong `graph_net.md` mục "Truy vấn phân 
 
 | # | Tiêu chí PRESS | Trạng thái | Ghi chú |
 |---|------------------|-------------|----------|
-| 1 | Translation of question into search concepts | ⬜ | RQ doc §IV ↔ §1.5 mapping ↔ §4 truy vấn |
-| 2 | Boolean and proximity operators | ⬜ | AND / OR / AND NOT / NEAR/3 |
-| 3 | Subject headings | ⬜ | SUBJAREA Scopus (7 ngành) |
-| 4 | Text word searching | ⬜ | TITLE-ABS-KEY trong Q1–Q10 Scopus |
-| 5 | Spelling, syntax, line numbers | ⬜ | Cú pháp Scopus / IEEE đã verify; `*` mở rộng thủ công cho IEEE |
-| 6 | Limits and filters | ⬜ | §3.1 (Scopus 7 khối) + §3.2 (IEEE 4 khối) |
-| 7 | Adapted for each database | ⬜ | 5 cơ sở dữ liệu × cú pháp riêng |
-| 8 | Reproducibility | ⬜ | Toàn bộ chuỗi truy vấn nguyên văn trong file này |
+| 1 | Translation of question into search concepts | ✅ PASS | RQ1–RQ5 → Q1–Q12; §1.5 mapping đầy đủ; 6+ DT variants; L1–L5 tier terms |
+| 2 | Boolean and proximity operators | ✅ PASS | AND/OR/AND NOT/NEAR/3 đúng; parentheses grouping chuẩn |
+| 3 | Subject headings | ✅ PASS | SUBJAREA Scopus 7 domain (COMP/ENGI/DECI/MATH/SOCI/BUSI/TRAN) |
+| 4 | Text word searching | ✅ PASS | TITLE-ABS-KEY Scopus; full-field IEEE; truncation `*` nhất quán |
+| 5 | Spelling, syntax, line numbers | ✅ PASS | Không phát hiện typo; minor: IEEE parentheses (không ảnh hưởng) |
+| 6 | Limits and filters | ✅ PASS | 2015–2026 justified; SP 12m + TF 6m documented Limitations §19.2 |
+| 7 | Adapted for each database | ✅ PASS | 5 databases × cú pháp riêng; Scopus advanced ≠ IEEE basic |
+| 8 | Reproducibility | ✅ PASS | Full query §4; dates §9; dedup.py + screening.py open; OSF planned |
 
-**Người review:** NCS HoaTX (self-review trước Bước 4) + Supervisor + Expert thư viện (Bước 21 — Expert Validation).
+**Kết quả: 8/8 PASS** — Đánh giá 2026-05-15 bởi NCS HoaTX (hỗ trợ Claude Sonnet 4.6). Chi tiết xem `SR_PRESS_Review_v5.6.md`. Supervisor/Expert review bổ sung tại Bước 21.
 
 ---
 
