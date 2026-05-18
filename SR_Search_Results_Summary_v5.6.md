@@ -2,7 +2,7 @@
 # Digital Twin cho Vận hành Cảng Container
 
 **File:** SR_Search_Results_Summary_v5.6.md
-**Phiên bản:** v1.1 — 2026-05-15
+**Phiên bản:** v1.2 — 2026-05-19
 **NCS:** HoaTX
 **OSF Project:** https://osf.io/dxjw9/ (DOI: 10.17605/OSF.IO/DXJW9)
 **Tuân thủ:** PRISMA 2020 Items 7, 8, 16a + PRISMA-S Items 1–16
@@ -84,7 +84,10 @@
 | Taylor & Francis | 928 | 892 | 36 |
 | **Tổng** | **7.847** | **5.822** | **2.025** |
 
-*Ghi chú: Scopus raw = 3.422 theo `dedup_report.txt`; per-file count §2.1 = 3.421 (chênh lệch 1 record do 1 record trong T8_Scopus.ris thiếu ER tag chuẩn — hạn chế của Publish or Perish export). Số liệu `dedup_report.txt` là authoritative.*
+*Ghi chú về chênh lệch parser:*
+- *Scopus raw = 3.422 theo `dedup_report.txt`; per-file sum §2.1 = 3.421 (chênh 1 record do T8_Scopus.ris có ER tag không chuẩn từ Publish or Perish export → `check_ris_integrity.py` đếm 8; `dedup.py` đếm 9).*
+- *Springer raw = 904 theo `dedup_report.txt`; `ris_integrity_report.csv` ghi 905 (chênh 1 record do 1 record trong SPRINGER.ris có TY nhưng thiếu ER tag chuẩn → integrity parser đếm thêm 1).*
+- *Số liệu `dedup_report.txt` là authoritative trong cả hai trường hợp. Tổng 7.847 và unique 5.822 không bị ảnh hưởng.*
 
 ---
 
@@ -118,7 +121,7 @@ Chạy `screening.py` trên `dedup_unique.ris` (5.822 records):
 | LIKELY_INCLUDE | 284 | 4,9% | 15–25% |
 | REVIEW_NEEDED | 5.061 | 86,9% | 40–60% |
 | LIKELY_EXCLUDE | 477 | 8,2% | 20–40% |
-| Missing abstract | ≈1.417 | (trong 5.822) | – |
+| Missing abstract | 1.422 | (trong 5.822) | – |
 
 > **[WARN]** LIKELY_INCLUDE 4,9% < 5% — thấp hơn kỳ vọng. Phân tích: pool rất rộng (Q2 CORE EXTENDED + supplementary) bắt nhiều bài ngoài phạm vi; 86,9% REVIEW_NEEDED cho thấy NCS cần review Pha B Rayyan toàn bộ. Rules regex đủ strict, không nên relax vì false negative ít hơn false positive quan trọng hơn ở giai đoạn này.
 
@@ -218,8 +221,9 @@ Studies included in synthesis:                        TBD
 | Version | Ngày | Thay đổi |
 |---------|------|----------|
 | v1.0 | 2026-05-14 | Tạo ban đầu (21 files, 7.825 raw, 5.811 unique — Q10 chưa chạy) |
-| **v1.1** | **2026-05-15** | **Q10 Vintage chạy xong (T8_Scopus 9 + T8_IEEE 13). Cập nhật: 23 files, 7.847 raw, 5.822 unique, 2.025 dedup, Pha A 284/5.061/477, Rayyan 5.345. DEV-004 Resolved.** |
+| v1.1 | 2026-05-15 | Q10 Vintage chạy xong (T8_Scopus 9 + T8_IEEE 13). Cập nhật: 23 files, 7.847 raw, 5.822 unique, 2.025 dedup, Pha A 284/5.061/477, Rayyan 5.345. DEV-004 Resolved. |
+| **v1.2** | **2026-05-19** | **Kiểm toán: Missing abstract sửa 1.417→1.422 (từ screening_distribution.txt). Mở rộng footnote §3 ghi rõ Springer 905→904 discrepancy (parser edge case). Không ảnh hưởng tổng số liệu.** |
 
 ---
 
-*SR_Search_Results_Summary_v5.6.md — v1.1 — 2026-05-15 — NCS HoaTX*
+*SR_Search_Results_Summary_v5.6.md — v1.2 — 2026-05-19 — NCS HoaTX*

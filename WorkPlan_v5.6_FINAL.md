@@ -215,7 +215,7 @@
 | 2.3 Tiêu chí loại trừ Lớp 1 (T/A) | EC1–EC9 + EC7-{mfg/bim/health/noctx/other} + EC-CYBER/ENERGY/GENERIC/IT/NOSCOPE/PAX/STRUCT | ✅ 2026-05-08 — §III file |
 | 2.4 Tiêu chí loại trừ Lớp 2 (Fulltext) | EC-ENV / VESSEL / POLICY / SECUR / BLOCK / TELECOM / CUSTOMS / AGRI + EC6 | ✅ 2026-05-08 — §IV file |
 | 2.5 Borderline rules (6) | DT-driven, Smart port, Mfg-transferable, Bulk/RoRo, Review paper, Vintage greenfield/brownfield | ✅ 2026-05-08 — §VI file |
-| 2.6 PRESS peer review của Strategy | NCS self-review 8 tiêu chí (xem Strategy §8) | ⬜ NCS task |
+| 2.6 PRESS peer review của Strategy | NCS self-review 8 tiêu chí (xem Strategy §8) | ✅ 2026-05-15 — `SR_PRESS_Review_v5.6.md` 8/8 PASS; Strategy §8 cập nhật. Lưu ý: đây là self-review (Claude hỗ trợ NCS) — cần Supervisor review độc lập tại Bước 21. |
 
 **Output cuối:** `SR_Eligibility_Criteria_v5.6.md` v1.0 phê duyệt.
 
