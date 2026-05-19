@@ -52,23 +52,17 @@
 
 ## 2.1 Registration submissions
 
-| ID | Date | Type | DOI | Status | Notes |
-|----|------|------|-----|--------|-------|
-| R-001 | _chưa submit_ | _[Pre-Registration / Standard]_ | _chờ_ | ⬜ Pending | Cần NCS điền 4 trường ⚠️ trong [SR_OSF_Registration_Submission_v5.6.md](SR_OSF_Registration_Submission_v5.6.md) trước Submit |
+| ID | Date | Type | DOI | URL | Status | Notes |
+|----|------|------|-----|-----|--------|-------|
+| R-001 | 2026-05-19 | OSF Pre-Registration | `10.17605/OSF.IO/ZGP7Q` | <https://osf.io/zgp7q/> | ✅ Submitted | Bước 1.5 hoàn tất. Registration DOI khác Project DOI (dxjw9). |
 
-## 2.2 ⚠️ Câu hỏi verify với NCS
+## 2.2 Resolve — Registration vs Project DOI
 
-DOI hiện tại `10.17605/OSF.IO/DXJW9` trùng Project ID → có 2 khả năng:
+**✅ Resolved 2026-05-19:**
+- **Project DOI** (mutable): `10.17605/OSF.IO/DXJW9` → <https://osf.io/dxjw9/>
+- **Registration DOI** (immutable): `10.17605/OSF.IO/ZGP7Q` → <https://osf.io/zgp7q/>
 
-- **Khả năng A (cao):** Đây là **Project DOI** (mutable) cấp qua Settings → Create DOI. Bước 1.5 (Submit Registration) chưa hoàn thành. Cần submit Registration thực sự sau khi điền 4 trường ⚠️.
-- **Khả năng B (thấp):** Đây là **Registration DOI** (immutable). Bước 1.5 đã hoàn thành.
-
-**Cách verify:** NCS check trên OSF:
-
-1. Project `dxjw9` → Settings → DOI section: nếu thấy "DOI: 10.17605/OSF.IO/DXJW9" với option "Manage DOI" → Project DOI.
-2. Project `dxjw9` → Tab **Registrations**: nếu có entry với DOI riêng (Registration ID khác `dxjw9`) → Registration DOI thực sự.
-
-**Note kết quả:** _[chờ NCS verify và update]_
+Hai DOI hoàn toàn khác nhau — đúng như dự kiến (Khả năng A). Bước 1.5 hoàn tất.
 
 ## 2.3 Amendments log
 
@@ -86,11 +80,11 @@ DOI hiện tại `10.17605/OSF.IO/DXJW9` trùng Project ID → có 2 khả năng
 
 | Trường | Giá trị | Cập nhật |
 |--------|---------|----------|
-| Project name | `SR_DT_Port` | _chưa tạo_ |
-| Project ID Rayyan | _[NCS điền sau Bước 1.10]_ | – |
-| URL | _[NCS điền]_ | – |
-| Owner | NCS HoaTX | – |
-| Plan | Rayyan Essentials | – |
+| Project name | `SR_DT_Port` | 2026-05-19 |
+| Project ID Rayyan | `2077365` | 2026-05-19 |
+| URL | <https://new.rayyan.ai/reviews/2077365/overview> | 2026-05-19 |
+| Owner | NCS HoaTX | 2026-05-19 |
+| Plan | Rayyan Essentials | 2026-05-19 |
 
 ## 3.2 Verify Essentials features (Bước 1.11)
 

@@ -91,6 +91,21 @@
 
 ---
 
+### DEV-005 — Upload dedup_unique.ris (5.822) thay vì screening_pre.ris (5.345) lên Rayyan
+
+| Trường | Nội dung |
+|--------|----------|
+| **DEV-ID** | DEV-005 |
+| **Ngày phát hiện** | 2026-05-19 |
+| **Bước liên quan** | Bước 7.6–7.8 (Upload pool lên Rayyan) |
+| **Mô tả sai lệch** | WorkPlan quy định upload `03_screening/screening_pre.ris` (5.345 records = LIKELY_INCLUDE + REVIEW_NEEDED) lên Rayyan. Thực tế NCS upload `dedup_unique.ris` (5.822 records = toàn bộ pool unique, bao gồm cả 477 LIKELY_EXCLUDE từ Pha A). |
+| **Nguyên nhân** | Nhầm file trong hộp thoại upload Rayyan — `dedup_unique.ris` nằm ở thư mục gốc, dễ chọn nhầm hơn `03_screening/screening_pre.ris`. |
+| **Tác động** | **Thấp.** 477 records LIKELY_EXCLUDE từ Pha A nay có mặt trong Rayyan và sẽ xuất hiện trong hàng đợi screening thủ công. NCS có thể exclude nhanh 477 records này khi gặp (nhận diện qua tiêu đề rõ ràng ngoài phạm vi). Audit trail đầy đủ hơn. PRISMA flow sẽ ghi "5.822 records screened in Rayyan" thay vì "5.345". |
+| **Hành động khắc phục** | (1) Giữ nguyên 5.822 records trong Rayyan — không xóa và upload lại; (2) Khi gặp 477 LIKELY_EXCLUDE trong Rayyan, exclude nhanh với EC code tương ứng; (3) Cập nhật PRISMA Flow Diagram: ô "Records screened" = 5.822 (không phải 5.345); ô "Phase A auto-excluded" = 0 (merge vào Rayyan screening); (4) Ghi nhận trong manuscript Limitations. |
+| **Trạng thái** | **Resolved** — Xử lý nội bộ; không cần OSF Amendment. |
+
+---
+
 ## Template trống cho DEV mới
 
 ```
