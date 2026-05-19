@@ -90,9 +90,9 @@
 
 | Item | Mô tả PRISMA 2020 | Yêu cầu | Section/Page | Trạng thái |
 |------|-------------------|---------|--------------|------------|
-| **23a** | **Registration** — Trình bày OSF Registration DOI | OSF Registration DOI: 10.17605/OSF.IO/DXJW9 | Methods §3 hoặc Title page | ✅ DOI confirmed |
-| **23b** | **Protocol** — Trình bày OSF Protocol DOI | Như 23a (pre-registration + protocol là cùng 1 OSF project) | Methods §3 | ✅ |
-| **23c** | **Amendments** — Ghi nhận sai lệch so với protocol | DEV-001/002/003/004 (all Resolved) + intra-rater κ results (⬜ Bước 14) | Methods §3 hoặc Supplementary | 🔄 DEV log ✅ all Resolved; κ ⬜ chờ Bước 14 |
+| **23a** | **Registration** — Trình bày OSF Registration DOI | Registration DOI: **10.17605/OSF.IO/ZGP7Q** (immutable, submitted 2026-05-19) | Methods §3 hoặc Title page | ✅ Submitted 2026-05-19 |
+| **23b** | **Protocol** — Trình bày OSF Protocol DOI | Project DOI: 10.17605/OSF.IO/DXJW9 — 5 protocol files uploaded to `01_protocol/` 2026-05-19 | Methods §3 | ✅ |
+| **23c** | **Amendments** — Ghi nhận sai lệch so với protocol | DEV-001/002/003/004/005 (all Resolved) + intra-rater κ results (⬜ Bước 14) | Methods §3 hoặc Supplementary | 🔄 DEV log ✅ all Resolved; κ ⬜ chờ Bước 14 |
 | **23d** | **Author experience** — Relevant experience/expertise | NCS PhD candidate + supervisor + Expert Validation Panel | Acknowledgments hoặc Methods | ⬜ Bước 18 |
 | **24a** | **Funding sources** | [NCS điền: học bổng / tự túc / đề tài] | Funding statement | ⬜ NCS task |
 | **24b** | **Role of funder** | Funder không có vai trò trong SR design/analysis | Funding statement | ⬜ NCS task |
@@ -132,6 +132,7 @@
 | **Tổng** | **27 items** | **7** | **5** | **7** | **8** |
 
 *Cập nhật v1.1 2026-05-15: Items 5,6,7 → ✅; Item 8 → 🔄; Item 14 → 🔄; Item 23c → 🔄 (DEV-004 Resolved).*
+*Cập nhật v1.2 2026-05-19: Item 23a → ✅ Registration DOI ZGP7Q submitted; Item 23b → ✅ 5 files uploaded OSF; Item 23c → DEV-005 added (Rayyan upload 5822 vs 5345).*
 
 > Tỷ lệ N/A: 8/27 (29,6%) — nằm trong giới hạn chấp nhận cho qualitative typology SR (thường 20–35%).
 

@@ -106,12 +106,18 @@
 
 | Pha | Bước | Trạng thái |
 |-----|-------|-------------|
-| Pha 1 — Thiết kế | 1–3 | 🔄 Bước 1: 1.1/1.3/1.6/1.7/1.8/1.9 ✅; 1.10–1.13 ⬜ (NCS Rayyan); Bước 2: SR_Eligibility_Criteria ✅; Bước 3: pilot PRIMARY_Scopus 130 records ✅ |
+| Pha 1 — Thiết kế | 1–3 | ✅ **2026-05-19 COMPLETE:** OSF Registration DOI ZGP7Q ✅; 5 protocol files uploaded OSF ✅; Rayyan SR_DT_Port (ID 2077365) ✅; 5.817 records loaded ✅; 28 EC/IC Criteria loaded ✅; 32 dedup pairs resolved ✅ |
 | Pha 2 — Tìm kiếm | 4–7 | ✅ 23 files / 7.847 records (Q1–Q12 complete + GS); dedup 7.847→5.822 (25.8%) — Q10 Vintage added 2026-05-15 (DEV-004 Resolved) |
 | Pha 3 — Sàng lọc | 8–10 | 🔄 Bước 8 Pha A ✅ (284/5.061/477); Pha B ⬜ chờ Rayyan; Bước 9–10 ⬜ |
 | Pha 4 — Trích xuất + Chất lượng | 11–13 | ⬜ Chưa (chờ Pha B xong) |
 | Pha 5 — Tổng hợp + Phân tích | 14–17 | ⬜ Chưa |
 | Pha 6 — Viết + Nộp | 18–22 | ⬜ Chưa |
+
+**Cập nhật 2026-05-19:**
+- Pha 1 HOÀN TẤT: OSF Registration (ZGP7Q) + Rayyan setup (5.817 records, 28 criteria, 32 dedup resolved).
+- DEV-005 thêm: upload dedup_unique.ris (5.822) thay vì screening_pre.ris (5.345) — Resolved.
+- PRISMA Checklist Item 23a cập nhật Registration DOI đúng (ZGP7Q).
+- Rayyan Pha B screening ĐÃ BẮT ĐẦU (0%) — NCS thực hiện độc lập.
 
 **Cập nhật 2026-05-14:**
 - Bước 2 sub-tasks 2.1–2.5 xác nhận ✅ (SR_Eligibility_Criteria v1.0 đầy đủ).
